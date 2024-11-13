@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jellyfin on Deuts Log</title>
+    <link>https://deuts.org/tag/jellyfin/</link>
+    <description>Recent content in Jellyfin on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 21:28:50 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/tag/jellyfin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streaming Movies and TV Shows on Kodi</title>
+      <link>https://deuts.org/streaming-movies-tv-shows-kodi/</link>
+      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
+      <guid>https://deuts.org/streaming-movies-tv-shows-kodi/</guid>
+      <description>This may not work currently on my setup, but leaving it here anyway.</description>
+    </item>
+  </channel>
+</rss>

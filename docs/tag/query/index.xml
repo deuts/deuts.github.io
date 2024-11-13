@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Query on Deuts Log</title>
+    <link>https://deuts.org/tag/query/</link>
+    <description>Recent content in Query on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 21:23:57 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/tag/query/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using List.Generate to Generate Running Total Column in Power Query</title>
+      <link>https://deuts.org/list-generate-running-total/</link>
+      <pubDate>Tue, 19 Mar 2024 21:23:57 +0800</pubDate>
+      <guid>https://deuts.org/list-generate-running-total/</guid>
+      <description>This is the faster way to generate running total in Power Query.</description>
+    </item>
+  </channel>
+</rss>

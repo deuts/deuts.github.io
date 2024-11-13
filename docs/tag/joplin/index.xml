@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joplin on Deuts Log</title>
+    <link>https://deuts.org/tag/joplin/</link>
+    <description>Recent content in Joplin on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 22:03:23 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/tag/joplin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
+      <link>https://deuts.org/joplin-npm-duplicati-docker/</link>
+      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
+      <guid>https://deuts.org/joplin-npm-duplicati-docker/</guid>
+      <description>The ultimate way to install the Joplin server while using NPM and Docker.</description>
+    </item>
+  </channel>
+</rss>

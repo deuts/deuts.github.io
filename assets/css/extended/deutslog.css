@@ -1,0 +1,36 @@
+/* this is used for papermod theme */
+
+.post-entry {
+    background-color: #222222;
+    border: none;
+}
+
+.post-footer {
+    margin: 56px auto;
+}
+
+h1.try-search {
+    text-align: center;
+}
+
+.yt-separator {
+    height: 2em;
+}
+
+.post-footer ul.post-tags {
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+.post-tags a {
+    padding: 0 8px;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}

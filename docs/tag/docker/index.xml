@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on Deuts Log</title>
+    <link>https://deuts.org/tag/docker/</link>
+    <description>Recent content in Docker on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 17:41:18 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/tag/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samba Docker or Native</title>
+      <link>https://deuts.org/samba-on-docker/</link>
+      <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
+      <guid>https://deuts.org/samba-on-docker/</guid>
+      <description>Many say Samba on Docker doesn&amp;rsquo;t make sense. But does it?</description>
+    </item>
+    <item>
+      <title>Docker Apps to Install</title>
+      <link>https://deuts.org/my-docker-apps-to-install-in-2024/</link>
+      <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
+      <guid>https://deuts.org/my-docker-apps-to-install-in-2024/</guid>
+      <description>This is a checklist of Docker apps I want to spin up and test in the near future.</description>
+    </item>
+    <item>
+      <title>Update on Vikunja</title>
+      <link>https://deuts.org/vikunja-update-2024/</link>
+      <pubDate>Sun, 25 Feb 2024 22:19:57 +0800</pubDate>
+      <guid>https://deuts.org/vikunja-update-2024/</guid>
+      <description>There seems to be a new update on Vikunja.</description>
+    </item>
+    <item>
+      <title>I can&#39;t make Vikunja work on my set up</title>
+      <link>https://deuts.org/vikunja-internal-server-error/</link>
+      <pubDate>Fri, 25 Aug 2023 19:04:11 +0800</pubDate>
+      <guid>https://deuts.org/vikunja-internal-server-error/</guid>
+      <description>Even with all the fancy containers, I find it not reliable.</description>
+    </item>
+    <item>
+      <title>A few Nextcloud post-installation configurations</title>
+      <link>https://deuts.org/nextcloud-post-install-config/</link>
+      <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
+      <guid>https://deuts.org/nextcloud-post-install-config/</guid>
+      <description>Get rid of several warnings in your Nextcloud admin dashboard.</description>
+    </item>
+    <item>
+      <title>Checklist of things to do on a new VPS server</title>
+      <link>https://deuts.org/new-vps-checklist/</link>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
+      <guid>https://deuts.org/new-vps-checklist/</guid>
+      <description>Got a new Ubuntu or Debian VPS server? Here are the things you should do to make the most out of it.</description>
+    </item>
+    <item>
+      <title>Docker Command to Check the Sizes of your Containers</title>
+      <link>https://deuts.org/docker-container-size/</link>
+      <pubDate>Sat, 12 Aug 2023 08:07:49 +0800</pubDate>
+      <guid>https://deuts.org/docker-container-size/</guid>
+      <description>Which image occupies my VPS storage the most?</description>
+    </item>
+    <item>
+      <title>How to Rescan Your Docker Nextcloud Folders</title>
+      <link>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</link>
+      <pubDate>Tue, 25 Jul 2023 21:50:59 +0800</pubDate>
+      <guid>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</guid>
+      <description>Wait, where did my files go?</description>
+    </item>
+    <item>
+      <title>How to Install Mastodon on Debian 11 Without Docker</title>
+      <link>https://deuts.org/install-mastodon-debian-11-without-docker/</link>
+      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
+      <guid>https://deuts.org/install-mastodon-debian-11-without-docker/</guid>
+      <description>This is how ChatGPT would install Mastodon on a bare metal VPS.</description>
+    </item>
+    <item>
+      <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
+      <link>https://deuts.org/joplin-npm-duplicati-docker/</link>
+      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
+      <guid>https://deuts.org/joplin-npm-duplicati-docker/</guid>
+      <description>The ultimate way to install the Joplin server while using NPM and Docker.</description>
+    </item>
+  </channel>
+</rss>

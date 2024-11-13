@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How to Rescan Your Docker Nextcloud Folders | Deuts Log</title>
+<meta name="keywords" content="docker, nextcloud">
+<meta name="description" content="Wait, where did my files go?">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/how-to-rescan-docker-nextcloud-folders/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.38bab164266143689e25af54b4f0e8ac9a6072640afadbede9a2d3400c66a7f4.css" integrity="sha256-OLqxZCZhQ2ieJa9UtPDorJpgcmQK&#43;tvt6aLTQAxmp/Q=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/how-to-rescan-docker-nextcloud-folders/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://deuts.org/how-to-rescan-docker-nextcloud-folders/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="How to Rescan Your Docker Nextcloud Folders">
+  <meta property="og:description" content="Wait, where did my files go?">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-07-25T21:50:59+08:00">
+    <meta property="article:modified_time" content="2023-07-25T21:50:59+08:00">
+    <meta property="article:tag" content="Docker">
+    <meta property="article:tag" content="Nextcloud">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="How to Rescan Your Docker Nextcloud Folders">
+<meta name="twitter:description" content="Wait, where did my files go?">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "All Posts",
+      "item": "https://deuts.org/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How to Rescan Your Docker Nextcloud Folders",
+      "item": "https://deuts.org/how-to-rescan-docker-nextcloud-folders/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to Rescan Your Docker Nextcloud Folders",
+  "name": "How to Rescan Your Docker Nextcloud Folders",
+  "description": "Wait, where did my files go?",
+  "keywords": [
+    "docker", "nextcloud"
+  ],
+  "articleBody": "What if:\nYou installed Nextcloud via Docker You created files or subfolders in the Nextcloud folder of a user This is also true if you’re restoring files and folders from a backup You can’t see the files or subfolders in the Nextcloud web interface Just run the following command, replacing nextcloud_app with the actual container name of your Nextcloud Docker install:\ndocker exec -u www-data nextcloud_app php occ files:scan --all This is working for me, on Nextcloud version 27.0.1.\n",
+  "wordCount" : "79",
+  "inLanguage": "en",
+  "datePublished": "2023-07-25T21:50:59+08:00",
+  "dateModified": "2023-07-25T21:50:59+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/how-to-rescan-docker-nextcloud-folders/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/index.xml" title="Feed">
+                    <span>Feed</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How to Rescan Your Docker Nextcloud Folders
+    </h1>
+    <div class="post-meta"><span title='2023-07-25 21:50:59 +0800 PST'>July 25, 2023</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>What if:</p>
+<ul>
+<li>You installed Nextcloud via Docker</li>
+<li>You created files or subfolders in the Nextcloud folder of a user
+<ul>
+<li>This is also true if you&rsquo;re restoring files and folders from a backup</li>
+</ul>
+</li>
+<li>You can&rsquo;t see the files or subfolders in the Nextcloud web interface</li>
+</ul>
+<p>Just run the following command, replacing <code>nextcloud_app</code> with the actual container name of your Nextcloud Docker install:</p>
+<pre tabindex="0"><code>docker exec -u www-data nextcloud_app php occ files:scan --all
+</code></pre><p>This is working for me, on Nextcloud version 27.0.1.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/tag/docker/">Docker</a></li>
+      <li><a href="https://deuts.org/tag/nextcloud/">Nextcloud</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="https://deuts.org/key-legacy-trusted-gpg-keyring/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>Key Is Stored in Legacy Trusted.gpg Keyring</span>
+  </a>
+  <a class="next" href="https://deuts.org/underrated-tv-shows-2022-et-al/">
+    <span class="title">Next »</span>
+    <br>
+    <span>The Underrated TV Shows of 2022 Et Al</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
