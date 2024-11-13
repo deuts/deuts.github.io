@@ -2,10 +2,12 @@
 title: Contabo Price Increase 2022
 date: 2022-10-15T08:41:17+08:00
 tags:
-  - vps hosting
+  - vps
+  - hosting
 summary: It's not worth it, I promise you!
 slug: contabo-price-increase-2022
 draft: false
+description: Contabo is raising my fee from EUR 4.99 to EUR 5.99 starting November 1. I'll continue using it for my Plex and other services, but will check for Black Friday deals.
 ---
 
 ## Price Increase Announcement

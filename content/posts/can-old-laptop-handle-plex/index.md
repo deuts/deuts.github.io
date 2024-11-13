@@ -7,6 +7,7 @@ tags:
   - plex
 slug: can-old-laptop-handle-plex
 draft: false
+description: A 7th-gen i5 laptop should easily handle Plex, even for 4K streams. A low-spec Beelink S1 Mini PC (Celeron N3450) runs Plex and several Docker services without issue.
 ---
 
 Bumped into this post on [Reddit](https://www.reddit.com/r/PleX/comments/y5uaon/can_this_old_laptop_handle_plex/), asking if his 'old' laptop can handle Plex:

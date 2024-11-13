@@ -12,6 +12,7 @@ tags:
   - jellyfin
 slug: streaming-movies-tv-shows-kodi
 draft: false
+description: You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.
 ---
 
 When I started hoarding movies and TV shows back when streaming services were not yet a thing, of course I played them using VLC. But you can only do that on a computer. These media are better consumed over TV, right?

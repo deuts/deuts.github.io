@@ -6,6 +6,7 @@ tags:
   - todo
   - docker
 summary: There seems to be a new update on Vikunja.
+description: This post discusses a recent change in the Docker installation of Vikunja, where a separate API container is no longer required. The author is considering starting to use Vikunja and plans to adapt the provided Docker Compose file (originally using Traefik) to their own setup with NPM as the reverse proxy.
 slug: vikunja-update-2024
 draft: false
 ---

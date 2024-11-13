@@ -6,6 +6,7 @@ tags:
   - tv-shows
 slug: tv-shows-consider-watching-future
 draft: false
+description: Shows I removed from Sonarr but may follow again.
 ---
 
 These are the TV shows that I deleted from my Sonarr installation, but may consider following or monitoring them in the future.

@@ -6,6 +6,7 @@ tags:
 summary: Dedicated to all the brave men out there.
 slug: nico-vinz-am-i-wrong
 draft: false
+description: Sounds like the perfect motto for anyone who’s always the life of the debate!
 ---
 
 {{< youtube 3oUPGbRazaA >}}

@@ -7,6 +7,7 @@ tags:
   - crypto
 slug: why-bitcoin-is-a-scam
 draft: false
+description: Bitcoin is often seen more as an investment than a currency. People rarely use it for transactions; instead, they buy it with the expectation that others will do the same, driving up its price. This behavior is also common with other cryptocurrencies, which some compare to a Ponzi scheme.
 ---
 
 > Bitcoin isn't really used much as a currency at all.

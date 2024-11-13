@@ -6,6 +6,7 @@ tags:
   - linux
 slug: create-bash-script-executable
 draft: false
+description: Create a bash script to easily run long commands, like hugo server, by saving them in a file, making it executable, and running the script.
 ---
 
 ## Long commands are hard to memorize

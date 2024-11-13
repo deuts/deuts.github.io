@@ -7,6 +7,7 @@ tags:
 summary: Get rid of several warnings in your Nextcloud admin dashboard.
 slug: nextcloud-post-install-config
 draft: false
+description: Nextcloud installation via Docker may show warnings for service discovery and cron jobs. To fix the service discovery issue, update the .htaccess file. For cron jobs, set up a cron task on the host system to run cron.php every 5 minutes in the Nextcloud container.
 ---
 
 After installing Nextcloud via [Docker](https://github.com/nextcloud/docker), and if you go to `/settings/admin/overview`, you might find some warnings that you need to do further configurations to get rid of.

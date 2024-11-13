@@ -13,7 +13,7 @@
       <link>https://deuts.org/install-mastodon-debian-11-without-docker/</link>
       <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
       <guid>https://deuts.org/install-mastodon-debian-11-without-docker/</guid>
-      <description>This is how ChatGPT would install Mastodon on a bare metal VPS.</description>
+      <description>This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.</description>
     </item>
   </channel>
 </rss>

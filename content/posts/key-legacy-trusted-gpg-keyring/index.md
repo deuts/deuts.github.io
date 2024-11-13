@@ -8,6 +8,7 @@ tags:
   - debian
 slug: key-legacy-trusted-gpg-keyring
 draft: false
+description: This post addresses the issue of legacy keyrings on fresh installs of Debian or Ubuntu, where an error message warns about keys stored in the deprecated trusted.gpg keyring. The solution is to copy the keyring to the trusted.gpg.d directory and update the system using sudo apt update.
 ---
 
 Have you ever encountered issues with legacy keyrings when running a fresh install of Debian or Ubuntu?

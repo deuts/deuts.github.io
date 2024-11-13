@@ -11,6 +11,7 @@ tags:
   - linux
 slug: joplin-npm-duplicati-docker
 draft: false
+description: A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.
 ---
 
 I was wondering why Docker apps don't come as easy to install like [Linuxserver](https://www.linuxserver.io/)'s? Case in point: Joplin. 

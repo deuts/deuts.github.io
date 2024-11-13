@@ -6,6 +6,7 @@ tags:
 summary: Which image occupies my VPS storage the most?
 slug: docker-container-size
 draft: false
+description: This post provides a quick way to check the size of Docker containers using the docker ps --size command and refines it to show only relevant columns—Container ID, Names, Image, and Size—by using the --format option.
 ---
 
 ## Quickly

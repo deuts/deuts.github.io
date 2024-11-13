@@ -13,7 +13,7 @@
       <link>https://deuts.org/samba-on-docker/</link>
       <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
       <guid>https://deuts.org/samba-on-docker/</guid>
-      <description>Many say Samba on Docker doesn&amp;rsquo;t make sense. But does it?</description>
+      <description>This post discusses the advantages of using Docker for Samba over native implementation, highlighting the convenience of portability and easier reinstallation with Docker Compose files. The author reflects on their past experience with native Samba setups and shares resources for a Docker-based Samba implementation.</description>
     </item>
   </channel>
 </rss>

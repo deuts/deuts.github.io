@@ -7,6 +7,7 @@ tags:
 summary: Let's start learning Python with this 4-hour free course on Youtube.
 slug: data-analysis-python-excel
 draft: false
+description: The post shares the author’s intention to learn Python to reinforce their data analysis skills and invites others to join in starting with a 4-hour free course on YouTube.
 ---
 
 I would really like to learn Python to reinforce my data analysis skills. And I would like to start with this 4-hour free course on [Youtube](https://www.youtube.com/watch?v=WcDaZ67TVRo). 

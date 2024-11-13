@@ -13,7 +13,7 @@
       <link>https://deuts.org/streaming-movies-tv-shows-kodi/</link>
       <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/streaming-movies-tv-shows-kodi/</guid>
-      <description>This may not work currently on my setup, but leaving it here anyway.</description>
+      <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>
   </channel>
 </rss>

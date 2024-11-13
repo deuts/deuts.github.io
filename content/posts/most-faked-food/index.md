@@ -6,6 +6,7 @@ tags:
 summary: We need to be more vigilant the next time we do our groceries.
 slug: most-faked-food
 draft: false
+description: The video from Insider Business lists the 11 most faked foods in the world, such as truffles, maple syrup, wasabi, and parmesan cheese. The author reflects on their personal consumption, admitting to probably buying fake parmesan cheese, honey, and olive oil, and plans to be more cautious during future grocery trips.
 ---
 
 [Insider Business](https://www.youtube.com/watch?v=K0OtGIPRcAs) shows 11 of the most faked foods in the world, which include:

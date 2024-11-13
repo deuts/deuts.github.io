@@ -13,70 +13,70 @@
       <link>https://deuts.org/samba-on-docker/</link>
       <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
       <guid>https://deuts.org/samba-on-docker/</guid>
-      <description>Many say Samba on Docker doesn&amp;rsquo;t make sense. But does it?</description>
+      <description>This post discusses the advantages of using Docker for Samba over native implementation, highlighting the convenience of portability and easier reinstallation with Docker Compose files. The author reflects on their past experience with native Samba setups and shares resources for a Docker-based Samba implementation.</description>
     </item>
     <item>
       <title>Docker Apps to Install</title>
       <link>https://deuts.org/my-docker-apps-to-install-in-2024/</link>
       <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
       <guid>https://deuts.org/my-docker-apps-to-install-in-2024/</guid>
-      <description>This is a checklist of Docker apps I want to spin up and test in the near future.</description>
+      <description>This post shares the author&amp;#39;s inspiration from Jim’s Garage on YouTube and his GitHub repository to try out several Docker applications: Immich, Paperless-ngx, Vikunja, rClone, and Restic.</description>
     </item>
     <item>
       <title>Update on Vikunja</title>
       <link>https://deuts.org/vikunja-update-2024/</link>
       <pubDate>Sun, 25 Feb 2024 22:19:57 +0800</pubDate>
       <guid>https://deuts.org/vikunja-update-2024/</guid>
-      <description>There seems to be a new update on Vikunja.</description>
+      <description>This post discusses a recent change in the Docker installation of Vikunja, where a separate API container is no longer required. The author is considering starting to use Vikunja and plans to adapt the provided Docker Compose file (originally using Traefik) to their own setup with NPM as the reverse proxy.</description>
     </item>
     <item>
       <title>I can&#39;t make Vikunja work on my set up</title>
       <link>https://deuts.org/vikunja-internal-server-error/</link>
       <pubDate>Fri, 25 Aug 2023 19:04:11 +0800</pubDate>
       <guid>https://deuts.org/vikunja-internal-server-error/</guid>
-      <description>Even with all the fancy containers, I find it not reliable.</description>
+      <description>Vikunja is a feature-rich open-source todo app, but installing it via Docker requires multiple containers. The author faced frequent Internal Server Errors and API issues when using docker-compose, even after adding Redis. Frustrated by the ongoing errors, the author ultimately removed the setup entirely.</description>
     </item>
     <item>
       <title>A few Nextcloud post-installation configurations</title>
       <link>https://deuts.org/nextcloud-post-install-config/</link>
       <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
       <guid>https://deuts.org/nextcloud-post-install-config/</guid>
-      <description>Get rid of several warnings in your Nextcloud admin dashboard.</description>
+      <description>Nextcloud installation via Docker may show warnings for service discovery and cron jobs. To fix the service discovery issue, update the .htaccess file. For cron jobs, set up a cron task on the host system to run cron.php every 5 minutes in the Nextcloud container.</description>
     </item>
     <item>
       <title>Checklist of things to do on a new VPS server</title>
       <link>https://deuts.org/new-vps-checklist/</link>
       <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/new-vps-checklist/</guid>
-      <description>Got a new Ubuntu or Debian VPS server? Here are the things you should do to make the most out of it.</description>
+      <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
     </item>
     <item>
       <title>Docker Command to Check the Sizes of your Containers</title>
       <link>https://deuts.org/docker-container-size/</link>
       <pubDate>Sat, 12 Aug 2023 08:07:49 +0800</pubDate>
       <guid>https://deuts.org/docker-container-size/</guid>
-      <description>Which image occupies my VPS storage the most?</description>
+      <description>This post provides a quick way to check the size of Docker containers using the docker ps --size command and refines it to show only relevant columns—Container ID, Names, Image, and Size—by using the --format option.</description>
     </item>
     <item>
       <title>How to Rescan Your Docker Nextcloud Folders</title>
       <link>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</link>
       <pubDate>Tue, 25 Jul 2023 21:50:59 +0800</pubDate>
       <guid>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</guid>
-      <description>Wait, where did my files go?</description>
+      <description>If you can&amp;#39;t see files or subfolders in Nextcloud after creating them or restoring from a backup, running the command docker exec -u www-data nextcloud_app php occ files:scan --all will fix the issue. This works for Nextcloud version 27.0.1 when installed via Docker.</description>
     </item>
     <item>
       <title>How to Install Mastodon on Debian 11 Without Docker</title>
       <link>https://deuts.org/install-mastodon-debian-11-without-docker/</link>
       <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
       <guid>https://deuts.org/install-mastodon-debian-11-without-docker/</guid>
-      <description>This is how ChatGPT would install Mastodon on a bare metal VPS.</description>
+      <description>This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.</description>
     </item>
     <item>
       <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
       <link>https://deuts.org/joplin-npm-duplicati-docker/</link>
       <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/joplin-npm-duplicati-docker/</guid>
-      <description>The ultimate way to install the Joplin server while using NPM and Docker.</description>
+      <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
     </item>
   </channel>
 </rss>

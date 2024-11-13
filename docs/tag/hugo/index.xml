@@ -20,7 +20,7 @@
       <link>https://deuts.org/hugo-linux-vps/</link>
       <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
       <guid>https://deuts.org/hugo-linux-vps/</guid>
-      <description>Let me help you run Hugo on a Debian or Ubuntu Linux server.</description>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
     </item>
   </channel>
 </rss>

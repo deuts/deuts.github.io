@@ -14,6 +14,7 @@ summary: Got a new Ubuntu or Debian VPS server? Here are the things you should d
 slug: new-vps-checklist
 ShowToc: true
 draft: false
+description: This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.
 ---
 
 ## Update the system

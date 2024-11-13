@@ -13,14 +13,14 @@
       <link>https://deuts.org/nextcloud-post-install-config/</link>
       <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
       <guid>https://deuts.org/nextcloud-post-install-config/</guid>
-      <description>Get rid of several warnings in your Nextcloud admin dashboard.</description>
+      <description>Nextcloud installation via Docker may show warnings for service discovery and cron jobs. To fix the service discovery issue, update the .htaccess file. For cron jobs, set up a cron task on the host system to run cron.php every 5 minutes in the Nextcloud container.</description>
     </item>
     <item>
       <title>How to Rescan Your Docker Nextcloud Folders</title>
       <link>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</link>
       <pubDate>Tue, 25 Jul 2023 21:50:59 +0800</pubDate>
       <guid>https://deuts.org/how-to-rescan-docker-nextcloud-folders/</guid>
-      <description>Wait, where did my files go?</description>
+      <description>If you can&amp;#39;t see files or subfolders in Nextcloud after creating them or restoring from a backup, running the command docker exec -u www-data nextcloud_app php occ files:scan --all will fix the issue. This works for Nextcloud version 27.0.1 when installed via Docker.</description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,7 @@ tags:
   - websites
 slug: gt-metrix-comparison-3-websites
 draft: false
+description: A GTMetrix comparison shows Hugo (deuts.org) outperforms WordPress (deuts.net and chesshive.com), proving the efficiency of static site generators for better site speed and user experience.
 ---
 
 Ran my 3 websites on [GT Metrix](https://gtmetrix.com/compare/RWibuAUu/zCxqhGsH/Bt42ee12), and this is what I got:

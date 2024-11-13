@@ -3,9 +3,11 @@ title: Oracle Cloud Free Tier
 date: 2022-10-14T08:45:44+08:00
 summary: Yet, I can't get one.
 tags:
-  - vps hosting
+  - vps
+  - hosting
 slug: oracle-cloud-free-tier
 draft: false
+description: 'A tutorial on Oracle Cloud Free Tier, but be cautious: trust issues with Oracle and potential Docker compatibility problems due to ARM architecture. Also, encountered the "Out of capacity" error when signing up.'
 ---
 
 Here's a detailed tutorial on how to setup and run Oracle Cloud Free Tier. 

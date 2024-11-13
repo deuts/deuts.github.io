@@ -13,7 +13,7 @@
       <link>https://deuts.org/joplin-npm-duplicati-docker/</link>
       <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/joplin-npm-duplicati-docker/</guid>
-      <description>The ultimate way to install the Joplin server while using NPM and Docker.</description>
+      <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
     </item>
   </channel>
 </rss>

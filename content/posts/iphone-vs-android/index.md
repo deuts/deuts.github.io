@@ -8,6 +8,7 @@ tags:
   - iphone
 slug: iphone-vs-android
 draft: false
+description: This discusses why I prefer Android over Apple, highlighting key features that are indispensable to me, such as dual SIM, torrenting apps, Syncthing, USB Type-C, customizable home screens, expandable storage, and dual accounts/profile. I also critique iMessage and Airdrop, explaining their preferences for alternatives.
 ---
 
 Abrar Al-Heeti over at CNET discusses why she's [now Team Apple](https://www.cnet.com/tech/mobile/im-now-team-apple-and-i-dont-think-ill-ever-go-back/) and never going back.

@@ -13,7 +13,7 @@
       <link>https://deuts.org/power-query-table-skip-while-row-is-blank/</link>
       <pubDate>Sun, 23 Jul 2023 17:36:50 +0800</pubDate>
       <guid>https://deuts.org/power-query-table-skip-while-row-is-blank/</guid>
-      <description>Use the Table.Skip function the dynamic way.</description>
+      <description>This post explains how to use the Table.Skip function in Power Query to dynamically skip rows with null values in a specified column, making the process flexible across files.</description>
     </item>
   </channel>
 </rss>

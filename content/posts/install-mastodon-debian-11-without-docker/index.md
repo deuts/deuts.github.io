@@ -9,6 +9,7 @@ tags:
   - chatgpt
 slug: install-mastodon-debian-11-without-docker
 draft: false
+description: This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.
 ---
 
 With all the hype about ChatGPT nowadays, I really have to try it. And I'm still wondering how to install Mastodon on Debian 11 without Docker. And here's the AI's response:

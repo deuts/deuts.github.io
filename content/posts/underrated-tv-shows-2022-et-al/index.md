@@ -7,6 +7,7 @@ tags:
   - tv-shows
 slug: underrated-tv-shows-2022-et-al
 draft: false
+description: These underrated TV shows from 2022 are worth checking out. The True Story of the LA Lakers dives into the history of the Lakers with rich stories and insightful interviews.
 ---
 
 [This article](https://www.theringer.com/tv/2022/11/3/23437524/andor-vs-house-of-the-dragon-rings-of-power-best-show) promises I would enjoy Andor. I should probably start watching these *Star Wars* TV shows.

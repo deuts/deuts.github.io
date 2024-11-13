@@ -3,9 +3,11 @@ title: Ano Ang Nasa Dakong Paroon
 date: 2022-10-20T15:15:07+08:00
 summary: Bunga ng malilikot na pag-iisip.
 tags:
-  - tv shows
+  - tv
+  - shows
 slug: ano-ang-nasa-dakong-paroon
 draft: false
+description: Gabi ng lagim
 ---
 
 > Ano ang nasa dakong paroon,  

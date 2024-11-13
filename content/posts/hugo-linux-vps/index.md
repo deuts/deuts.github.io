@@ -10,6 +10,7 @@ tags:
 summary: Let me help you run Hugo on a Debian or Ubuntu Linux server.
 slug: hugo-linux-vps
 draft: false
+description: This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.
 ---
 
 ## Via APT

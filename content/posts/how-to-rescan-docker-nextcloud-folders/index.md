@@ -7,6 +7,7 @@ tags:
   - nextcloud
 slug: how-to-rescan-docker-nextcloud-folders
 draft: false
+description: If you can't see files or subfolders in Nextcloud after creating them or restoring from a backup, running the command docker exec -u www-data nextcloud_app php occ files:scan --all will fix the issue. This works for Nextcloud version 27.0.1 when installed via Docker.
 ---
 
 What if:

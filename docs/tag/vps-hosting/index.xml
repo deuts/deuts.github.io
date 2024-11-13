@@ -13,42 +13,28 @@
       <link>https://deuts.org/new-vps-checklist/</link>
       <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/new-vps-checklist/</guid>
-      <description>Got a new Ubuntu or Debian VPS server? Here are the things you should do to make the most out of it.</description>
+      <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
     </item>
     <item>
       <title>How to install Hugo in a Linux VPS</title>
       <link>https://deuts.org/hugo-linux-vps/</link>
       <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
       <guid>https://deuts.org/hugo-linux-vps/</guid>
-      <description>Let me help you run Hugo on a Debian or Ubuntu Linux server.</description>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
     </item>
     <item>
       <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
       <link>https://deuts.org/joplin-npm-duplicati-docker/</link>
       <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/joplin-npm-duplicati-docker/</guid>
-      <description>The ultimate way to install the Joplin server while using NPM and Docker.</description>
+      <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
     </item>
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
       <link>https://deuts.org/streaming-movies-tv-shows-kodi/</link>
       <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/streaming-movies-tv-shows-kodi/</guid>
-      <description>This may not work currently on my setup, but leaving it here anyway.</description>
-    </item>
-    <item>
-      <title>Contabo Price Increase 2022</title>
-      <link>https://deuts.org/contabo-price-increase-2022/</link>
-      <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate>
-      <guid>https://deuts.org/contabo-price-increase-2022/</guid>
-      <description>It&amp;rsquo;s not worth it, I promise you!</description>
-    </item>
-    <item>
-      <title>Oracle Cloud Free Tier</title>
-      <link>https://deuts.org/oracle-cloud-free-tier/</link>
-      <pubDate>Fri, 14 Oct 2022 08:45:44 +0800</pubDate>
-      <guid>https://deuts.org/oracle-cloud-free-tier/</guid>
-      <description>Yet, I can&amp;rsquo;t get one.</description>
+      <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>
   </channel>
 </rss>

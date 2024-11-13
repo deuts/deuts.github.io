@@ -6,6 +6,7 @@ tags:
   - samba
   - selfhosted
 summary: Many say Samba on Docker doesn't make sense. But does it?
+description: This post discusses the advantages of using Docker for Samba over native implementation, highlighting the convenience of portability and easier reinstallation with Docker Compose files. The author reflects on their past experience with native Samba setups and shares resources for a Docker-based Samba implementation.
 slug: samba-on-docker
 draft: false
 ---

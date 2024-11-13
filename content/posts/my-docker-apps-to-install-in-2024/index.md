@@ -5,6 +5,7 @@ tags:
   - docker
   - selfhosting
 summary: This is a checklist of Docker apps I want to spin up and test in the near future.
+description: "This post shares the author's inspiration from Jim’s Garage on YouTube and his GitHub repository to try out several Docker applications: Immich, Paperless-ngx, Vikunja, rClone, and Restic."
 slug: my-docker-apps-to-install-in-2024
 draft: false
 ---

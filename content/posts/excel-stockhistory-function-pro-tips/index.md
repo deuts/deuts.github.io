@@ -6,6 +6,7 @@ tags:
 summary: The first time I learned about 'STOCKHISTORY' function.
 slug: excel-stockhistory-function-pro-tips
 draft: false
+description: Better late than never! The STOCKHISTORY function is a game-changer for tracking your stock portfolio directly in Excel. It’s like having a personal financial assistant that never sleeps!
 ---
 
 I wonder how I've come to know this function just now. I have so much use for the `STOCKHISTORY` function to manage my personal stock portfolio.

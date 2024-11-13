@@ -6,6 +6,7 @@ tags:
   - power-query
 slug: power-query-table-skip-while-row-is-blank
 draft: false
+description: This post explains how to use the Table.Skip function in Power Query to dynamically skip rows with null values in a specified column, making the process flexible across files.
 ---
 
 There are times that you you want to use the Table.Skip Power Query function, but the number of rows you want to skip varies from file to file in your folder. You want the number of rows to be dynamic.

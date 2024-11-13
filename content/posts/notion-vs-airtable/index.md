@@ -8,6 +8,7 @@ tags:
   - airtable
 slug: notion-vs-airtable
 draft: false
+description: Notion is primarily a note-taking tool with basic database functions, while Airtable is more suited for databases and workflows with a powerful API for integrations, including Excel.
 ---
 
 {{< youtube kFJ6ddr3lVI >}}

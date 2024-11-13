@@ -6,6 +6,7 @@ tags:
 summary: Try these at home!
 slug: beef-fast-food-recipes
 draft: false
+description: Looks like your kitchen’s about to turn into a Bulgogi buffet—time to beef up those recipes!
 ---
 
 I really want to try this at home. They're so expensive to order outside, now I want unli beef recipes on my table.
