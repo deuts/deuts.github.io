@@ -34,3 +34,8 @@ h1.try-search {
     gap: 10px;
     justify-content: center;
 }
+
+.post-description {
+    color: #686868;
+    font-size: 0.9em;
+}
