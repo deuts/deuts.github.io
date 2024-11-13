@@ -9,7 +9,7 @@ tags:
   - blogging
   - wordpress
 summary: After the recent WordPress community controversies, I've found myself leaning toward Hugo for blogging, primarily because of its performance, security, and simplicity. My workflow now revolves around Obsidian and Hugo, with minimal plugin dependency to keep the process reliable over time. While moving my existing WordPress content is complex, Hugo offers a forward-looking alternative for streamlined, self-hosted blogging.
-slug: 
+slug: build-hugo-obsidian-github-pages-workflow
 description: Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.
 ShowToc: true
 TocOpen: true
