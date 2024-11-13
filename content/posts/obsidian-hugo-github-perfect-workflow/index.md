@@ -15,5 +15,6 @@ draft: true
 ---
 
 ## My Notes
-- I think I found the perfect combination
-- I'm not keen on using any Obsidian plugin for export to static site generator or to Hugo directly, as I have described in my [other post](/hugo-and-obsidian-workflow)
+- I think I found the perfect combination for blogging 
+- I'm not keen on using any Obsidian plugins for export to static site generator or to Hugo directly, as I have described in my [other post](/hugo-and-obsidian-workflow/)
+  - I want this to be as standalone as possible. I don't want to be dependent on some plugins to be functioning for a long time in order to keep my workflow effective
