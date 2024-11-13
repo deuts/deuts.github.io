@@ -13,7 +13,7 @@ series:
 
 I've recently seen these Youtube shorts that promote The Smoothie Diet. I'm sure the Youtube channel that uploads these videos (@Animememes1) is simply grabbing some weight transformation videos from Tiktok, upload them as Shorts in their Youtube channel, and adding a link in the comments about the Smoothie Diet.
 
-![The Smoothie Diet Homepage](/uploads/the-smoothie-diet-homepage.png)
+![The Smoothie Diet Homepage](the-smoothie-diet-homepage.png)
 
 Please don't fall for this scam. These smoothies are so full of sugar, you don't want them on your bodies. The real weight-loss strategy is totally free &mdash; you don't have to pay a dime, you have nothing in advance to prepare: **Intermittent Fasting**. 
 
