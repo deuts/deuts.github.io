@@ -6,7 +6,7 @@ tags:
   - github
 summary: A guide on initializing a Git repository in Linux with main as the default branch and securely pushing to GitHub using a Personal Access Token (PAT), ideal for those looking to streamline their Git setup.
 slug: git-repository-to-github
-description: This post provides a step-by-step guide for setting up a new Git repository with `main` as the initial branch and linking it to a GitHub repository without relying on the default `origin` label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (`push` and `pull`) without needing to specify a remote every time.
+description: This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.
 ShowToc: true
 TocOpen: true
 ---
