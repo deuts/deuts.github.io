@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages | Deuts Log</title>
+<meta name="keywords" content="obsidian, hugo, github, git, blogging, wordpress">
+<meta name="description" content="Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.cb6aeedfd6f1f138453bc59a461303d79d19f84848c5a56556a98b05f577c88f.css" integrity="sha256-y2ru39bx8ThFO8WaRhMD150Z&#43;EhIxaVlVqmLBfV3yI8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages">
+  <meta property="og:description" content="Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-13T23:44:23+08:00">
+    <meta property="article:modified_time" content="2024-11-13T23:44:23+08:00">
+    <meta property="article:tag" content="Obsidian">
+    <meta property="article:tag" content="Hugo">
+    <meta property="article:tag" content="Github">
+    <meta property="article:tag" content="Git">
+    <meta property="article:tag" content="Blogging">
+    <meta property="article:tag" content="Wordpress">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages">
+<meta name="twitter:description" content="Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "All Posts",
+      "item": "https://deuts.org/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages",
+      "item": "https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages",
+  "name": "Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages",
+  "description": "Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.",
+  "keywords": [
+    "obsidian", "hugo", "github", "git", "blogging", "wordpress"
+  ],
+  "articleBody": "Recent controversies surrounding Matt Mullenweg and WP Engine have led me to rethink my blogging platform. While WordPress has long been a popular CMS, I’m increasingly drawn to the simplicity and control of static site generators like Hugo.\nWhy Consider Hugo Over WordPress? Hugo’s performance and security benefits are difficult to ignore:\nPerformance: Hugo serves static HTML files without any backend load, delivering high-speed access. Security: Without a database or PHP reliance, Hugo sites inherently avoid many vulnerabilities that affect WordPress. Customization: Total control over templates and layouts eliminates the plugin bloat that can slow down WordPress. Version Control: Working with Git keeps my changes organized and easy to revert if needed. Low Maintenance: No frequent updates or patches—Hugo just works as-is, saving time on upkeep. Despite these advantages, I hesitated because managing content directly in Hugo, especially from the terminal, felt clunky compared to the WordPress dashboard. Using VS Code helped, but it was still missing that CMS simplicity.\nMy New Workflow: Obsidian and Hugo with Minimal Dependencies I’ve now found a balance that works without tying me to specific plugins that may become obsolete or unsupported. Here’s what my current workflow looks like:\nObsidian with Templater and Dataview Plugins:\nI use Obsidian for creating and editing posts, keeping my Hugo directory aligned with my Obsidian vault. With Templater, I can build posts from templates and generate shortcodes. The Dataview plugin helps me get an overview of post summaries without impacting the publishing process. Notably, I’ve chosen not to use plugins like Hugo Publish or Static Site MD Exporter. Relying on such plugins could cause future complications if they’re discontinued, so I’ve kept my setup as independent as possible. Building with Hugo:\nAfter editing posts, I use Hugo to generate HTML files, configured to output to a docs folder for simplicity. Publishing to GitHub Pages:\nPushing my Hugo directory, including the docs folder, to GitHub triggers publishing through GitHub Pages. This approach enables a completely self-managed site without relying on an external CMS. If I don’t have Obsidian access, I can still edit content through GitHub’s web interface, pull the changes, run Hugo to build, and push the updated site back. Direct Edit Links:\nFor convenience, each site page includes a subtle edit button linking to the GitHub page source, making updates simple. Considering Migration While I’m currently set on Hugo for future posts, the complexity involved in migrating my WordPress content — nearly 900 posts and 2,500 comments — makes me pause. Migrating everything isn’t an easy task, so for now, I’m planning to blog on Hugo going forward while exploring efficient ways to gradually bring over my legacy content.\nThis workflow with Hugo and Obsidian has struck the right balance, letting me blog on my terms without depending on plugins or external services. Obsidian, Hugo, and GitHub all rely on Markdown, creating a seamless experience where these tools work in perfect harmony. For anyone seeking a lean, self-reliant approach to publishing, this setup might be the perfect fit.\n",
+  "wordCount" : "501",
+  "inLanguage": "en",
+  "datePublished": "2024-11-13T23:44:23+08:00",
+  "dateModified": "2024-11-13T23:44:23+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/index.xml" title="Feed">
+                    <span>Feed</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages
+    </h1>
+    <div class="post-description">
+      Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.
+    </div>
+    <div class="post-meta"><span title='2024-11-13 23:44:23 +0800 PST'>November 13, 2024</span>&nbsp;|&nbsp;<a href="https://github.com/deuts/deuts.github.io/blob/main/content/posts/obsidian-hugo-github-perfect-workflow/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#why-consider-hugo-over-wordpress" aria-label="Why Consider Hugo Over WordPress?">Why Consider Hugo Over WordPress?</a></li>
+                <li>
+                    <a href="#my-new-workflow-obsidian-and-hugo-with-minimal-dependencies" aria-label="My New Workflow: Obsidian and Hugo with Minimal Dependencies">My New Workflow: Obsidian and Hugo with Minimal Dependencies</a></li>
+                <li>
+                    <a href="#considering-migration" aria-label="Considering Migration">Considering Migration</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>Recent controversies surrounding Matt Mullenweg and WP Engine have led me to rethink my blogging platform. While WordPress has long been a popular CMS, I’m increasingly drawn to the simplicity and control of static site generators like Hugo.</p>
+<h3 id="why-consider-hugo-over-wordpress">Why Consider Hugo Over WordPress?<a hidden class="anchor" aria-hidden="true" href="#why-consider-hugo-over-wordpress">#</a></h3>
+<p>Hugo’s performance and security benefits are difficult to ignore:</p>
+<ul>
+<li><strong>Performance</strong>: Hugo serves static HTML files without any backend load, delivering high-speed access.</li>
+<li><strong>Security</strong>: Without a database or PHP reliance, Hugo sites inherently avoid many vulnerabilities that affect WordPress.</li>
+<li><strong>Customization</strong>: Total control over templates and layouts eliminates the plugin bloat that can slow down WordPress.</li>
+<li><strong>Version Control</strong>: Working with Git keeps my changes organized and easy to revert if needed.</li>
+<li><strong>Low Maintenance</strong>: No frequent updates or patches—Hugo just works as-is, saving time on upkeep.</li>
+</ul>
+<p>Despite these advantages, I hesitated because managing content directly in Hugo, especially from the terminal, felt clunky compared to the WordPress dashboard. Using VS Code helped, but it was still missing that CMS simplicity.</p>
+<h3 id="my-new-workflow-obsidian-and-hugo-with-minimal-dependencies">My New Workflow: Obsidian and Hugo with Minimal Dependencies<a hidden class="anchor" aria-hidden="true" href="#my-new-workflow-obsidian-and-hugo-with-minimal-dependencies">#</a></h3>
+<p>I&rsquo;ve now found a balance that works without tying me to specific plugins that may become obsolete or unsupported. Here’s what my current workflow looks like:</p>
+<ol>
+<li>
+<p><strong>Obsidian with Templater and Dataview Plugins</strong>:</p>
+<ul>
+<li>I use Obsidian for creating and editing posts, keeping my Hugo directory aligned with my Obsidian vault. With Templater, I can build posts from templates and generate shortcodes. The Dataview plugin helps me get an overview of post summaries without impacting the publishing process.</li>
+<li>Notably, I’ve chosen <strong>not</strong> to use plugins like <a href="/hugo-and-obsidian-workflow/">Hugo Publish or Static Site MD Exporter</a>. Relying on such plugins could cause future complications if they’re discontinued, so I’ve kept my setup as independent as possible.</li>
+</ul>
+</li>
+<li>
+<p><strong>Building with Hugo</strong>:</p>
+<ul>
+<li>After editing posts, I use Hugo to generate HTML files, configured to output to a <code>docs</code> folder for simplicity.</li>
+</ul>
+</li>
+<li>
+<p><strong>Publishing to GitHub Pages</strong>:</p>
+<ul>
+<li>Pushing my Hugo directory, including the <code>docs</code> folder, to GitHub triggers publishing through GitHub Pages. This approach enables a completely self-managed site without relying on an external CMS.</li>
+<li>If I don’t have Obsidian access, I can still edit content through GitHub’s web interface, pull the changes, run Hugo to build, and push the updated site back.</li>
+</ul>
+</li>
+<li>
+<p><strong>Direct Edit Links</strong>:</p>
+<ul>
+<li>For convenience, each site page includes a subtle edit button linking to the GitHub page source, making updates simple.</li>
+</ul>
+</li>
+</ol>
+<h3 id="considering-migration">Considering Migration<a hidden class="anchor" aria-hidden="true" href="#considering-migration">#</a></h3>
+<p>While I’m currently set on Hugo for future posts, the complexity involved in migrating <a href="https://deuts.net/">my WordPress content</a> — nearly 900 posts and 2,500 comments — makes me pause. Migrating everything isn’t an easy task, so for now, I’m planning to blog on Hugo going forward while exploring efficient ways to gradually bring over my legacy content.</p>
+<p>This workflow with Hugo and Obsidian has struck the right balance, letting me blog on my terms without depending on plugins or external services. Obsidian, Hugo, and GitHub all rely on Markdown, creating a seamless experience where these tools work in perfect harmony. For anyone seeking a lean, self-reliant approach to publishing, this setup might be the perfect fit.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/tag/obsidian/">Obsidian</a></li>
+      <li><a href="https://deuts.org/tag/hugo/">Hugo</a></li>
+      <li><a href="https://deuts.org/tag/github/">Github</a></li>
+      <li><a href="https://deuts.org/tag/git/">Git</a></li>
+      <li><a href="https://deuts.org/tag/blogging/">Blogging</a></li>
+      <li><a href="https://deuts.org/tag/wordpress/">Wordpress</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://deuts.org/git-repository-to-github/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Setting Up a Git Repository for Pushing to GitHub</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

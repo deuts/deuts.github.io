@@ -10,9 +10,9 @@
     <atom:link href="https://deuts.org/tag/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
-      <link>https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/</link>
+      <link>https://deuts.org/build-hugo-obsidian-github-pages-workflow/</link>
       <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
-      <guid>https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/</guid>
+      <guid>https://deuts.org/build-hugo-obsidian-github-pages-workflow/</guid>
       <description>Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.</description>
     </item>
     <item>
