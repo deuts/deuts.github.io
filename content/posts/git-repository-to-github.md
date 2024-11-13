@@ -43,6 +43,7 @@ git remote add github https://github.com/deuts/deuts.github.io.git
 For the first push, use the `-u` flag to set `github` as the default remote:
 
 ```bash
+git pull github main --rebase
 git push -u github main
 ```
 

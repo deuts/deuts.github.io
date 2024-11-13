@@ -11,10 +11,22 @@
     <loc>https://deuts.org/contact/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-12T21:44:50+08:00</lastmod>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/posts/</loc>
-    <lastmod>2024-11-12T21:44:50+08:00</lastmod>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tag/git/</loc>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tag/github/</loc>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/git-repository-to-github/</loc>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-11-13T11:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/tag/hugo/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
@@ -26,9 +38,6 @@
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/tag/obsidian/</loc>
-    <lastmod>2024-11-12T21:44:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/tag/power/</loc>

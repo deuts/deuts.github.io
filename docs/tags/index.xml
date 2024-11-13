@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 21:44:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 11:44:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://deuts.org/tag/git/</link>
+      <pubDate>Wed, 13 Nov 2024 11:44:23 +0800</pubDate>
+      <guid>https://deuts.org/tag/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://deuts.org/tag/github/</link>
+      <pubDate>Wed, 13 Nov 2024 11:44:23 +0800</pubDate>
+      <guid>https://deuts.org/tag/github/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>https://deuts.org/tag/hugo/</link>
