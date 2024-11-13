@@ -4,6 +4,9 @@ title: Deuts Log
 theme: ["PaperMod"]
 publishDir: docs
 
+ignoreFiles:
+  - "content/posts/_draft/.*\\.md$"
+
 params:
   defaultTheme: dark
   disableThemeToggle: true

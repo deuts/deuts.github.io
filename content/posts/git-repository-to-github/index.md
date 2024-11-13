@@ -92,5 +92,5 @@ When pushing to GitHub for the first time, Git will prompt you to set up authent
 
 With this setup, you'll be using the `main` branch, avoiding the default `origin` label, and ensuring secure access with GitHub’s Personal Access Token (PAT) system.
 
-### Watch this video if you want
+### Watch this video if you want for more context
 {{< youtube -RZ03WHqkaY >}}

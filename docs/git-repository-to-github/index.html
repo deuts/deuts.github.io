@@ -73,8 +73,8 @@
   "keywords": [
     "git", "github"
   ],
-  "articleBody": "When starting a new project, it’s best practice to initialize the Git repository with main as the default branch (instead of the usual master). This post will walk you through how to set up your local repository, link it to a GitHub repository, and push your changes, including the setup for authentication using GitHub’s Personal Access Token (PAT).\n1. Initialize a Git Repository with main as the Default Branch Begin by navigating to the directory where your project is located. Run the following commands to initialize Git with the main branch directly.\ncd /path/to/your/project git init --initial-branch=main 2. Stage and Commit Your Files Next, add all files to the staging area and commit them:\ngit add . git commit -m \"Initial commit\" 3. Link Your Local Repository to GitHub Now, set up a connection to your GitHub repository. Instead of using the default origin label for the remote, you can specify a custom label like github, which will allow flexibility with multiple remotes if needed.\ngit remote add github https://github.com/deuts/deuts.github.io.git 4. Push to GitHub without Using origin For the first push, use the -u flag to set github as the default remote:\ngit pull github main --rebase git push -u github main After this initial push, you can use git push and git pull directly without specifying the remote every time, as Git will use github by default for this branch.\n5. Authentication: When You’ll Need Your Email and Personal Access Token (PAT) When pushing to GitHub for the first time, Git will prompt you to set up authentication. Here’s what to expect:\nEmail: If this is the first time using Git on your machine, Git will ask you to set your email and name:\ngit config --global user.email \"you@example.com\" git config --global user.name \"Your Name\" This is required for all commits, as GitHub associates your email with your GitHub account.\nPersonal Access Token (PAT): Instead of your GitHub password, Git now requires a PAT for authentication. When prompted to log in, enter your username and the PAT as the password.\nTo create a PAT:\nGo to GitHub’s PAT settings. Generate a token with repo access. Use this token in place of your password when Git requests authentication. Common Commands Summary Initialize a Git repository with main: git init --initial-branch=main Add and commit changes: git add . git commit -m \"Commit message\" Add a custom remote (github) and push: git remote add github https://github.com/deuts/deuts.github.io.git git push -u github main Push and pull with defaults: git push # no need for origin git pull # no need for origin With this setup, you’ll be using the main branch, avoiding the default origin label, and ensuring secure access with GitHub’s Personal Access Token (PAT) system.\nWatch this video if you want ",
-  "wordCount" : "460",
+  "articleBody": "When starting a new project, it’s best practice to initialize the Git repository with main as the default branch (instead of the usual master). This post will walk you through how to set up your local repository, link it to a GitHub repository, and push your changes, including the setup for authentication using GitHub’s Personal Access Token (PAT).\n1. Initialize a Git Repository with main as the Default Branch Begin by navigating to the directory where your project is located. Run the following commands to initialize Git with the main branch directly.\ncd /path/to/your/project git init --initial-branch=main 2. Stage and Commit Your Files Next, add all files to the staging area and commit them:\ngit add . git commit -m \"Initial commit\" 3. Link Your Local Repository to GitHub Now, set up a connection to your GitHub repository. Instead of using the default origin label for the remote, you can specify a custom label like github, which will allow flexibility with multiple remotes if needed.\ngit remote add github https://github.com/deuts/deuts.github.io.git 4. Push to GitHub without Using origin For the first push, use the -u flag to set github as the default remote:\ngit pull github main --rebase git push -u github main After this initial push, you can use git push and git pull directly without specifying the remote every time, as Git will use github by default for this branch.\n5. Authentication: When You’ll Need Your Email and Personal Access Token (PAT) When pushing to GitHub for the first time, Git will prompt you to set up authentication. Here’s what to expect:\nEmail: If this is the first time using Git on your machine, Git will ask you to set your email and name:\ngit config --global user.email \"you@example.com\" git config --global user.name \"Your Name\" This is required for all commits, as GitHub associates your email with your GitHub account.\nPersonal Access Token (PAT): Instead of your GitHub password, Git now requires a PAT for authentication. When prompted to log in, enter your username and the PAT as the password.\nTo create a PAT:\nGo to GitHub’s PAT settings. Generate a token with repo access. Use this token in place of your password when Git requests authentication. Common Commands Summary Initialize a Git repository with main: git init --initial-branch=main Add and commit changes: git add . git commit -m \"Commit message\" Add a custom remote (github) and push: git remote add github https://github.com/deuts/deuts.github.io.git git push -u github main Push and pull with defaults: git push # no need for origin git pull # no need for origin With this setup, you’ll be using the main branch, avoiding the default origin label, and ensuring secure access with GitHub’s Personal Access Token (PAT) system.\nWatch this video if you want for more context ",
+  "wordCount" : "463",
   "inLanguage": "en",
   "datePublished": "2024-11-13T11:44:23+08:00",
   "dateModified": "2024-11-13T11:44:23+08:00",
@@ -181,7 +181,7 @@
                 <li>
                     <a href="#common-commands-summary" aria-label="Common Commands Summary">Common Commands Summary</a></li>
                 <li>
-                    <a href="#watch-this-video-if-you-want" aria-label="Watch this video if you want">Watch this video if you want</a>
+                    <a href="#watch-this-video-if-you-want-for-more-context" aria-label="Watch this video if you want for more context">Watch this video if you want for more context</a>
                 </li>
             </ul>
         </div>
@@ -243,7 +243,7 @@
 </span></span></code></pre></div></li>
 </ul>
 <p>With this setup, you&rsquo;ll be using the <code>main</code> branch, avoiding the default <code>origin</code> label, and ensuring secure access with GitHub’s Personal Access Token (PAT) system.</p>
-<h3 id="watch-this-video-if-you-want">Watch this video if you want<a hidden class="anchor" aria-hidden="true" href="#watch-this-video-if-you-want">#</a></h3>
+<h3 id="watch-this-video-if-you-want-for-more-context">Watch this video if you want for more context<a hidden class="anchor" aria-hidden="true" href="#watch-this-video-if-you-want-for-more-context">#</a></h3>
 
 
     
@@ -263,6 +263,11 @@
       <li><a href="https://deuts.org/tag/github/">Github</a></li>
     </ul>
 <nav class="paginav">
+  <a class="prev" href="https://deuts.org/building-an-efficient-blogging-workflow-with-hugo-obsidian-and-github-pages/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</span>
+  </a>
   <a class="next" href="https://deuts.org/hugo-and-obsidian-workflow/">
     <span class="title">Next »</span>
     <br>
