@@ -4,11 +4,11 @@ date: 2023-09-01T15:17:55+08:00
 tags:
   - intermittent-fasting
   - diet
-summary: Please, don't fall for this scam. The real eating habit that'll totally
-  bring weight-loss and health benefits is Intermittent Fasting. Trust me.
+summary: Please, don't fall for this scam. The real eating habit that'll totally bring weight-loss and health benefits is Intermittent Fasting. Trust me.
 slug: the-smoothie-diet-scam
 series:
   - intermittent-fasting
+draft: false
 ---
 
 I've recently seen these Youtube shorts that promote The Smoothie Diet. I'm sure the Youtube channel that uploads these videos (@Animememes1) is simply grabbing some weight transformation videos from Tiktok, upload them as Shorts in their Youtube channel, and adding a link in the comments about the Smoothie Diet.

@@ -5,6 +5,7 @@ summary: The must see shows in the future according to DeutsFlix.
 tags:
   - tv-shows
 slug: tv-shows-consider-watching-future
+draft: false
 ---
 
 These are the TV shows that I deleted from my Sonarr installation, but may consider following or monitoring them in the future.

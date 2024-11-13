@@ -5,6 +5,7 @@ tags:
   - excel
 summary: The first time I learned about 'STOCKHISTORY' function.
 slug: excel-stockhistory-function-pro-tips
+draft: false
 ---
 
 I wonder how I've come to know this function just now. I have so much use for the `STOCKHISTORY` function to manage my personal stock portfolio.

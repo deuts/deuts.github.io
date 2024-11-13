@@ -7,6 +7,7 @@ tags:
 description: This is the faster way to generate running total in Power Query.
 summary: You want a more efficient way of generating running total in Power Query?
 slug: list-generate-running-total
+draft: false
 ---
 
 I'm just leaving this here for my future reference. This is the faster way to generate running total in Power Query.

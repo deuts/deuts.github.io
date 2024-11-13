@@ -6,6 +6,7 @@ tags:
   - docker
 summary: Get rid of several warnings in your Nextcloud admin dashboard.
 slug: nextcloud-post-install-config
+draft: false
 ---
 
 After installing Nextcloud via [Docker](https://github.com/nextcloud/docker), and if you go to `/settings/admin/overview`, you might find some warnings that you need to do further configurations to get rid of.

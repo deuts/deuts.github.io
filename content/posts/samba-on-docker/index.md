@@ -7,6 +7,7 @@ tags:
   - selfhosted
 summary: Many say Samba on Docker doesn't make sense. But does it?
 slug: samba-on-docker
+draft: false
 ---
 
 There is a 2-year old [thread](https://www.reddit.com/r/selfhosted/comments/t2x1fy/samba_server_docker_or_native/) on Reddit. Many in the comments say it doesn't make sense.

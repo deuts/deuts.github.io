@@ -11,6 +11,7 @@ tags:
   - emby
   - jellyfin
 slug: streaming-movies-tv-shows-kodi
+draft: false
 ---
 
 When I started hoarding movies and TV shows back when streaming services were not yet a thing, of course I played them using VLC. But you can only do that on a computer. These media are better consumed over TV, right?

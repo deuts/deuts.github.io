@@ -5,6 +5,7 @@ tags:
   - docker
 summary: Which image occupies my VPS storage the most?
 slug: docker-container-size
+draft: false
 ---
 
 ## Quickly

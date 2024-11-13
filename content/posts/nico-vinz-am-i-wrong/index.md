@@ -5,6 +5,7 @@ tags:
   - music
 summary: Dedicated to all the brave men out there.
 slug: nico-vinz-am-i-wrong
+draft: false
 ---
 
 {{< youtube 3oUPGbRazaA >}}

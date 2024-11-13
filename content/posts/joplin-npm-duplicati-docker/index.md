@@ -10,6 +10,7 @@ tags:
   - docker
   - linux
 slug: joplin-npm-duplicati-docker
+draft: false
 ---
 
 I was wondering why Docker apps don't come as easy to install like [Linuxserver](https://www.linuxserver.io/)'s? Case in point: Joplin. 

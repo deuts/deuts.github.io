@@ -5,6 +5,7 @@ tags:
   - food
 summary: We need to be more vigilant the next time we do our groceries.
 slug: most-faked-food
+draft: false
 ---
 
 [Insider Business](https://www.youtube.com/watch?v=K0OtGIPRcAs) shows 11 of the most faked foods in the world, which include:

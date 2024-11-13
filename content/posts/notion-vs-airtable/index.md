@@ -7,6 +7,7 @@ tags:
   - excel
   - airtable
 slug: notion-vs-airtable
+draft: false
 ---
 
 {{< youtube kFJ6ddr3lVI >}}

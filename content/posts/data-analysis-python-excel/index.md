@@ -6,6 +6,7 @@ tags:
   - excel
 summary: Let's start learning Python with this 4-hour free course on Youtube.
 slug: data-analysis-python-excel
+draft: false
 ---
 
 I would really like to learn Python to reinforce my data analysis skills. And I would like to start with this 4-hour free course on [Youtube](https://www.youtube.com/watch?v=WcDaZ67TVRo). 

@@ -6,6 +6,7 @@ tags:
   - docker
   - nextcloud
 slug: how-to-rescan-docker-nextcloud-folders
+draft: false
 ---
 
 What if:

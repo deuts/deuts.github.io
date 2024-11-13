@@ -7,6 +7,7 @@ tags:
   - vikunja
 summary: Even with all the fancy containers, I find it not reliable.
 slug: vikunja-internal-server-error
+draft: false
 ---
 
 Vikunja is a powerful open-source todo app that provides users with a range of features designed to enhance productivity. It offers task tracking, due date management, collaboration tools, and more, all within an intuitive interface. 

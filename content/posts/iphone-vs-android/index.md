@@ -7,6 +7,7 @@ tags:
   - android
   - iphone
 slug: iphone-vs-android
+draft: false
 ---
 
 Abrar Al-Heeti over at CNET discusses why she's [now Team Apple](https://www.cnet.com/tech/mobile/im-now-team-apple-and-i-dont-think-ill-ever-go-back/) and never going back.

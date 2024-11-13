@@ -5,6 +5,7 @@ summary: Yet, I can't get one.
 tags:
   - vps hosting
 slug: oracle-cloud-free-tier
+draft: false
 ---
 
 Here's a detailed tutorial on how to setup and run Oracle Cloud Free Tier. 

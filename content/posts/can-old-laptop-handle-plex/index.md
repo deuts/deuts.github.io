@@ -6,6 +6,7 @@ tags:
   - linux
   - plex
 slug: can-old-laptop-handle-plex
+draft: false
 ---
 
 Bumped into this post on [Reddit](https://www.reddit.com/r/PleX/comments/y5uaon/can_this_old_laptop_handle_plex/), asking if his 'old' laptop can handle Plex:

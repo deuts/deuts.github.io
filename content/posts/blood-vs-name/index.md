@@ -5,6 +5,7 @@ summary: according to Corlys Valeryon.
 tags:
   - tv shows
 slug: blood-vs-name
+draft: false
 ---
 
 > History does not remember blood.  

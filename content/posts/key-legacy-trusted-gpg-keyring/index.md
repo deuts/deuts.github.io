@@ -7,6 +7,7 @@ tags:
   - ubuntu
   - debian
 slug: key-legacy-trusted-gpg-keyring
+draft: false
 ---
 
 Have you ever encountered issues with legacy keyrings when running a fresh install of Debian or Ubuntu?

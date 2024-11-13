@@ -5,6 +5,7 @@ summary: A Hugo site, being all just HTML files, can really be that fast.
 tags:
   - websites
 slug: gt-metrix-comparison-3-websites
+draft: false
 ---
 
 Ran my 3 websites on [GT Metrix](https://gtmetrix.com/compare/RWibuAUu/zCxqhGsH/Bt42ee12), and this is what I got:

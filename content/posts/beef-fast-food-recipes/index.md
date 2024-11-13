@@ -5,6 +5,7 @@ tags:
   - food
 summary: Try these at home!
 slug: beef-fast-food-recipes
+draft: false
 ---
 
 I really want to try this at home. They're so expensive to order outside, now I want unli beef recipes on my table.

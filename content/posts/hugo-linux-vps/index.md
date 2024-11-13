@@ -9,6 +9,7 @@ tags:
   - ubuntu
 summary: Let me help you run Hugo on a Debian or Ubuntu Linux server.
 slug: hugo-linux-vps
+draft: false
 ---
 
 ## Via APT

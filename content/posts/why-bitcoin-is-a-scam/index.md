@@ -6,6 +6,7 @@ tags:
   - bitcoin
   - crypto
 slug: why-bitcoin-is-a-scam
+draft: false
 ---
 
 > Bitcoin isn't really used much as a currency at all.

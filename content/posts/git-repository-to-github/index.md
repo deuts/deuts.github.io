@@ -9,6 +9,7 @@ slug: git-repository-to-github
 description: This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.
 ShowToc: true
 TocOpen: true
+draft: false
 ---
 When starting a new project, it's best practice to initialize the Git repository with `main` as the default branch (instead of the usual `master`). This post will walk you through how to set up your local repository, link it to a GitHub repository, and push your changes, including the setup for authentication using GitHub’s Personal Access Token (PAT).
 
@@ -90,3 +91,6 @@ When pushing to GitHub for the first time, Git will prompt you to set up authent
   ```
 
 With this setup, you'll be using the `main` branch, avoiding the default `origin` label, and ensuring secure access with GitHub’s Personal Access Token (PAT) system.
+
+### Watch this video if you want
+{{< youtube -RZ03WHqkaY >}}

@@ -10,10 +10,10 @@ tags:
   - duplicati
   - cloudflare
   - docker
-summary: Got a new Ubuntu or Debian VPS server? Here are the things you should
-  do to make the most out of it.
+summary: Got a new Ubuntu or Debian VPS server? Here are the things you should do to make the most out of it.
 slug: new-vps-checklist
 ShowToc: true
+draft: false
 ---
 
 ## Update the system

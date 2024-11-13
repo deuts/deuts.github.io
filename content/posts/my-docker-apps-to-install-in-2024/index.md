@@ -4,9 +4,9 @@ date: 2024-02-25T22:41:59+08:00
 tags:
   - docker
   - selfhosting
-summary: This is a checklist of Docker apps I want to spin up and test in the
-  near future.
+summary: This is a checklist of Docker apps I want to spin up and test in the near future.
 slug: my-docker-apps-to-install-in-2024
+draft: false
 ---
 
 Browsing through [Jim's Garage](https://www.youtube.com/@Jims-Garage) on Youtube, and his [Github repository](https://github.com/JamesTurland/JimsGarage), I was inspired to finally give these Docker apps a try:

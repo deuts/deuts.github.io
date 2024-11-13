@@ -5,6 +5,7 @@ summary: Put long commands in a bash script so you don't have to remember them.
 tags:
   - linux
 slug: create-bash-script-executable
+draft: false
 ---
 
 ## Long commands are hard to memorize

@@ -7,6 +7,7 @@ tags:
   - docker
 summary: There seems to be a new update on Vikunja.
 slug: vikunja-update-2024
+draft: false
 ---
 
 In August, I [posted](https://deuts.org/vikunja-internal-server-error/) about my problems running Vikunja via Docker.

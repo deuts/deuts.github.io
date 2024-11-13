@@ -6,6 +6,7 @@ tags:
 url: bpi-usd-php-outlook-2023
 summary: The unattainable forecasts.
 slug: bpi-usd-php-outlook-2023
+draft: false
 ---
 
 Don't you find this outlook from BPI a little too agressive for your taste? And they call it 'Base Case Scenario'.

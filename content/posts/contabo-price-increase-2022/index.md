@@ -5,6 +5,7 @@ tags:
   - vps hosting
 summary: It's not worth it, I promise you!
 slug: contabo-price-increase-2022
+draft: false
 ---
 
 ## Price Increase Announcement
