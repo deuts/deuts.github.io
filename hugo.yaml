@@ -22,7 +22,7 @@ params:
     android-chrome-192x192: "/icons/android-chrome-192x192.png"
     android-chrome-512x512: "/icons/android-chrome-512x512.png"
   editPost:
-    URL: "https://github.com/deuts/deuts.github.io/content/posts"
+    URL: "https://github.com/deuts/deuts.github.io/content"
     Text: "Edit" # edit text
     appendFilePath: true # to append file path to Edit link
 
