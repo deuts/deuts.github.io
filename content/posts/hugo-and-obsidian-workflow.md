@@ -12,7 +12,6 @@ description: This post highlights issues with Obsidian plugins like Hugo Publish
   and Static Site MD Exporter when used in a Hugo blogging workflow.
 slug: hugo-and-obsidian-workflow
 ---
-
 When combining Obsidian with Hugo for a streamlined blogging workflow, several plugins claim to offer an easy publishing process, but some fall short due to misalignment with Hugo’s expectations. In this post, I’ll highlight some common issues with the plugins I’ve encountered.
 
 ## The Problem with Available Obsidian Plugins
