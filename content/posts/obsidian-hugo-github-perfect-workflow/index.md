@@ -47,6 +47,6 @@ I've now found a balance that works without tying me to specific plugins that ma
    - For convenience, each site page includes a subtle edit button linking to the GitHub page source, making updates simple.
 
 ### Considering Migration
-While I’m currently set on Hugo for future posts, the complexity involved in migrating [my WordPress content](https://deuts.net/) &mdash; nearly 900 posts and 2,500 comments—gives me pause. Migrating everything isn’t an easy task, so for now, I’m planning to blog on Hugo going forward while exploring efficient ways to gradually bring over my legacy content.
+While I’m currently set on Hugo for future posts, the complexity involved in migrating [my WordPress content](https://deuts.net/) &mdash; nearly 900 posts and 2,500 comments &mdash; makes me pause. Migrating everything isn’t an easy task, so for now, I’m planning to blog on Hugo going forward while exploring efficient ways to gradually bring over my legacy content.
 
 This workflow with Hugo and Obsidian has struck the right balance, letting me blog on my terms without depending on plugins or external services. Obsidian, Hugo, and GitHub all rely on Markdown, creating a seamless experience where these tools work in perfect harmony. For anyone seeking a lean, self-reliant approach to publishing, this setup might be the perfect fit.
