@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Docker Command to Check the Sizes of your Containers | Deuts Log</title>
+<meta name="keywords" content="docker">
+<meta name="description" content="Which image occupies my VPS storage the most?">
+<meta name="author" content="">
+<link rel="canonical" href="https://staging.deuts.org/docker-container-size/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.cb6aeedfd6f1f138453bc59a461303d79d19f84848c5a56556a98b05f577c88f.css" integrity="sha256-y2ru39bx8ThFO8WaRhMD150Z&#43;EhIxaVlVqmLBfV3yI8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://staging.deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://staging.deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://staging.deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://staging.deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://staging.deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://staging.deuts.org/docker-container-size/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://staging.deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://staging.deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://staging.deuts.org/index.xml" title="Feed">
+                    <span>Feed</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Docker Command to Check the Sizes of your Containers
+    </h1>
+    <div class="post-meta"><span title='2023-08-12 08:07:49 +0800 PST'>August 12, 2023</span>&nbsp;|&nbsp;<a href="https://github.com/deuts/deuts.github.io/blob/main/content/posts/docker-container-size.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+  <div class="post-content"><h2 id="quickly">Quickly<a hidden class="anchor" aria-hidden="true" href="#quickly">#</a></h2>
+<p>The easy approach is to use:</p>
+<pre tabindex="0"><code class="language-bin" data-lang="bin">docker ps --size
+</code></pre><p>But this will output a long table with columns:</p>
+<ul>
+<li>Container ID</li>
+<li>Image</li>
+<li>Command</li>
+<li>Created</li>
+<li>Status</li>
+<li>Ports</li>
+<li>Names</li>
+<li>Size</li>
+</ul>
+<h3 id="lets-refine-the-command">Let&rsquo;s refine the command<a hidden class="anchor" aria-hidden="true" href="#lets-refine-the-command">#</a></h3>
+<p>More likely, you&rsquo;re just curious about these columns:</p>
+<ul>
+<li>Container ID</li>
+<li>Names</li>
+<li>Image</li>
+<li>Size</li>
+</ul>
+<p>In order to do so, just run:</p>
+<pre tabindex="0"><code class="language-bin" data-lang="bin">docker ps -a --size --format &#34;table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Size}}&#34;
+</code></pre><ul>
+<li><a href="https://code2care.org/docker/check-size-of-docker-container">Source</a></li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://staging.deuts.org/tag/docker/">Docker</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="https://staging.deuts.org/hugo-linux-vps/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>How to install Hugo in a Linux VPS</span>
+  </a>
+  <a class="next" href="https://staging.deuts.org/key-legacy-trusted-gpg-keyring/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Key Is Stored in Legacy Trusted.gpg Keyring</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="https://staging.deuts.org/">Deuts Log</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
