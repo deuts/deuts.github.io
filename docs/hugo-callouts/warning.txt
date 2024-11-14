@@ -1,0 +1,3 @@
+{{< callout type="warning" title="Caution" >}}
+You have been warned!
+{{< /callout >}}
