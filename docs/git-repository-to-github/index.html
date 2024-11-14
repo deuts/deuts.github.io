@@ -7,10 +7,10 @@
 <meta name="robots" content="index, follow">
 <title>Setting Up a Git Repository for Pushing to GitHub | Deuts Log</title>
 <meta name="keywords" content="git, github">
-<meta name="description" content="This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.">
+<meta name="description" content="Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/git-repository-to-github/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.cb6aeedfd6f1f138453bc59a461303d79d19f84848c5a56556a98b05f577c88f.css" integrity="sha256-y2ru39bx8ThFO8WaRhMD150Z&#43;EhIxaVlVqmLBfV3yI8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.7408e928353342c3f7f81122adf0ac4163b13c1c2729d31fbd2665d556677c65.css" integrity="sha256-dAjpKDUzQsP3&#43;BEirfCsQWOxPBwnKdMfvSZl1VZnfGU=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://deuts.org/icons/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
@@ -27,10 +27,10 @@
         }
 
     </style>
-</noscript><meta property="og:url" content="https://deuts.org/git-repository-to-github/">
+</noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"><meta property="og:url" content="https://deuts.org/git-repository-to-github/">
   <meta property="og:site_name" content="Deuts Log">
   <meta property="og:title" content="Setting Up a Git Repository for Pushing to GitHub">
-  <meta property="og:description" content="This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.">
+  <meta property="og:description" content="Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -40,7 +40,7 @@
     <meta property="article:tag" content="Github">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Setting Up a Git Repository for Pushing to GitHub">
-<meta name="twitter:description" content="This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.">
+<meta name="twitter:description" content="Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.">
 
 
 <script type="application/ld+json">
@@ -69,7 +69,7 @@
   "@type": "BlogPosting",
   "headline": "Setting Up a Git Repository for Pushing to GitHub",
   "name": "Setting Up a Git Repository for Pushing to GitHub",
-  "description": "This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.",
+  "description": "Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.",
   "keywords": [
     "git", "github"
   ],
@@ -156,7 +156,7 @@
       Setting Up a Git Repository for Pushing to GitHub
     </h1>
     <div class="post-description">
-      This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.
+      Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.
     </div>
     <div class="post-meta"><span title='2024-11-13 11:44:23 +0800 PST'>November 13, 2024</span>&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/git-repository-to-github/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
 

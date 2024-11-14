@@ -20,21 +20,21 @@
       <link>https://deuts.org/git-repository-to-github/</link>
       <pubDate>Wed, 13 Nov 2024 11:44:23 +0800</pubDate>
       <guid>https://deuts.org/git-repository-to-github/</guid>
-      <description>This post provides a step-by-step guide for setting up a new Git repository with main as the initial branch and linking it to a GitHub repository without relying on the default origin label. It includes details on staging and committing files, pushing to a custom remote, and handling authentication with GitHub’s Personal Access Token (PAT) system. This streamlined approach helps ensure secure and efficient repository management on GitHub, making it easier to use common Git commands (push and pull) without needing to specify a remote every time.</description>
+      <description>Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.</description>
     </item>
     <item>
       <title>Hugo and Obsidian workflow</title>
       <link>https://deuts.org/hugo-and-obsidian-workflow/</link>
       <pubDate>Tue, 12 Nov 2024 21:44:50 +0800</pubDate>
       <guid>https://deuts.org/hugo-and-obsidian-workflow/</guid>
-      <description>This post highlights issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.</description>
+      <description>Highlights of issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.</description>
     </item>
     <item>
       <title>Using List.Generate to Generate Running Total Column in Power Query</title>
       <link>https://deuts.org/list-generate-running-total/</link>
       <pubDate>Tue, 19 Mar 2024 21:23:57 +0800</pubDate>
       <guid>https://deuts.org/list-generate-running-total/</guid>
-      <description>This is the faster way to generate running total in Power Query.</description>
+      <description>Here’s a quicker, cleaner way to generate a running total in Power Query—no need for complex formulas or multiple steps! With this streamlined approach, you can set up a cumulative total in record time, saving both processing power and patience. Say goodbye to endless column configurations and hello to efficiency!</description>
     </item>
     <item>
       <title>Samba Docker or Native</title>
