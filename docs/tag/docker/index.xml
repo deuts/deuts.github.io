@@ -6,8 +6,15 @@
     <description>Recent content in Docker on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Mar 2024 17:41:18 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 21:46:40 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/tag/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
+      <link>https://deuts.org/docker-caddy-basic-auth/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/docker-caddy-basic-auth/</guid>
+      <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
+    </item>
     <item>
       <title>Samba Docker or Native</title>
       <link>https://deuts.org/samba-on-docker/</link>

@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 18:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 21:46:40 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://deuts.org/tag/authentication/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/tag/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caddy</title>
+      <link>https://deuts.org/tag/caddy/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/tag/caddy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://deuts.org/tag/docker/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/tag/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://deuts.org/tag/security/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/tag/security/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Callout</title>
       <link>https://deuts.org/tag/callout/</link>
@@ -83,13 +111,6 @@
       <link>https://deuts.org/tag/query/</link>
       <pubDate>Tue, 19 Mar 2024 21:23:57 +0800</pubDate>
       <guid>https://deuts.org/tag/query/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>https://deuts.org/tag/docker/</link>
-      <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
-      <guid>https://deuts.org/tag/docker/</guid>
       <description></description>
     </item>
     <item>
