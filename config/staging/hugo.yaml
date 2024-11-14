@@ -1,8 +1,0 @@
-baseURL: https://staging.deuts.org/
-title: Deuts Log Staging
-publishDir: staging/public
-staticDir: staging/static
-buildDrafts: true
-
-params:
-  comments: false
