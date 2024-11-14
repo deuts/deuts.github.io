@@ -1,11 +1,11 @@
 ---
-title: My Dear Title
-date: 2024-11-13T11:44:23+08:00
+title: Draft Title
+date: 2024-11-14T11:44:23
 tags:
   - github
 summary: 
-slug: 
 description: 
+slug: 
 ShowToc: false
 TocOpen: false
 draft: true
