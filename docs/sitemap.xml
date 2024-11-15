@@ -79,10 +79,7 @@
     <loc>https://deuts.org/tag/linux/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/tag/power/</loc>
-    <lastmod>2024-03-19T21:23:57+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tag/query/</loc>
+    <loc>https://deuts.org/tag/power-query/</loc>
     <lastmod>2024-03-19T21:23:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/list-generate-running-total/</loc>
@@ -182,9 +179,6 @@
     <lastmod>2023-07-23T19:20:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/power-query-table-skip-while-row-is-blank/</loc>
-    <lastmod>2023-07-23T17:36:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tag/power-query/</loc>
     <lastmod>2023-07-23T17:36:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/tag/chatgpt/</loc>
@@ -312,5 +306,9 @@
   </url><url>
     <loc>https://deuts.org/blood-vs-name/</loc>
     <lastmod>2022-10-06T13:01:14+01:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/months/</loc>
+  </url><url>
+    <loc>https://deuts.org/years/</loc>
   </url>
 </urlset>
