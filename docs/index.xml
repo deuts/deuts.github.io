@@ -10,21 +10,10 @@
     <atom:link href="https://deuts.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://deuts.org/about/</link>
+      <link>https://deuts.org/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deuts.org/about/</guid>
-      <description>&lt;p&gt;In the realm of technology&amp;rsquo;s grand domain,&lt;br&gt;
-&lt;strong&gt;Deuts Log&lt;/strong&gt; stands proud, its knowledge to proclaim,&lt;br&gt;
-An eclectic assortment, a journey to embark,&lt;br&gt;
-Through subjects diverse, a technological spark.&lt;/p&gt;
-&lt;p&gt;From deep within its digital core,&lt;br&gt;
-It shares insights and more, galore,&lt;br&gt;
-A tapestry woven with threads so fine,&lt;br&gt;
-Unraveling mysteries in every line.&lt;/p&gt;
-&lt;p&gt;Once upon &lt;a href=&#34;https://deuts.tumblr.com&#34;&gt;Tumblr&lt;/a&gt;&amp;rsquo;s vibrant stage,&lt;br&gt;
-Deuts Log found its early page,&lt;br&gt;
-But time&amp;rsquo;s tide shifted, winds did blow,&lt;br&gt;
-And changes came, as we all know.&lt;/p&gt;</description>
+      <guid>https://deuts.org/a/</guid>
+      <description>Curious about the story behind the site? Discover who we are, what we do, and why we do it. It&amp;#39;s more than just a page—it&amp;#39;s a peek into our journey and passion.</description>
     </item>
     <item>
       <title>Contact</title>
