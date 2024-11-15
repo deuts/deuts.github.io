@@ -2,7 +2,7 @@
 /*
 
 # Un-ignore specific files and directories at the root level
-!/.gitignore
+# !/.gitignore
 !/README.md
 !/docs/
 !/docs/*
