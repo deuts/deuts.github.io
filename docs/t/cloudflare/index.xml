@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on Deuts Log</title>
+    <link>https://deuts.org/t/cloudflare/</link>
+    <description>Recent content in Cloudflare on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2024 08:11:44 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Caddy Docker image with Cloudflare DNS challenge support</title>
+      <link>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</link>
+      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
+      <guid>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</guid>
+      <description>Configure a custom Caddy Docker image to use Cloudflare’s DNS challenge, securing HTTPS without exposing ports 80/443, ideal for firewall, CGNAT, and load-balancer setups.</description>
+    </item>
+    <item>
+      <title>Checklist of things to do on a new VPS server</title>
+      <link>https://deuts.org/p/new-vps-checklist/</link>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
+      <guid>https://deuts.org/p/new-vps-checklist/</guid>
+      <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
+    </item>
+  </channel>
+</rss>

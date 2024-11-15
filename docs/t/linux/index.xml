@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Deuts Log</title>
+    <link>https://deuts.org/t/linux/</link>
+    <description>Recent content in Linux on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 21:44:50 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo and Obsidian workflow</title>
+      <link>https://deuts.org/p/hugo-and-obsidian-workflow/</link>
+      <pubDate>Tue, 12 Nov 2024 21:44:50 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-and-obsidian-workflow/</guid>
+      <description>Highlights of issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.</description>
+    </item>
+    <item>
+      <title>Checklist of things to do on a new VPS server</title>
+      <link>https://deuts.org/p/new-vps-checklist/</link>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
+      <guid>https://deuts.org/p/new-vps-checklist/</guid>
+      <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
+    </item>
+    <item>
+      <title>How to install Hugo in a Linux VPS</title>
+      <link>https://deuts.org/p/hugo-linux-vps/</link>
+      <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-linux-vps/</guid>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
+    </item>
+    <item>
+      <title>Key Is Stored in Legacy Trusted.gpg Keyring</title>
+      <link>https://deuts.org/p/key-legacy-trusted-gpg-keyring/</link>
+      <pubDate>Wed, 09 Aug 2023 08:21:31 +0800</pubDate>
+      <guid>https://deuts.org/p/key-legacy-trusted-gpg-keyring/</guid>
+      <description>This post addresses the issue of legacy keyrings on fresh installs of Debian or Ubuntu, where an error message warns about keys stored in the deprecated trusted.gpg keyring. The solution is to copy the keyring to the trusted.gpg.d directory and update the system using sudo apt update.</description>
+    </item>
+    <item>
+      <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
+      <link>https://deuts.org/p/joplin-npm-duplicati-docker/</link>
+      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
+      <guid>https://deuts.org/p/joplin-npm-duplicati-docker/</guid>
+      <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
+    </item>
+    <item>
+      <title>Can This Old Laptop Handle Plex?</title>
+      <link>https://deuts.org/p/can-old-laptop-handle-plex/</link>
+      <pubDate>Thu, 20 Oct 2022 22:14:49 +0800</pubDate>
+      <guid>https://deuts.org/p/can-old-laptop-handle-plex/</guid>
+      <description>A 7th-gen i5 laptop should easily handle Plex, even for 4K streams. A low-spec Beelink S1 Mini PC (Celeron N3450) runs Plex and several Docker services without issue.</description>
+    </item>
+    <item>
+      <title>How to Create a Bash Script and Make it Executable?</title>
+      <link>https://deuts.org/p/create-bash-script-executable/</link>
+      <pubDate>Thu, 20 Oct 2022 20:55:43 +0800</pubDate>
+      <guid>https://deuts.org/p/create-bash-script-executable/</guid>
+      <description>Create a bash script to easily run long commands, like hugo server, by saving them in a file, making it executable, and running the script.</description>
+    </item>
+  </channel>
+</rss>

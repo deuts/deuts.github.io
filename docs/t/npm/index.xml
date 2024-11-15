@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Npm on Deuts Log</title>
+    <link>https://deuts.org/t/npm/</link>
+    <description>Recent content in Npm on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 22:03:23 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/npm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
+      <link>https://deuts.org/p/joplin-npm-duplicati-docker/</link>
+      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
+      <guid>https://deuts.org/p/joplin-npm-duplicati-docker/</guid>
+      <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
+    </item>
+  </channel>
+</rss>

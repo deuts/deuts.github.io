@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Basketball on Deuts Log</title>
+    <link>https://deuts.org/t/basketball/</link>
+    <description>Recent content in Basketball on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2022 23:03:33 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/basketball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basketball Video Games Evolution</title>
+      <link>https://deuts.org/p/basketball-video-games-evolution/</link>
+      <pubDate>Fri, 14 Oct 2022 23:03:33 +0800</pubDate>
+      <guid>https://deuts.org/p/basketball-video-games-evolution/</guid>
+      <description>This video showcases basketball video game interfaces from 1974, bringing back memories of Double Dribble and NBA Live 2004 office LAN tournaments.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selfhosting on Deuts Log</title>
+    <link>https://deuts.org/t/selfhosting/</link>
+    <description>Recent content in Selfhosting on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 22:41:59 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/selfhosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Apps to Install</title>
+      <link>https://deuts.org/p/my-docker-apps-to-install-in-2024/</link>
+      <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
+      <guid>https://deuts.org/p/my-docker-apps-to-install-in-2024/</guid>
+      <description>This post shares the author&amp;#39;s inspiration from Jim’s Garage on YouTube and his GitHub repository to try out several Docker applications: Immich, Paperless-ngx, Vikunja, rClone, and Restic.</description>
+    </item>
+  </channel>
+</rss>

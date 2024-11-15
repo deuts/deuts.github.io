@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Github on Deuts Log</title>
+    <link>https://deuts.org/t/github/</link>
+    <description>Recent content in Github on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 23:44:23 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
+      <link>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</link>
+      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
+      <guid>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</guid>
+      <description>Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.</description>
+    </item>
+    <item>
+      <title>Setting Up a Git Repository for Pushing to GitHub</title>
+      <link>https://deuts.org/p/git-repository-to-github/</link>
+      <pubDate>Wed, 13 Nov 2024 11:44:23 +0800</pubDate>
+      <guid>https://deuts.org/p/git-repository-to-github/</guid>
+      <description>Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.</description>
+    </item>
+  </channel>
+</rss>

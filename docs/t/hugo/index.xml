@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on Deuts Log</title>
+    <link>https://deuts.org/t/hugo/</link>
+    <description>Recent content in Hugo on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2024 18:26:00 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Readability with Callouts in Hugo</title>
+      <link>https://deuts.org/p/hugo-callouts/</link>
+      <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-callouts/</guid>
+      <description>Discover how callouts can enhance readability and engagement by highlighting key information in notes or web content. Learn how to implement custom callouts in Hugo using shortcodes, making important details more accessible and memorable for your readers.</description>
+    </item>
+    <item>
+      <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
+      <link>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</link>
+      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
+      <guid>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</guid>
+      <description>Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.</description>
+    </item>
+    <item>
+      <title>Hugo and Obsidian workflow</title>
+      <link>https://deuts.org/p/hugo-and-obsidian-workflow/</link>
+      <pubDate>Tue, 12 Nov 2024 21:44:50 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-and-obsidian-workflow/</guid>
+      <description>Highlights of issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.</description>
+    </item>
+    <item>
+      <title>How to install Hugo in a Linux VPS</title>
+      <link>https://deuts.org/p/hugo-linux-vps/</link>
+      <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-linux-vps/</guid>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
+    </item>
+  </channel>
+</rss>
