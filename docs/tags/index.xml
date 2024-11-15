@@ -6,27 +6,34 @@
     <description>Recent content in Tags on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 21:46:40 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 08:11:44 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authentication</title>
-      <link>https://deuts.org/tag/authentication/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
-      <guid>https://deuts.org/tag/authentication/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Caddy</title>
       <link>https://deuts.org/tag/caddy/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
       <guid>https://deuts.org/tag/caddy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloudflare</title>
+      <link>https://deuts.org/tag/cloudflare/</link>
+      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
+      <guid>https://deuts.org/tag/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
       <link>https://deuts.org/tag/docker/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
       <guid>https://deuts.org/tag/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authentication</title>
+      <link>https://deuts.org/tag/authentication/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/tag/authentication/</guid>
       <description></description>
     </item>
     <item>
@@ -188,13 +195,6 @@
       <link>https://deuts.org/tag/nextcloud/</link>
       <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
       <guid>https://deuts.org/tag/nextcloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloudflare</title>
-      <link>https://deuts.org/tag/cloudflare/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/tag/cloudflare/</guid>
       <description></description>
     </item>
     <item>
