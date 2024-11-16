@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet on Deuts Log</title>
+    <link>https://deuts.org/t/internet/</link>
+    <description>Recent content in Internet on Deuts Log</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:15:54 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The PLDT Horror: 72 Hours (and Counting) Without Internet</title>
+      <link>https://deuts.org/p/pldt-no-internet-downtime/</link>
+      <pubDate>Sat, 16 Nov 2024 09:15:54 +0800</pubDate>
+      <guid>https://deuts.org/p/pldt-no-internet-downtime/</guid>
+      <description>It&amp;#39;s been 72 hours without internet at home, and PLDT&amp;#39;s response has been nothing short of frustrating. From an initial promise of a 36-hour restoration to delays upon delays, this post dives into the reality of dealing with their lackluster service in Salcedo Village, Makati.</description>
+    </item>
+  </channel>
+</rss>
