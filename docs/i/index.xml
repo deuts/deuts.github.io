@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pages on Deuts Log</title>
-    <link>https://deuts.org/pages/</link>
-    <description>Recent content in Pages on Deuts Log</description>
+    <title>Deuts Log Pages on Deuts Log</title>
+    <link>https://deuts.org/i/</link>
+    <description>Recent content in Deuts Log Pages on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://deuts.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/i/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://deuts.org/i/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0800</pubDate>
       <guid>https://deuts.org/i/about/</guid>
       <description>Curious about the story behind the site? Discover who we are, what we do, and why we do it. It&amp;#39;s more than just a page—it&amp;#39;s a peek into our journey and passion.</description>
     </item>
     <item>
       <title>Contact</title>
       <link>https://deuts.org/i/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0800</pubDate>
       <guid>https://deuts.org/i/contact/</guid>
       <description>&lt;form id=&#34;fs-frm&#34; name=&#34;simple-contact-form&#34; accept-charset=&#34;utf-8&#34; action=&#34;https://formspree.io/f/xleyjlpp&#34; method=&#34;post&#34;&gt;
   &lt;fieldset id=&#34;fs-frm-inputs&#34;&gt;

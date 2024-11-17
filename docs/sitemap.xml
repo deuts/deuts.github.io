@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://deuts.org/i/about/</loc>
+    <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
@@ -10,6 +11,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
+    <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/search/</loc>
   </url><url>
@@ -99,6 +101,9 @@
   </url><url>
     <loc>https://deuts.org/t/linux/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/i/</loc>
+    <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/power-query/</loc>
     <lastmod>2024-03-19T21:23:57+08:00</lastmod>
@@ -327,7 +332,5 @@
   </url><url>
     <loc>https://deuts.org/p/blood-vs-name/</loc>
     <lastmod>2022-10-06T13:01:14+01:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/pages/</loc>
   </url>
 </urlset>
