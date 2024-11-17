@@ -10,16 +10,16 @@
     <atom:link href="https://deuts.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://deuts.org/a/</link>
+      <link>https://deuts.org/i/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deuts.org/a/</guid>
+      <guid>https://deuts.org/i/about/</guid>
       <description>Curious about the story behind the site? Discover who we are, what we do, and why we do it. It&amp;#39;s more than just a page—it&amp;#39;s a peek into our journey and passion.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://deuts.org/c/</link>
+      <link>https://deuts.org/i/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deuts.org/c/</guid>
+      <guid>https://deuts.org/i/contact/</guid>
       <description>&lt;form id=&#34;fs-frm&#34; name=&#34;simple-contact-form&#34; accept-charset=&#34;utf-8&#34; action=&#34;https://formspree.io/f/xleyjlpp&#34; method=&#34;post&#34;&gt;
   &lt;fieldset id=&#34;fs-frm-inputs&#34;&gt;
     &lt;label for=&#34;full-name&#34;&gt;Name&lt;/label&gt;

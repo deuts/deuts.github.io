@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://deuts.org/a/</loc>
+    <loc>https://deuts.org/i/about/</loc>
   </url><url>
     <loc>https://deuts.org/p/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/</loc>
+    <loc>https://deuts.org/i/archive/</loc>
   </url><url>
-    <loc>https://deuts.org/c/</loc>
+    <loc>https://deuts.org/i/contact/</loc>
   </url><url>
-    <loc>https://deuts.org/f/</loc>
+    <loc>https://deuts.org/i/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
@@ -327,5 +327,7 @@
   </url><url>
     <loc>https://deuts.org/p/blood-vs-name/</loc>
     <lastmod>2022-10-06T13:01:14+01:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/pages/</loc>
   </url>
 </urlset>
