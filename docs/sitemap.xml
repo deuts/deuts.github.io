@@ -5,7 +5,7 @@
     <loc>https://deuts.org/a/</loc>
   </url><url>
     <loc>https://deuts.org/p/</loc>
-    <lastmod>2024-11-16T09:15:54+08:00</lastmod>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/</loc>
   </url><url>
@@ -14,15 +14,30 @@
     <loc>https://deuts.org/f/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-16T09:15:54+08:00</lastmod>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/resilio-sync-reliability-issues/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/obsidian/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/resilio-sync/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/sync/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/syncthing/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/internet/</loc>
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/pldt/</loc>
-    <lastmod>2024-11-16T09:15:54+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/</loc>
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/pldt-no-internet-downtime/</loc>
@@ -71,9 +86,6 @@
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/github/</loc>
-    <lastmod>2024-11-13T23:44:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/obsidian/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/wordpress/</loc>

@@ -6,8 +6,15 @@
     <description>Recent content in All Posts on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 09:15:54 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 17:49:54 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</title>
+      <link>https://deuts.org/p/resilio-sync-reliability-issues/</link>
+      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
+      <guid>https://deuts.org/p/resilio-sync-reliability-issues/</guid>
+      <description>After encountering a &amp;#34;No tracker connection available&amp;#34; issue, I’m reevaluating Resilio Sync’s reliability and whether my decision to use it over Syncthing was the right one.</description>
+    </item>
     <item>
       <title>The PLDT Horror: 72 Hours (and Counting) Without Internet</title>
       <link>https://deuts.org/p/pldt-no-internet-downtime/</link>
