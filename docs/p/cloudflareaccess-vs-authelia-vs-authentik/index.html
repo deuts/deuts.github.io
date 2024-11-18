@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>I Choose Cloudflare Access over Authelia/Authentik | Deuts Log</title>
+<meta name="keywords" content="cloudflare, authentication, authelia, authentik">
+<meta name="description" content="A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.3aef92d4c7098e8b70dab13c2b408d36e052d564a95f8f242e58f9786b223409.css" integrity="sha256-Ou&#43;S1McJjotw2rE8K0CNNuBS1WSpX48kLlj5eGsiNAk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"><meta property="og:url" content="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="I Choose Cloudflare Access over Authelia/Authentik">
+  <meta property="og:description" content="A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-18T09:37:51+08:00">
+    <meta property="article:modified_time" content="2024-11-18T09:37:51+08:00">
+    <meta property="article:tag" content="Cloudflare">
+    <meta property="article:tag" content="Authentication">
+    <meta property="article:tag" content="Authelia">
+    <meta property="article:tag" content="Authentik">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="I Choose Cloudflare Access over Authelia/Authentik">
+<meta name="twitter:description" content="A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "I Choose Cloudflare Access over Authelia/Authentik",
+      "item": "https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "I Choose Cloudflare Access over Authelia/Authentik",
+  "name": "I Choose Cloudflare Access over Authelia\/Authentik",
+  "description": "A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.",
+  "keywords": [
+    "cloudflare", "authentication", "authelia", "authentik"
+  ],
+  "articleBody": "When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.\nThe Complexity of Authelia and Authentik Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:\nComplex Setup: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance. Server Overhead: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance. Single Point of Failure: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects. Time Investment: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects. Why I Chose Cloudflare Access Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:\nCentralized Management: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place. Straightforward Setup: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running. Domain-Level Implementation: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient. Built-In Resilience: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions. Seamless Integration: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management. Zero Trust Security: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications. Bonus Benefits: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance. Why It Might Be Right for You If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.\n",
+  "wordCount" : "390",
+  "inLanguage": "en",
+  "datePublished": "2024-11-18T09:37:51+08:00",
+  "dateModified": "2024-11-18T09:37:51+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/i/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/t/" title="Tags List">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/i/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      I Choose Cloudflare Access over Authelia/Authentik
+    </h1>
+    <div class="post-description">
+      A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.
+    </div>
+    <div class="post-meta"><span title='2024-11-18 09:37:51 +0800 PST'>November 18, 2024</span>&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/cloudflareaccess-over-authelia-authentik/index.md.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+  <div class="post-content"><p>When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.</p>
+<h3 id="the-complexity-of-authelia-and-authentik">The Complexity of Authelia and Authentik<a hidden class="anchor" aria-hidden="true" href="#the-complexity-of-authelia-and-authentik">#</a></h3>
+<p>Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:</p>
+<ol>
+<li><strong>Complex Setup</strong>: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance.</li>
+<li><strong>Server Overhead</strong>: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance.</li>
+<li><strong>Single Point of Failure</strong>: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects.</li>
+<li><strong>Time Investment</strong>: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects.</li>
+</ol>
+<h3 id="why-i-chose-cloudflare-access">Why I Chose Cloudflare Access<a hidden class="anchor" aria-hidden="true" href="#why-i-chose-cloudflare-access">#</a></h3>
+<p>Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:</p>
+<ul>
+<li><strong>Centralized Management</strong>: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place.</li>
+<li><strong>Straightforward Setup</strong>: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running.</li>
+<li><strong>Domain-Level Implementation</strong>: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient.</li>
+<li><strong>Built-In Resilience</strong>: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions.</li>
+<li><strong>Seamless Integration</strong>: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management.</li>
+<li><strong>Zero Trust Security</strong>: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications.</li>
+<li><strong>Bonus Benefits</strong>: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance.</li>
+</ul>
+<h3 id="why-it-might-be-right-for-you">Why It Might Be Right for You<a hidden class="anchor" aria-hidden="true" href="#why-it-might-be-right-for-you">#</a></h3>
+<p>If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/t/cloudflare/">Cloudflare</a></li>
+      <li><a href="https://deuts.org/t/authentication/">Authentication</a></li>
+      <li><a href="https://deuts.org/t/authelia/">Authelia</a></li>
+      <li><a href="https://deuts.org/t/authentik/">Authentik</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://deuts.org/p/resilio-sync-reliability-issues/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a><footer class="footer">
+	<span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span>
+	
+             · 
+                <span><a href="/i/about/">About</a></span>
+             · 
+                <span><a href="/p/">All Posts</a></span>
+             · 
+                <span><a href="/i/contact/">Contact</a></span>
+             · 
+                <span><a href="/p/index.xml">Feed</a></span>
+             · 
+                <span><a href="/sitemap.xml">Sitemap</a></span>
+            
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

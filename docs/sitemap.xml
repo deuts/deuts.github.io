@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -16,7 +16,25 @@
     <loc>https://deuts.org/i/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/authelia/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/authentication/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/authentik/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/cloudflare/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/</loc>
+    <lastmod>2024-11-18T09:37:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/resilio-sync-reliability-issues/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
@@ -33,9 +51,6 @@
     <loc>https://deuts.org/t/syncthing/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/internet/</loc>
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
@@ -48,17 +63,11 @@
     <loc>https://deuts.org/t/caddy/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/cloudflare/</loc>
-    <lastmod>2024-11-15T08:11:44+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/docker/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/authentication/</loc>
-    <lastmod>2024-11-14T21:46:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/docker-caddy-basic-auth/</loc>
     <lastmod>2024-11-14T21:46:40+08:00</lastmod>

@@ -6,8 +6,15 @@
     <description>Recent content in All Posts on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2024 17:49:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:37:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Choose Cloudflare Access over Authelia/Authentik</title>
+      <link>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</link>
+      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
+      <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
+      <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
+    </item>
     <item>
       <title>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</title>
       <link>https://deuts.org/p/resilio-sync-reliability-issues/</link>

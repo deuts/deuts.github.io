@@ -6,8 +6,15 @@
     <description>Recent content in Cloudflare on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 08:11:44 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:37:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Choose Cloudflare Access over Authelia/Authentik</title>
+      <link>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</link>
+      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
+      <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
+      <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
+    </item>
     <item>
       <title>Custom Caddy Docker image with Cloudflare DNS challenge support</title>
       <link>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</link>
