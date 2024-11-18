@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deuts Log Pages on Deuts Log</title>
-    <link>https://deuts.org/i/</link>
+    <link>https://deuts.org/i/index.xml</link>
     <description>Recent content in Deuts Log Pages on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
