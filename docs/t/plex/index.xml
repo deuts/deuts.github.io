@@ -6,22 +6,20 @@
     <description>Recent content in Plex on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Fri, 21 Oct 2022 21:28:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/plex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
       <link>https://deuts.org/p/streaming-movies-tv-shows-kodi/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>
     <item>
       <title>Can This Old Laptop Handle Plex?</title>
       <link>https://deuts.org/p/can-old-laptop-handle-plex/</link>
-      <pubDate>Thu, 20 Oct 2022 22:14:49 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Thu, 20 Oct 2022 22:14:49 +0800</pubDate>
       <guid>https://deuts.org/p/can-old-laptop-handle-plex/</guid>
       <description>A 7th-gen i5 laptop should easily handle Plex, even for 4K streams. A low-spec Beelink S1 Mini PC (Celeron N3450) runs Plex and several Docker services without issue.</description>
     </item>

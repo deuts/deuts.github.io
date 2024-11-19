@@ -6,29 +6,27 @@
     <description>Recent content in Cloudflare on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Mon, 18 Nov 2024 09:37:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/cloudflare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Choose Cloudflare Access over Authelia/Authentik</title>
       <link>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
       <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
       <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
     </item>
     <item>
       <title>Custom Caddy Docker image with Cloudflare DNS challenge support</title>
       <link>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</link>
-      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
       <guid>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</guid>
       <description>Configure a custom Caddy Docker image to use Cloudflare’s DNS challenge, securing HTTPS without exposing ports 80/443, ideal for firewall, CGNAT, and load-balancer setups.</description>
     </item>
     <item>
       <title>Checklist of things to do on a new VPS server</title>
       <link>https://deuts.org/p/new-vps-checklist/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/p/new-vps-checklist/</guid>
       <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
     </item>

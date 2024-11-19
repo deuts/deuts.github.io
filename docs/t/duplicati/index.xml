@@ -6,22 +6,20 @@
     <description>Recent content in Duplicati on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Sun, 13 Aug 2023 16:40:41 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/duplicati/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Checklist of things to do on a new VPS server</title>
       <link>https://deuts.org/p/new-vps-checklist/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/p/new-vps-checklist/</guid>
       <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
     </item>
     <item>
       <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
       <link>https://deuts.org/p/joplin-npm-duplicati-docker/</link>
-      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/p/joplin-npm-duplicati-docker/</guid>
       <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
     </item>

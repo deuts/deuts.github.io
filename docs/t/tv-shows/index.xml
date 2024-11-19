@@ -6,29 +6,27 @@
     <description>Recent content in Tv-Shows on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Sun, 23 Jul 2023 19:20:35 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/tv-shows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Underrated TV Shows of 2022 Et Al</title>
       <link>https://deuts.org/p/underrated-tv-shows-2022-et-al/</link>
-      <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate>
       <guid>https://deuts.org/p/underrated-tv-shows-2022-et-al/</guid>
       <description>These underrated TV shows from 2022 are worth checking out. The True Story of the LA Lakers dives into the history of the Lakers with rich stories and insightful interviews.</description>
     </item>
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
       <link>https://deuts.org/p/streaming-movies-tv-shows-kodi/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>
     <item>
       <title>TV Shows I May Consider Watching in the Future</title>
       <link>https://deuts.org/p/tv-shows-consider-watching-future/</link>
-      <pubDate>Fri, 21 Oct 2022 12:24:06 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 21 Oct 2022 12:24:06 +0800</pubDate>
       <guid>https://deuts.org/p/tv-shows-consider-watching-future/</guid>
       <description>Shows I removed from Sonarr but may follow again.</description>
     </item>

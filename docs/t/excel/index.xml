@@ -6,36 +6,34 @@
     <description>Recent content in Excel on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Fri, 01 Sep 2023 08:58:29 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/excel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analysis with Python for Excel Users</title>
       <link>https://deuts.org/p/data-analysis-python-excel/</link>
-      <pubDate>Fri, 01 Sep 2023 08:58:29 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 01 Sep 2023 08:58:29 +0800</pubDate>
       <guid>https://deuts.org/p/data-analysis-python-excel/</guid>
       <description>The post shares the author’s intention to learn Python to reinforce their data analysis skills and invites others to join in starting with a 4-hour free course on YouTube.</description>
     </item>
     <item>
       <title>The Underrated TV Shows of 2022 Et Al</title>
       <link>https://deuts.org/p/underrated-tv-shows-2022-et-al/</link>
-      <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate>
       <guid>https://deuts.org/p/underrated-tv-shows-2022-et-al/</guid>
       <description>These underrated TV shows from 2022 are worth checking out. The True Story of the LA Lakers dives into the history of the Lakers with rich stories and insightful interviews.</description>
     </item>
     <item>
       <title>Notion vs Airtable</title>
       <link>https://deuts.org/p/notion-vs-airtable/</link>
-      <pubDate>Fri, 21 Oct 2022 09:21:08 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 21 Oct 2022 09:21:08 +0800</pubDate>
       <guid>https://deuts.org/p/notion-vs-airtable/</guid>
       <description>Notion is primarily a note-taking tool with basic database functions, while Airtable is more suited for databases and workflows with a powerful API for integrations, including Excel.</description>
     </item>
     <item>
       <title>Excel Stockhistory Function Pro Tips</title>
       <link>https://deuts.org/p/excel-stockhistory-function-pro-tips/</link>
-      <pubDate>Wed, 12 Oct 2022 14:08:44 +0100</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Wed, 12 Oct 2022 14:08:44 +0100</pubDate>
       <guid>https://deuts.org/p/excel-stockhistory-function-pro-tips/</guid>
       <description>Better late than never! The STOCKHISTORY function is a game-changer for tracking your stock portfolio directly in Excel. It’s like having a personal financial assistant that never sleeps!</description>
     </item>

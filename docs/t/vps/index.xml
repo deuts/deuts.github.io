@@ -6,22 +6,20 @@
     <description>Recent content in Vps on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
-    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Sat, 15 Oct 2022 08:41:17 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/vps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contabo Price Increase 2022</title>
       <link>https://deuts.org/p/contabo-price-increase-2022/</link>
-      <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate>
       <guid>https://deuts.org/p/contabo-price-increase-2022/</guid>
       <description>Contabo is raising my fee from EUR 4.99 to EUR 5.99 starting November 1. I&amp;#39;ll continue using it for my Plex and other services, but will check for Black Friday deals.</description>
     </item>
     <item>
       <title>Oracle Cloud Free Tier</title>
       <link>https://deuts.org/p/oracle-cloud-free-tier/</link>
-      <pubDate>Fri, 14 Oct 2022 08:45:44 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
+      <pubDate>Fri, 14 Oct 2022 08:45:44 +0800</pubDate>
       <guid>https://deuts.org/p/oracle-cloud-free-tier/</guid>
       <description>A tutorial on Oracle Cloud Free Tier, but be cautious: trust issues with Oracle and potential Docker compatibility problems due to ARM architecture. Also, encountered the &amp;#34;Out of capacity&amp;#34; error when signing up.</description>
     </item>
