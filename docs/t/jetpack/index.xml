@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wordpress on Deuts Log</title>
-    <link>https://deuts.org/t/wordpress/</link>
-    <description>Recent content in Wordpress on Deuts Log</description>
+    <title>Jetpack on Deuts Log</title>
+    <link>https://deuts.org/t/jetpack/</link>
+    <description>Recent content in Jetpack on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Nov 2024 17:55:00 +0800</lastBuildDate>
-    <atom:link href="https://deuts.org/t/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deuts.org/t/jetpack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Google Analytics Alternatives: Why I Chose Medama</title>
       <link>https://deuts.org/p/medama-vs-google-analytics/</link>
       <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
       <guid>https://deuts.org/p/medama-vs-google-analytics/</guid>
       <description>Looking for a Google Analytics alternative, I explored several options and ultimately settled on Medama for its simplicity, lightweight nature, and ease of use. It provides essential insights without the complexity of other analytics tools.</description>
-    </item>
-    <item>
-      <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
-      <link>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</link>
-      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
-      <guid>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</guid>
-      <description>Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.</description>
     </item>
   </channel>
 </rss>

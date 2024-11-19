@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -16,7 +16,37 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/medama-vs-google-analytics/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/google-analytics/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/jetpack/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/matomo/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/medama/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/piwik/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/umami/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/web-analytics/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/wordpress/</loc>
+    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/data-analysis/</loc>
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
@@ -34,9 +64,6 @@
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/power-query/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/</loc>
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/authelia/</loc>
@@ -115,9 +142,6 @@
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/github/</loc>
-    <lastmod>2024-11-13T23:44:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/wordpress/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/git-repository-to-github/</loc>
