@@ -6,12 +6,15 @@
     <description>Recent content in Android on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Fri, 04 Nov 2022 12:11:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yet another iPhone vs. Android post</title>
       <link>https://deuts.org/p/iphone-vs-android/</link>
-      <pubDate>Fri, 04 Nov 2022 12:11:31 +0800</pubDate>
+      <pubDate>Fri, 04 Nov 2022 12:11:31 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/iphone-vs-android/</guid>
       <description>This discusses why I prefer Android over Apple, highlighting key features that are indispensable to me, such as dual SIM, torrenting apps, Syncthing, USB Type-C, customizable home screens, expandable storage, and dual accounts/profile. I also critique iMessage and Airdrop, explaining their preferences for alternatives.</description>
     </item>

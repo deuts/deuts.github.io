@@ -6,12 +6,15 @@
     <description>Recent content in Sync on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Sun, 17 Nov 2024 17:49:54 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/sync/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</title>
       <link>https://deuts.org/p/resilio-sync-reliability-issues/</link>
-      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
+      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/resilio-sync-reliability-issues/</guid>
       <description>After encountering a &amp;#34;No tracker connection available&amp;#34; issue, I’m reevaluating Resilio Sync’s reliability and whether my decision to use it over Syncthing was the right one.</description>
     </item>

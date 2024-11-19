@@ -6,26 +6,29 @@
     <description>Recent content in Power-Query on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Tue, 19 Nov 2024 09:19:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/power-query/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Query Calendar Table</title>
       <link>https://deuts.org/p/power-query-calendar-table/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/power-query-calendar-table/</guid>
       <description>Discover the importance of a calendar table in data modeling and how it simplifies date-based analysis, advanced calculations, and filtering. Struggling with DAX bugs? Power Query offers a robust alternative for generating a dynamic calendar table effortlessly.</description>
     </item>
     <item>
       <title>Using List.Generate to Generate Running Total Column in Power Query</title>
       <link>https://deuts.org/p/list-generate-running-total/</link>
-      <pubDate>Tue, 19 Mar 2024 21:23:57 +0800</pubDate>
+      <pubDate>Tue, 19 Mar 2024 21:23:57 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/list-generate-running-total/</guid>
       <description>Here’s a quicker, cleaner way to generate a running total in Power Query—no need for complex formulas or multiple steps! With this streamlined approach, you can set up a cumulative total in record time, saving both processing power and patience. Say goodbye to endless column configurations and hello to efficiency!</description>
     </item>
     <item>
       <title>Power Query Table.Skip While Row Is Blank</title>
       <link>https://deuts.org/p/power-query-table-skip-while-row-is-blank/</link>
-      <pubDate>Sun, 23 Jul 2023 17:36:50 +0800</pubDate>
+      <pubDate>Sun, 23 Jul 2023 17:36:50 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/power-query-table-skip-while-row-is-blank/</guid>
       <description>This post explains how to use the Table.Skip function in Power Query to dynamically skip rows with null values in a specified column, making the process flexible across files.</description>
     </item>

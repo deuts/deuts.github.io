@@ -6,19 +6,22 @@
     <description>Recent content in Authentication on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Mon, 18 Nov 2024 09:37:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/authentication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Choose Cloudflare Access over Authelia/Authentik</title>
       <link>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
+      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
       <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
     </item>
     <item>
       <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
       <link>https://deuts.org/p/docker-caddy-basic-auth/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/docker-caddy-basic-auth/</guid>
       <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
     </item>

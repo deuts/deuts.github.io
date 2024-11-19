@@ -6,12 +6,15 @@
     <description>Recent content in Emby on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Fri, 21 Oct 2022 21:28:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/emby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
       <link>https://deuts.org/p/streaming-movies-tv-shows-kodi/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
+      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>

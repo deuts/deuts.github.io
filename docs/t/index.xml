@@ -6,517 +6,79 @@
     <description>Recent content in Tags List on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Tue, 19 Nov 2024 17:55:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google-Analytics</title>
       <link>https://deuts.org/t/google-analytics/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/google-analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Jetpack</title>
       <link>https://deuts.org/t/jetpack/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/jetpack/</guid>
       <description></description>
     </item>
     <item>
       <title>Matomo</title>
       <link>https://deuts.org/t/matomo/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/matomo/</guid>
       <description></description>
     </item>
     <item>
       <title>Medama</title>
       <link>https://deuts.org/t/medama/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/medama/</guid>
       <description></description>
     </item>
     <item>
       <title>Piwik</title>
       <link>https://deuts.org/t/piwik/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/piwik/</guid>
       <description></description>
     </item>
     <item>
       <title>Umami</title>
       <link>https://deuts.org/t/umami/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/umami/</guid>
       <description></description>
     </item>
     <item>
       <title>Web-Analytics</title>
       <link>https://deuts.org/t/web-analytics/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/web-analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Wordpress</title>
       <link>https://deuts.org/t/wordpress/</link>
-      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/wordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Analysis</title>
       <link>https://deuts.org/t/data-analysis/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Modeling</title>
       <link>https://deuts.org/t/data-modeling/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/t/data-modeling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dax</title>
-      <link>https://deuts.org/t/dax/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
-      <guid>https://deuts.org/t/dax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Power-Bi</title>
-      <link>https://deuts.org/t/power-bi/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
-      <guid>https://deuts.org/t/power-bi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Power-Query</title>
-      <link>https://deuts.org/t/power-query/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
-      <guid>https://deuts.org/t/power-query/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Authelia</title>
-      <link>https://deuts.org/t/authelia/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
-      <guid>https://deuts.org/t/authelia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Authentication</title>
-      <link>https://deuts.org/t/authentication/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
-      <guid>https://deuts.org/t/authentication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Authentik</title>
-      <link>https://deuts.org/t/authentik/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
-      <guid>https://deuts.org/t/authentik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloudflare</title>
-      <link>https://deuts.org/t/cloudflare/</link>
-      <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
-      <guid>https://deuts.org/t/cloudflare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Obsidian</title>
-      <link>https://deuts.org/t/obsidian/</link>
-      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
-      <guid>https://deuts.org/t/obsidian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resilio-Sync</title>
-      <link>https://deuts.org/t/resilio-sync/</link>
-      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
-      <guid>https://deuts.org/t/resilio-sync/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sync</title>
-      <link>https://deuts.org/t/sync/</link>
-      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
-      <guid>https://deuts.org/t/sync/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syncthing</title>
-      <link>https://deuts.org/t/syncthing/</link>
-      <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
-      <guid>https://deuts.org/t/syncthing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Internet</title>
-      <link>https://deuts.org/t/internet/</link>
-      <pubDate>Sat, 16 Nov 2024 09:15:54 +0800</pubDate>
-      <guid>https://deuts.org/t/internet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pldt</title>
-      <link>https://deuts.org/t/pldt/</link>
-      <pubDate>Sat, 16 Nov 2024 09:15:54 +0800</pubDate>
-      <guid>https://deuts.org/t/pldt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Caddy</title>
-      <link>https://deuts.org/t/caddy/</link>
-      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
-      <guid>https://deuts.org/t/caddy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>https://deuts.org/t/docker/</link>
-      <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
-      <guid>https://deuts.org/t/docker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>https://deuts.org/t/security/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
-      <guid>https://deuts.org/t/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Callout</title>
-      <link>https://deuts.org/t/callout/</link>
-      <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
-      <guid>https://deuts.org/t/callout/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://deuts.org/t/hugo/</link>
-      <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
-      <guid>https://deuts.org/t/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcode</title>
-      <link>https://deuts.org/t/shortcode/</link>
-      <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
-      <guid>https://deuts.org/t/shortcode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blogging</title>
-      <link>https://deuts.org/t/blogging/</link>
-      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
-      <guid>https://deuts.org/t/blogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Git</title>
-      <link>https://deuts.org/t/git/</link>
-      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
-      <guid>https://deuts.org/t/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Github</title>
-      <link>https://deuts.org/t/github/</link>
-      <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
-      <guid>https://deuts.org/t/github/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://deuts.org/t/linux/</link>
-      <pubDate>Tue, 12 Nov 2024 21:44:50 +0800</pubDate>
-      <guid>https://deuts.org/t/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Samba</title>
-      <link>https://deuts.org/t/samba/</link>
-      <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
-      <guid>https://deuts.org/t/samba/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Selfhosted</title>
-      <link>https://deuts.org/t/selfhosted/</link>
-      <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
-      <guid>https://deuts.org/t/selfhosted/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Selfhosting</title>
-      <link>https://deuts.org/t/selfhosting/</link>
-      <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
-      <guid>https://deuts.org/t/selfhosting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Todo</title>
-      <link>https://deuts.org/t/todo/</link>
-      <pubDate>Sun, 25 Feb 2024 22:19:57 +0800</pubDate>
-      <guid>https://deuts.org/t/todo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vikunja</title>
-      <link>https://deuts.org/t/vikunja/</link>
-      <pubDate>Sun, 25 Feb 2024 22:19:57 +0800</pubDate>
-      <guid>https://deuts.org/t/vikunja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>https://deuts.org/t/food/</link>
-      <pubDate>Tue, 05 Sep 2023 07:58:13 +0800</pubDate>
-      <guid>https://deuts.org/t/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diet</title>
-      <link>https://deuts.org/t/diet/</link>
-      <pubDate>Fri, 01 Sep 2023 15:17:55 +0800</pubDate>
-      <guid>https://deuts.org/t/diet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Intermittent-Fasting</title>
-      <link>https://deuts.org/t/intermittent-fasting/</link>
-      <pubDate>Fri, 01 Sep 2023 15:17:55 +0800</pubDate>
-      <guid>https://deuts.org/t/intermittent-fasting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Excel</title>
-      <link>https://deuts.org/t/excel/</link>
-      <pubDate>Fri, 01 Sep 2023 08:58:29 +0800</pubDate>
-      <guid>https://deuts.org/t/excel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://deuts.org/t/python/</link>
-      <pubDate>Fri, 01 Sep 2023 08:58:29 +0800</pubDate>
-      <guid>https://deuts.org/t/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nextcloud</title>
-      <link>https://deuts.org/t/nextcloud/</link>
-      <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
-      <guid>https://deuts.org/t/nextcloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Debian</title>
-      <link>https://deuts.org/t/debian/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/t/debian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Duplicati</title>
-      <link>https://deuts.org/t/duplicati/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/t/duplicati/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portainer</title>
-      <link>https://deuts.org/t/portainer/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/t/portainer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubuntu</title>
-      <link>https://deuts.org/t/ubuntu/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/t/ubuntu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vps-Hosting</title>
-      <link>https://deuts.org/t/vps-hosting/</link>
-      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
-      <guid>https://deuts.org/t/vps-hosting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tv-Shows</title>
-      <link>https://deuts.org/t/tv-shows/</link>
-      <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate>
-      <guid>https://deuts.org/t/tv-shows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chatgpt</title>
-      <link>https://deuts.org/t/chatgpt/</link>
-      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
-      <guid>https://deuts.org/t/chatgpt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mastodon</title>
-      <link>https://deuts.org/t/mastodon/</link>
-      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
-      <guid>https://deuts.org/t/mastodon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android</title>
-      <link>https://deuts.org/t/android/</link>
-      <pubDate>Fri, 04 Nov 2022 12:11:31 +0800</pubDate>
-      <guid>https://deuts.org/t/android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Apple</title>
-      <link>https://deuts.org/t/apple/</link>
-      <pubDate>Fri, 04 Nov 2022 12:11:31 +0800</pubDate>
-      <guid>https://deuts.org/t/apple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iphone</title>
-      <link>https://deuts.org/t/iphone/</link>
-      <pubDate>Fri, 04 Nov 2022 12:11:31 +0800</pubDate>
-      <guid>https://deuts.org/t/iphone/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bitcoin</title>
-      <link>https://deuts.org/t/bitcoin/</link>
-      <pubDate>Tue, 01 Nov 2022 21:50:15 +0800</pubDate>
-      <guid>https://deuts.org/t/bitcoin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crypto</title>
-      <link>https://deuts.org/t/crypto/</link>
-      <pubDate>Tue, 01 Nov 2022 21:50:15 +0800</pubDate>
-      <guid>https://deuts.org/t/crypto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joplin</title>
-      <link>https://deuts.org/t/joplin/</link>
-      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
-      <guid>https://deuts.org/t/joplin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Npm</title>
-      <link>https://deuts.org/t/npm/</link>
-      <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
-      <guid>https://deuts.org/t/npm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emby</title>
-      <link>https://deuts.org/t/emby/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
-      <guid>https://deuts.org/t/emby/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jellyfin</title>
-      <link>https://deuts.org/t/jellyfin/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
-      <guid>https://deuts.org/t/jellyfin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kodi</title>
-      <link>https://deuts.org/t/kodi/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
-      <guid>https://deuts.org/t/kodi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plex</title>
-      <link>https://deuts.org/t/plex/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
-      <guid>https://deuts.org/t/plex/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Websites</title>
-      <link>https://deuts.org/t/websites/</link>
-      <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
-      <guid>https://deuts.org/t/websites/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Airtable</title>
-      <link>https://deuts.org/t/airtable/</link>
-      <pubDate>Fri, 21 Oct 2022 09:21:08 +0800</pubDate>
-      <guid>https://deuts.org/t/airtable/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notion</title>
-      <link>https://deuts.org/t/notion/</link>
-      <pubDate>Fri, 21 Oct 2022 09:21:08 +0800</pubDate>
-      <guid>https://deuts.org/t/notion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shows</title>
-      <link>https://deuts.org/t/shows/</link>
-      <pubDate>Thu, 20 Oct 2022 15:15:07 +0800</pubDate>
-      <guid>https://deuts.org/t/shows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tv</title>
-      <link>https://deuts.org/t/tv/</link>
-      <pubDate>Thu, 20 Oct 2022 15:15:07 +0800</pubDate>
-      <guid>https://deuts.org/t/tv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hosting</title>
-      <link>https://deuts.org/t/hosting/</link>
-      <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate>
-      <guid>https://deuts.org/t/hosting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vps</title>
-      <link>https://deuts.org/t/vps/</link>
-      <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate>
-      <guid>https://deuts.org/t/vps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basketball</title>
-      <link>https://deuts.org/t/basketball/</link>
-      <pubDate>Fri, 14 Oct 2022 23:03:33 +0800</pubDate>
-      <guid>https://deuts.org/t/basketball/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Forex</title>
-      <link>https://deuts.org/t/forex/</link>
-      <pubDate>Fri, 14 Oct 2022 15:47:37 +0800</pubDate>
-      <guid>https://deuts.org/t/forex/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>https://deuts.org/t/music/</link>
-      <pubDate>Thu, 13 Oct 2022 08:50:47 +0800</pubDate>
-      <guid>https://deuts.org/t/music/</guid>
       <description></description>
     </item>
   </channel>

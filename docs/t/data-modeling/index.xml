@@ -6,12 +6,15 @@
     <description>Recent content in Data-Modeling on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Tue, 19 Nov 2024 09:19:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/data-modeling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Query Calendar Table</title>
       <link>https://deuts.org/p/power-query-calendar-table/</link>
-      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate>
+      <pubDate>Tue, 19 Nov 2024 09:19:01 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/power-query-calendar-table/</guid>
       <description>Discover the importance of a calendar table in data modeling and how it simplifies date-based analysis, advanced calculations, and filtering. Struggling with DAX bugs? Power Query offers a robust alternative for generating a dynamic calendar table effortlessly.</description>
     </item>

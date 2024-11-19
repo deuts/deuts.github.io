@@ -6,12 +6,15 @@
     <description>Recent content in Mastodon on Deuts Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
+    <managingEditor>jotuvillo@deuts.org (deuts)</managingEditor>
+    <webMaster>jotuvillo@deuts.org (deuts)</webMaster>
+    <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Mon, 12 Dec 2022 10:26:42 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/mastodon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Install Mastodon on Debian 11 Without Docker</title>
       <link>https://deuts.org/p/install-mastodon-debian-11-without-docker/</link>
-      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
+      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate><author>jotuvillo@deuts.org (deuts)</author>
       <guid>https://deuts.org/p/install-mastodon-debian-11-without-docker/</guid>
       <description>This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.</description>
     </item>
