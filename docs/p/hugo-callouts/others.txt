@@ -1,0 +1,3 @@
+{{< callout type="nothing" title="Nothing" >}}
+This is nothing!
+{{< /callout >}}
