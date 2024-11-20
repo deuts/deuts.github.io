@@ -55,7 +55,7 @@
   "keywords": [
     "hugo", "callout", "shortcode"
   ],
-  "articleBody": "Why use callouts Callouts in notes or web content are a secret weapon for enhancing readability and guiding the reader’s focus. By spotlighting key points such as tips, warnings, or action items, callouts break up dense text, making it visually engaging and easy to navigate—perfect for readers who like to skim for the good stuff. Think of them as visual pitstops for key information.\nBeyond making content look better, callouts help readers retain critical details. By emphasizing important points, callouts make it more likely that the message will stick long after the reader has moved on. Plus, they boost engagement, encouraging readers to linger on essential details they might otherwise miss. In short, callouts don’t just share information; they make it memorable.\nHugo support for callouts Hugo doesn’t come with built-in support for callouts, but there’s a simple solution—shortcodes! By using a shortcode, you can add custom callouts to your Hugo content with ease.\nHugo shortcode for callouts Thanks to Cosimameyer’s tutorial on implementing callouts in Hugo, we can use the following examples (with underlying shortcode syntax for download):\nInfo {{\u003c callout type=\"info\" title=\"Information\" \u003e}} This is an informational callout with default styling. {{\u003c /callout \u003e}} Information\rThis is an informational callout with default styling. Success {{\u003c callout type=\"success\" title=\"Success\" \u003e}} Tell me more about your success story. {{\u003c /callout \u003e}} Success\rTell me more about your success story. Error {{\u003c callout type=\"error\" title=\"Mistake\" \u003e}} You're making a big mistake! {{\u003c /callout \u003e}} Mistake\rYou're making a big mistake! Warning {{\u003c callout type=\"warning\" title=\"Caution\" \u003e}} You have been warned! {{\u003c /callout \u003e}} Caution\rYou have been warned! Others {{\u003c callout type=\"nothing\" title=\"Nothing\" \u003e}} This is nothing! {{\u003c /callout \u003e}} Nothing\rThis is nothing! ",
+  "articleBody": "Why use callouts Callouts in notes or web content are a secret weapon for enhancing readability and guiding the reader’s focus. By spotlighting key points such as tips, warnings, or action items, callouts break up dense text, making it visually engaging and easy to navigate—perfect for readers who like to skim for the good stuff. Think of them as visual pitstops for key information.\nBeyond making content look better, callouts help readers retain critical details. By emphasizing important points, callouts make it more likely that the message will stick long after the reader has moved on. Plus, they boost engagement, encouraging readers to linger on essential details they might otherwise miss. In short, callouts don’t just share information; they make it memorable.\nHugo support for callouts Hugo doesn’t come with built-in support for callouts, but there’s a simple solution—shortcodes! By using a shortcode, you can add custom callouts to your Hugo content with ease.\nHugo shortcode for callouts Thanks to Cosimameyer’s tutorial on implementing callouts in Hugo, we can use the following examples (with underlying shortcode syntax for download):\nInfo {{\u003c callout type=\"info\" title=\"Information\" \u003e}}\rThis is an informational callout with default styling.\r{{\u003c /callout \u003e}} Information\rThis is an informational callout with default styling. Success {{\u003c callout type=\"success\" title=\"Success\" \u003e}}\rTell me more about your success story.\r{{\u003c /callout \u003e}} Success\rTell me more about your success story. Error {{\u003c callout type=\"error\" title=\"Mistake\" \u003e}}\rYou're making a big mistake!\r{{\u003c /callout \u003e}} Mistake\rYou're making a big mistake! Warning {{\u003c callout type=\"warning\" title=\"Caution\" \u003e}}\rYou have been warned!\r{{\u003c /callout \u003e}} Caution\rYou have been warned! Others {{\u003c callout type=\"nothing\" title=\"Nothing\" \u003e}}\rThis is nothing!\r{{\u003c /callout \u003e}} Nothing\rThis is nothing! ",
   "wordCount" : "283",
   "inLanguage": "en",
   "datePublished": "2024-11-14T18:26:00+08:00",
@@ -163,12 +163,9 @@
 <h2 id="hugo-shortcode-for-callouts">Hugo shortcode for callouts<a hidden class="anchor" aria-hidden="true" href="#hugo-shortcode-for-callouts">#</a></h2>
 <p>Thanks to Cosimameyer’s <a href="https://cosimameyer.com/post/customized-callout-boxes-in-hugo/">tutorial</a> on implementing callouts in Hugo, we can use the following examples (with underlying shortcode syntax for download):</p>
 <h3 id="info">Info<a hidden class="anchor" aria-hidden="true" href="#info">#</a></h3>
-<div class="highlight">
-	<pre class="rawcode"><code>&#123;&#123;< callout type="info" title="Information" >&#125;&#125;
+<pre><code>{{< callout type="info" title="Information" >}}
 This is an informational callout with default styling.
-&#123;&#123;< /callout >&#125;&#125;
-</code></pre>
-</div>
+{{< /callout >}}</code></pre>  
 <div class="callout info">
   <div class="callout-content">
     <strong>Information</strong>
@@ -179,12 +176,9 @@ This is an informational callout with default styling.
 </div>
 <hr>
 <h3 id="success">Success<a hidden class="anchor" aria-hidden="true" href="#success">#</a></h3>
-<div class="highlight">
-	<pre class="rawcode"><code>&#123;&#123;< callout type="success" title="Success" >&#125;&#125;
+<pre><code>{{< callout type="success" title="Success" >}}
 Tell me more about your success story.
-&#123;&#123;< /callout >&#125;&#125;
-</code></pre>
-</div>
+{{< /callout >}}</code></pre>  
 <div class="callout success">
   <div class="callout-content">
     <strong>Success</strong>
@@ -195,12 +189,9 @@ Tell me more about your success story.
 </div>
 <hr>
 <h3 id="error">Error<a hidden class="anchor" aria-hidden="true" href="#error">#</a></h3>
-<div class="highlight">
-	<pre class="rawcode"><code>&#123;&#123;< callout type="error" title="Mistake" >&#125;&#125;
+<pre><code>{{< callout type="error" title="Mistake" >}}
 You're making a big mistake!
-&#123;&#123;< /callout >&#125;&#125;
-</code></pre>
-</div>
+{{< /callout >}}</code></pre>  
 <div class="callout error">
   <div class="callout-content">
     <strong>Mistake</strong>
@@ -211,12 +202,9 @@ You're making a big mistake!
 </div>
 <hr>
 <h3 id="warning">Warning<a hidden class="anchor" aria-hidden="true" href="#warning">#</a></h3>
-<div class="highlight">
-	<pre class="rawcode"><code>&#123;&#123;< callout type="warning" title="Caution" >&#125;&#125;
+<pre><code>{{< callout type="warning" title="Caution" >}}
 You have been warned!
-&#123;&#123;< /callout >&#125;&#125;
-</code></pre>
-</div>
+{{< /callout >}}</code></pre>  
 <div class="callout warning">
   <div class="callout-content">
     <strong>Caution</strong>
@@ -227,12 +215,9 @@ You have been warned!
 </div>
 <hr>
 <h3 id="others">Others<a hidden class="anchor" aria-hidden="true" href="#others">#</a></h3>
-<div class="highlight">
-	<pre class="rawcode"><code>&#123;&#123;< callout type="nothing" title="Nothing" >&#125;&#125;
+<pre><code>{{< callout type="nothing" title="Nothing" >}}
 This is nothing!
-&#123;&#123;< /callout >&#125;&#125;
-</code></pre>
-</div>
+{{< /callout >}}</code></pre>  
 <div class="callout nothing">
   <div class="callout-content">
     <strong>Nothing</strong>
