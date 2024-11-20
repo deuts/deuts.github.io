@@ -18,6 +18,27 @@
     <loc>https://deuts.org/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/t/database/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/docker/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/mysql/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/postgresql/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/sqlite/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/why-sqlite-docker/</loc>
+    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/p/black-friday-vps-deals/</loc>
     <lastmod>2024-11-19T20:31:27+08:00</lastmod>
   </url><url>
@@ -25,9 +46,6 @@
     <lastmod>2024-11-19T20:31:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/racknerd/</loc>
-    <lastmod>2024-11-19T20:31:27+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/all/</loc>
     <lastmod>2024-11-19T20:31:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/vps/</loc>
@@ -127,9 +145,6 @@
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</loc>
-    <lastmod>2024-11-15T08:11:44+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/docker/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/docker-caddy-basic-auth/</loc>
