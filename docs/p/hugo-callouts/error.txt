@@ -1,3 +1,0 @@
-{{< callout type="error" title="Mistake" >}}
-You're making a big mistake!
-{{< /callout >}}
