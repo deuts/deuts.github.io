@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
+    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -16,7 +16,16 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
+    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/hugo/</loc>
+    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/understanding-hugo-sections-index/</loc>
+    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/picsur-sharex-setup/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
@@ -31,9 +40,6 @@
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/sharex/</loc>
-    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/all/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/database/</loc>
@@ -172,9 +178,6 @@
     <lastmod>2024-11-14T18:26:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/hugo-callouts/</loc>
-    <lastmod>2024-11-14T18:26:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/hugo/</loc>
     <lastmod>2024-11-14T18:26:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/shortcode/</loc>

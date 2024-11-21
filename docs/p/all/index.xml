@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 20 Nov 2024 14:25:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 13:53:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Hugo’s Section Structure with `_index.md` Files</title>
+      <link>https://deuts.org/p/understanding-hugo-sections-index/</link>
+      <pubDate>Thu, 21 Nov 2024 13:53:32 +0800</pubDate>
+      <guid>https://deuts.org/p/understanding-hugo-sections-index/</guid>
+      <description>Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.</description>
+    </item>
     <item>
       <title>How to Set Up Picsur with ShareX for Seamless Screenshot Uploading</title>
       <link>https://deuts.org/p/picsur-sharex-setup/</link>
@@ -71,13 +78,6 @@
       <pubDate>Fri, 15 Nov 2024 08:11:44 +0800</pubDate>
       <guid>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</guid>
       <description>Configure a custom Caddy Docker image to use Cloudflare’s DNS challenge, securing HTTPS without exposing ports 80/443, ideal for firewall, CGNAT, and load-balancer setups.</description>
-    </item>
-    <item>
-      <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
-      <link>https://deuts.org/p/docker-caddy-basic-auth/</link>
-      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
-      <guid>https://deuts.org/p/docker-caddy-basic-auth/</guid>
-      <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
     </item>
   </channel>
 </rss>

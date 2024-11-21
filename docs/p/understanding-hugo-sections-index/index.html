@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Understanding Hugo’s Section Structure with `_index.md` Files | Deuts Log</title>
+<meta name="keywords" content="hugo">
+<meta name="description" content="Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/p/understanding-hugo-sections-index/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.873625204109802eb345046b0654e42d381302fcd0525c0d9ddc759b51721f49.css" integrity="sha256-hzYlIEEJgC6zRQRrBlTkLTgTAvzQUlwNndx1m1FyH0k=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/p/understanding-hugo-sections-index/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><script defer src="https://medama.deuts.org/script.js"></script>
+<link href="/fa/css/style.css" rel="stylesheet">
+<meta property="og:url" content="https://deuts.org/p/understanding-hugo-sections-index/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="Understanding Hugo’s Section Structure with `_index.md` Files">
+  <meta property="og:description" content="Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-21T13:53:32+08:00">
+    <meta property="article:modified_time" content="2024-11-21T13:53:32+08:00">
+    <meta property="article:tag" content="Hugo">
+    <meta property="og:image" content="https://deuts.org/hugo-content-structure.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://deuts.org/hugo-content-structure.jpg">
+<meta name="twitter:title" content="Understanding Hugo’s Section Structure with `_index.md` Files">
+<meta name="twitter:description" content="Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Understanding Hugo’s Section Structure with `_index.md` Files",
+  "name": "Understanding Hugo’s Section Structure with \u0060_index.md\u0060 Files",
+  "description": "Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.",
+  "keywords": [
+    "hugo"
+  ],
+  "articleBody": "Understanding Hugo’s Section Structure Hugo organizes content into sections based on directories that contain an _index.md file. This file acts as the homepage for the section and controls how content is displayed. Here’s how sections and subsections behave:\nSections in Hugo Parent Section (_index.md):\nA folder with an _index.md file defines a section. Hugo lists the content from this section, including content from any subsections (directories with their own _index.md files). Subsection (Subfolder with _index.md):\nA subfolder with its own _index.md file defines a subsection. The content from this subsection’s _index.md will appear as part of the parent section’s content. Example Structure content/staging ├── _index.md # Section 1 (Homepage) ├── new-post/index.md └── sample ├── _index.md # Section 2 (Homepage) ├── check.md └── post.md Section 1: Lists new-post/index.md and includes content from sample/_index.md (Section 2), displaying it as part of Section 1. Section 2: Lists content files check.md and post.md as part of its own content. Key Takeaways Parent sections list and display content from their subsections, including the content from the _index.md of the subsections. Subsections list their own content (like check.md, post.md) but not the content from the parent section. ",
+  "wordCount" : "191",
+  "inLanguage": "en",
+  "image":"https://deuts.org/hugo-content-structure.jpg","datePublished": "2024-11-21T13:53:32+08:00",
+  "dateModified": "2024-11-21T13:53:32+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/p/understanding-hugo-sections-index/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/i/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/t/all/" title="Topics List">
+                    <span>Topics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Understanding Hugo’s Section Structure with `_index.md` Files
+    </h1>
+    <div class="post-description">
+      Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.
+    </div>
+    <div class="post-meta"><span title='2024-11-21 13:53:32 +0800 PST'>November 21, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;191 words&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/hugo-content-structure/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" srcset="https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure_hu7905197746013788152.jpg 360w ,https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure_hu1382648475752472496.jpg 480w ,https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure_hu13737309834676230616.jpg 720w ,https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure.jpg 1075w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure.jpg" alt="" 
+            width="1075" height="614">
+        
+</figure>
+  <div class="post-content"><h2 id="understanding-hugos-section-structure"><strong>Understanding Hugo’s Section Structure</strong><a hidden class="anchor" aria-hidden="true" href="#understanding-hugos-section-structure">#</a></h2>
+<p>Hugo organizes content into sections based on directories that contain an <code>_index.md</code> file. This file acts as the homepage for the section and controls how content is displayed. Here&rsquo;s how sections and subsections behave:</p>
+<h3 id="sections-in-hugo"><strong>Sections in Hugo</strong><a hidden class="anchor" aria-hidden="true" href="#sections-in-hugo">#</a></h3>
+<ol>
+<li>
+<p><strong>Parent Section</strong> (<code>_index.md</code>):</p>
+<ul>
+<li>A folder with an <code>_index.md</code> file defines a section.</li>
+<li>Hugo lists the content from this section, including content from any subsections (directories with their own <code>_index.md</code> files).</li>
+</ul>
+</li>
+<li>
+<p><strong>Subsection</strong> (Subfolder with <code>_index.md</code>):</p>
+<ul>
+<li>A subfolder with its own <code>_index.md</code> file defines a subsection.</li>
+<li>The content from this subsection’s <code>_index.md</code> will <strong>appear as part of the parent section’s content</strong>.</li>
+</ul>
+</li>
+</ol>
+<h3 id="example-structure"><strong>Example Structure</strong><a hidden class="anchor" aria-hidden="true" href="#example-structure">#</a></h3>
+<pre tabindex="0"><code>content/staging
+├── _index.md        # Section 1 (Homepage)
+├── new-post/index.md
+└── sample
+    ├── _index.md    # Section 2 (Homepage)
+    ├── check.md
+    └── post.md
+</code></pre><ul>
+<li><strong>Section 1</strong>: Lists <code>new-post/index.md</code> and <strong>includes content</strong> from <code>sample/_index.md</code> (Section 2), displaying it as part of Section 1.</li>
+<li><strong>Section 2</strong>: Lists content files <code>check.md</code> and <code>post.md</code> as part of its own content.</li>
+</ul>
+<h3 id="key-takeaways"><strong>Key Takeaways</strong><a hidden class="anchor" aria-hidden="true" href="#key-takeaways">#</a></h3>
+<ul>
+<li><strong>Parent sections</strong> list <strong>and display</strong> content from their subsections, including the content from the <code>_index.md</code> of the subsections.</li>
+<li><strong>Subsections</strong> list their own content (like <code>check.md</code>, <code>post.md</code>) but not the content from the parent section.</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/t/hugo/">Hugo</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://deuts.org/p/picsur-sharex-setup/">
+    <span class="title">Next »</span>
+    <br>
+    <span>How to Set Up Picsur with ShareX for Seamless Screenshot Uploading</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a><footer class="footer">
+	<span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span>
+	
+             · 
+                <span><a href="/i/about/">About</a></span>
+             · 
+                <span><a href="/p/all/">All Posts</a></span>
+             · 
+                <span><a href="/i/contact/">Contact</a></span>
+             · 
+                <span><a href="/p/all/index.xml">Feed</a></span>
+             · 
+                <span><a href="/sitemap.xml">Sitemap</a></span>
+            
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
