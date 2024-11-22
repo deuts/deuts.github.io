@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Hugo vs. Jekyll: Which One Should You Choose? | Deuts Log</title>
+<meta name="keywords" content="hugo, jekyll, github">
+<meta name="description" content="Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/p/hugo-vs-jekyll/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.873625204109802eb345046b0654e42d381302fcd0525c0d9ddc759b51721f49.css" integrity="sha256-hzYlIEEJgC6zRQRrBlTkLTgTAvzQUlwNndx1m1FyH0k=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/p/hugo-vs-jekyll/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><script defer src="https://medama.deuts.org/script.js"></script>
+<link href="/fa/css/style.css" rel="stylesheet">
+<meta property="og:url" content="https://deuts.org/p/hugo-vs-jekyll/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="Hugo vs. Jekyll: Which One Should You Choose?">
+  <meta property="og:description" content="Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-22T14:09:57+08:00">
+    <meta property="article:modified_time" content="2024-11-22T14:09:57+08:00">
+    <meta property="article:tag" content="Hugo">
+    <meta property="article:tag" content="Jekyll">
+    <meta property="article:tag" content="Github">
+    <meta property="og:image" content="https://deuts.org/hugo-vs-jekyll.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://deuts.org/hugo-vs-jekyll.jpg">
+<meta name="twitter:title" content="Hugo vs. Jekyll: Which One Should You Choose?">
+<meta name="twitter:description" content="Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Hugo vs. Jekyll: Which One Should You Choose?",
+  "name": "Hugo vs. Jekyll: Which One Should You Choose?",
+  "description": "Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.",
+  "keywords": [
+    "hugo", "jekyll", "github"
+  ],
+  "articleBody": "Hugo vs. Jekyll: Which One Should You Use? If you’re deciding between Hugo and Jekyll for your static site generator, here’s a clear comparison to help you choose the right tool for your needs.\nCriteria Hugo Jekyll Performance Extremely fast; can rebuild thousands of pages in seconds. Great for large or frequently updated sites. Slower compared to Hugo, especially with large sites. Suitable for smaller, less frequently updated sites. Installation Simple: a single binary with no dependencies. Requires Ruby and Gems, which can be complex for non-Ruby users. Themes Flexible with advanced customization options and shortcodes. Templates use Go’s templating engine. Large library of pre-built themes. Uses Liquid templates, which are simpler but less powerful for advanced users. Markdown Support Native support with configurable front matter (TOML, YAML, JSON). Excellent for multilingual sites. Markdown support via plugins like kramdown. Front matter is YAML-only. Limited multilingual capabilities. Ecosystem Rapidly growing community with a smaller but expanding theme library. Established ecosystem with a mature community and wide adoption. Native integration with GitHub Pages. Plugins No plugins; functionality is built-in or handled externally. Faster and more secure as a result. Extensive plugin ecosystem for advanced features. Can slow down build times and add complexity. Use Case Best for performance-focused, large, multilingual, or highly customized sites. Great for smaller sites, blogs, or projects requiring GitHub Pages integration or extensive plugins. Note on GitHub Pages Hosting While Jekyll has native integration with GitHub Pages, making it easier for beginners to deploy without a build pipeline, Hugo can also be hosted seamlessly on GitHub Pages. With tools like GitHub Actions, Hugo offers greater flexibility and performance, especially for larger or more complex sites.\nRecommendations Choose Hugo if you: Need blazing-fast performance. Prefer a simpler installation process. Work on multilingual or large sites. Want flexibility and control over site structure and layout. Choose Jekyll if you: Need an extensive plugin ecosystem. Want simplicity with pre-built themes. Rely heavily on GitHub Pages for hosting. Hugo and Jekyll are both excellent tools, but your choice will depend on your specific needs. At the end of the day, Hugo and Jekyll are like coffee and tea—both get the job done, but one’s probably better suited to your taste. So, pick your brew, and let the static site-building begin!\n",
+  "wordCount" : "378",
+  "inLanguage": "en",
+  "image":"https://deuts.org/hugo-vs-jekyll.jpg","datePublished": "2024-11-22T14:09:57+08:00",
+  "dateModified": "2024-11-22T14:09:57+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/p/hugo-vs-jekyll/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/i/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/t/all/" title="Topics List">
+                    <span>Topics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Hugo vs. Jekyll: Which One Should You Choose?
+    </h1>
+    <div class="post-description">
+      Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.
+    </div>
+    <div class="post-meta"><span title='2024-11-22 14:09:57 +0800 PST'>November 22, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;378 words&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/hugo-vs-jekyll/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" srcset="https://deuts.org/p/hugo-vs-jekyll/hugo-vs-jekyll_hu6037004157599016979.jpg 360w ,https://deuts.org/p/hugo-vs-jekyll/hugo-vs-jekyll_hu15955024169059432212.jpg 480w ,https://deuts.org/p/hugo-vs-jekyll/hugo-vs-jekyll_hu8516558669875928909.jpg 720w ,https://deuts.org/p/hugo-vs-jekyll/hugo-vs-jekyll.jpg 1050w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/hugo-vs-jekyll/hugo-vs-jekyll.jpg" alt="" 
+            width="1050" height="600">
+        
+</figure>
+  <div class="post-content"><h3 id="hugo-vs-jekyll-which-one-should-you-use">Hugo vs. Jekyll: Which One Should You Use?<a hidden class="anchor" aria-hidden="true" href="#hugo-vs-jekyll-which-one-should-you-use">#</a></h3>
+<p>If you&rsquo;re deciding between Hugo and Jekyll for your static site generator, here&rsquo;s a clear comparison to help you choose the right tool for your needs.</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Criteria</strong></th>
+          <th><strong>Hugo</strong></th>
+          <th><strong>Jekyll</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Performance</strong></td>
+          <td>Extremely fast; can rebuild thousands of pages in seconds. Great for large or frequently updated sites.</td>
+          <td>Slower compared to Hugo, especially with large sites. Suitable for smaller, less frequently updated sites.</td>
+      </tr>
+      <tr>
+          <td><strong>Installation</strong></td>
+          <td>Simple: a single binary with no dependencies.</td>
+          <td>Requires Ruby and Gems, which can be complex for non-Ruby users.</td>
+      </tr>
+      <tr>
+          <td><strong>Themes</strong></td>
+          <td>Flexible with advanced customization options and shortcodes. Templates use Go’s templating engine.</td>
+          <td>Large library of pre-built themes. Uses Liquid templates, which are simpler but less powerful for advanced users.</td>
+      </tr>
+      <tr>
+          <td><strong>Markdown Support</strong></td>
+          <td>Native support with configurable front matter (TOML, YAML, JSON). Excellent for multilingual sites.</td>
+          <td>Markdown support via plugins like kramdown. Front matter is YAML-only. Limited multilingual capabilities.</td>
+      </tr>
+      <tr>
+          <td><strong>Ecosystem</strong></td>
+          <td>Rapidly growing community with a smaller but expanding theme library.</td>
+          <td>Established ecosystem with a mature community and wide adoption. Native integration with GitHub Pages.</td>
+      </tr>
+      <tr>
+          <td><strong>Plugins</strong></td>
+          <td>No plugins; functionality is built-in or handled externally. Faster and more secure as a result.</td>
+          <td>Extensive plugin ecosystem for advanced features. Can slow down build times and add complexity.</td>
+      </tr>
+      <tr>
+          <td><strong>Use Case</strong></td>
+          <td>Best for performance-focused, large, multilingual, or highly customized sites.</td>
+          <td>Great for smaller sites, blogs, or projects requiring GitHub Pages integration or extensive plugins.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="note-on-github-pages-hosting">Note on GitHub Pages Hosting<a hidden class="anchor" aria-hidden="true" href="#note-on-github-pages-hosting">#</a></h3>
+<p>While Jekyll has native integration with GitHub Pages, making it easier for beginners to deploy without a build pipeline, Hugo can also be hosted seamlessly on GitHub Pages. With tools like GitHub Actions, Hugo offers greater flexibility and performance, especially for larger or more complex sites.</p>
+<hr>
+<h3 id="recommendations">Recommendations<a hidden class="anchor" aria-hidden="true" href="#recommendations">#</a></h3>
+<ul>
+<li><strong>Choose Hugo</strong> if you:
+<ul>
+<li>Need blazing-fast performance.</li>
+<li>Prefer a simpler installation process.</li>
+<li>Work on multilingual or large sites.</li>
+<li>Want flexibility and control over site structure and layout.</li>
+</ul>
+</li>
+<li><strong>Choose Jekyll</strong> if you:
+<ul>
+<li>Need an extensive plugin ecosystem.</li>
+<li>Want simplicity with pre-built themes.</li>
+<li>Rely heavily on GitHub Pages for hosting.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Hugo and Jekyll are both excellent tools, but your choice will depend on your specific needs. At the end of the day, Hugo and Jekyll are like coffee and tea—both get the job done, but one’s probably better suited to your taste. So, pick your brew, and let the static site-building begin!</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/t/hugo/">Hugo</a></li>
+      <li><a href="https://deuts.org/t/jekyll/">Jekyll</a></li>
+      <li><a href="https://deuts.org/t/github/">Github</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://deuts.org/p/ssh-key-github-repo/">
+    <span class="title">Next »</span>
+    <br>
+    <span>How to Use an SSH Key for a Specific GitHub Repository</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a><footer class="footer">
+	<span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span>
+	
+             · 
+                <span><a href="/i/about/">About</a></span>
+             · 
+                <span><a href="/p/all/">All Posts</a></span>
+             · 
+                <span><a href="/i/contact/">Contact</a></span>
+             · 
+                <span><a href="/p/all/index.xml">Feed</a></span>
+             · 
+                <span><a href="/sitemap.xml">Sitemap</a></span>
+            
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
