@@ -28,7 +28,7 @@
 
     </style>
 </noscript><script defer src="https://medama.deuts.org/script.js"></script>
-<link href="/fa/css/style.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <meta property="og:url" content="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/">
   <meta property="og:site_name" content="Deuts Log">
   <meta property="og:title" content="I Choose Cloudflare Access over Authelia/Authentik">
@@ -123,7 +123,46 @@
     <div class="post-description">
       A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.
     </div>
-    <div class="post-meta"><span title='2024-11-18 09:37:51 +0800 PST'>November 18, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;390 words&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/cloudflareaccess-over-authelia-authentik/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+    <div class="post-meta"><span title='2024-11-18 09:37:51 +0800 PST'>November 18, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;390 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/cloudflareaccess-over-authelia-authentik/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+</a>
+
+
+
+<button id="copyButton" onclick="copyToClipboard()">
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+</button>
+
+
+<input type="text" value="content/posts/cloudflareaccess-over-authelia-authentik/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+
+
+<div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
+  File path copied successfully!
+</div>
+
+<script>
+  function copyToClipboard() {
+    var copyText = document.getElementById("filePath");
+
+    
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); 
+
+    
+    document.execCommand("copy");
+
+    
+    var notification = document.getElementById("notification");
+    notification.style.display = "block";
+
+    
+    setTimeout(function() {
+      notification.style.display = "none";
+    }, 3000);
+  }
+</script>
+
 
 </div>
   </header> 

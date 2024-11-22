@@ -28,7 +28,7 @@
 
     </style>
 </noscript><script defer src="https://medama.deuts.org/script.js"></script>
-<link href="/fa/css/style.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <meta property="og:url" content="https://deuts.org/p/excel-stockhistory-function-pro-tips/">
   <meta property="og:site_name" content="Deuts Log">
   <meta property="og:title" content="Excel Stockhistory Function Pro Tips">
@@ -118,7 +118,46 @@
     <div class="post-description">
       Better late than never! The STOCKHISTORY function is a game-changer for tracking your stock portfolio directly in Excel. It’s like having a personal financial assistant that never sleeps!
     </div>
-    <div class="post-meta"><span title='2022-10-12 14:08:44 +0100 +0100'>October 12, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;27 words&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/excel-stockhistory-function-pro-tips/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+    <div class="post-meta"><span title='2022-10-12 14:08:44 +0100 +0100'>October 12, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;27 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/excel-stockhistory-function-pro-tips/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+</a>
+
+
+
+<button id="copyButton" onclick="copyToClipboard()">
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+</button>
+
+
+<input type="text" value="content/posts/excel-stockhistory-function-pro-tips/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+
+
+<div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
+  File path copied successfully!
+</div>
+
+<script>
+  function copyToClipboard() {
+    var copyText = document.getElementById("filePath");
+
+    
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); 
+
+    
+    document.execCommand("copy");
+
+    
+    var notification = document.getElementById("notification");
+    notification.style.display = "block";
+
+    
+    setTimeout(function() {
+      notification.style.display = "none";
+    }, 3000);
+  }
+</script>
+
 
 </div>
   </header> 
