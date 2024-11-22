@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -16,12 +16,30 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/hugo/</loc>
-    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
+    <loc>https://deuts.org/t/git/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/github/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/ssh-key-github-repo/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/howto/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/security/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/ssh/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-22T11:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/hugo/</loc>
     <lastmod>2024-11-21T13:53:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/understanding-hugo-sections-index/</loc>
@@ -171,9 +189,6 @@
     <loc>https://deuts.org/p/docker-caddy-basic-auth/</loc>
     <lastmod>2024-11-14T21:46:40+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/security/</loc>
-    <lastmod>2024-11-14T21:46:40+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/callout/</loc>
     <lastmod>2024-11-14T18:26:00+08:00</lastmod>
   </url><url>
@@ -187,12 +202,6 @@
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</loc>
-    <lastmod>2024-11-13T23:44:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/git/</loc>
-    <lastmod>2024-11-13T23:44:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/github/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/git-repository-to-github/</loc>

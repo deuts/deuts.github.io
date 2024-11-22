@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How to Use an SSH Key for a Specific GitHub Repository | Deuts Log</title>
+<meta name="keywords" content="github, ssh, howto, security, git">
+<meta name="description" content="A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.">
+<meta name="author" content="">
+<link rel="canonical" href="https://deuts.org/p/ssh-key-github-repo/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.873625204109802eb345046b0654e42d381302fcd0525c0d9ddc759b51721f49.css" integrity="sha256-hzYlIEEJgC6zRQRrBlTkLTgTAvzQUlwNndx1m1FyH0k=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://deuts.org/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://deuts.org/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://deuts.org/p/ssh-key-github-repo/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><script defer src="https://medama.deuts.org/script.js"></script>
+<link href="/fa/css/style.css" rel="stylesheet">
+<meta property="og:url" content="https://deuts.org/p/ssh-key-github-repo/">
+  <meta property="og:site_name" content="Deuts Log">
+  <meta property="og:title" content="How to Use an SSH Key for a Specific GitHub Repository">
+  <meta property="og:description" content="A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-11-22T11:01:31+08:00">
+    <meta property="article:modified_time" content="2024-11-22T11:01:31+08:00">
+    <meta property="article:tag" content="Github">
+    <meta property="article:tag" content="Ssh">
+    <meta property="article:tag" content="Howto">
+    <meta property="article:tag" content="Security">
+    <meta property="article:tag" content="Git">
+    <meta property="og:image" content="https://deuts.org/ssh-github.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://deuts.org/ssh-github.jpg">
+<meta name="twitter:title" content="How to Use an SSH Key for a Specific GitHub Repository">
+<meta name="twitter:description" content="A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to Use an SSH Key for a Specific GitHub Repository",
+  "name": "How to Use an SSH Key for a Specific GitHub Repository",
+  "description": "A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.",
+  "keywords": [
+    "github", "ssh", "howto", "security", "git"
+  ],
+  "articleBody": "Introduction When working with GitHub repositories, it’s common to use SSH keys to authenticate instead of passwords. However, if you’re managing multiple repositories or working on a single repository with specific security needs, you might want to configure SSH keys for just one repository. In this guide, we’ll walk you through setting up a dedicated SSH key to securely sync with a single GitHub repository, improving security, especially when storing private keys on remote servers or VPS.\nWhy Use SSH Keys for a Specific Repository? Using a single SSH key for a repository restricts access to only that repository. This isolation is useful in several scenarios:\nImproved security: If your private key is compromised, access is limited to just the target repository. Granular control: You can control which key has access to which repository, making it easier to manage multiple keys for different tasks. Simplified automation: When using deploy keys or automation scripts, this approach can be used to grant access to only one repository at a time. Step 1: Generate a New SSH Key If you don’t already have a specific SSH key for your GitHub repository, start by generating one. You can use ssh-keygen to create a new key pair.\nssh-keygen -t ed25519 -C \"your_email@example.com\" -f ~/.ssh/github_repo_id_ed25519 This will create two files:\n~/.ssh/github_repo_id_ed25519 (your private key) ~/.ssh/github_repo_id_ed25519.pub (your public key) The private key should never be shared or exposed, while the public key will be added to your GitHub repository.\nStep 2: Add the Public Key to Your GitHub Repository Go to your GitHub repository, and in the Settings section, add the public key as a deploy key:\nNavigate to Settings → Deploy Keys. Click Add deploy key. Give it a name (e.g., “GitHub SSH Key”). Paste the contents of your github_repo_id_ed25519.pub file into the key field. Select either read-only or read-write access depending on the level of access you want. Click Add key to save.\nStep 3: Configure SSH for the Repository Now, configure SSH to use the specific key for accessing the repository. You can do this by adding an entry to your ~/.ssh/config file.\nnano ~/.ssh/config Add the following configuration, replacing github-repo with your preferred alias and ensuring the path to your private key is correct:\nHost github-repo HostName github.com User git IdentityFile ~/.ssh/github_repo_id_ed25519 IdentitiesOnly yes This configuration tells SSH to use the specific key github_repo_id_ed25519 when connecting to GitHub.\nStep 4: Update the Remote URL in Your Local Repository To sync your local repository with the GitHub repository, change the remote URL to use the SSH alias you’ve configured in ~/.ssh/config. Navigate to your local Git repository and run the following:\ncd /path/to/your/repository git remote set-url origin git@github-repo:username/repository.git Make sure to replace username/repository.git with the actual repository path.\nStep 5: Test the SSH Connection Now that everything is set up, verify that your SSH connection works properly by running:\nssh -T github-repo You should see a message like:\nHi username! You've successfully authenticated, but GitHub does not provide shell access. This confirms that the SSH key is correctly configured and is being used to authenticate with GitHub.\nStep 6: Push Changes to GitHub Once the remote URL is updated, you can start syncing your local repository with GitHub. To push changes to your GitHub repository, simply run:\ngit push origin main # Or the relevant branch name Git will use the SSH key associated with the github-repo alias to authenticate and push your changes.\nConclusion By following these steps, you’ve securely configured SSH to access a specific GitHub repository. This approach not only enhances security by limiting access but also provides better management of your SSH keys, especially when dealing with multiple repositories or automating workflows.\nWith this setup, you can now safely push, pull, and manage your GitHub repository without the risk of exposing your other repositories or credentials.\n",
+  "wordCount" : "636",
+  "inLanguage": "en",
+  "image":"https://deuts.org/ssh-github.jpg","datePublished": "2024-11-22T11:01:31+08:00",
+  "dateModified": "2024-11-22T11:01:31+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://deuts.org/p/ssh-key-github-repo/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Deuts Log",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://deuts.org/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://deuts.org/" accesskey="h" title="Deuts Log (Alt + H)">Deuts Log</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://deuts.org/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/i/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/t/all/" title="Topics List">
+                    <span>Topics</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://deuts.org/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How to Use an SSH Key for a Specific GitHub Repository
+    </h1>
+    <div class="post-description">
+      A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.
+    </div>
+    <div class="post-meta"><span title='2024-11-22 11:01:31 +0800 PST'>November 22, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;636 words&nbsp;|&nbsp;<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/ssh-key-github-repository/index.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" srcset="https://deuts.org/p/ssh-key-github-repo/ssh-github_hu1387310944725115249.jpg 360w ,https://deuts.org/p/ssh-key-github-repo/ssh-github_hu2231337474259745264.jpg 480w ,https://deuts.org/p/ssh-key-github-repo/ssh-github_hu11569505522248353539.jpg 720w ,https://deuts.org/p/ssh-key-github-repo/ssh-github.jpg 1050w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/ssh-key-github-repo/ssh-github.jpg" alt="" 
+            width="1050" height="600">
+        
+</figure><div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#introduction" aria-label="Introduction">Introduction</a></li>
+                <li>
+                    <a href="#why-use-ssh-keys-for-a-specific-repository" aria-label="Why Use SSH Keys for a Specific Repository?">Why Use SSH Keys for a Specific Repository?</a></li>
+                <li>
+                    <a href="#step-1-generate-a-new-ssh-key" aria-label="Step 1: Generate a New SSH Key">Step 1: Generate a New SSH Key</a></li>
+                <li>
+                    <a href="#step-2-add-the-public-key-to-your-github-repository" aria-label="Step 2: Add the Public Key to Your GitHub Repository">Step 2: Add the Public Key to Your GitHub Repository</a></li>
+                <li>
+                    <a href="#step-3-configure-ssh-for-the-repository" aria-label="Step 3: Configure SSH for the Repository">Step 3: Configure SSH for the Repository</a></li>
+                <li>
+                    <a href="#step-4-update-the-remote-url-in-your-local-repository" aria-label="Step 4: Update the Remote URL in Your Local Repository">Step 4: Update the Remote URL in Your Local Repository</a></li>
+                <li>
+                    <a href="#step-5-test-the-ssh-connection" aria-label="Step 5: Test the SSH Connection">Step 5: Test the SSH Connection</a></li>
+                <li>
+                    <a href="#step-6-push-changes-to-github" aria-label="Step 6: Push Changes to GitHub">Step 6: Push Changes to GitHub</a></li>
+                <li>
+                    <a href="#conclusion" aria-label="Conclusion">Conclusion</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h2 id="introduction">Introduction<a hidden class="anchor" aria-hidden="true" href="#introduction">#</a></h2>
+<p>When working with GitHub repositories, it&rsquo;s common to use SSH keys to authenticate instead of passwords. However, if you&rsquo;re managing multiple repositories or working on a single repository with specific security needs, you might want to configure SSH keys for just one repository. In this guide, we’ll walk you through setting up a dedicated SSH key to securely sync with a single GitHub repository, improving security, especially when storing private keys on remote servers or VPS.</p>
+<h2 id="why-use-ssh-keys-for-a-specific-repository">Why Use SSH Keys for a Specific Repository?<a hidden class="anchor" aria-hidden="true" href="#why-use-ssh-keys-for-a-specific-repository">#</a></h2>
+<p>Using a single SSH key for a repository restricts access to only that repository. This isolation is useful in several scenarios:</p>
+<ul>
+<li><strong>Improved security</strong>: If your private key is compromised, access is limited to just the target repository.</li>
+<li><strong>Granular control</strong>: You can control which key has access to which repository, making it easier to manage multiple keys for different tasks.</li>
+<li><strong>Simplified automation</strong>: When using deploy keys or automation scripts, this approach can be used to grant access to only one repository at a time.</li>
+</ul>
+<h2 id="step-1-generate-a-new-ssh-key">Step 1: Generate a New SSH Key<a hidden class="anchor" aria-hidden="true" href="#step-1-generate-a-new-ssh-key">#</a></h2>
+<p>If you don’t already have a specific SSH key for your GitHub repository, start by generating one. You can use <code>ssh-keygen</code> to create a new key pair.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -C <span style="color:#e6db74">&#34;your_email@example.com&#34;</span> -f ~/.ssh/github_repo_id_ed25519
+</span></span></code></pre></div><p>This will create two files:</p>
+<ul>
+<li><code>~/.ssh/github_repo_id_ed25519</code> (your private key)</li>
+<li><code>~/.ssh/github_repo_id_ed25519.pub</code> (your public key)</li>
+</ul>
+<p>The private key should <strong>never</strong> be shared or exposed, while the public key will be added to your GitHub repository.</p>
+<h2 id="step-2-add-the-public-key-to-your-github-repository">Step 2: Add the Public Key to Your GitHub Repository<a hidden class="anchor" aria-hidden="true" href="#step-2-add-the-public-key-to-your-github-repository">#</a></h2>
+<p>Go to your GitHub repository, and in the <strong>Settings</strong> section, add the <strong>public key</strong> as a <strong>deploy key</strong>:</p>
+<ol>
+<li>Navigate to <strong>Settings</strong> → <strong>Deploy Keys</strong>.</li>
+<li>Click <strong>Add deploy key</strong>.</li>
+<li>Give it a name (e.g., &ldquo;GitHub SSH Key&rdquo;).</li>
+<li>Paste the contents of your <code>github_repo_id_ed25519.pub</code> file into the key field.</li>
+<li>Select either <strong>read-only</strong> or <strong>read-write</strong> access depending on the level of access you want.</li>
+</ol>
+<p>Click <strong>Add key</strong> to save.</p>
+<h2 id="step-3-configure-ssh-for-the-repository">Step 3: Configure SSH for the Repository<a hidden class="anchor" aria-hidden="true" href="#step-3-configure-ssh-for-the-repository">#</a></h2>
+<p>Now, configure SSH to use the specific key for accessing the repository. You can do this by adding an entry to your <code>~/.ssh/config</code> file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.ssh/config
+</span></span></code></pre></div><p>Add the following configuration, replacing <code>github-repo</code> with your preferred alias and ensuring the path to your private key is correct:</p>
+<pre tabindex="0"><code class="language-ssh" data-lang="ssh">Host github-repo
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github_repo_id_ed25519
+    IdentitiesOnly yes
+</code></pre><p>This configuration tells SSH to use the specific key <code>github_repo_id_ed25519</code> when connecting to GitHub.</p>
+<h2 id="step-4-update-the-remote-url-in-your-local-repository">Step 4: Update the Remote URL in Your Local Repository<a hidden class="anchor" aria-hidden="true" href="#step-4-update-the-remote-url-in-your-local-repository">#</a></h2>
+<p>To sync your local repository with the GitHub repository, change the remote URL to use the SSH alias you’ve configured in <code>~/.ssh/config</code>. Navigate to your local Git repository and run the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
+</span></span><span style="display:flex;"><span>git remote set-url origin git@github-repo:username/repository.git
+</span></span></code></pre></div><p>Make sure to replace <code>username/repository.git</code> with the actual repository path.</p>
+<h2 id="step-5-test-the-ssh-connection">Step 5: Test the SSH Connection<a hidden class="anchor" aria-hidden="true" href="#step-5-test-the-ssh-connection">#</a></h2>
+<p>Now that everything is set up, verify that your SSH connection works properly by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh -T github-repo
+</span></span></code></pre></div><p>You should see a message like:</p>
+<pre tabindex="0"><code>Hi username! You&#39;ve successfully authenticated, but GitHub does not provide shell access.
+</code></pre><p>This confirms that the SSH key is correctly configured and is being used to authenticate with GitHub.</p>
+<h2 id="step-6-push-changes-to-github">Step 6: Push Changes to GitHub<a hidden class="anchor" aria-hidden="true" href="#step-6-push-changes-to-github">#</a></h2>
+<p>Once the remote URL is updated, you can start syncing your local repository with GitHub. To push changes to your GitHub repository, simply run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git push origin main  <span style="color:#75715e"># Or the relevant branch name</span>
+</span></span></code></pre></div><p>Git will use the SSH key associated with the <code>github-repo</code> alias to authenticate and push your changes.</p>
+<h2 id="conclusion">Conclusion<a hidden class="anchor" aria-hidden="true" href="#conclusion">#</a></h2>
+<p>By following these steps, you’ve securely configured SSH to access a specific GitHub repository. This approach not only enhances security by limiting access but also provides better management of your SSH keys, especially when dealing with multiple repositories or automating workflows.</p>
+<p>With this setup, you can now safely push, pull, and manage your GitHub repository without the risk of exposing your other repositories or credentials.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://deuts.org/t/github/">Github</a></li>
+      <li><a href="https://deuts.org/t/ssh/">Ssh</a></li>
+      <li><a href="https://deuts.org/t/howto/">Howto</a></li>
+      <li><a href="https://deuts.org/t/security/">Security</a></li>
+      <li><a href="https://deuts.org/t/git/">Git</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://deuts.org/p/understanding-hugo-sections-index/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Understanding Hugo’s Section Structure with `_index.md` Files</span>
+  </a>
+</nav>
+
+  </footer><script src="https://giscus.app/client.js"
+        data-repo="deuts/deuts.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0NDI5MTQ2OA=="
+        data-category="Deuts Log Comments"
+        data-category-id="DIC_kwDOAqPVjM4CkMDD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</article>
+    </main>
+    
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a><footer class="footer">
+	<span>&copy; 2024 <a href="https://deuts.org/">Deuts Log</a></span>
+	
+             · 
+                <span><a href="/i/about/">About</a></span>
+             · 
+                <span><a href="/p/all/">All Posts</a></span>
+             · 
+                <span><a href="/i/contact/">Contact</a></span>
+             · 
+                <span><a href="/p/all/index.xml">Feed</a></span>
+             · 
+                <span><a href="/sitemap.xml">Sitemap</a></span>
+            
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
