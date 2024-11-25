@@ -7,21 +7,21 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 10:45:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jekyll Themes</title>
-      <link>https://deuts.org/x/jekyll-themes/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0800</pubDate>
-      <guid>https://deuts.org/x/jekyll-themes/</guid>
-      <description>&lt;p&gt;Jekyll themes like &lt;a href=&#34;https://github.com/just-the-docs/just-the-docs&#34;&gt;Just the Docs&lt;/a&gt; and &lt;a href=&#34;https://github.com/cotes2020/jekyll-theme-chirpy&#34;&gt;Chirpy&lt;/a&gt; are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;Hugo vs. Jekyll debate&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Snippets</title>
       <link>https://deuts.org/x/snippets/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 25 Nov 2024 10:45:00 +0800</pubDate>
       <guid>https://deuts.org/x/snippets/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m torn between &lt;a href=&#34;https://github.com/jordan-dalby/ByteStash&#34;&gt;Bytestash&lt;/a&gt; and &lt;a href=&#34;https://github.com/thomiceli/opengist&#34;&gt;Opengist&lt;/a&gt; for my snippets repository. I love Opengist&amp;rsquo;s clean and simple design, but Bytestash&amp;rsquo;s robust search functionality is hard to overlook.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jekyll Themes</title>
+      <link>https://deuts.org/x/jekyll-themes/</link>
+      <pubDate>Mon, 25 Nov 2024 10:30:00 +0800</pubDate>
+      <guid>https://deuts.org/x/jekyll-themes/</guid>
+      <description>&lt;p&gt;Jekyll themes like &lt;a href=&#34;https://github.com/just-the-docs/just-the-docs&#34;&gt;Just the Docs&lt;/a&gt; and &lt;a href=&#34;https://github.com/cotes2020/jekyll-theme-chirpy&#34;&gt;Chirpy&lt;/a&gt; are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;Hugo vs. Jekyll debate&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
