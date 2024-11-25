@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 25 Nov 2024 10:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 17:56:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GCash Bank Transfer Issues</title>
+      <link>https://deuts.org/x/gcash-bank-transfer-issues/</link>
+      <pubDate>Mon, 25 Nov 2024 17:56:01 +0800</pubDate>
+      <guid>https://deuts.org/x/gcash-bank-transfer-issues/</guid>
+      <description>After recent unauthorized deductions, GCash users experienced delays with BancNet transfers, with one user waiting 24 hours for their funds.</description>
+    </item>
     <item>
       <title>Snippets</title>
       <link>https://deuts.org/x/snippets/</link>

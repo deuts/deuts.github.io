@@ -11,7 +11,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -19,7 +19,16 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/gcash/</loc>
+    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/gcash-bank-transfer-issues/</loc>
+    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/bytestash/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
@@ -37,9 +46,6 @@
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/snippets/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/all/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/hugo/</loc>
