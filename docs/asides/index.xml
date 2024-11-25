@@ -11,9 +11,9 @@
     <atom:link href="https://deuts.org/asides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jekyll Themes</title>
-      <link>https://deuts.org/asides/jekyll-themes/</link>
+      <link>https://deuts.org/x/jekyll-themes/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0800</pubDate>
-      <guid>https://deuts.org/asides/jekyll-themes/</guid>
+      <guid>https://deuts.org/x/jekyll-themes/</guid>
       <description>&lt;p&gt;Jekyll themes like &lt;a href=&#34;https://github.com/just-the-docs/just-the-docs&#34;&gt;Just the Docs&lt;/a&gt; and &lt;a href=&#34;https://github.com/cotes2020/jekyll-theme-chirpy&#34;&gt;Chirpy&lt;/a&gt; are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;Hugo vs. Jekyll debate&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

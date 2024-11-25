@@ -1,3 +1,0 @@
-{{< callout type="info" title="Information" >}}
-This is an informational callout with default styling.
-{{< /callout >}}
