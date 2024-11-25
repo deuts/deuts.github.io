@@ -10,6 +10,9 @@
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2024-11-25T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
@@ -18,10 +21,10 @@
     <loc>https://deuts.org/</loc>
     <lastmod>2024-11-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/asides/</loc>
+    <loc>https://deuts.org/x/jekyll-themes/</loc>
     <lastmod>2024-11-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/jekyll-themes/</loc>
+    <loc>https://deuts.org/x/snippets/</loc>
     <lastmod>2024-11-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/github/</loc>
