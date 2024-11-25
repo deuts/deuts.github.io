@@ -11,7 +11,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -19,15 +19,27 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/gfiber/</loc>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/gfiber-prepaid-100-mbps/</loc>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/globe/</loc>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/internet/</loc>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/gcash/</loc>
     <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/gcash-bank-transfer-issues/</loc>
-    <lastmod>2024-11-25T17:56:01+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/all/</loc>
     <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/bytestash/</loc>
@@ -203,9 +215,6 @@
   </url><url>
     <loc>https://deuts.org/t/syncthing/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/internet/</loc>
-    <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/pldt/</loc>
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
