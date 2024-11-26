@@ -126,18 +126,19 @@
     <div class="post-description">
       These underrated TV shows from 2022 are worth checking out. The True Story of the LA Lakers dives into the history of the Lakers with rich stories and insightful interviews.
     </div>
-    <div class="post-meta"><span title='2023-07-23 19:20:35 +0800 PST'>July 23, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;218 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/underrated-tv-shows-2022-et-al/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2023-07-23 19:20:35 +0800 PST'>July 23, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;218 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/underrated-tv-shows-2022-et-al/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/underrated-tv-shows-2022-et-al/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/underrated-tv-shows-2022-et-al/index.md" id="filePath-122645e94dcaf316e21eb1f20552214b" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -146,26 +147,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-122645e94dcaf316e21eb1f20552214b");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> 

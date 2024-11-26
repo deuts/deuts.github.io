@@ -128,18 +128,19 @@
     <div class="post-description">
       This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.
     </div>
-    <div class="post-meta"><span title='2022-12-12 10:26:42 +0800 PST'>December 12, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;299 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/install-mastodon-debian-11-without-docker/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2022-12-12 10:26:42 +0800 PST'>December 12, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;299 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/install-mastodon-debian-11-without-docker/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/install-mastodon-debian-11-without-docker/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/install-mastodon-debian-11-without-docker/index.md" id="filePath-97cbbbf6086800adb88ca0fd89b65a0f" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -148,26 +149,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-97cbbbf6086800adb88ca0fd89b65a0f");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> 

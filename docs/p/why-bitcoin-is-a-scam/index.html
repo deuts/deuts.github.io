@@ -126,18 +126,19 @@
     <div class="post-description">
       Bitcoin is often seen more as an investment than a currency. People rarely use it for transactions; instead, they buy it with the expectation that others will do the same, driving up its price. This behavior is also common with other cryptocurrencies, which some compare to a Ponzi scheme.
     </div>
-    <div class="post-meta"><span title='2022-11-01 21:50:15 +0800 PST'>November 1, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;93 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/why-bitcoin-is-a-scam/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2022-11-01 21:50:15 +0800 PST'>November 1, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;93 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/why-bitcoin-is-a-scam/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/why-bitcoin-is-a-scam/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/why-bitcoin-is-a-scam/index.md" id="filePath-8d37c17ee966755dec26d473efd8f0d0" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -146,26 +147,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-8d37c17ee966755dec26d473efd8f0d0");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> 

@@ -126,18 +126,19 @@
     <div class="post-description">
       Set up a Git repository with main as the initial branch, link it to GitHub with a custom remote (not origin), and authenticate using GitHub’s Personal Access Token (PAT). This guide covers staging, committing, and pushing files securely and efficiently, so you can use common Git commands without repeatedly specifying a remote.
     </div>
-    <div class="post-meta"><span title='2024-11-13 11:44:23 +0800 PST'>November 13, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;463 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/git-repository-to-github/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2024-11-13 11:44:23 +0800 PST'>November 13, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;463 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/git-repository-to-github/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/git-repository-to-github/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/git-repository-to-github/index.md" id="filePath-b9f1a3521e6ca3445007790941bce4a6" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -146,26 +147,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-b9f1a3521e6ca3445007790941bce4a6");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> <div class="toc">

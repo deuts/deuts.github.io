@@ -125,18 +125,19 @@
     <div class="post-description">
       This post provides a quick way to check the size of Docker containers using the docker ps --size command and refines it to show only relevant columns—Container ID, Names, Image, and Size—by using the --format option.
     </div>
-    <div class="post-meta"><span title='2023-08-12 08:07:49 +0800 PST'>August 12, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;60 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/docker-container-size/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2023-08-12 08:07:49 +0800 PST'>August 12, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;60 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/docker-container-size/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/docker-container-size/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/docker-container-size/index.md" id="filePath-1852e7b0f2b93b6b8d7909c89e418b4f" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -145,26 +146,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-1852e7b0f2b93b6b8d7909c89e418b4f");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> 

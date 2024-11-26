@@ -127,18 +127,19 @@
     <div class="post-description">
       Highlights of issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.
     </div>
-    <div class="post-meta"><span title='2024-11-12 21:44:50 +0800 PST'>November 12, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;375 words<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/hugo-and-obsidian-workflow/index.md" rel="noopener noreferrer" target="_blank">
-    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;"></i>
+    <div class="post-meta"><span title='2024-11-12 21:44:50 +0800 PST'>November 12, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;375 words
+
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/hugo-and-obsidian-workflow/index.md" rel="noopener noreferrer" target="_blank">
+    <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
 
-
 <button id="copyButton" onclick="copyToClipboard()">
-  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;"></i>
+  <i class="fa fa-clipboard" style="font-size: 14px; cursor: pointer; color: #777; margin-left: 1em;" aria-label="Copy File Path"></i>
 </button>
 
 
-<input type="text" value="content/posts/hugo-and-obsidian-workflow/index.md" id="filePath" style="opacity: 0; position: absolute;" />
+<input type="text" value="content/posts/hugo-and-obsidian-workflow/index.md" id="filePath-6b908b8e4232c632ed4ceaa22e9586c4" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -147,26 +148,18 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath");
-
-    
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); 
-
-    
-    document.execCommand("copy");
-
-    
-    var notification = document.getElementById("notification");
-    notification.style.display = "block";
-
-    
-    setTimeout(function() {
-      notification.style.display = "none";
-    }, 3000);
+    var copyText = document.getElementById("filePath-6b908b8e4232c632ed4ceaa22e9586c4");
+    navigator.clipboard.writeText(copyText.value).then(() => {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(() => {
+        notification.style.display = "none";
+      }, 3000);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
   }
 </script>
-
 
 </div>
   </header> 
