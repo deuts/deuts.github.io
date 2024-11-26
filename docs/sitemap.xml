@@ -11,7 +11,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -19,7 +19,22 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/apps/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/docker/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/portchecker/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/portchecker/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/gfiber/</loc>
     <lastmod>2024-11-25T23:32:45+08:00</lastmod>
@@ -31,9 +46,6 @@
     <lastmod>2024-11-25T23:32:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/internet/</loc>
-    <lastmod>2024-11-25T23:32:45+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/all/</loc>
     <lastmod>2024-11-25T23:32:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/gcash/</loc>
@@ -106,9 +118,6 @@
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/database/</loc>
-    <lastmod>2024-11-20T13:20:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/docker/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/mysql/</loc>
