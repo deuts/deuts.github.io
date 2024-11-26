@@ -3,8 +3,10 @@
 This is the repository for the [Deuts Log](https://deuts.org/) website.
 
 # About Deuts Log
-Deuts Log is a blog dedicated to exploring the ever-changing world of technology, innovation, and digital creativity. It serves as a space for sharing insights, practical knowledge, and personal projects, covering topics ranging from data analysis to web development and beyond.
+Technology today gives us the power to take full control—whether it’s **self-hosting** your own systems or automating tasks to simplify your life. Why rely on big tech when you can do it yourself? With the right mix of **security** and **automation**, you can build a digital fortress that keeps your data safe and your systems running smoothly. Think **Docker** containers and **reverse proxies** that keep everything in check, letting your tech run on autopilot. It's all about making life easier, smarter, and more secure—with a bit of **DIY** flair.
 
-The journey of Deuts Log began on Tumblr, where it built a modest but passionate following. Over time, the need for flexibility and performance led to a shift, and the blog was rebuilt from the ground up using Hugo. This transition symbolizes the blog's commitment to adaptability and continuous improvement, embracing new tools and approaches to better serve its audience.
+**Deuts Log** is all about exploring the world of technology and digital creativity. It’s a space to share ideas, knowledge, and personal projects, covering everything from **data analysis** to **web development** and beyond.
 
-At its heart, Deuts Log is about curiosity and growth. Whether diving into technical details or reflecting on broader trends, the goal is to inspire learning and exploration in technology—one post, one idea, one discovery at a time.
+The blog’s journey started on Tumblr, where it built a small but passionate community. But as the need for more flexibility and performance grew, **Deuts Log** evolved. It was rebuilt using **Hugo**, a platform that supports speed and adaptability, reflecting the blog’s dedication to continuous improvement.
+
+At its heart, **Deuts Log** is driven by curiosity and the pursuit of knowledge. Whether it’s diving deep into technical topics or discussing wider trends, the goal is to inspire learning and innovation—one post, one idea, one discovery at a time.
