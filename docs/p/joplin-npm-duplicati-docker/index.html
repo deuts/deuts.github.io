@@ -172,7 +172,35 @@
 
 
 </div>
-  </header> 
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#why-joplin-server-instead-of-webdav-dropbox-onedrive-nextcloud-etc" aria-label="Why Joplin Server instead of Webdav, Dropbox, OneDrive, NextCloud, etc.">Why Joplin Server instead of Webdav, Dropbox, OneDrive, NextCloud, etc.</a></li>
+                <li>
+                    <a href="#docker-compose-for-joplin-server" aria-label="Docker Compose for Joplin Server">Docker Compose for Joplin Server</a><ul>
+                        
+                <li>
+                    <a href="#docker-network" aria-label="Docker Network">Docker Network</a></li>
+                <li>
+                    <a href="#nginx-proxy-manager" aria-label="Nginx Proxy Manager">Nginx Proxy Manager</a></li>
+                <li>
+                    <a href="#install-joplin-app-and-db" aria-label="Install Joplin App and DB">Install Joplin App and DB</a></li></ul>
+                </li>
+                <li>
+                    <a href="#backup-with-duplicati" aria-label="Backup with Duplicati">Backup with Duplicati</a></li>
+                <li>
+                    <a href="#update-as-of-mar-24-2024" aria-label="Update as of Mar. 24, 2024">Update as of Mar. 24, 2024</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
   <div class="post-content"><p>I was wondering why Docker apps don&rsquo;t come as easy to install like <a href="https://www.linuxserver.io/">Linuxserver</a>&rsquo;s? Case in point: Joplin.</p>
 <p>Well, I really do think Joplin server&rsquo;s <a href="https://github.com/laurent22/joplin/blob/dev/docker-compose.server.yml">documentation</a> needs a lot more polishing. Fortunately I was able to make it work in my system, even without exposing additional ports to the public, which I&rsquo;m sharing below.</p>
 <h2 id="why-joplin-server-instead-of-webdav-dropbox-onedrive-nextcloud-etc">Why Joplin Server instead of Webdav, Dropbox, OneDrive, NextCloud, etc.<a hidden class="anchor" aria-hidden="true" href="#why-joplin-server-instead-of-webdav-dropbox-onedrive-nextcloud-etc">#</a></h2>
