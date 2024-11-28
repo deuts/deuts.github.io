@@ -17,6 +17,13 @@
       <description>&lt;p&gt;Jekyll themes like &lt;a href=&#34;https://github.com/just-the-docs/just-the-docs&#34;&gt;Just the Docs&lt;/a&gt; and &lt;a href=&#34;https://github.com/cotes2020/jekyll-theme-chirpy&#34;&gt;Chirpy&lt;/a&gt; are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;Hugo vs. Jekyll debate&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Understanding Hugo’s Section Structure with `_index.md` Files</title>
+      <link>https://deuts.org/p/understanding-hugo-sections-index/</link>
+      <pubDate>Thu, 21 Nov 2024 13:53:32 +0800</pubDate>
+      <guid>https://deuts.org/p/understanding-hugo-sections-index/</guid>
+      <description>Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.</description>
+    </item>
+    <item>
       <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
       <link>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</link>
       <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>

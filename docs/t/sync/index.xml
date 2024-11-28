@@ -10,6 +10,13 @@
     <lastBuildDate>Sun, 17 Nov 2024 17:49:54 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/sync/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Resilio Sync</title>
+      <link>https://deuts.org/l/resilio-sync/</link>
+      <pubDate>Fri, 15 Nov 2024 13:32:00 +0800</pubDate>
+      <guid>https://deuts.org/l/resilio-sync/</guid>
+      <description>Resilio Sync offers fast, secure file synchronization using peer-to-peer technology. With no file size limits and encryption, it ensures privacy and control, making it ideal for personal use, team collaboration, and large-scale file sharing.</description>
+    </item>
+    <item>
       <title>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</title>
       <link>https://deuts.org/p/resilio-sync-reliability-issues/</link>
       <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>

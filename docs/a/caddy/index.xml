@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 08:11:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 13:32:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/a/caddy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resilio Sync</title>
+      <link>https://deuts.org/l/resilio-sync/</link>
+      <pubDate>Fri, 15 Nov 2024 13:32:00 +0800</pubDate>
+      <guid>https://deuts.org/l/resilio-sync/</guid>
+      <description>Resilio Sync offers fast, secure file synchronization using peer-to-peer technology. With no file size limits and encryption, it ensures privacy and control, making it ideal for personal use, team collaboration, and large-scale file sharing.</description>
+    </item>
     <item>
       <title>Custom Caddy Docker image with Cloudflare DNS challenge support</title>
       <link>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</link>

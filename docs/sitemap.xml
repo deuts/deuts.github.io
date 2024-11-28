@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://deuts.org/l/resilio-sync/</loc>
+    <lastmod>2024-11-15T13:32:00+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/i/about/</loc>
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
@@ -33,7 +36,7 @@
     <loc>https://deuts.org/t/vps-hosting/</loc>
     <lastmod>2024-11-28T08:40:14+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/apps/</loc>
+    <loc>https://deuts.org/a/all/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/docker/</loc>
@@ -131,9 +134,6 @@
   </url><url>
     <loc>https://deuts.org/t/ssh/</loc>
     <lastmod>2024-11-22T11:01:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/hugo/</loc>
-    <lastmod>2024-11-21T13:53:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/understanding-hugo-sections-index/</loc>
     <lastmod>2024-11-21T13:53:32+08:00</lastmod>
@@ -253,7 +253,7 @@
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/caddy/</loc>
-    <lastmod>2024-11-15T08:11:44+08:00</lastmod>
+    <lastmod>2024-11-15T13:32:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
@@ -485,5 +485,7 @@
   </url><url>
     <loc>https://deuts.org/p/blood-vs-name/</loc>
     <lastmod>2022-10-06T13:01:14+01:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/l/all/</loc>
   </url>
 </urlset>

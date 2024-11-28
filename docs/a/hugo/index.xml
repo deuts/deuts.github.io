@@ -24,11 +24,39 @@
       <description>Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.</description>
     </item>
     <item>
+      <title>Understanding Hugo’s Section Structure with `_index.md` Files</title>
+      <link>https://deuts.org/p/understanding-hugo-sections-index/</link>
+      <pubDate>Thu, 21 Nov 2024 13:53:32 +0800</pubDate>
+      <guid>https://deuts.org/p/understanding-hugo-sections-index/</guid>
+      <description>Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.</description>
+    </item>
+    <item>
+      <title>Enhancing Readability with Callouts in Hugo</title>
+      <link>https://deuts.org/p/hugo-callouts/</link>
+      <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-callouts/</guid>
+      <description>Discover how callouts can enhance readability and engagement by highlighting key information in notes or web content. Learn how to implement custom callouts in Hugo using shortcodes, making important details more accessible and memorable for your readers.</description>
+    </item>
+    <item>
       <title>Building an Efficient Blogging Workflow with Hugo, Obsidian, and GitHub Pages</title>
       <link>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</link>
       <pubDate>Wed, 13 Nov 2024 23:44:23 +0800</pubDate>
       <guid>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</guid>
       <description>Exploring Hugo, Obsidian and Github Pages as a flexible and efficient blogging setup, focusing on low dependency and high control, with a look at potential WordPress migration challenges.</description>
+    </item>
+    <item>
+      <title>Hugo and Obsidian workflow</title>
+      <link>https://deuts.org/p/hugo-and-obsidian-workflow/</link>
+      <pubDate>Tue, 12 Nov 2024 21:44:50 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-and-obsidian-workflow/</guid>
+      <description>Highlights of issues with Obsidian plugins like Hugo Publish and Static Site MD Exporter when used in a Hugo blogging workflow.</description>
+    </item>
+    <item>
+      <title>How to install Hugo in a Linux VPS</title>
+      <link>https://deuts.org/p/hugo-linux-vps/</link>
+      <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-linux-vps/</guid>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
     </item>
   </channel>
 </rss>
