@@ -51,5 +51,12 @@
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
     </item>
+    <item>
+      <title>Oracle Cloud Free Tier</title>
+      <link>https://deuts.org/p/oracle-cloud-free-tier/</link>
+      <pubDate>Fri, 14 Oct 2022 08:45:44 +0800</pubDate>
+      <guid>https://deuts.org/p/oracle-cloud-free-tier/</guid>
+      <description>A tutorial on Oracle Cloud Free Tier, but be cautious: trust issues with Oracle and potential Docker compatibility problems due to ARM architecture. Also, encountered the &amp;#34;Out of capacity&amp;#34; error when signing up.</description>
+    </item>
   </channel>
 </rss>
