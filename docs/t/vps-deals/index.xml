@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 19 Nov 2024 20:31:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 08:40:14 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/vps-deals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The story of a fly-by-night VPS host</title>
+      <link>https://deuts.org/p/slicehosting-fly-by-night/</link>
+      <pubDate>Thu, 28 Nov 2024 08:40:14 +0800</pubDate>
+      <guid>https://deuts.org/p/slicehosting-fly-by-night/</guid>
+      <description>Slicehosting abruptly closed its doors, citing management challenges. While they promised refunds, my experience with their slow storage and frequent downtimes highlights the risks of trusting fly-by-night VPS providers.</description>
+    </item>
     <item>
       <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
       <link>https://deuts.org/p/black-friday-vps-deals/</link>
