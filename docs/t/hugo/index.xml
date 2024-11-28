@@ -7,15 +7,8 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 22 Nov 2024 14:09:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 13:53:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo vs. Jekyll: Which One Should You Choose?</title>
-      <link>https://deuts.org/p/hugo-vs-jekyll/</link>
-      <pubDate>Fri, 22 Nov 2024 14:09:57 +0800</pubDate>
-      <guid>https://deuts.org/p/hugo-vs-jekyll/</guid>
-      <description>Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.</description>
-    </item>
     <item>
       <title>Understanding Hugo’s Section Structure with `_index.md` Files</title>
       <link>https://deuts.org/p/understanding-hugo-sections-index/</link>

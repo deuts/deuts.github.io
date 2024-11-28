@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>I can&#39;t make Vikunja work on my set up | Deuts Log</title>
-<meta name="keywords" content="docker, todo, vikunja">
+<meta name="keywords" content="docker, todo">
 <meta name="description" content="Vikunja is a feature-rich open-source todo app, but installing it via Docker requires multiple containers. The author faced frequent Internal Server Errors and API issues when using docker-compose, even after adding Redis. Frustrated by the ongoing errors, the author ultimately removed the setup entirely.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/vikunja-internal-server-error/">
@@ -40,7 +40,6 @@
     <meta property="article:modified_time" content="2023-08-25T19:04:11+08:00">
     <meta property="article:tag" content="Docker">
     <meta property="article:tag" content="Todo">
-    <meta property="article:tag" content="Vikunja">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="I can&#39;t make Vikunja work on my set up">
 <meta name="twitter:description" content="Vikunja is a feature-rich open-source todo app, but installing it via Docker requires multiple containers. The author faced frequent Internal Server Errors and API issues when using docker-compose, even after adding Redis. Frustrated by the ongoing errors, the author ultimately removed the setup entirely.">
@@ -55,7 +54,7 @@
   "name": "I can\u0027t make Vikunja work on my set up",
   "description": "Vikunja is a feature-rich open-source todo app, but installing it via Docker requires multiple containers. The author faced frequent Internal Server Errors and API issues when using docker-compose, even after adding Redis. Frustrated by the ongoing errors, the author ultimately removed the setup entirely.",
   "keywords": [
-    "docker", "todo", "vikunja"
+    "docker", "todo"
   ],
   "articleBody": "Vikunja is a powerful open-source todo app that provides users with a range of features designed to enhance productivity. It offers task tracking, due date management, collaboration tools, and more, all within an intuitive interface.\nInstalling via Vikunja via Docker, though, requires quite a number of containers running. The normal install alone needs a minimum 4 containers:\ndatabase api frontend nginx When I tried running them via docker-compose, I encountered a lot of this kind of Internal Server Error:\nAnd sometimes logging in returned repetitive API errors.\nI read somewhere that installing Redis along within the same docker-compose file helps. So I did.\nBut I still encountered several Internal Server Errors, albeit on rarer occasions this time.\n5 Docker Containers, and still errors. Vikunja left me no choice but to run:\ndocker-compose down docker image prune -a cd .. rm -R vikunja ",
   "wordCount" : "142",
@@ -188,9 +187,9 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
+      <li><a href="https://deuts.org/a/vikunja/">Vikunja</a></li>
       <li><a href="https://deuts.org/t/docker/">Docker</a></li>
       <li><a href="https://deuts.org/t/todo/">Todo</a></li>
-      <li><a href="https://deuts.org/t/vikunja/">Vikunja</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/data-analysis-python-excel/">
@@ -209,7 +208,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share I can&#39;t make Vikunja work on my set up on x"
-            href="https://x.com/intent/tweet/?text=I%20can%27t%20make%20Vikunja%20work%20on%20my%20set%20up&amp;url=https%3a%2f%2fdeuts.org%2fp%2fvikunja-internal-server-error%2f&amp;hashtags=docker%2ctodo%2cvikunja">
+            href="https://x.com/intent/tweet/?text=I%20can%27t%20make%20Vikunja%20work%20on%20my%20set%20up&amp;url=https%3a%2f%2fdeuts.org%2fp%2fvikunja-internal-server-error%2f&amp;hashtags=docker%2ctodo">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

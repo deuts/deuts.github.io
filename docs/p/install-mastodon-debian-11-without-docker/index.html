@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>How to Install Mastodon on Debian 11 Without Docker | Deuts Log</title>
-<meta name="keywords" content="mastodon, debian, docker, chatgpt">
+<meta name="keywords" content="debian, docker, chatgpt">
 <meta name="description" content="This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/install-mastodon-debian-11-without-docker/">
@@ -38,7 +38,6 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2022-12-12T10:26:42+08:00">
     <meta property="article:modified_time" content="2022-12-12T10:26:42+08:00">
-    <meta property="article:tag" content="Mastodon">
     <meta property="article:tag" content="Debian">
     <meta property="article:tag" content="Docker">
     <meta property="article:tag" content="Chatgpt">
@@ -56,7 +55,7 @@
   "name": "How to Install Mastodon on Debian 11 Without Docker",
   "description": "This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.",
   "keywords": [
-    "mastodon", "debian", "docker", "chatgpt"
+    "debian", "docker", "chatgpt"
   ],
   "articleBody": "With all the hype about ChatGPT nowadays, I really have to try it. And I’m still wondering how to install Mastodon on Debian 11 without Docker. And here’s the AI’s response:\nHow to Install Mastodon on Debian 11 Without Docker (instructions generated from ChatGPT) To install Mastodon, the open-source, decentralized social networking platform, on Debian 11 without using Docker, you can follow these steps:\nFirst, make sure you have the necessary dependencies installed on your system. This includes PostgreSQL, Redis, and Yarn. You can install these using the following commands: sudo apt-get update sudo apt-get install postgresql postgresql-contrib sudo apt-get install redis-server curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - echo \"deb https://dl.yarnpkg.com/debian/ stable main\" | sudo tee /etc/apt/sources.list.d/yarn.list sudo apt-get update \u0026\u0026 sudo apt-get install yarn Next, clone the Mastodon Git repository to your local machine using the following command: git clone https://github.com/tootsuite/mastodon.git Navigate to the Mastodon directory and install the necessary dependencies using Yarn: cd mastodon yarn install Next, you will need to configure Mastodon by copying the .env.production.sample file to .env.production and editing it to set the appropriate values for your environment. This includes setting up your database, caching, and other options.\nOnce the configuration is complete, you can compile the Mastodon assets using the following command:\nRAILS_ENV=production bundle exec rails assets:precompile Finally, you can start the Mastodon server using the following command: RAILS_ENV=production bundle exec rails s Mastodon should now be running on your system. You can access it in your web browser at http://localhost:3000.\nNote: The steps outlined above are a simplified version of the installation instructions for Mastodon. For more detailed instructions and additional options, please refer to the Mastodon documentation.\nI still have to try this And I still have to try this soon. Will provide feedback if this instuction prove helpful.\n",
   "wordCount" : "299",
@@ -209,7 +208,7 @@ yarn install
   <footer class="post-footer">
     
     <ul class="post-tags">
-      <li><a href="https://deuts.org/t/mastodon/">Mastodon</a></li>
+      <li><a href="https://deuts.org/a/mastodon/">Mastodon</a></li>
       <li><a href="https://deuts.org/t/debian/">Debian</a></li>
       <li><a href="https://deuts.org/t/docker/">Docker</a></li>
       <li><a href="https://deuts.org/t/chatgpt/">Chatgpt</a></li>
@@ -231,7 +230,7 @@ yarn install
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share How to Install Mastodon on Debian 11 Without Docker on x"
-            href="https://x.com/intent/tweet/?text=How%20to%20Install%20Mastodon%20on%20Debian%2011%20Without%20Docker&amp;url=https%3a%2f%2fdeuts.org%2fp%2finstall-mastodon-debian-11-without-docker%2f&amp;hashtags=mastodon%2cdebian%2cdocker%2cchatgpt">
+            href="https://x.com/intent/tweet/?text=How%20to%20Install%20Mastodon%20on%20Debian%2011%20Without%20Docker&amp;url=https%3a%2f%2fdeuts.org%2fp%2finstall-mastodon-debian-11-without-docker%2f&amp;hashtags=debian%2cdocker%2cchatgpt">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
