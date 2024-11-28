@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crypto on Deuts Log</title>
+    <link>https://deuts.org/t/crypto/</link>
+    <description>Recent content in Crypto on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 21:50:15 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Bitcoin Is a Scam</title>
+      <link>https://deuts.org/p/why-bitcoin-is-a-scam/</link>
+      <pubDate>Tue, 01 Nov 2022 21:50:15 +0800</pubDate>
+      <guid>https://deuts.org/p/why-bitcoin-is-a-scam/</guid>
+      <description>Bitcoin is often seen more as an investment than a currency. People rarely use it for transactions; instead, they buy it with the expectation that others will do the same, driving up its price. This behavior is also common with other cryptocurrencies, which some compare to a Ponzi scheme.</description>
+    </item>
+  </channel>
+</rss>

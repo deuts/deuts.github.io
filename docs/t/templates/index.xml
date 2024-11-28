@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Templates on Deuts Log</title>
+    <link>https://deuts.org/t/templates/</link>
+    <description>Recent content in Templates on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 10:30:00 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/templates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jekyll Themes</title>
+      <link>https://deuts.org/x/jekyll-themes/</link>
+      <pubDate>Mon, 25 Nov 2024 10:30:00 +0800</pubDate>
+      <guid>https://deuts.org/x/jekyll-themes/</guid>
+      <description>&lt;p&gt;Jekyll themes like &lt;a href=&#34;https://github.com/just-the-docs/just-the-docs&#34;&gt;Just the Docs&lt;/a&gt; and &lt;a href=&#34;https://github.com/cotes2020/jekyll-theme-chirpy&#34;&gt;Chirpy&lt;/a&gt; are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;Hugo vs. Jekyll debate&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

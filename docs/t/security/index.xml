@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on Deuts Log</title>
+    <link>https://deuts.org/t/security/</link>
+    <description>Recent content in Security on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Wed, 27 Nov 2024 00:13:09 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enclosed could be the best PrivateBin replacement</title>
+      <link>https://deuts.org/p/enclosed-privatebin-alternative/</link>
+      <pubDate>Wed, 27 Nov 2024 00:13:09 +0800</pubDate>
+      <guid>https://deuts.org/p/enclosed-privatebin-alternative/</guid>
+      <description>My thoughts on Enclosed, a minimalistic and secure web app for private note sharing, and why it’s a strong contender to replace PrivateBin in my workflow. </description>
+    </item>
+    <item>
+      <title>How to Use an SSH Key for a Specific GitHub Repository</title>
+      <link>https://deuts.org/p/ssh-key-github-repo/</link>
+      <pubDate>Fri, 22 Nov 2024 11:01:31 +0800</pubDate>
+      <guid>https://deuts.org/p/ssh-key-github-repo/</guid>
+      <description>A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.</description>
+    </item>
+    <item>
+      <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
+      <link>https://deuts.org/p/docker-caddy-basic-auth/</link>
+      <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
+      <guid>https://deuts.org/p/docker-caddy-basic-auth/</guid>
+      <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
+    </item>
+  </channel>
+</rss>

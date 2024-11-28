@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selfhosting on Deuts Log</title>
+    <link>https://deuts.org/t/selfhosting/</link>
+    <description>Recent content in Selfhosting on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Wed, 20 Nov 2024 14:25:27 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/selfhosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up Picsur with ShareX for Seamless Screenshot Uploading</title>
+      <link>https://deuts.org/p/picsur-sharex-setup/</link>
+      <pubDate>Wed, 20 Nov 2024 14:25:27 +0800</pubDate>
+      <guid>https://deuts.org/p/picsur-sharex-setup/</guid>
+      <description>A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.</description>
+    </item>
+    <item>
+      <title>Samba Docker or Native</title>
+      <link>https://deuts.org/p/samba-on-docker/</link>
+      <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
+      <guid>https://deuts.org/p/samba-on-docker/</guid>
+      <description>This post discusses the advantages of using Docker for Samba over native implementation, highlighting the convenience of portability and easier reinstallation with Docker Compose files. The author reflects on their past experience with native Samba setups and shares resources for a Docker-based Samba implementation.</description>
+    </item>
+    <item>
+      <title>Docker Apps to Install</title>
+      <link>https://deuts.org/p/my-docker-apps-to-install-in-2024/</link>
+      <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
+      <guid>https://deuts.org/p/my-docker-apps-to-install-in-2024/</guid>
+      <description>This post shares the author&amp;#39;s inspiration from Jim’s Garage on YouTube and his GitHub repository to try out several Docker applications: Immich, Paperless-ngx, Vikunja, rClone, and Restic.</description>
+    </item>
+  </channel>
+</rss>

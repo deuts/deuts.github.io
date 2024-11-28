@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Debian on Deuts Log</title>
+    <link>https://deuts.org/t/debian/</link>
+    <description>Recent content in Debian on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sun, 13 Aug 2023 16:40:41 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checklist of things to do on a new VPS server</title>
+      <link>https://deuts.org/p/new-vps-checklist/</link>
+      <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
+      <guid>https://deuts.org/p/new-vps-checklist/</guid>
+      <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
+    </item>
+    <item>
+      <title>How to install Hugo in a Linux VPS</title>
+      <link>https://deuts.org/p/hugo-linux-vps/</link>
+      <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-linux-vps/</guid>
+      <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
+    </item>
+    <item>
+      <title>Key Is Stored in Legacy Trusted.gpg Keyring</title>
+      <link>https://deuts.org/p/key-legacy-trusted-gpg-keyring/</link>
+      <pubDate>Wed, 09 Aug 2023 08:21:31 +0800</pubDate>
+      <guid>https://deuts.org/p/key-legacy-trusted-gpg-keyring/</guid>
+      <description>This post addresses the issue of legacy keyrings on fresh installs of Debian or Ubuntu, where an error message warns about keys stored in the deprecated trusted.gpg keyring. The solution is to copy the keyring to the trusted.gpg.d directory and update the system using sudo apt update.</description>
+    </item>
+    <item>
+      <title>How to Install Mastodon on Debian 11 Without Docker</title>
+      <link>https://deuts.org/p/install-mastodon-debian-11-without-docker/</link>
+      <pubDate>Mon, 12 Dec 2022 10:26:42 +0800</pubDate>
+      <guid>https://deuts.org/p/install-mastodon-debian-11-without-docker/</guid>
+      <description>This post outlines the steps for installing Mastodon on Debian 11 without Docker, including setting up dependencies like PostgreSQL, Redis, and Yarn, cloning the Mastodon repository, configuring the environment, and starting the server. The user plans to try it and provide feedback.</description>
+    </item>
+  </channel>
+</rss>

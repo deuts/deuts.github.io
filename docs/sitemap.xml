@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-27T00:13:09+08:00</lastmod>
+    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -19,15 +19,24 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-27T00:13:09+08:00</lastmod>
+    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/apps/</loc>
+    <loc>https://deuts.org/p/slicehosting-fly-by-night/</loc>
+    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/all/</loc>
+    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/vps-hosting/</loc>
+    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/apps/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/docker/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/enclosed/</loc>
+    <loc>https://deuts.org/a/enclosed/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/enclosed-privatebin-alternative/</loc>
@@ -36,16 +45,16 @@
     <loc>https://deuts.org/t/notes/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/privatebin/</loc>
+    <loc>https://deuts.org/a/privatebin/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/security/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/all/</loc>
-    <lastmod>2024-11-27T00:13:09+08:00</lastmod>
+    <loc>https://deuts.org/t/apps/</loc>
+    <lastmod>2024-11-26T16:59:48+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/portchecker/</loc>
+    <loc>https://deuts.org/a/portchecker/</loc>
     <lastmod>2024-11-26T16:59:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/to-portchecker-or-not/</loc>
@@ -69,7 +78,7 @@
     <loc>https://deuts.org/x/gcash-bank-transfer-issues/</loc>
     <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/bytestash/</loc>
+    <loc>https://deuts.org/a/bytestash/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/gist/</loc>
@@ -78,7 +87,7 @@
     <loc>https://deuts.org/t/git/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/opengist/</loc>
+    <loc>https://deuts.org/a/opengist/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/snippets/</loc>
@@ -87,19 +96,34 @@
     <loc>https://deuts.org/x/snippets/</loc>
     <lastmod>2024-11-25T10:45:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/hugo/</loc>
+    <loc>https://deuts.org/t/blogging/</loc>
     <lastmod>2024-11-25T10:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/jekyll/</loc>
+    <loc>https://deuts.org/a/hugo/</loc>
+    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/jekyll/</loc>
     <lastmod>2024-11-25T10:30:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/jekyll-themes/</loc>
     <lastmod>2024-11-25T10:30:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/t/templates/</loc>
+    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/themes/</loc>
+    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/t/github/</loc>
     <lastmod>2024-11-22T14:09:57+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/t/hugo/</loc>
+    <lastmod>2024-11-22T14:09:57+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/p/hugo-vs-jekyll/</loc>
+    <lastmod>2024-11-22T14:09:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/jekyll/</loc>
     <lastmod>2024-11-22T14:09:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/ssh-key-github-repo/</loc>
@@ -120,6 +144,9 @@
     <loc>https://deuts.org/t/picsur/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/a/picsur/</loc>
+    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/t/screenshot/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
@@ -127,6 +154,9 @@
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/sharex/</loc>
+    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/sharex/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/database/</loc>
@@ -157,9 +187,6 @@
     <lastmod>2024-11-19T20:31:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/vps-deals/</loc>
-    <lastmod>2024-11-19T20:31:27+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/vps-hosting/</loc>
     <lastmod>2024-11-19T20:31:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/medama-vs-google-analytics/</loc>
@@ -228,13 +255,22 @@
     <loc>https://deuts.org/t/obsidian/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/a/obsidian/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/t/resilio-sync/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/resilio-sync/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/sync/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/syncthing/</loc>
+    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/syncthing/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/pldt/</loc>
@@ -261,10 +297,10 @@
     <loc>https://deuts.org/t/shortcode/</loc>
     <lastmod>2024-11-14T18:26:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/blogging/</loc>
+    <loc>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</loc>
+    <loc>https://deuts.org/a/wordpress/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/git-repository-to-github/</loc>

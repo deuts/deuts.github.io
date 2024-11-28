@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ssh on Deuts Log</title>
+    <link>https://deuts.org/t/ssh/</link>
+    <description>Recent content in Ssh on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Fri, 22 Nov 2024 11:01:31 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use an SSH Key for a Specific GitHub Repository</title>
+      <link>https://deuts.org/p/ssh-key-github-repo/</link>
+      <pubDate>Fri, 22 Nov 2024 11:01:31 +0800</pubDate>
+      <guid>https://deuts.org/p/ssh-key-github-repo/</guid>
+      <description>A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.</description>
+    </item>
+  </channel>
+</rss>

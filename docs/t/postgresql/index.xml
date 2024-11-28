@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postgresql on Deuts Log</title>
+    <link>https://deuts.org/t/postgresql/</link>
+    <description>Recent content in Postgresql on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Wed, 20 Nov 2024 13:20:59 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Prefer SQLite-Only Docker Services</title>
+      <link>https://deuts.org/p/why-sqlite-docker/</link>
+      <pubDate>Wed, 20 Nov 2024 13:20:59 +0800</pubDate>
+      <guid>https://deuts.org/p/why-sqlite-docker/</guid>
+      <description>SQLite’s embedded nature eliminates the need for complex client-server setups, reducing overhead and simplifying Docker configurations. It’s lightweight, fast, and easy to set up, making it an ideal choice for solo users and low-traffic applications.</description>
+    </item>
+  </channel>
+</rss>
