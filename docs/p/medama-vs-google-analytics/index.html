@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Exploring Google Analytics Alternatives: Why I Chose Medama | Deuts Log</title>
-<meta name="keywords" content="web-analytics, google-analytics, medama, matomo, piwik, umami, wordpress, jetpack">
+<meta name="keywords" content="web-analytics, google-analytics">
 <meta name="description" content="Looking for a Google Analytics alternative, I explored several options and ultimately settled on Medama for its simplicity, lightweight nature, and ease of use. It provides essential insights without the complexity of other analytics tools.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/medama-vs-google-analytics/">
@@ -40,10 +40,6 @@
     <meta property="article:modified_time" content="2024-11-19T17:55:00+08:00">
     <meta property="article:tag" content="Web-Analytics">
     <meta property="article:tag" content="Google-Analytics">
-    <meta property="article:tag" content="Medama">
-    <meta property="article:tag" content="Matomo">
-    <meta property="article:tag" content="Piwik">
-    <meta property="article:tag" content="Umami">
     <meta property="og:image" content="https://deuts.org/web-analytics.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://deuts.org/web-analytics.jpg">
@@ -60,7 +56,7 @@
   "name": "Exploring Google Analytics Alternatives: Why I Chose Medama",
   "description": "Looking for a Google Analytics alternative, I explored several options and ultimately settled on Medama for its simplicity, lightweight nature, and ease of use. It provides essential insights without the complexity of other analytics tools.",
   "keywords": [
-    "web-analytics", "google-analytics", "medama", "matomo", "piwik", "umami", "wordpress", "jetpack"
+    "web-analytics", "google-analytics"
   ],
   "articleBody": "I was recently browsing through selfh.st looking for a Google Analytics alternative for my public websites. I wanted something that would give me the basic insights I need, without being bloated or overly complicated. After narrowing it down, I ended up considering three options: Umami, Matomo, and Medama.\nWhy I’m Moving Away from Google Analytics Before we jump into the alternatives, let me first explain why I’m steering clear of Google Analytics—because sometimes, less is more!\nSelf-Hosted Simplicity: Google Analytics, while powerful, requires an external service and complex integration. I prefer a self-hosted solution where I have full control over my data, without relying on third-party providers.\nGoogle Analytics is Hard to Navigate: I’ve always found Google Analytics difficult to navigate, especially when looking for specific insights. The overwhelming number of features and menus can make it hard to pinpoint exactly what I want without wading through unnecessary options.\nPrivacy Concerns: While it’s not always discussed openly, Google Analytics sometimes includes tracking scripts that could be seen as invasive. With data collection practices that tie into Google’s wider ecosystem, it could potentially compromise user privacy in ways that I don’t fully control. For example, data shared with Google can be used for advertising purposes, which might not align with my privacy policies.\nExcessive Complexity for Basic Needs: For most of my websites, I don’t need detailed reports or a high level of tracking. I just want to know which pages are visited, where my traffic is coming from, and what devices or browsers visitors are using. Google Analytics can do this, but it requires navigating through complex dashboards and reports that are too advanced for my simple needs.\nUmami: Great but Not Without Issues I’ve tried Umami before and had some issues with it. When I upgraded to a newer version, I encountered errors that disrupted my tracking. Additionally, Umami requires a separate database container, either MySQL or Postgres, which added complexity to my setup. For a simple analytics solution, it felt like a bit too much to maintain.\nMatomo: Too Bloated for My Needs Next up was Matomo, which was previously known as Piwik. I’ve used Matomo before, especially in environments like cPanel, but I found it to be too bloated for my use case. There are so many features, many of which I never use, that navigating through the platform often felt overwhelming. With countless options and pages to browse, it became difficult to figure out what was essential versus what was unnecessary. It’s powerful, but I just needed something much simpler.\nWhat I Really Want: Simple, Effective Analytics At this point, I realized that all I wanted was a simple tool that would tell me which pages on my website are popular, where my visitors are coming from, what devices and browsers they’re using, and the sources that brought them there. I didn’t need extensive reports or a full-blown dashboard with complex features. I wanted basic insights without the clutter.\nWhy I Chose Medama After further research, I finally settled on Medama, and here’s why:\nLightweight Tracker: Medama’s simplicity is its strength. It provides just the essentials and does it well. SQLite Database Support: Unlike Umami, Medama uses SQLite, which is easier to manage and doesn’t require setting up a separate database container. Simple and Intuitive Interface: The interface is clean and easy to navigate, making it much more user-friendly than the other options I explored. My Wish for Medama One feature I’d love to see in Medama is the ability to filter out my own browsing activity from the statistics. It would be great to ensure my personal visits to my website don’t skew the data.\nA Potential Jetpack Replacement? If my experience with Medama continues to be positive, I might even consider replacing Jetpack on my WordPress site. Jetpack Stats is really the only feature that keeps me using Jetpack, alongside Akismet for spam protection. If Medama proves to be a reliable and lightweight tracker, it could serve as an ideal replacement for my needs.\n",
   "wordCount" : "670",
@@ -241,14 +237,12 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
+      <li><a href="https://deuts.org/a/umami/">Umami</a></li>
+      <li><a href="https://deuts.org/a/medama/">Medama</a></li>
+      <li><a href="https://deuts.org/a/matomo/">Matomo</a></li>
+      <li><a href="https://deuts.org/a/wordpress/">Wordpress</a></li>
       <li><a href="https://deuts.org/t/web-analytics/">Web-Analytics</a></li>
       <li><a href="https://deuts.org/t/google-analytics/">Google-Analytics</a></li>
-      <li><a href="https://deuts.org/t/medama/">Medama</a></li>
-      <li><a href="https://deuts.org/t/matomo/">Matomo</a></li>
-      <li><a href="https://deuts.org/t/piwik/">Piwik</a></li>
-      <li><a href="https://deuts.org/t/umami/">Umami</a></li>
-      <li><a href="https://deuts.org/t/wordpress/">Wordpress</a></li>
-      <li><a href="https://deuts.org/t/jetpack/">Jetpack</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/black-friday-vps-deals/">
@@ -267,7 +261,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Exploring Google Analytics Alternatives: Why I Chose Medama on x"
-            href="https://x.com/intent/tweet/?text=Exploring%20Google%20Analytics%20Alternatives%3a%20Why%20I%20Chose%20Medama&amp;url=https%3a%2f%2fdeuts.org%2fp%2fmedama-vs-google-analytics%2f&amp;hashtags=web-analytics%2cgoogle-analytics%2cmedama%2cmatomo%2cpiwik%2cumami%2cwordpress%2cjetpack">
+            href="https://x.com/intent/tweet/?text=Exploring%20Google%20Analytics%20Alternatives%3a%20Why%20I%20Chose%20Medama&amp;url=https%3a%2f%2fdeuts.org%2fp%2fmedama-vs-google-analytics%2f&amp;hashtags=web-analytics%2cgoogle-analytics">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

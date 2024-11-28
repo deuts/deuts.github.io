@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Checklist of things to do on a new VPS server | Deuts Log</title>
-<meta name="keywords" content="linux, vps-hosting, debian, ubuntu, portainer, duplicati, cloudflare, docker">
+<meta name="keywords" content="linux, vps-hosting, debian, ubuntu, cloudflare, docker">
 <meta name="description" content="This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/new-vps-checklist/">
@@ -42,8 +42,8 @@
     <meta property="article:tag" content="Vps-Hosting">
     <meta property="article:tag" content="Debian">
     <meta property="article:tag" content="Ubuntu">
-    <meta property="article:tag" content="Portainer">
-    <meta property="article:tag" content="Duplicati">
+    <meta property="article:tag" content="Cloudflare">
+    <meta property="article:tag" content="Docker">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Checklist of things to do on a new VPS server">
 <meta name="twitter:description" content="This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.">
@@ -58,7 +58,7 @@
   "name": "Checklist of things to do on a new VPS server",
   "description": "This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.",
   "keywords": [
-    "linux", "vps-hosting", "debian", "ubuntu", "portainer", "duplicati", "cloudflare", "docker"
+    "linux", "vps-hosting", "debian", "ubuntu", "cloudflare", "docker"
   ],
   "articleBody": "Update the system From this moment, we’ll assume you’re still logged in as root. After all, this is a fresh install of Linux, right?\napt update apt upgrade -y Install essential utilities apt install sudo htop curl nano wget net-tools Change root password This is just in case you don’t think the assigned root password is not complex enough for your liking:\npasswd Then enter you new password twice.\nUpdate Timezone dpkg-reconfigure tzdata Add non-root user Add user Change username with the username of your choice:\nadduser username Add user to sudoers group usermod -aG sudo username So, the non-root user is ready. From this moment on, we’ll assume you’re logged as that non-root user.\nChange the hostname Edit /etc/hostname sudo nano /etc/hostname And change accordingly.\nEdit /etc/hosts sudo nano /etc/hosts And change accordingly.\nReboot sudo reboot Install Docker and Docker Compose Install Docker Follow the instructions applicable for your system from the official Docker documentation. My favorite systems are Ubuntu and Debian, and I actually prefer to use the install using the repository method:\nSet up Docker’s Apt repository For Ubuntu # Add Docker's official GPG key: sudo apt-get update sudo apt-get install ca-certificates curl gnupg sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg sudo chmod a+r /etc/apt/keyrings/docker.gpg # Add the repository to Apt sources: echo \\ \"deb [arch=\"$(dpkg --print-architecture)\" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \\ \"$(. /etc/os-release \u0026\u0026 echo \"$VERSION_CODENAME\")\" stable\" | \\ sudo tee /etc/apt/sources.list.d/docker.list \u003e /dev/null sudo apt-get update For Debian # Add Docker's official GPG key: sudo apt-get update sudo apt-get install ca-certificates curl gnupg sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg sudo chmod a+r /etc/apt/keyrings/docker.gpg # Add the repository to Apt sources: echo \\ \"deb [arch=\"$(dpkg --print-architecture)\" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \\ \"$(. /etc/os-release \u0026\u0026 echo \"$VERSION_CODENAME\")\" stable\" | \\ sudo tee /etc/apt/sources.list.d/docker.list \u003e /dev/null sudo apt-get update Install the Docker packages sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin Install Docker Compose sudo apt install docker-compose Add user to the Docker group Check if docker group already exists: grep docker /etc/group Add user to the docker group: usermod -aG docker username (don’t forget to change username to the username of your choice) Create a network bridge for Docker Containers From now on, the instructions here is if you plan to expose your applications via Cloudflare Tunnel.\ndocker network create -d bridge cloudflared Install Cloudflare Tunnel Make a directory: mkdir appdata/cloudflared (the directory structure is up to you) CD to that directory: cd appdata/cloudflared Create the docker-compose.yml file: nano docker-compose.yml Then paste the following:\nversion: \"3.3\" services: tunnel: container_name: cloudflared-tunnel image: cloudflare/cloudflared restart: unless-stopped command: tunnel --no-autoupdate run environment: - TUNNEL_TOKEN=[paste_here_your_actual_token] networks: - cloudflared networks: cloudflared: external: true Don’t forget to paste your actual token that will be generated when you create a new tunnel in Cloudflare.\nInstall Portainer Via Docker Compose Same as above, mkdir for portainer, then create the docker-compose.yml file:\nversion: '3' services: portainer: image: portainer/portainer-ce:latest container_name: portainer environment: - PUID=1000 - PGID=1000 - TZ=Asia/Manila restart: unless-stopped volumes: - /var/run/docker.sock:/var/run/docker.sock - ./data:/data # ports: # - 9000:9000 # - 8000:8000 # - 9443:9443 networks: - cloudflared networks: cloudflared: external: true Note that I commented out the ports portion of the docker-compose.yml because we’re not exposing the ports to the internet. Instead, we’re using Cloudflare Tunnel to expose the apps.\nInstall Duplicati All these efforts you do to set up Docker containers will go to waste if you don’t do a proper backup of your config and data files.\nversion: \"2.1\" services: duplicati: image: lscr.io/linuxserver/duplicati:latest container_name: duplicati environment: - PUID=0 - PGID=0 - TZ=America/Denver volumes: - ./config:/config - ./backups:/backups - /home/username:/source # ports: # - 8200:8200 restart: unless-stopped networks: - cloudflared networks: cloudflared: external: true I prefer to run Duplicati as root so I won’t have to deal with read permission issues in the future, so I set PUID and PGID to 0. Needless to say, you have to change your TZ and your source folder to map to the container.\n",
   "wordCount" : "669",
@@ -392,12 +392,12 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
+      <li><a href="https://deuts.org/a/portainer/">Portainer</a></li>
+      <li><a href="https://deuts.org/a/duplicati/">Duplicati</a></li>
       <li><a href="https://deuts.org/t/linux/">Linux</a></li>
       <li><a href="https://deuts.org/t/vps-hosting/">Vps-Hosting</a></li>
       <li><a href="https://deuts.org/t/debian/">Debian</a></li>
       <li><a href="https://deuts.org/t/ubuntu/">Ubuntu</a></li>
-      <li><a href="https://deuts.org/t/portainer/">Portainer</a></li>
-      <li><a href="https://deuts.org/t/duplicati/">Duplicati</a></li>
       <li><a href="https://deuts.org/t/cloudflare/">Cloudflare</a></li>
       <li><a href="https://deuts.org/t/docker/">Docker</a></li>
     </ul>
@@ -418,7 +418,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Checklist of things to do on a new VPS server on x"
-            href="https://x.com/intent/tweet/?text=Checklist%20of%20things%20to%20do%20on%20a%20new%20VPS%20server&amp;url=https%3a%2f%2fdeuts.org%2fp%2fnew-vps-checklist%2f&amp;hashtags=linux%2cvps-hosting%2cdebian%2cubuntu%2cportainer%2cduplicati%2ccloudflare%2cdocker">
+            href="https://x.com/intent/tweet/?text=Checklist%20of%20things%20to%20do%20on%20a%20new%20VPS%20server&amp;url=https%3a%2f%2fdeuts.org%2fp%2fnew-vps-checklist%2f&amp;hashtags=linux%2cvps-hosting%2cdebian%2cubuntu%2ccloudflare%2cdocker">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

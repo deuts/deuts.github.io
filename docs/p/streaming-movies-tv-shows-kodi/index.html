@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Streaming Movies and TV Shows on Kodi | Deuts Log</title>
-<meta name="keywords" content="plex, tv-shows, vps-hosting, websites, kodi, emby, jellyfin">
+<meta name="keywords" content="tv-shows, vps-hosting">
 <meta name="description" content="You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/streaming-movies-tv-shows-kodi/">
@@ -38,12 +38,8 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2022-10-21T21:28:50+08:00">
     <meta property="article:modified_time" content="2022-10-21T21:28:50+08:00">
-    <meta property="article:tag" content="Plex">
     <meta property="article:tag" content="Tv-Shows">
     <meta property="article:tag" content="Vps-Hosting">
-    <meta property="article:tag" content="Websites">
-    <meta property="article:tag" content="Kodi">
-    <meta property="article:tag" content="Emby">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Streaming Movies and TV Shows on Kodi">
 <meta name="twitter:description" content="You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.">
@@ -58,7 +54,7 @@
   "name": "Streaming Movies and TV Shows on Kodi",
   "description": "You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.",
   "keywords": [
-    "plex", "tv-shows", "vps-hosting", "websites", "kodi", "emby", "jellyfin"
+    "tv-shows", "vps-hosting"
   ],
   "articleBody": "When I started hoarding movies and TV shows back when streaming services were not yet a thing, of course I played them using VLC. But you can only do that on a computer. These media are better consumed over TV, right?\nThen, the rise of Netflix showed us a glipmse of how your media should be better managed — with posters or thumbnails, description or summary, genre, casts list, and even related movies to watch after. I remember I used to have several hard drives with duplicate movies from several sources or several different versions and video codecs. Worse, it was so hard to keep track back then which movies you’ve already watched or what episode of a show did you last watch.\nThen came Kodi. And you can sync your collection and watch status with Trakt. But Kodi was supposed to manage your local files only — or so I knew.\nIf you have a VPS or even a local server with your media files while running Apache or Nginx to serve webpages and/or files, you can actually add those folders as a media source to your Kodi app. The video below will show you how:\nOf course, now there are media servers like Plex, Emby and Jellyfin to help you manage and stream your media files. But Kodi has a lot to offer over these other apps, and that’s a totally different topic.\nFAQ Will this work with HTTP Basic Authentication on Nginx server? I actually have yet to try this out, and will update this post when I find out. But feel free to mention me @deuts if you know the answer.\n",
   "wordCount" : "276",
@@ -194,13 +190,12 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
-      <li><a href="https://deuts.org/t/plex/">Plex</a></li>
+      <li><a href="https://deuts.org/a/plex/">Plex</a></li>
+      <li><a href="https://deuts.org/a/kodi/">Kodi</a></li>
+      <li><a href="https://deuts.org/a/emby/">Emby</a></li>
+      <li><a href="https://deuts.org/a/jellyfin/">Jellyfin</a></li>
       <li><a href="https://deuts.org/t/tv-shows/">Tv-Shows</a></li>
       <li><a href="https://deuts.org/t/vps-hosting/">Vps-Hosting</a></li>
-      <li><a href="https://deuts.org/t/websites/">Websites</a></li>
-      <li><a href="https://deuts.org/t/kodi/">Kodi</a></li>
-      <li><a href="https://deuts.org/t/emby/">Emby</a></li>
-      <li><a href="https://deuts.org/t/jellyfin/">Jellyfin</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/joplin-npm-duplicati-docker/">
@@ -219,7 +214,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Streaming Movies and TV Shows on Kodi on x"
-            href="https://x.com/intent/tweet/?text=Streaming%20Movies%20and%20TV%20Shows%20on%20Kodi&amp;url=https%3a%2f%2fdeuts.org%2fp%2fstreaming-movies-tv-shows-kodi%2f&amp;hashtags=plex%2ctv-shows%2cvps-hosting%2cwebsites%2ckodi%2cemby%2cjellyfin">
+            href="https://x.com/intent/tweet/?text=Streaming%20Movies%20and%20TV%20Shows%20on%20Kodi&amp;url=https%3a%2f%2fdeuts.org%2fp%2fstreaming-movies-tv-shows-kodi%2f&amp;hashtags=tv-shows%2cvps-hosting">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

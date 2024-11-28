@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>I Choose Cloudflare Access over Authelia/Authentik | Deuts Log</title>
-<meta name="keywords" content="cloudflare, authentication, authelia, authentik">
+<meta name="keywords" content="cloudflare, authentication, security">
 <meta name="description" content="A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/">
@@ -40,8 +40,7 @@
     <meta property="article:modified_time" content="2024-11-18T09:37:51+08:00">
     <meta property="article:tag" content="Cloudflare">
     <meta property="article:tag" content="Authentication">
-    <meta property="article:tag" content="Authelia">
-    <meta property="article:tag" content="Authentik">
+    <meta property="article:tag" content="Security">
     <meta property="og:image" content="https://deuts.org/cloudflare.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://deuts.org/cloudflare.png">
@@ -58,7 +57,7 @@
   "name": "I Choose Cloudflare Access over Authelia\/Authentik",
   "description": "A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.",
   "keywords": [
-    "cloudflare", "authentication", "authelia", "authentik"
+    "cloudflare", "authentication", "security"
   ],
   "articleBody": "When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.\nThe Complexity of Authelia and Authentik Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:\nComplex Setup: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance. Server Overhead: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance. Single Point of Failure: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects. Time Investment: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects. Why I Chose Cloudflare Access Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:\nCentralized Management: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place. Straightforward Setup: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running. Domain-Level Implementation: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient. Built-In Resilience: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions. Seamless Integration: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management. Zero Trust Security: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications. Bonus Benefits: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance. Why It Might Be Right for You If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.\n",
   "wordCount" : "390",
@@ -201,10 +200,11 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
+      <li><a href="https://deuts.org/a/authelia/">Authelia</a></li>
+      <li><a href="https://deuts.org/a/authentik/">Authentik</a></li>
       <li><a href="https://deuts.org/t/cloudflare/">Cloudflare</a></li>
       <li><a href="https://deuts.org/t/authentication/">Authentication</a></li>
-      <li><a href="https://deuts.org/t/authelia/">Authelia</a></li>
-      <li><a href="https://deuts.org/t/authentik/">Authentik</a></li>
+      <li><a href="https://deuts.org/t/security/">Security</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/power-query-calendar-table/">
@@ -223,7 +223,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share I Choose Cloudflare Access over Authelia/Authentik on x"
-            href="https://x.com/intent/tweet/?text=I%20Choose%20Cloudflare%20Access%20over%20Authelia%2fAuthentik&amp;url=https%3a%2f%2fdeuts.org%2fp%2fcloudflareaccess-vs-authelia-vs-authentik%2f&amp;hashtags=cloudflare%2cauthentication%2cauthelia%2cauthentik">
+            href="https://x.com/intent/tweet/?text=I%20Choose%20Cloudflare%20Access%20over%20Authelia%2fAuthentik&amp;url=https%3a%2f%2fdeuts.org%2fp%2fcloudflareaccess-vs-authelia-vs-authentik%2f&amp;hashtags=cloudflare%2cauthentication%2csecurity">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

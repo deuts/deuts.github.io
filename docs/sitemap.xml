@@ -144,9 +144,6 @@
     <loc>https://deuts.org/p/picsur-sharex-setup/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/picsur/</loc>
-    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/a/picsur/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
@@ -156,22 +153,19 @@
     <loc>https://deuts.org/t/selfhosting/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/sharex/</loc>
-    <lastmod>2024-11-20T14:25:27+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/a/sharex/</loc>
     <lastmod>2024-11-20T14:25:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/database/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/mysql/</loc>
+    <loc>https://deuts.org/a/mysql/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/postgresql/</loc>
+    <loc>https://deuts.org/a/postgresql/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/sqlite/</loc>
+    <loc>https://deuts.org/a/sqlite/</loc>
     <lastmod>2024-11-20T13:20:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/why-sqlite-docker/</loc>
@@ -195,25 +189,19 @@
     <loc>https://deuts.org/t/google-analytics/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/jetpack/</loc>
+    <loc>https://deuts.org/a/matomo/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/matomo/</loc>
+    <loc>https://deuts.org/a/medama/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/medama/</loc>
-    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/piwik/</loc>
-    <lastmod>2024-11-19T17:55:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/umami/</loc>
+    <loc>https://deuts.org/a/umami/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/web-analytics/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/wordpress/</loc>
+    <loc>https://deuts.org/a/wordpress/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/data-analysis/</loc>
@@ -234,13 +222,13 @@
     <loc>https://deuts.org/t/power-query/</loc>
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/authelia/</loc>
+    <loc>https://deuts.org/a/authelia/</loc>
     <lastmod>2024-11-18T09:37:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/authentication/</loc>
     <lastmod>2024-11-18T09:37:51+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/authentik/</loc>
+    <loc>https://deuts.org/a/authentik/</loc>
     <lastmod>2024-11-18T09:37:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/cloudflare/</loc>
@@ -252,22 +240,13 @@
     <loc>https://deuts.org/p/resilio-sync-reliability-issues/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/obsidian/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/a/obsidian/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/resilio-sync/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/resilio-sync/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/sync/</loc>
-    <lastmod>2024-11-17T17:49:54+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/syncthing/</loc>
     <lastmod>2024-11-17T17:49:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/syncthing/</loc>
@@ -279,7 +258,7 @@
     <loc>https://deuts.org/p/pldt-no-internet-downtime/</loc>
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/caddy/</loc>
+    <loc>https://deuts.org/a/caddy/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</loc>
@@ -300,9 +279,6 @@
     <loc>https://deuts.org/p/build-hugo-obsidian-github-pages-workflow/</loc>
     <lastmod>2024-11-13T23:44:23+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/a/wordpress/</loc>
-    <lastmod>2024-11-13T23:44:23+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/p/git-repository-to-github/</loc>
     <lastmod>2024-11-13T11:44:23+08:00</lastmod>
   </url><url>
@@ -310,6 +286,9 @@
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/linux/</loc>
+    <lastmod>2024-11-12T21:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/obsidian/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/list-generate-running-total/</loc>
@@ -363,7 +342,7 @@
     <loc>https://deuts.org/p/nextcloud-post-install-config/</loc>
     <lastmod>2023-08-18T08:33:53+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/nextcloud/</loc>
+    <loc>https://deuts.org/a/nextcloud/</loc>
     <lastmod>2023-08-18T08:33:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/new-vps-checklist/</loc>
@@ -372,10 +351,10 @@
     <loc>https://deuts.org/t/debian/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/duplicati/</loc>
+    <loc>https://deuts.org/a/duplicati/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/portainer/</loc>
+    <loc>https://deuts.org/a/portainer/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/ubuntu/</loc>
@@ -432,6 +411,9 @@
     <loc>https://deuts.org/p/why-bitcoin-is-a-scam/</loc>
     <lastmod>2022-11-01T21:50:15+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/t/duplicati/</loc>
+    <lastmod>2022-10-24T22:03:23+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/t/joplin/</loc>
     <lastmod>2022-10-24T22:03:23+08:00</lastmod>
   </url><url>
@@ -441,28 +423,28 @@
     <loc>https://deuts.org/t/npm/</loc>
     <lastmod>2022-10-24T22:03:23+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/emby/</loc>
+    <loc>https://deuts.org/a/emby/</loc>
     <lastmod>2022-10-21T21:28:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/jellyfin/</loc>
+    <loc>https://deuts.org/a/jellyfin/</loc>
     <lastmod>2022-10-21T21:28:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/kodi/</loc>
+    <loc>https://deuts.org/a/kodi/</loc>
     <lastmod>2022-10-21T21:28:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/plex/</loc>
+    <loc>https://deuts.org/a/plex/</loc>
     <lastmod>2022-10-21T21:28:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/streaming-movies-tv-shows-kodi/</loc>
-    <lastmod>2022-10-21T21:28:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/websites/</loc>
     <lastmod>2022-10-21T21:28:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/tv-shows-consider-watching-future/</loc>
     <lastmod>2022-10-21T12:24:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/gt-metrix-comparison-3-websites/</loc>
+    <lastmod>2022-10-21T09:40:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/websites/</loc>
     <lastmod>2022-10-21T09:40:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/airtable/</loc>
@@ -490,9 +472,6 @@
     <lastmod>2022-10-20T15:15:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/contabo-price-increase-2022/</loc>
-    <lastmod>2022-10-15T08:41:17+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/hosting/</loc>
     <lastmod>2022-10-15T08:41:17+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/basketball/</loc>

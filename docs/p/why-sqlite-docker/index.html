@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Why I Prefer SQLite-Only Docker Services | Deuts Log</title>
-<meta name="keywords" content="sqlite, docker, database, mysql, postgresql">
+<meta name="keywords" content="docker, database">
 <meta name="description" content="SQLite’s embedded nature eliminates the need for complex client-server setups, reducing overhead and simplifying Docker configurations. It’s lightweight, fast, and easy to set up, making it an ideal choice for solo users and low-traffic applications.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/why-sqlite-docker/">
@@ -38,11 +38,8 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-11-20T13:20:59+08:00">
     <meta property="article:modified_time" content="2024-11-20T13:20:59+08:00">
-    <meta property="article:tag" content="Sqlite">
     <meta property="article:tag" content="Docker">
     <meta property="article:tag" content="Database">
-    <meta property="article:tag" content="Mysql">
-    <meta property="article:tag" content="Postgresql">
     <meta property="og:image" content="https://deuts.org/sqlite-database.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://deuts.org/sqlite-database.jpg">
@@ -59,7 +56,7 @@
   "name": "Why I Prefer SQLite-Only Docker Services",
   "description": "SQLite’s embedded nature eliminates the need for complex client-server setups, reducing overhead and simplifying Docker configurations. It’s lightweight, fast, and easy to set up, making it an ideal choice for solo users and low-traffic applications.",
   "keywords": [
-    "sqlite", "docker", "database", "mysql", "postgresql"
+    "docker", "database"
   ],
   "articleBody": "When setting up Docker containers, choosing the one with minimal setup can significantly affect the overall performance, complexity, and maintenance requirements of your services. For many use cases, especially when I’m the sole user of the system, I find that SQLite is the perfect database choice. Here’s why:\nMinimal Number of Containers – SQLite doesn’t require a separate database server, which keeps the setup minimal. Fewer containers mean less complexity, making the Docker environment easier to maintain and monitor. I’m the Only User Most of the Time – SQLite is embedded into the application, so there’s no need for complex client-server systems when I’m the only user. This makes it a perfect fit for small-scale, low-traffic use cases. Lightweight, Fast, and Easy to Set Up – SQLite is lightweight and fast, with no server to configure or maintain. The database is stored in a single file, making setup quick and Docker Compose files easier to manage. Reduced Maintenance and Overhead – Without the need for database clustering, replication, or scaling, SQLite simplifies maintenance. I only need to manage one file and ensure backups are in place. Portability and Flexibility – SQLite databases are stored as single files, so they can be easily moved, backed up, or transferred between environments without complex configurations or network dependencies. Less Network Overhead – Since SQLite runs locally, there’s no need for network communication, resulting in faster response times and reduced network overhead compared to client-server databases. Whenever I’m presented with multiple Docker services that serve the same purpose, or when an SQLite-only option is available, I usually prefer SQLite. Case in point: Why I chose Medama. It’s simple and fulfills my needs without the overhead of managing an additional database server, making it perfect for personal projects, prototypes, and low-traffic applications.\nI recognize that SQLite might not always be the best choice for every project, and I’m open to hearing differing perspectives. If you believe a dedicated database like MySQL, PostgreSQL, or another RDBMS is the better route, I’d love to hear why.\n",
   "wordCount" : "339",
@@ -191,11 +188,11 @@
   <footer class="post-footer">
     
     <ul class="post-tags">
-      <li><a href="https://deuts.org/t/sqlite/">Sqlite</a></li>
+      <li><a href="https://deuts.org/a/sqlite/">Sqlite</a></li>
+      <li><a href="https://deuts.org/a/mysql/">Mysql</a></li>
+      <li><a href="https://deuts.org/a/postgresql/">Postgresql</a></li>
       <li><a href="https://deuts.org/t/docker/">Docker</a></li>
       <li><a href="https://deuts.org/t/database/">Database</a></li>
-      <li><a href="https://deuts.org/t/mysql/">Mysql</a></li>
-      <li><a href="https://deuts.org/t/postgresql/">Postgresql</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/picsur-sharex-setup/">
@@ -214,7 +211,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Why I Prefer SQLite-Only Docker Services on x"
-            href="https://x.com/intent/tweet/?text=Why%20I%20Prefer%20SQLite-Only%20Docker%20Services&amp;url=https%3a%2f%2fdeuts.org%2fp%2fwhy-sqlite-docker%2f&amp;hashtags=sqlite%2cdocker%2cdatabase%2cmysql%2cpostgresql">
+            href="https://x.com/intent/tweet/?text=Why%20I%20Prefer%20SQLite-Only%20Docker%20Services&amp;url=https%3a%2f%2fdeuts.org%2fp%2fwhy-sqlite-docker%2f&amp;hashtags=docker%2cdatabase">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

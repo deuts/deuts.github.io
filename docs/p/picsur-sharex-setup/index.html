@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>How to Set Up Picsur with ShareX for Seamless Screenshot Uploading | Deuts Log</title>
-<meta name="keywords" content="picsur, sharex, selfhosting, screenshot">
+<meta name="keywords" content="selfhosting, screenshot">
 <meta name="description" content="A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/picsur-sharex-setup/">
@@ -38,8 +38,6 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-11-20T14:25:27+08:00">
     <meta property="article:modified_time" content="2024-11-20T14:25:27+08:00">
-    <meta property="article:tag" content="Picsur">
-    <meta property="article:tag" content="Sharex">
     <meta property="article:tag" content="Selfhosting">
     <meta property="article:tag" content="Screenshot">
     <meta property="og:image" content="https://deuts.org/picsur-sharex.jpg">
@@ -58,7 +56,7 @@
   "name": "How to Set Up Picsur with ShareX for Seamless Screenshot Uploading",
   "description": "A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.",
   "keywords": [
-    "picsur", "sharex", "selfhosting", "screenshot"
+    "selfhosting", "screenshot"
   ],
   "articleBody": "Why This Guide Matters If you’re like me, you might have struggled to find a clear guide to setting up Picsur with ShareX . Picsur boasts some excellent features, including ShareX integration, but documentation for this feature is practically non-existent.\nThe official Picsur GitHub repository and its website lack instructions. GitHub issues on this topic were closed without providing clear answers. No help could be found in popular forums like r/selfhosted. To save you the same frustration, here’s a detailed step-by-step guide to integrate Picsur with ShareX.\nStep 1: Generate an API Key in Picsur Log in to your Picsur instance. Navigate to the Api Keys page from the settings menu. Click Generate API Key, and give it a descriptive name, like ShareX API. Save your changes. Step 2: Configure the ShareX Integration In the settings menu of Picsur, go to the ShareX page (located next to Api Keys). From the dropdown, select the API key you just created. Set the Image Format to PNG (recommended for high-quality uploads). Click the Export Config button to download the .sxcu file. Step 3: Import the Config to ShareX Locate the downloaded .sxcu file on your system. Double-click the file to open it. You’ll see a prompt asking if you want to set Picsur as the active custom uploader for ShareX. Confirm by clicking Yes. Tip for automatic upload\rTo automatically upload images to your Picsur instance, configure ShareX's After capture tasks and enable the Upload image to host option. Happy Screenshotting! Once setup is complete, you can use ShareX to take screenshots and have them automatically uploaded to your Picsur instance. This setup ensures quick, reliable, and self-hosted screenshot management.\n",
   "wordCount" : "278",
@@ -226,8 +224,6 @@ To automatically upload images to your Picsur instance, configure ShareX's <span
     <ul class="post-tags">
       <li><a href="https://deuts.org/a/picsur/">Picsur</a></li>
       <li><a href="https://deuts.org/a/sharex/">Sharex</a></li>
-      <li><a href="https://deuts.org/t/picsur/">Picsur</a></li>
-      <li><a href="https://deuts.org/t/sharex/">Sharex</a></li>
       <li><a href="https://deuts.org/t/selfhosting/">Selfhosting</a></li>
       <li><a href="https://deuts.org/t/screenshot/">Screenshot</a></li>
     </ul>
@@ -248,7 +244,7 @@ To automatically upload images to your Picsur instance, configure ShareX's <span
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share How to Set Up Picsur with ShareX for Seamless Screenshot Uploading on x"
-            href="https://x.com/intent/tweet/?text=How%20to%20Set%20Up%20Picsur%20with%20ShareX%20for%20Seamless%20Screenshot%20Uploading&amp;url=https%3a%2f%2fdeuts.org%2fp%2fpicsur-sharex-setup%2f&amp;hashtags=picsur%2csharex%2cselfhosting%2cscreenshot">
+            href="https://x.com/intent/tweet/?text=How%20to%20Set%20Up%20Picsur%20with%20ShareX%20for%20Seamless%20Screenshot%20Uploading&amp;url=https%3a%2f%2fdeuts.org%2fp%2fpicsur-sharex-setup%2f&amp;hashtags=selfhosting%2cscreenshot">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
