@@ -5,6 +5,9 @@
     <loc>https://deuts.org/l/resilio-sync/</loc>
     <lastmod>2024-11-15T13:32:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/i/topics/</loc>
+    <lastmod>2024-11-21T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/i/about/</loc>
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
@@ -27,16 +30,16 @@
     <loc>https://deuts.org/x/admonitions-hints-callouts/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/a/all/</loc>
+    <loc>https://deuts.org/apps/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/callouts/</loc>
+    <loc>https://deuts.org/t/callout/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/hugo/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/all/</loc>
+    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/slicehosting-fly-by-night/</loc>
@@ -266,9 +269,6 @@
   </url><url>
     <loc>https://deuts.org/p/docker-caddy-basic-auth/</loc>
     <lastmod>2024-11-14T21:46:40+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/callout/</loc>
-    <lastmod>2024-11-14T18:26:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/hugo-callouts/</loc>
     <lastmod>2024-11-14T18:26:00+08:00</lastmod>
