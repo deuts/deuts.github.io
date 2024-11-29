@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 26 Nov 2024 16:59:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 11:13:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admonitions, Hints, or Callouts</title>
+      <link>https://deuts.org/x/admonitions-hints-callouts/</link>
+      <pubDate>Fri, 29 Nov 2024 11:13:59 +0800</pubDate>
+      <guid>https://deuts.org/x/admonitions-hints-callouts/</guid>
+      <description>These are the available admonitions/hints/callouts implementation for your Hugo blog.</description>
+    </item>
     <item>
       <title>To Portchecker or not?</title>
       <link>https://deuts.org/x/to-portchecker-or-not/</link>
