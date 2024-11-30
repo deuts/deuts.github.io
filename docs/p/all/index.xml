@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 15:36:15 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 22:42:24 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is the Philippine Condo Market Overheating?</title>
+      <link>https://deuts.org/p/ph-condo-market/</link>
+      <pubDate>Sat, 30 Nov 2024 22:42:24 +0800</pubDate>
+      <guid>https://deuts.org/p/ph-condo-market/</guid>
+      <description>Shrinking rental yields and high vacancy rates raise questions about the Philippine condo market’s sustainability. Are we headed toward a correction, and could this spell opportunities for buyers?</description>
+    </item>
     <item>
       <title>The Frustrations of Online Shopping on Lazada</title>
       <link>https://deuts.org/p/online-shopping-lazada/</link>
@@ -71,13 +78,6 @@
       <pubDate>Wed, 20 Nov 2024 13:20:59 +0800</pubDate>
       <guid>https://deuts.org/p/why-sqlite-docker/</guid>
       <description>SQLite’s embedded nature eliminates the need for complex client-server setups, reducing overhead and simplifying Docker configurations. It’s lightweight, fast, and easy to set up, making it an ideal choice for solo users and low-traffic applications.</description>
-    </item>
-    <item>
-      <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
-      <link>https://deuts.org/p/black-friday-vps-deals/</link>
-      <pubDate>Tue, 19 Nov 2024 20:31:27 +0800</pubDate>
-      <guid>https://deuts.org/p/black-friday-vps-deals/</guid>
-      <description>Black Friday offers unmatched VPS deals, perfect for expanding your digital empire. RackNerd’s discounts showcase the jaw-dropping value this season provides.</description>
     </item>
   </channel>
 </rss>
