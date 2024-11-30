@@ -12,7 +12,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -25,7 +25,25 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-29T11:13:59+08:00</lastmod>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/data-analysis/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/excel/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/power-bi/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/power-query/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/new-power-query-tricks/</loc>
+    <lastmod>2024-11-30T15:00:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/admonitions-hints-callouts/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
@@ -37,9 +55,6 @@
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/hugo/</loc>
-    <lastmod>2024-11-29T11:13:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/slicehosting-fly-by-night/</loc>
@@ -207,9 +222,6 @@
     <loc>https://deuts.org/a/wordpress/</loc>
     <lastmod>2024-11-19T17:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/data-analysis/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/data-modeling/</loc>
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
@@ -217,12 +229,6 @@
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/power-query-calendar-table/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/power-bi/</loc>
-    <lastmod>2024-11-19T09:19:01+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/power-query/</loc>
     <lastmod>2024-11-19T09:19:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/authelia/</loc>
@@ -325,9 +331,6 @@
     <lastmod>2023-09-01T15:17:55+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/data-analysis-python-excel/</loc>
-    <lastmod>2023-09-01T08:58:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/excel/</loc>
     <lastmod>2023-09-01T08:58:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/python/</loc>
