@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Black-Friday on Deuts Log</title>
-    <link>https://deuts.org/t/black-friday/</link>
-    <description>Recent content in Black-Friday on Deuts Log</description>
+    <title>Online-Shopping on Deuts Log</title>
+    <link>https://deuts.org/t/online-shopping/</link>
+    <description>Recent content in Online-Shopping on Deuts Log</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
     <lastBuildDate>Sat, 30 Nov 2024 15:36:15 +0800</lastBuildDate>
-    <atom:link href="https://deuts.org/t/black-friday/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deuts.org/t/online-shopping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Frustrations of Online Shopping on Lazada</title>
       <link>https://deuts.org/p/online-shopping-lazada/</link>
       <pubDate>Sat, 30 Nov 2024 15:36:15 +0800</pubDate>
       <guid>https://deuts.org/p/online-shopping-lazada/</guid>
       <description>Navigating online shopping platforms like Lazada for Mini PCs has become increasingly difficult, with vendors bundling various specs and models into a single listing, often misleading buyers during sale events. </description>
-    </item>
-    <item>
-      <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
-      <link>https://deuts.org/p/black-friday-vps-deals/</link>
-      <pubDate>Tue, 19 Nov 2024 20:31:27 +0800</pubDate>
-      <guid>https://deuts.org/p/black-friday-vps-deals/</guid>
-      <description>Black Friday offers unmatched VPS deals, perfect for expanding your digital empire. RackNerd’s discounts showcase the jaw-dropping value this season provides.</description>
     </item>
   </channel>
 </rss>
