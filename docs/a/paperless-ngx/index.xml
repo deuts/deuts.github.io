@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paperless-Ngx on Deuts Log</title>
+    <link>https://deuts.org/a/paperless-ngx/</link>
+    <description>Recent content in Paperless-Ngx on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Tue, 03 Dec 2024 11:16:34 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/a/paperless-ngx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
+      <link>https://deuts.org/p/switch-paperless-ngx-pdfding/</link>
+      <pubDate>Tue, 03 Dec 2024 11:16:34 +0800</pubDate>
+      <guid>https://deuts.org/p/switch-paperless-ngx-pdfding/</guid>
+      <description>A personal reflection on the features and limitations of Paperless NGX and PDFDing as I consider simplifying my document management system.</description>
+    </item>
+  </channel>
+</rss>

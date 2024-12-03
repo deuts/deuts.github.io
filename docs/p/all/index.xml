@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 22:42:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 11:16:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
+      <link>https://deuts.org/p/switch-paperless-ngx-pdfding/</link>
+      <pubDate>Tue, 03 Dec 2024 11:16:34 +0800</pubDate>
+      <guid>https://deuts.org/p/switch-paperless-ngx-pdfding/</guid>
+      <description>A personal reflection on the features and limitations of Paperless NGX and PDFDing as I consider simplifying my document management system.</description>
+    </item>
     <item>
       <title>Is the Philippine Condo Market Overheating?</title>
       <link>https://deuts.org/p/ph-condo-market/</link>
@@ -71,13 +78,6 @@
       <pubDate>Wed, 20 Nov 2024 14:25:27 +0800</pubDate>
       <guid>https://deuts.org/p/picsur-sharex-setup/</guid>
       <description>A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.</description>
-    </item>
-    <item>
-      <title>Why I Prefer SQLite-Only Docker Services</title>
-      <link>https://deuts.org/p/why-sqlite-docker/</link>
-      <pubDate>Wed, 20 Nov 2024 13:20:59 +0800</pubDate>
-      <guid>https://deuts.org/p/why-sqlite-docker/</guid>
-      <description>SQLite’s embedded nature eliminates the need for complex client-server setups, reducing overhead and simplifying Docker configurations. It’s lightweight, fast, and easy to set up, making it an ideal choice for solo users and low-traffic applications.</description>
     </item>
   </channel>
 </rss>

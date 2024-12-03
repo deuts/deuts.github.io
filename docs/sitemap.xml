@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://deuts.org/l/resilio-sync/</loc>
-    <lastmod>2024-11-15T13:32:00+08:00</lastmod>
+    <lastmod>2024-11-15T13:33:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/topics/</loc>
     <lastmod>2024-11-21T00:00:00+08:00</lastmod>
@@ -12,12 +12,12 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-11-30T22:42:24+08:00</lastmod>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-11-29T11:13:59+08:00</lastmod>
+    <lastmod>2024-12-02T00:05:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -25,7 +25,28 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-11-30T22:42:24+08:00</lastmod>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/apps/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/switch-paperless-ngx-pdfding/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/document-management/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/minimalism/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/paperless-ngx/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/pdfding/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/condominiums/</loc>
     <lastmod>2024-11-30T22:42:24+08:00</lastmod>
@@ -34,9 +55,6 @@
     <lastmod>2024-11-30T22:42:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/real-estate/</loc>
-    <lastmod>2024-11-30T22:42:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-11-30T22:42:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/black-friday/</loc>
@@ -70,9 +88,6 @@
     <lastmod>2024-11-30T15:00:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/admonitions-hints-callouts/</loc>
-    <lastmod>2024-11-29T11:13:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/apps/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/callout/</loc>
@@ -136,37 +151,37 @@
     <lastmod>2024-11-25T17:56:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/bytestash/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/gist/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/git/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/opengist/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/snippets/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/snippets/</loc>
-    <lastmod>2024-11-25T10:45:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:46:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/blogging/</loc>
-    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/jekyll/</loc>
-    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/jekyll-themes/</loc>
-    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/templates/</loc>
-    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/themes/</loc>
-    <lastmod>2024-11-25T10:30:00+08:00</lastmod>
+    <lastmod>2024-11-25T10:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/github/</loc>
     <lastmod>2024-11-22T14:09:57+08:00</lastmod>
@@ -289,7 +304,7 @@
     <lastmod>2024-11-16T09:15:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/caddy/</loc>
-    <lastmod>2024-11-15T13:32:00+08:00</lastmod>
+    <lastmod>2024-11-15T13:33:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/</loc>
     <lastmod>2024-11-15T08:11:44+08:00</lastmod>

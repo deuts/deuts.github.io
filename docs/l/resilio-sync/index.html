@@ -36,8 +36,8 @@
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="appslib">
-    <meta property="article:published_time" content="2024-11-15T13:32:00+08:00">
-    <meta property="article:modified_time" content="2024-11-15T13:32:00+08:00">
+    <meta property="article:published_time" content="2024-11-15T13:33:00+08:00">
+    <meta property="article:modified_time" content="2024-11-15T13:33:00+08:00">
     <meta property="article:tag" content="Sync">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Resilio Sync">
@@ -58,8 +58,8 @@
   "articleBody": "Introduction Resilio Sync is a file synchronization software that uses peer-to-peer (P2P) technology to share and sync files across devices. It enables secure, fast, and efficient file transfers by leveraging the BitTorrent protocol. Resilio Sync allows users to create shared folders or “syncs,” which are encrypted and accessible only to devices with the unique access key. Key features include real-time updates, no file size limits, cross-platform compatibility, and the ability to sync files without relying on cloud storage providers, ensuring privacy and control over data. It is commonly used for personal backups, team collaboration, and large-scale file distribution.\ncompose.yml services: resilio-sync: image: linuxserver/resilio-sync container_name: resilio-sync environment: - PUID=1000 - PGID=1000 - TZ=Asia/Manila volumes: - ./config:/config - ./downloads:/downloads ports: # - 8888:8888 # web GUI, to be proxied via caddy - 55555:55555 restart: unless-stopped networks: - caddynetwork networks: caddynetwork: external: true Notes Make sure to have already created the caddynetwork with docker network create caddynetwork Container port 8888 is proxied via caddy Change PUID, PGID, and TZ to what is applicable to your setup The first time you spin up the container and access the site, you will be prompted to create your username and password Caddyfile sync.deuts.org { reverse_proxy resilio-sync:8888 } ",
   "wordCount" : "201",
   "inLanguage": "en",
-  "datePublished": "2024-11-15T13:32:00+08:00",
-  "dateModified": "2024-11-15T13:32:00+08:00",
+  "datePublished": "2024-11-15T13:33:00+08:00",
+  "dateModified": "2024-11-15T13:33:00+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://deuts.org/l/resilio-sync/"
@@ -125,7 +125,7 @@
     <div class="post-description">
       Resilio Sync offers fast, secure file synchronization using peer-to-peer technology. With no file size limits and encryption, it ensures privacy and control, making it ideal for personal use, team collaboration, and large-scale file sharing.
     </div>
-    <div class="post-meta"><span title='2024-11-15 13:32:00 +0800 PST'>November 15, 2024</span>
+    <div class="post-meta"><span title='2024-11-15 13:33:00 +0800 PST'>November 15, 2024</span>
 
 <a href="https://filepath.deuts.org/files/deutslog-site/content/appslib/resilio-sync.md" rel="noopener noreferrer" target="_blank">
     <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
