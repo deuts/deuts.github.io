@@ -17,7 +17,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-12-02T00:05:30+08:00</lastmod>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -25,10 +25,25 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/apps/</loc>
-    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/docker/</loc>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/fediverse/</loc>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/mastodon/</loc>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/running-mastodon-via-docker-complicated/</loc>
+    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/switch-paperless-ngx-pdfding/</loc>
     <lastmod>2024-12-03T11:16:34+08:00</lastmod>
@@ -46,9 +61,6 @@
     <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/pdfding/</loc>
-    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/condominiums/</loc>
@@ -107,9 +119,6 @@
   </url><url>
     <loc>https://deuts.org/t/vps-hosting/</loc>
     <lastmod>2024-11-28T08:40:14+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/docker/</loc>
-    <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/enclosed/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
@@ -424,9 +433,6 @@
     <lastmod>2022-12-12T10:26:42+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/install-mastodon-debian-11-without-docker/</loc>
-    <lastmod>2022-12-12T10:26:42+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/a/mastodon/</loc>
     <lastmod>2022-12-12T10:26:42+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/android/</loc>
