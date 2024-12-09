@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Speakers on Deuts Log</title>
+    <link>https://deuts.org/t/speakers/</link>
+    <description>Recent content in Speakers on Deuts Log</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 09 Dec 2024 13:34:36 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/t/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Are Bluetooth Speakers Losing Their Built-In Microphones?</title>
+      <link>https://deuts.org/p/bluetooth-speaker-built-in-mic/</link>
+      <pubDate>Mon, 09 Dec 2024 13:34:36 +0800</pubDate>
+      <guid>https://deuts.org/p/bluetooth-speaker-built-in-mic/</guid>
+      <description>Bluetooth speakers are increasingly losing built-in microphones, reducing their versatility for online meetings. Possible motivations for this change include cost-cutting and focusing on core features, which creates challenges for mobile users unable to separate mic and audio functions.</description>
+    </item>
+  </channel>
+</rss>

@@ -12,7 +12,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -25,7 +25,22 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/bluetooth/</loc>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/microphones/</loc>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/speakers/</loc>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/bluetooth-speaker-built-in-mic/</loc>
+    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/apps/</loc>
     <lastmod>2024-12-04T11:16:48+08:00</lastmod>
@@ -37,9 +52,6 @@
     <lastmod>2024-12-04T11:16:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/mastodon/</loc>
-    <lastmod>2024-12-04T11:16:48+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-04T11:16:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/running-mastodon-via-docker-complicated/</loc>

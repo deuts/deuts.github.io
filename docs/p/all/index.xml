@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 03 Dec 2024 11:16:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 13:34:36 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Are Bluetooth Speakers Losing Their Built-In Microphones?</title>
+      <link>https://deuts.org/p/bluetooth-speaker-built-in-mic/</link>
+      <pubDate>Mon, 09 Dec 2024 13:34:36 +0800</pubDate>
+      <guid>https://deuts.org/p/bluetooth-speaker-built-in-mic/</guid>
+      <description>Bluetooth speakers are increasingly losing built-in microphones, reducing their versatility for online meetings. Possible motivations for this change include cost-cutting and focusing on core features, which creates challenges for mobile users unable to separate mic and audio functions.</description>
+    </item>
     <item>
       <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
       <link>https://deuts.org/p/switch-paperless-ngx-pdfding/</link>
@@ -71,13 +78,6 @@
       <pubDate>Thu, 21 Nov 2024 13:53:32 +0800</pubDate>
       <guid>https://deuts.org/p/understanding-hugo-sections-index/</guid>
       <description>Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.</description>
-    </item>
-    <item>
-      <title>How to Set Up Picsur with ShareX for Seamless Screenshot Uploading</title>
-      <link>https://deuts.org/p/picsur-sharex-setup/</link>
-      <pubDate>Wed, 20 Nov 2024 14:25:27 +0800</pubDate>
-      <guid>https://deuts.org/p/picsur-sharex-setup/</guid>
-      <description>A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.</description>
     </item>
   </channel>
 </rss>
