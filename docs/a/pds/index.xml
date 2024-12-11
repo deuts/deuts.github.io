@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pds on Deuts Log</title>
+    <link>https://deuts.org/a/pds/</link>
+    <description>Recent content in Pds on Deuts Log</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 12:00:11 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/a/pds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluesky PDS: Docker Dilemma</title>
+      <link>https://deuts.org/x/bluesky-pds-docker-dilemma/</link>
+      <pubDate>Wed, 11 Dec 2024 12:00:11 +0800</pubDate>
+      <guid>https://deuts.org/x/bluesky-pds-docker-dilemma/</guid>
+      <description>Hosting Bluesky PDS with Docker is a tangled mess. Streamlined setups, where art thou?</description>
+    </item>
+  </channel>
+</rss>

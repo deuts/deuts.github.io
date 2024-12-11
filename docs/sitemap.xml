@@ -17,7 +17,7 @@
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2024-12-11T11:53:06+08:00</lastmod>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
@@ -25,10 +25,22 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-12-11T11:53:06+08:00</lastmod>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/apps/</loc>
-    <lastmod>2024-12-11T11:53:06+08:00</lastmod>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/bluesky/</loc>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/bluesky-pds-docker-dilemma/</loc>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/pds/</loc>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/bookmarks/</loc>
     <lastmod>2024-12-11T11:53:06+08:00</lastmod>
@@ -37,9 +49,6 @@
     <lastmod>2024-12-11T11:53:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/readitlater/</loc>
-    <lastmod>2024-12-11T11:53:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-11T11:53:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/wallabag/</loc>
