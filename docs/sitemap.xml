@@ -12,7 +12,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-12-09T13:34:36+08:00</lastmod>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -25,10 +25,37 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/apps/</loc>
-    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/dns/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/linux/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/magicdns/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/networking/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/tailscale/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/tailscale-accept-dns-settings/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/vps-hosting/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/windows/</loc>
+    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/bluesky/</loc>
     <lastmod>2024-12-11T12:00:11+08:00</lastmod>
@@ -37,9 +64,6 @@
     <lastmod>2024-12-11T12:00:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/pds/</loc>
-    <lastmod>2024-12-11T12:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-11T12:00:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/bookmarks/</loc>
@@ -151,9 +175,6 @@
     <lastmod>2024-11-28T08:40:14+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/vps-deals/</loc>
-    <lastmod>2024-11-28T08:40:14+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/vps-hosting/</loc>
     <lastmod>2024-11-28T08:40:14+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/enclosed/</loc>
@@ -373,9 +394,6 @@
     <lastmod>2024-11-13T11:44:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/hugo-and-obsidian-workflow/</loc>
-    <lastmod>2024-11-12T21:44:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/linux/</loc>
     <lastmod>2024-11-12T21:44:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/list-generate-running-total/</loc>
