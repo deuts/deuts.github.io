@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 16:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 17:19:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ld6hdudxmk2d</title>
+      <link>https://deuts.org/b/2024-12-13-17-19-3ld6hdudxmk2d/</link>
+      <pubDate>Fri, 13 Dec 2024 17:19:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-13-17-19-3ld6hdudxmk2d/</guid>
+      <description>&lt;p&gt;This is the current size of my &lt;a href=&#34;https://bsky.app/hashtag/hugo&#34;&gt;#Hugo&lt;/a&gt; build: 366 pages, 10 static file, done in 404ms. I wonder if there are any much bigger site, and how long did it take for you to build the site?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is the current size of my <a href="https://bsky.app/hashtag/hugo">#Hugo</a> build: 366 pages, 10 static file, done in 404ms. I wonder if there are any much bigger site, and how long did it take for you to build the site?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ld6euljwe22i</title>
       <link>https://deuts.org/b/2024-12-13-16-35-3ld6euljwe22i/</link>
@@ -94,15 +103,6 @@
 &lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/bsky.app&#34;&gt;@bsky.app&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>If I have <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> PDS installed in a server using a domain name, can I still change the base domain name and retain my DID?</p>
 <p><a href="https://bsky.app/profile/bsky.app">@bsky.app</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ld43qdyhoc25</title>
-      <link>https://deuts.org/b/2024-12-12-18-46-3ld43qdyhoc25/</link>
-      <pubDate>Thu, 12 Dec 2024 18:46:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-12-18-46-3ld43qdyhoc25/</guid>
-      <description>&lt;p&gt;O no! We&amp;rsquo;re supposed to go home to Iloilo next week, and with a baby in tow. Should we cancel our flight?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>O no! We&rsquo;re supposed to go home to Iloilo next week, and with a baby in tow. Should we cancel our flight?</p>
 ]]></content:encoded>
     </item>
   </channel>
