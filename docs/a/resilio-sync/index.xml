@@ -15,6 +15,42 @@
       <pubDate>Fri, 15 Nov 2024 13:33:00 +0800</pubDate>
       <guid>https://deuts.org/l/resilio-sync/</guid>
       <description>Resilio Sync offers fast, secure file synchronization using peer-to-peer technology. With no file size limits and encryption, it ensures privacy and control, making it ideal for personal use, team collaboration, and large-scale file sharing.</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p><strong>Resilio Sync</strong> is a file synchronization software that uses peer-to-peer (P2P) technology to share and sync files across devices. It enables secure, fast, and efficient file transfers by leveraging the BitTorrent protocol. Resilio Sync allows users to create shared folders or &ldquo;syncs,&rdquo; which are encrypted and accessible only to devices with the unique access key. Key features include real-time updates, no file size limits, cross-platform compatibility, and the ability to sync files without relying on cloud storage providers, ensuring privacy and control over data. It is commonly used for personal backups, team collaboration, and large-scale file distribution.</p>
+<h2 id="composeyml"><code>compose.yml</code></h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">resilio-sync</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">linuxserver/resilio-sync</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">resilio-sync</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PUID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PGID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TZ=Asia/Manila</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./config:/config</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./downloads:/downloads</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 8888:8888 # web GUI, to be proxied via caddy</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">55555</span>:<span style="color:#ae81ff">55555</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">caddynetwork</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">caddynetwork</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><h3 id="notes">Notes</h3>
+<ul>
+<li>Make sure to have already created the <code>caddynetwork</code> with <code>docker network create caddynetwork</code></li>
+<li>Container port <code>8888</code> is proxied via <code>caddy</code></li>
+<li>Change <code>PUID</code>, <code>PGID</code>, and <code>TZ</code> to what is applicable to your setup</li>
+<li>The first time you spin up the container and access the site, you will be prompted to create your <code>username</code> and <code>password</code></li>
+</ul>
+<h2 id="caddyfile"><code>Caddyfile</code></h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-caddy" data-lang="caddy"><span style="display:flex;"><span>sync.deuts.org {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">reverse_proxy</span> resilio-sync:<span style="color:#ae81ff">8888</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></content:encoded>
     </item>
     <item>
       <title>Did I Make a Mistake Trusting Resilio Sync for File Syncing?</title>
@@ -22,6 +58,57 @@
       <pubDate>Sun, 17 Nov 2024 17:49:54 +0800</pubDate>
       <guid>https://deuts.org/p/resilio-sync-reliability-issues/</guid>
       <description>After encountering a &amp;#34;No tracker connection available&amp;#34; issue, I’m reevaluating Resilio Sync’s reliability and whether my decision to use it over Syncthing was the right one.</description>
+      <content:encoded><![CDATA[<p>File synchronization tools are a cornerstone of my workflow, especially for keeping my Obsidian vaults updated across devices. For a while, Resilio Sync seemed like the perfect solution. But a recent issue has me questioning whether it’s as reliable as I believed.</p>
+<hr>
+<h3 id="the-issue-no-tracker-connection-available">The Issue: &ldquo;No Tracker Connection Available&rdquo;</h3>
+<p>Just today, I encountered an unsettling error in Resilio Sync: <strong>&ldquo;No tracker connection available.&rdquo;</strong> After a quick search, I found a <a href="https://forum.resilio.com/topic/75482-no-tracker-connection-available-and-download-configuration-file-test/">discussion in the Resilio Sync community</a> confirming that others are facing the same issue.</p>
+<p>This raised several concerns:</p>
+<ul>
+<li>Does Resilio Sync rely on a single centralized tracker server?</li>
+<li>If so, is this a critical single point of failure?</li>
+<li>Can I continue trusting this service for my essential files?</li>
+</ul>
+<p>The more I thought about it, the more uneasy I became about relying solely on Resilio Sync.</p>
+<hr>
+<h3 id="why-this-is-a-problem">Why This Is a Problem</h3>
+<p>Reliability is critical for any file synchronization tool. My files—and particularly my Obsidian vaults—must remain accessible, no matter what. A centralized server outage undermines this reliability, potentially leaving me unable to sync files when I need them most.</p>
+<hr>
+<h3 id="why-i-chose-resilio-sync-over-syncthing">Why I Chose Resilio Sync Over Syncthing</h3>
+<p>I switched to Resilio Sync after experiencing some frustrations with Syncthing. Here’s why:</p>
+<ol>
+<li>
+<p><strong>Mobile App Support:</strong></p>
+<ul>
+<li>Resilio Sync has a reliable Android app and an official iOS app (even though I’m not using iOS right now).</li>
+<li>Syncthing’s Android app has been <a href="https://forum.syncthing.net/t/discontinuing-syncthing-android/23002">discontinued</a>, and there’s no official iOS app, which made Resilio Sync the better choice for cross-platform use.</li>
+</ul>
+</li>
+<li>
+<p><strong>User-Friendly Interface:</strong></p>
+<ul>
+<li>Resilio Sync offers a polished GUI, whereas I found Syncthing’s login system problematic in the past.</li>
+</ul>
+</li>
+<li>
+<p><strong>Selective Sync:</strong></p>
+<ul>
+<li>This feature is a game-changer for saving storage space on mobile devices and is unavailable in Syncthing.</li>
+</ul>
+</li>
+</ol>
+<p>These factors made Resilio Sync seem like the ideal solution. But today’s issue makes me wonder if I prioritized convenience over long-term reliability.</p>
+<hr>
+<h3 id="the-bigger-picture-can-i-trust-resilio-sync">The Bigger Picture: Can I Trust Resilio Sync?</h3>
+<p>This experience highlights an important question: should I rethink my choice of file synchronization tool? While Resilio Sync offers valuable features, its potential reliance on a central tracker server feels like a vulnerability.</p>
+<p>I’m now left pondering:</p>
+<ul>
+<li>Should I revisit Syncthing, even with its app limitations and lack of selective sync?</li>
+<li>Are there other alternatives that balance reliability and functionality better?</li>
+</ul>
+<p>For now, I’ll be closely watching how quickly Resilio Sync resolves this issue. But one thing is certain: my trust in the platform has taken a hit.</p>
+<h3 id="update-trackers-up-now">Update: Trackers Up Now</h3>
+<p>After nearly 1.5 days, the trackers are finally back online. I wish Resilio Sync would provide an official announcement explaining the issue—it would go a long way in reassuring loyal users like me.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

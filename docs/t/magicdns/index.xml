@@ -15,6 +15,18 @@
       <pubDate>Wed, 11 Dec 2024 13:02:41 +0800</pubDate>
       <guid>https://deuts.org/p/tailscale-accept-dns-settings/</guid>
       <description>Tailscale automatically manages DNS settings, but you may prefer to use local DNS servers. Find out how to disable Tailscale DNS on Linux and how the process differs on Windows.</description>
+      <content:encoded><![CDATA[<p>When you install Tailscale on a Linux server and run the <code>sudo tailscale up</code> command, it automatically enables DNS management with the setting <code>--accept-dns=true</code>. This forces Tailscale to handle DNS resolution, which may not always be what you want.</p>
+<p>By default, when you enable <strong>MagicDNS</strong> in the Tailscale admin panel, it overwrites your <code>/etc/resolv.conf</code> file with its DNS server <code>100.100.100.100</code>. If you add a custom nameserver and enable <strong>Override local DNS</strong>, Tailscale will apply that DNS server across all devices in your Tailnet. This is useful if you’re using services like Pi-Hole or NextDNS.</p>
+<p>But what if you want to disable Tailscale DNS on certain devices and revert to local DNS settings?</p>
+<h2 id="disabling-tailscale-dns-on-linux">Disabling Tailscale DNS on Linux</h2>
+<p>To disable Tailscale&rsquo;s DNS management on Linux, run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo tailscale set --accept-dns<span style="color:#f92672">=</span>false
+</span></span></code></pre></div><p>This command will revert your <code>/etc/resolv.conf</code> to the DNS values it had before Tailscale was installed, like <code>1.1.1.1</code> or <code>8.8.8.8</code>. Your Linux server will no longer be affected by Tailscale&rsquo;s DNS settings, which is useful if you prefer to manage DNS locally, particularly on a VPS where misconfigurations, either in the DNS settings or the ACL, can be problematic.</p>
+<h2 id="tailscale-dns-on-windows">Tailscale DNS on Windows</h2>
+<p>On Windows, this process is easier, as there&rsquo;s a simple checkbox to disable Tailscale DNS in the system tray preferences. This GUI option offers a more straightforward way to adjust DNS settings without needing terminal commands.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Tailscale’s DNS management is convenient, but sometimes you may need to regain control over DNS settings. Disabling Tailscale DNS on Linux is a quick way to ensure your server uses local DNS settings, keeping your configuration simple and reliable.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

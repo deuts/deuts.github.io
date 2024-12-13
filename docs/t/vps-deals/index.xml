@@ -15,6 +15,60 @@
       <pubDate>Thu, 28 Nov 2024 08:40:14 +0800</pubDate>
       <guid>https://deuts.org/p/slicehosting-fly-by-night/</guid>
       <description>Slicehosting abruptly closed its doors, citing management challenges. While they promised refunds, my experience with their slow storage and frequent downtimes highlights the risks of trusting fly-by-night VPS providers.</description>
+      <content:encoded><![CDATA[<p>Recently, a message was posted in Slicehosting&rsquo;s Discord server that left many customers, including myself, in disbelief:</p>
+<blockquote>
+<p><strong>Dear [Customers/All],</strong></p>
+<p>I regret to inform you that Slicehosting is now closed as I no longer have the time to manage it effectively. Refunds for any remaining subscription time have been issued and should appear in your bank accounts within 7 days.</p>
+<p>If anyone is interested in taking over this project, I am open to offers for a reasonable price. Please feel free to contact me at <a href="mailto:support@slicehosting.tech">support@slicehosting.tech</a> for further details.</p>
+<p>Thank you for your support, and I apologize for any inconvenience caused.</p>
+<p><strong>Best regards,</strong><br>
+<em>Shivang Shastri</em></p>
+</blockquote>
+<p>This announcement marked the abrupt end of a VPS provider that had appeared promising—at least at first glance.</p>
+<p>Back in September, I signed up for a Slicehosting VPS plan because they offered a deal that seemed too good to pass up. The service had even been mentioned on <a href="https://lowendbox.com/blog/did-you-miss-slicehostings-offer-in-june-theyve-restocked-cheap-vps-in-frankfurt-and-mumbai-starting-with-16gb-ram-for-6-month/">LowEndBox</a>, lending it some credibility. However, as things turned out, Slicehosting has joined the ranks of fly-by-night VPS providers.</p>
+<p>Here’s the plan I got:</p>
+<h2 id="plan-details">Plan Details</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Description</strong></th>
+          <th><strong>Value</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Price ($/yr)</strong></td>
+          <td>12</td>
+      </tr>
+      <tr>
+          <td><strong>CPU Core</strong></td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td><strong>Memory (GB)</strong></td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td><strong>Storage (GB, HDD)</strong></td>
+          <td>20</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="my-experience">My Experience</h2>
+<p>While the plan looked appealing on paper, my time with Slicehosting was less than ideal. Here are some observations:</p>
+<h3 id="frequent-downtimes">Frequent Downtimes</h3>
+<p>Before this week’s closure announcement, I encountered <strong>several instances of prolonged downtime</strong>, sometimes lasting multiple days. This made the service unreliable, even for non-critical tasks.</p>
+<h3 id="underwhelming-performance">Underwhelming Performance</h3>
+<p>The <strong>HDD storage</strong> was painfully slow. During performance tests, I compared the VPS’s storage to a directory mounted via rclone from OneDrive—and shockingly, the <strong>rclone-mounted directory outperformed the VPS’s local storage</strong>.</p>
+<h3 id="refunds-wishful-thinking">Refunds: Wishful Thinking?</h3>
+<p>In their message, Slicehosting mentioned issuing refunds for unused subscription time. While I remain hopeful, I can&rsquo;t help but be skeptical given how chaotic things have been.</p>
+<hr>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Slicehosting’s closure is disappointing but not entirely surprising given the red flags many users observed over the past months. This experience underscores the importance of vetting VPS providers, especially when deals seem too good to be true.</p>
+<p>For those affected, the promise of refunds offers a glimmer of hope, but only time will tell if Slicehosting follows through.</p>
+<p>If you&rsquo;re considering a budget VPS provider, learn from experiences like this: read reviews, test performance, and, when possible, pay monthly to avoid being stuck in situations like this.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
@@ -22,6 +76,50 @@
       <pubDate>Tue, 19 Nov 2024 20:31:27 +0800</pubDate>
       <guid>https://deuts.org/p/black-friday-vps-deals/</guid>
       <description>Black Friday offers unmatched VPS deals, perfect for expanding your digital empire. RackNerd’s discounts showcase the jaw-dropping value this season provides.</description>
+      <content:encoded><![CDATA[<p>Black Friday is the <em>de facto</em> holiday for tech enthusiasts, and VPS hunters know it’s the golden hour to snag unbeatable deals. Case in point: RackNerd’s stunning <a href="https://lowendtalk.com/discussion/199589/racknerds-official-let-black-friday-hundreds-of-giveaways-crazy-deals-massive-come-see">Black Friday</a> offer this year.</p>
+<p>For just <strong>$18.93/year</strong>, here’s what you get:</p>
+<ul>
+<li><strong>2 vCPU Cores</strong></li>
+<li><strong>40 GB Pure SSD Storage</strong></li>
+<li><strong>2.5 GB RAM</strong></li>
+<li><strong>3000 GB Monthly Transfer</strong></li>
+<li><strong>1 Gbps Network Port</strong></li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM Control Panel</li>
+<li>Multiple Locations to choose from!</li>
+</ul>
+<p>Compare that to RackNerd’s recent <a href="https://lowendbox.com/blog/racknerds-11-11-sale-now-live-kvm-vps-from-11-11-year-in-los-angeles-san-jose-seattle-dallas-chicago-new-york-and-atlanta/">11.11 sale</a> for <strong>$17.98/year</strong>:</p>
+<ul>
+<li>1x vCPU Core</li>
+<li>25 GB SSD Storage</li>
+<li>2 GB RAM</li>
+<li>3000GB Monthly Bandwidth</li>
+<li>1Gbps Public Network Port</li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM</li>
+<li>Multiple Locations</li>
+</ul>
+<p>Sure, the 11.11 sale shaves off $0.95, but for less than a dollar more on Black Friday, you get:</p>
+<ul>
+<li><strong>Double the vCPU cores</strong></li>
+<li><strong>15 GB more SSD storage</strong></li>
+<li><strong>An extra 0.5 GB of RAM</strong></li>
+</ul>
+<p>Of course, there are other options at varying hardware configurations and prices if you follow the links above.</p>
+<p>If the 11.11 deal is a steal, then the Black Friday deal is straight-up daylight robbery—with a bigger bag to carry your spoils!</p>
+<div class="callout warning">
+  <div class="callout-content">
+    <strong>You&#39;ve been warned!</strong>
+    <p>
+Black Friday VPS deals are highly addictive! Proceed with caution, or better yet, hand your credit card to a responsible adult—preferably one without a tech obsession. 😉
+</p>
+  </div>
+</div>
+<hr>
+<p>If you’ve been holding out for a VPS upgrade, Black Friday is your cue. And deals like this? They’ll vanish faster than you can say <em>&ldquo;KVM-powered SSD.&rdquo;</em></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

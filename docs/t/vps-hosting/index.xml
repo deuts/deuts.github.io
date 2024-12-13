@@ -15,6 +15,18 @@
       <pubDate>Wed, 11 Dec 2024 13:02:41 +0800</pubDate>
       <guid>https://deuts.org/p/tailscale-accept-dns-settings/</guid>
       <description>Tailscale automatically manages DNS settings, but you may prefer to use local DNS servers. Find out how to disable Tailscale DNS on Linux and how the process differs on Windows.</description>
+      <content:encoded><![CDATA[<p>When you install Tailscale on a Linux server and run the <code>sudo tailscale up</code> command, it automatically enables DNS management with the setting <code>--accept-dns=true</code>. This forces Tailscale to handle DNS resolution, which may not always be what you want.</p>
+<p>By default, when you enable <strong>MagicDNS</strong> in the Tailscale admin panel, it overwrites your <code>/etc/resolv.conf</code> file with its DNS server <code>100.100.100.100</code>. If you add a custom nameserver and enable <strong>Override local DNS</strong>, Tailscale will apply that DNS server across all devices in your Tailnet. This is useful if you’re using services like Pi-Hole or NextDNS.</p>
+<p>But what if you want to disable Tailscale DNS on certain devices and revert to local DNS settings?</p>
+<h2 id="disabling-tailscale-dns-on-linux">Disabling Tailscale DNS on Linux</h2>
+<p>To disable Tailscale&rsquo;s DNS management on Linux, run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo tailscale set --accept-dns<span style="color:#f92672">=</span>false
+</span></span></code></pre></div><p>This command will revert your <code>/etc/resolv.conf</code> to the DNS values it had before Tailscale was installed, like <code>1.1.1.1</code> or <code>8.8.8.8</code>. Your Linux server will no longer be affected by Tailscale&rsquo;s DNS settings, which is useful if you prefer to manage DNS locally, particularly on a VPS where misconfigurations, either in the DNS settings or the ACL, can be problematic.</p>
+<h2 id="tailscale-dns-on-windows">Tailscale DNS on Windows</h2>
+<p>On Windows, this process is easier, as there&rsquo;s a simple checkbox to disable Tailscale DNS in the system tray preferences. This GUI option offers a more straightforward way to adjust DNS settings without needing terminal commands.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Tailscale’s DNS management is convenient, but sometimes you may need to regain control over DNS settings. Disabling Tailscale DNS on Linux is a quick way to ensure your server uses local DNS settings, keeping your configuration simple and reliable.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>The story of a fly-by-night VPS host</title>
@@ -22,6 +34,60 @@
       <pubDate>Thu, 28 Nov 2024 08:40:14 +0800</pubDate>
       <guid>https://deuts.org/p/slicehosting-fly-by-night/</guid>
       <description>Slicehosting abruptly closed its doors, citing management challenges. While they promised refunds, my experience with their slow storage and frequent downtimes highlights the risks of trusting fly-by-night VPS providers.</description>
+      <content:encoded><![CDATA[<p>Recently, a message was posted in Slicehosting&rsquo;s Discord server that left many customers, including myself, in disbelief:</p>
+<blockquote>
+<p><strong>Dear [Customers/All],</strong></p>
+<p>I regret to inform you that Slicehosting is now closed as I no longer have the time to manage it effectively. Refunds for any remaining subscription time have been issued and should appear in your bank accounts within 7 days.</p>
+<p>If anyone is interested in taking over this project, I am open to offers for a reasonable price. Please feel free to contact me at <a href="mailto:support@slicehosting.tech">support@slicehosting.tech</a> for further details.</p>
+<p>Thank you for your support, and I apologize for any inconvenience caused.</p>
+<p><strong>Best regards,</strong><br>
+<em>Shivang Shastri</em></p>
+</blockquote>
+<p>This announcement marked the abrupt end of a VPS provider that had appeared promising—at least at first glance.</p>
+<p>Back in September, I signed up for a Slicehosting VPS plan because they offered a deal that seemed too good to pass up. The service had even been mentioned on <a href="https://lowendbox.com/blog/did-you-miss-slicehostings-offer-in-june-theyve-restocked-cheap-vps-in-frankfurt-and-mumbai-starting-with-16gb-ram-for-6-month/">LowEndBox</a>, lending it some credibility. However, as things turned out, Slicehosting has joined the ranks of fly-by-night VPS providers.</p>
+<p>Here’s the plan I got:</p>
+<h2 id="plan-details">Plan Details</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Description</strong></th>
+          <th><strong>Value</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Price ($/yr)</strong></td>
+          <td>12</td>
+      </tr>
+      <tr>
+          <td><strong>CPU Core</strong></td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td><strong>Memory (GB)</strong></td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td><strong>Storage (GB, HDD)</strong></td>
+          <td>20</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="my-experience">My Experience</h2>
+<p>While the plan looked appealing on paper, my time with Slicehosting was less than ideal. Here are some observations:</p>
+<h3 id="frequent-downtimes">Frequent Downtimes</h3>
+<p>Before this week’s closure announcement, I encountered <strong>several instances of prolonged downtime</strong>, sometimes lasting multiple days. This made the service unreliable, even for non-critical tasks.</p>
+<h3 id="underwhelming-performance">Underwhelming Performance</h3>
+<p>The <strong>HDD storage</strong> was painfully slow. During performance tests, I compared the VPS’s storage to a directory mounted via rclone from OneDrive—and shockingly, the <strong>rclone-mounted directory outperformed the VPS’s local storage</strong>.</p>
+<h3 id="refunds-wishful-thinking">Refunds: Wishful Thinking?</h3>
+<p>In their message, Slicehosting mentioned issuing refunds for unused subscription time. While I remain hopeful, I can&rsquo;t help but be skeptical given how chaotic things have been.</p>
+<hr>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Slicehosting’s closure is disappointing but not entirely surprising given the red flags many users observed over the past months. This experience underscores the importance of vetting VPS providers, especially when deals seem too good to be true.</p>
+<p>For those affected, the promise of refunds offers a glimmer of hope, but only time will tell if Slicehosting follows through.</p>
+<p>If you&rsquo;re considering a budget VPS provider, learn from experiences like this: read reviews, test performance, and, when possible, pay monthly to avoid being stuck in situations like this.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
@@ -29,6 +95,50 @@
       <pubDate>Tue, 19 Nov 2024 20:31:27 +0800</pubDate>
       <guid>https://deuts.org/p/black-friday-vps-deals/</guid>
       <description>Black Friday offers unmatched VPS deals, perfect for expanding your digital empire. RackNerd’s discounts showcase the jaw-dropping value this season provides.</description>
+      <content:encoded><![CDATA[<p>Black Friday is the <em>de facto</em> holiday for tech enthusiasts, and VPS hunters know it’s the golden hour to snag unbeatable deals. Case in point: RackNerd’s stunning <a href="https://lowendtalk.com/discussion/199589/racknerds-official-let-black-friday-hundreds-of-giveaways-crazy-deals-massive-come-see">Black Friday</a> offer this year.</p>
+<p>For just <strong>$18.93/year</strong>, here’s what you get:</p>
+<ul>
+<li><strong>2 vCPU Cores</strong></li>
+<li><strong>40 GB Pure SSD Storage</strong></li>
+<li><strong>2.5 GB RAM</strong></li>
+<li><strong>3000 GB Monthly Transfer</strong></li>
+<li><strong>1 Gbps Network Port</strong></li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM Control Panel</li>
+<li>Multiple Locations to choose from!</li>
+</ul>
+<p>Compare that to RackNerd’s recent <a href="https://lowendbox.com/blog/racknerds-11-11-sale-now-live-kvm-vps-from-11-11-year-in-los-angeles-san-jose-seattle-dallas-chicago-new-york-and-atlanta/">11.11 sale</a> for <strong>$17.98/year</strong>:</p>
+<ul>
+<li>1x vCPU Core</li>
+<li>25 GB SSD Storage</li>
+<li>2 GB RAM</li>
+<li>3000GB Monthly Bandwidth</li>
+<li>1Gbps Public Network Port</li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM</li>
+<li>Multiple Locations</li>
+</ul>
+<p>Sure, the 11.11 sale shaves off $0.95, but for less than a dollar more on Black Friday, you get:</p>
+<ul>
+<li><strong>Double the vCPU cores</strong></li>
+<li><strong>15 GB more SSD storage</strong></li>
+<li><strong>An extra 0.5 GB of RAM</strong></li>
+</ul>
+<p>Of course, there are other options at varying hardware configurations and prices if you follow the links above.</p>
+<p>If the 11.11 deal is a steal, then the Black Friday deal is straight-up daylight robbery—with a bigger bag to carry your spoils!</p>
+<div class="callout warning">
+  <div class="callout-content">
+    <strong>You&#39;ve been warned!</strong>
+    <p>
+Black Friday VPS deals are highly addictive! Proceed with caution, or better yet, hand your credit card to a responsible adult—preferably one without a tech obsession. 😉
+</p>
+  </div>
+</div>
+<hr>
+<p>If you’ve been holding out for a VPS upgrade, Black Friday is your cue. And deals like this? They’ll vanish faster than you can say <em>&ldquo;KVM-powered SSD.&rdquo;</em></p>
+]]></content:encoded>
     </item>
     <item>
       <title>Checklist of things to do on a new VPS server</title>
@@ -36,6 +146,154 @@
       <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/p/new-vps-checklist/</guid>
       <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
+      <content:encoded><![CDATA[<h2 id="update-the-system">Update the system</h2>
+<p>From this moment, we&rsquo;ll assume you&rsquo;re still logged in as <code>root</code>. After all, this is a fresh install of Linux, right?</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>apt update
+</span></span><span style="display:flex;"><span>apt upgrade -y
+</span></span></code></pre></div><h2 id="install-essential-utilities">Install essential utilities</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>apt install sudo htop curl nano wget net-tools
+</span></span></code></pre></div><h2 id="change-root-password">Change root password</h2>
+<p>This is just in case you don&rsquo;t think the assigned root password is not complex enough for your liking:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>passwd
+</span></span></code></pre></div><p>Then enter you new password twice.</p>
+<h2 id="update-timezone">Update Timezone</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>dpkg-reconfigure tzdata
+</span></span></code></pre></div><h2 id="add-non-root-user">Add non-root user</h2>
+<h3 id="add-user">Add user</h3>
+<p>Change <code>username</code> with the username of your choice:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>adduser username
+</span></span></code></pre></div><h3 id="add-user-to-sudoers-group">Add user to sudoers group</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>usermod -aG sudo username
+</span></span></code></pre></div><p>So, the non-root user is ready. From this moment on, we&rsquo;ll assume you&rsquo;re logged as that non-root user.</p>
+<h2 id="change-the-hostname">Change the hostname</h2>
+<h3 id="edit-etchostname">Edit <code>/etc/hostname</code></h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/hostname
+</span></span></code></pre></div><p>And change accordingly.</p>
+<h3 id="edit-etchosts">Edit <code>/etc/hosts</code></h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/hosts
+</span></span></code></pre></div><p>And change accordingly.</p>
+<h3 id="reboot">Reboot</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo reboot
+</span></span></code></pre></div><h2 id="install-docker-and-docker-compose">Install Docker and Docker Compose</h2>
+<h3 id="install-docker">Install Docker</h3>
+<p>Follow the instructions applicable for your system from the official Docker <a href="https://docs.docker.com/engine/install/">documentation</a>. My favorite systems are <a href="https://docs.docker.com/engine/install/ubuntu/">Ubuntu</a> and <a href="https://docs.docker.com/engine/install/debian/">Debian</a>, and I actually prefer to use the <a href="https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository">install using the repository</a> method:</p>
+<h4 id="set-up-dockers-apt-repository">Set up Docker&rsquo;s Apt repository</h4>
+<h5 id="for-ubuntu">For Ubuntu</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Add Docker&#39;s official GPG key:</span>
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span><span style="display:flex;"><span>sudo apt-get install ca-certificates curl gnupg
+</span></span><span style="display:flex;"><span>sudo install -m <span style="color:#ae81ff">0755</span> -d /etc/apt/keyrings
+</span></span><span style="display:flex;"><span>curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>sudo chmod a+r /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Add the repository to Apt sources:</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  <span style="color:#e6db74">&#34;deb [arch=&#34;</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  &#34;</span><span style="color:#66d9ef">$(</span>. /etc/os-release <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;</span>$VERSION_CODENAME<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; stable&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span></code></pre></div><h5 id="for-debian">For Debian</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Add Docker&#39;s official GPG key:</span>
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span><span style="display:flex;"><span>sudo apt-get install ca-certificates curl gnupg
+</span></span><span style="display:flex;"><span>sudo install -m <span style="color:#ae81ff">0755</span> -d /etc/apt/keyrings
+</span></span><span style="display:flex;"><span>curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>sudo chmod a+r /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Add the repository to Apt sources:</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  <span style="color:#e6db74">&#34;deb [arch=&#34;</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  &#34;</span><span style="color:#66d9ef">$(</span>. /etc/os-release <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;</span>$VERSION_CODENAME<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; stable&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span></code></pre></div><h4 id="install-the-docker-packages">Install the Docker packages</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+</span></span></code></pre></div><h3 id="install-docker-compose">Install Docker Compose</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install docker-compose
+</span></span></code></pre></div><h2 id="add-user-to-the-docker-group">Add user to the Docker group</h2>
+<ul>
+<li>Check if docker group already exists: <code>grep docker /etc/group</code></li>
+<li>Add user to the docker group: <code>usermod -aG docker username</code> (don&rsquo;t forget to change <code>username</code> to the username of your choice)</li>
+</ul>
+<h2 id="create-a-network-bridge-for-docker-containers">Create a network bridge for Docker Containers</h2>
+<p>From now on, the instructions here is if you plan to expose your applications via Cloudflare Tunnel.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker network create -d bridge cloudflared
+</span></span></code></pre></div><h2 id="install-cloudflare-tunnel">Install Cloudflare Tunnel</h2>
+<ul>
+<li>Make a directory: <code>mkdir appdata/cloudflared</code> <em>(the directory structure is up to you)</em></li>
+<li>CD to that directory: <code>cd appdata/cloudflared</code></li>
+<li>Create the <code>docker-compose.yml</code> file: <code>nano docker-compose.yml</code></li>
+</ul>
+<p>Then paste the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#34;3.3&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tunnel</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">cloudflared-tunnel</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">cloudflare/cloudflared</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">command</span>: <span style="color:#ae81ff">tunnel --no-autoupdate run</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TUNNEL_TOKEN=[paste_here_your_actual_token]</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Don&rsquo;t forget to paste your actual token that will be generated when you create a new tunnel in Cloudflare.</p>
+<h2 id="install-portainer">Install Portainer</h2>
+<h3 id="via-docker-compose">Via Docker Compose</h3>
+<p>Same as above, mkdir for portainer, then create the <code>docker-compose.yml</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">portainer</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">portainer/portainer-ce:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">portainer</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PUID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PGID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TZ=Asia/Manila</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">/var/run/docker.sock:/var/run/docker.sock</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./data:/data</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#    ports:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 9000:9000</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 8000:8000</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 9443:9443</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Note that I commented out the ports portion of the <code>docker-compose.yml</code> because we&rsquo;re not exposing the ports to the internet. Instead, we&rsquo;re using Cloudflare Tunnel to expose the apps.</p>
+<h2 id="install-duplicati">Install Duplicati</h2>
+<p>All these efforts you do to set up Docker containers will go to waste if you don&rsquo;t do a proper backup of your config and data files.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#34;2.1&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">duplicati</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">lscr.io/linuxserver/duplicati:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">duplicati</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PUID=0</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PGID=0</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TZ=America/Denver</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./config:/config</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./backups:/backups</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">/home/username:/source</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#    ports:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 8200:8200</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>I prefer to run Duplicati as root so I won&rsquo;t have to deal with read permission issues in the future, so I set <code>PUID</code> and <code>PGID</code> to <code>0</code>. Needless to say, you have to change your <code>TZ</code> and your <code>source folder</code> to map to the container.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>How to install Hugo in a Linux VPS</title>
@@ -43,6 +301,24 @@
       <pubDate>Sat, 12 Aug 2023 10:43:30 +0800</pubDate>
       <guid>https://deuts.org/p/hugo-linux-vps/</guid>
       <description>This post explains how to install Hugo on Debian or Ubuntu. It covers installing an older version via APT, as well as installing the latest version from GitHub by downloading the .deb file, installing it, and ensuring the binary is properly copied to the /usr/bin/ directory. It also includes instructions for updating Hugo to the latest release.</description>
+      <content:encoded><![CDATA[<h2 id="via-apt">Via APT</h2>
+<p>If you&rsquo;re running Debian or Ubuntu on your VPS, you can actually easily install Hugo via:</p>
+<pre tabindex="0"><code class="language-bin" data-lang="bin">sudo apt install hugo
+</code></pre><p>However, the version you can get from the repository is so old. Mine&rsquo;s around version 0.80 I think.</p>
+<h2 id="via-deb-file-from-github">Via Deb file from Github</h2>
+<h3 id="download-and-run">Download and Run</h3>
+<p>If you want the latest version of Hugo installed, you need to get it from <a href="https://github.com/gohugoio/hugo/releases">github</a>. As of this writing, the latest version is <a href="https://github.com/gohugoio/hugo/releases/tag/v0.117.0">v0.117.0</a>. Thus, you can run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>wget https://github.com/gohugoio/hugo/releases/download/v0.117.0/hugo_extended_0.117.0_linux-amd64.deb
+</span></span><span style="display:flex;"><span>sudo dpkg -i hugo_extended_0.117.0_linux-amd64.deb
+</span></span></code></pre></div><h3 id="copy-the-hugo-file">Copy the Hugo file</h3>
+<p>By default, using the above method, hugo is saved under <code>/usr/local/bin</code>. You can verify that by running <code>which hugo</code> command. But this needs to be copied to the <code>/usr/bin</code> folder. Thus, run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo cp /usr/local/bin/hugo /usr/bin/
+</span></span></code></pre></div><h3 id="check-version">Check version</h3>
+<p>You can double check if indeed you have the latest version by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo version
+</span></span></code></pre></div><h2 id="updating-hugo-to-the-latest-release">Updating Hugo to the latest release</h2>
+<p>Redo all the installation instructions above including the <code>sudo cp /usr/local/bin/hugo /usr/bin/</code>  command.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
@@ -50,6 +326,111 @@
       <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/p/joplin-npm-duplicati-docker/</guid>
       <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
+      <content:encoded><![CDATA[<p>I was wondering why Docker apps don&rsquo;t come as easy to install like <a href="https://www.linuxserver.io/">Linuxserver</a>&rsquo;s? Case in point: Joplin.</p>
+<p>Well, I really do think Joplin server&rsquo;s <a href="https://github.com/laurent22/joplin/blob/dev/docker-compose.server.yml">documentation</a> needs a lot more polishing. Fortunately I was able to make it work in my system, even without exposing additional ports to the public, which I&rsquo;m sharing below.</p>
+<h2 id="why-joplin-server-instead-of-webdav-dropbox-onedrive-nextcloud-etc">Why Joplin Server instead of Webdav, Dropbox, OneDrive, NextCloud, etc.</h2>
+<p>According to <a href="https://noted.lol/install-joplin-server-using-docker-compose/">Noted</a>:</p>
+<ul>
+<li>Speed up the sync<br>
+<em>I still have to find out if this really is true</em></li>
+<li>Sharing a note with anyone, using a URL<br>
+<em>This is actually my favorite feature. This enables me to share notes that are not so private to other people by just sharing a link to the public page. Then as I update my note, the page also updates.</em></li>
+<li>User access<br>
+<em>I still have to evangelize other people about Joplin so I could add users to my Joplin server, if ever they need a sync server.</em></li>
+<li>Sharing a notebook with a user on the same Joplin Server<br>
+<em>This is also a great feature, especially if I have other users I can share my Joplin server with.</em></li>
+</ul>
+<h2 id="docker-compose-for-joplin-server">Docker Compose for Joplin Server</h2>
+<h3 id="docker-network">Docker Network</h3>
+<p>Make sure that you already have a ready Docker Network for your Joplin app and database. This will make sure that you don&rsquo;t expose additional ports to the public. If you don&rsquo;t have a dedicated network yet, just run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker network create -d bridge examplenetwork
+</span></span></code></pre></div><h3 id="nginx-proxy-manager">Nginx Proxy Manager</h3>
+<p>I would assume that you already have the Nginx Proxy Manager installed and it&rsquo;s running in the same <code>examplenetwork</code> . Now, add a new Proxy Host with your domain name, e.g. <code>joplin.example.com</code>, then hostname should be <code>joplin_app</code> (container name below) and port <code>22300</code>.</p>
+<h3 id="install-joplin-app-and-db">Install Joplin App and DB</h3>
+<p>On your favorite directory, just create the <code>docker-compose.yml</code> file, which should contain:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">db</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">postgres:13</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">./data/postgres:/var/lib/postgresql/data</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#        ports:		we don&#39;t need this anymore because we&#39;re reverse proxying anyway</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#            - &#34;5432:5432&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DB=Sudden9997</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">examplenetwork</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">app</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">joplin/server:latest</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">depends_on</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_app</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#        ports:		we don&#39;t need this anymore because we&#39;re reverse proxying anyway</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#            - &#34;22300:22300&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_PORT=22300</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_BASE_URL=https://joplin.example.com</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">DB_CLIENT=pg</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DATABASE=Sudden9997</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PORT=5432</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_HOST=db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">examplenetwork </span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">examplenetwork</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Don&rsquo;t worry about the usernames and passwords in my sample <code>docker-compose.yml</code> file, they were just randomly generated and not used for production elsewhere.</p>
+<p>Then run <code>sudo docker-compose up -d</code></p>
+<p>Did you know that the Joplin docker image alone is worth 1.2GB of storage in your server? Postgres is another 373MB.</p>
+<h2 id="backup-with-duplicati">Backup with Duplicati</h2>
+<p>As Joplin populates your <code>/data/postgres</code> folder in the initial setup, as well as along the way as you actually use your server, it creates files and directories with user and group permissions assigned to <code>systemd-coredump</code>. Worse, they are readable and writable by the user only. That is usually fine, until you try backing them up using Duplicati.</p>
+<p>The solution: run your Duplicati docker app with root privileges.</p>
+<p>I know the rule about not running apps as root. But that&rsquo;s the only way I see so far that work. Perhaps, Joplin could give us an option to create and update files in the persistent volumes as a regular user. That way, I can run Duplicati as that same user and could access the files for backup.</p>
+<h2 id="update-as-of-mar-24-2024">Update as of Mar. 24, 2024</h2>
+<p>For whatever reason, recently I noticed my Joplin server was down. The GUI is not accessible, and the sync process is not pushing though. Looked at the log, and it appears the Joplin app container is having trouble connecting to the Postgres database.</p>
+<p>In order to fix it, I needed to remove all the reference to the examplenetwork and uncomment all ports to make them active. Moreover, I needed to point directly the hostname in Nginx Proxy Manager (NPM) to the server&rsquo;s IP address.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">db</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">postgres:13</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">./data/postgres:/var/lib/postgresql/data</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#e6db74">&#34;5432:5432&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DB=Sudden9997</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">app</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">joplin/server:latest</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">depends_on</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_app</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#e6db74">&#34;22300:22300&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_PORT=22300</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_BASE_URL=https://joplin.example.com</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">DB_CLIENT=pg</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DATABASE=Sudden9997</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PORT=5432</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_HOST=db</span>
+</span></span></code></pre></div>]]></content:encoded>
     </item>
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
@@ -57,6 +438,28 @@
       <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
+      <content:encoded><![CDATA[<p>When I started hoarding movies and TV shows back when streaming services were not yet a thing, of course I played them using VLC. But you can only do that on a computer. These media are better consumed over TV, right?</p>
+<p>Then, the rise of Netflix showed us a glipmse of how your media should be better managed — with posters or thumbnails, description or summary, genre, casts list, and even related movies to watch after. I remember I used to have several hard drives with duplicate movies from several sources or several different versions and video codecs. Worse, it was so hard to keep track back then which movies you&rsquo;ve already watched or what episode of a show did you last watch.</p>
+<p>Then came Kodi. And you can sync your collection and watch status with Trakt. But Kodi was supposed to manage your local files only — or so I knew.</p>
+<p>If you have a VPS or even a local server with your media files while running Apache or Nginx to serve webpages and/or files, you can actually add those folders as a media source to your Kodi app. The video below will show you how:</p>
+<hr>
+<p> 
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yREBMpLC4QY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+ </p>
+<hr>
+<p>Of course, now there are media servers like Plex, Emby and Jellyfin to help you manage and stream your media files. But Kodi has a lot to offer over these other apps, and that&rsquo;s a totally different topic.</p>
+<h3 id="faq">FAQ</h3>
+<h4 id="will-this-work-with-http-basic-authentication-on-nginx-server">Will this work with HTTP Basic Authentication on Nginx server?</h4>
+<p>I actually have yet to try this out, and will update this post when I find out. But feel free to mention me <a href="https://twitter.com/deuts">@deuts</a> if you know the answer.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Contabo Price Increase 2022</title>
@@ -64,6 +467,13 @@
       <pubDate>Sat, 15 Oct 2022 08:41:17 +0800</pubDate>
       <guid>https://deuts.org/p/contabo-price-increase-2022/</guid>
       <description>Contabo is raising my fee from EUR 4.99 to EUR 5.99 starting November 1. I&amp;#39;ll continue using it for my Plex and other services, but will check for Black Friday deals.</description>
+      <content:encoded><![CDATA[<h2 id="price-increase-announcement">Price Increase Announcement</h2>
+<p>Got an email today about the forthcoming price increase from Contabo. Also saw the discussion on <a href="https://lowendtalk.com/discussion/181898/contabo-new-pricing-9-1#latest">Lowendtalk</a>.</p>
+<h2 id="what-i-use-it-for">What I use it for?</h2>
+<p>Currently, I have my Plex server, Radarr, Sonarr, Qbittorrent, Bazarr, Tautulli, among others, installed on my Contabo servers. Beginning November 1, it appears my fee will increase from EUR4.99 to EUR5.99 per month. I know it&rsquo;s not too much, especially for a 400GB SSD storage, 4-core CPU and 8GB RAM VPS server. It&rsquo;s pretty much like paying for a Netflix subscription, but with so much more flexibility.</p>
+<h2 id="black-friday-sale">Black Friday Sale</h2>
+<p>Black Friday is fast approaching. I&rsquo;ll check out the Lowendbox and Lowendtalk sites for attractive sale that may fit my needs. Until then, I&rsquo;ll keep my Contabo server.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Oracle Cloud Free Tier</title>
@@ -71,6 +481,25 @@
       <pubDate>Fri, 14 Oct 2022 08:45:44 +0800</pubDate>
       <guid>https://deuts.org/p/oracle-cloud-free-tier/</guid>
       <description>A tutorial on Oracle Cloud Free Tier, but be cautious: trust issues with Oracle and potential Docker compatibility problems due to ARM architecture. Also, encountered the &amp;#34;Out of capacity&amp;#34; error when signing up.</description>
+      <content:encoded><![CDATA[<p>Here&rsquo;s a detailed tutorial on how to setup and run Oracle Cloud Free Tier.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/g7sP33QtuxM?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+<p>Ain&rsquo;t this too good to be true. Two things you have to be wary about:</p>
+<ol>
+<li>It&rsquo;s from Oracle, depends on you if you trust that name. But I worry how long will it remain free.</li>
+<li>It&rsquo;s running on ARM, so your favorite docker app might not be compatible.</li>
+</ol>
+<h3 id="out-of-capacity">Out of Capacity</h3>
+<p>So I tried sigining up for Oracle Free Tier VM instance, and of course I bumped into the dreaded &lsquo;Out of capacity for shape &hellip; in availability domain &hellip;&rsquo;</p>
+<p>Indeed, too good to be true!</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

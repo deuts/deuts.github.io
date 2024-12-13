@@ -15,6 +15,17 @@
       <pubDate>Wed, 11 Dec 2024 12:00:11 +0800</pubDate>
       <guid>https://deuts.org/x/bluesky-pds-docker-dilemma/</guid>
       <description>Hosting Bluesky PDS with Docker is a tangled mess. Streamlined setups, where art thou?</description>
+      <content:encoded><![CDATA[<div class="post-entry">
+    <a href="https://cprimozic.net/notes/posts/notes-on-self-hosting-bluesky-pds-alongside-other-services/" target="_blank" class="linkcard-wrapper">
+      <div class="linkcard-content">
+        <h3 class="linkcard-title">Self Hosting a Bluesky PDS Alongside Other Services</h3>
+        <p class="linkcard-description">Setting up a Bluesky PDS to use a top-level domain, faced some configuration challenges, and documented the solutions to help others.</p>
+      </div>
+    </a>
+  </div>
+  
+<p>Looking at this post, installing Bluesky PDS alongside your existing Docker containers feels like trying to solve a Rubik’s Cube blindfolded—tedious, complicated, and begging for trouble. One day, I hope someone delivers a streamlined setup, Linuxserver-style. Until then, it&rsquo;s more like Bluesky DIY Edition.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

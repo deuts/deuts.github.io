@@ -15,6 +15,32 @@
       <pubDate>Wed, 27 Nov 2024 00:13:09 +0800</pubDate>
       <guid>https://deuts.org/p/enclosed-privatebin-alternative/</guid>
       <description>My thoughts on Enclosed, a minimalistic and secure web app for private note sharing, and why it’s a strong contender to replace PrivateBin in my workflow. </description>
+      <content:encoded><![CDATA[<p><strong><a href="https://github.com/CorentinTh/enclosed">Enclosed</a></strong> is a minimalistic web application designed for sending private and secure notes.</p>
+<p>All notes are end-to-end encrypted, ensuring that the server and storage have zero knowledge of the content. You can set a password, define an expiration period (TTL), and choose to have the note self-destruct after being read.</p>
+<h3 id="a-promising-alternative-to-privatebin">A Promising Alternative to PrivateBin</h3>
+<p>I’ve been using <a class="applink" href="https://deuts.org/a/privatebin" target="_blank">PrivateBin</a> for secure note sharing, but its outdated interface often left me wishing for a modernized alternative. <a class="applink" href="https://deuts.org/a/enclosed" target="_blank">Enclosed</a>, with its elegant default dark theme and minimalist design, feels like a breath of fresh air.</p>
+<p>While I haven’t completely switched yet, I’m seriously contemplating making Enclosed my primary tool. It addresses several pain points I had with PrivateBin, such as:</p>
+<ol>
+<li><strong>A Modern, Elegant Interface:</strong> Enclosed stays true to its design philosophy, providing a clean and visually appealing experience.</li>
+<li><strong>Improved Reliability:</strong> I often faced issues with PrivateBin where pastes would disappear after upgrades. I’m optimistic that Enclosed won’t suffer from the same problem, given its well-thought-out implementation.</li>
+</ol>
+<h3 id="features-that-won-me-over">Features That Won Me Over</h3>
+<p>Two recent updates in the last month to Enclosed particularly impressed me:</p>
+<ol>
+<li><strong>Restricting Note Creation to Logged-In Users:</strong> This feature adds an extra layer of control, making the platform more secure.</li>
+<li><strong>No Expiration Option:</strong> Previously, expiration periods were limited to 1 hour, 1 day, 1 week, or 1 month. Now, I can set notes to never expire, which is perfect for more persistent needs.</li>
+</ol>
+<p>These enhancements show the developer’s commitment to refining the app and meeting user needs, making Enclosed a very attractive alternative.</p>
+<h3 id="my-wishlist-for-enclosed">My Wishlist for Enclosed</h3>
+<p>While Enclosed has been a joy to use so far, there are a few features I’d love to see added:</p>
+<ol>
+<li><strong>Deleting Shared Notes:</strong> As a logged-in user, I’d like the option to delete notes I’ve shared, provided I know the key.</li>
+<li><strong>More Formatting Options:</strong> Just like PrivateBin allows formatting pastes as markdown, plaintext, or source code, I hope Enclosed adds similar options—and ideally, supports even more formats.</li>
+</ol>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>Enclosed isn’t just a potential replacement for PrivateBin—it could become the best tool for secure note sharing. While I’m still evaluating it, the updates and overall experience have made a strong case for switching for good.</p>
+<p>If you’re exploring alternatives for PrivateBin or looking for a secure, modern solution for note sharing, Enclosed is definitely worth a try.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>How to Use an SSH Key for a Specific GitHub Repository</title>
@@ -22,6 +48,69 @@
       <pubDate>Fri, 22 Nov 2024 11:01:31 +0800</pubDate>
       <guid>https://deuts.org/p/ssh-key-github-repo/</guid>
       <description>A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>When working with GitHub repositories, it&rsquo;s common to use SSH keys to authenticate instead of passwords. However, if you&rsquo;re managing multiple repositories or working on a single repository with specific security needs, you might want to configure SSH keys for just one repository. In this guide, we’ll walk you through setting up a dedicated SSH key to securely sync with a single GitHub repository, improving security, especially when storing private keys on remote servers or VPS.</p>
+<h2 id="why-use-ssh-keys-for-a-specific-repository">Why Use SSH Keys for a Specific Repository?</h2>
+<p>Using a single SSH key for a repository restricts access to only that repository. This isolation is useful in several scenarios:</p>
+<ul>
+<li><strong>Improved security</strong>: If your private key is compromised, access is limited to just the target repository.</li>
+<li><strong>Granular control</strong>: You can control which key has access to which repository, making it easier to manage multiple keys for different tasks.</li>
+<li><strong>Simplified automation</strong>: When using deploy keys or automation scripts, this approach can be used to grant access to only one repository at a time.</li>
+</ul>
+<h2 id="step-1-generate-a-new-ssh-key">Step 1: Generate a New SSH Key</h2>
+<p>If you don’t already have a specific SSH key for your GitHub repository, start by generating one. You can use <code>ssh-keygen</code> to create a new key pair.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -C <span style="color:#e6db74">&#34;your_email@example.com&#34;</span> -f ~/.ssh/github_repo_id_ed25519
+</span></span></code></pre></div><p>This will create two files:</p>
+<ul>
+<li><code>~/.ssh/github_repo_id_ed25519</code> (your private key)</li>
+<li><code>~/.ssh/github_repo_id_ed25519.pub</code> (your public key)</li>
+</ul>
+<p>The private key should <strong>never</strong> be shared or exposed, while the public key will be added to your GitHub repository.</p>
+<h2 id="step-2-add-the-public-key-to-your-github-repository">Step 2: Add the Public Key to Your GitHub Repository</h2>
+<p>Go to your GitHub repository, and in the <strong>Settings</strong> section, add the <strong>public key</strong> as a <strong>deploy key</strong>:</p>
+<ol>
+<li>Navigate to <strong>Settings</strong> → <strong>Deploy Keys</strong>.</li>
+<li>Click <strong>Add deploy key</strong>.</li>
+<li>Give it a name (e.g., &ldquo;GitHub SSH Key&rdquo;).</li>
+<li>Paste the contents of your <code>github_repo_id_ed25519.pub</code> file into the key field.</li>
+<li>Select either <strong>read-only</strong> or <strong>read-write</strong> access depending on the level of access you want.</li>
+</ol>
+<p>Click <strong>Add key</strong> to save.</p>
+<h2 id="step-3-configure-ssh-for-the-repository">Step 3: Configure SSH for the Repository</h2>
+<p>Now, configure SSH to use the specific key for accessing the repository. You can do this by adding an entry to your <code>~/.ssh/config</code> file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.ssh/config
+</span></span></code></pre></div><p>Add the following configuration, replacing <code>github-repo</code> with your preferred alias and ensuring the path to your private key is correct:</p>
+<pre tabindex="0"><code class="language-ssh" data-lang="ssh">Host github-repo
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github_repo_id_ed25519
+    IdentitiesOnly yes
+</code></pre><p>This configuration tells SSH to use the specific key <code>github_repo_id_ed25519</code> when connecting to GitHub.</p>
+<h2 id="step-4-update-or-add-the-remote-url-in-your-local-repository">Step 4: Update or Add the Remote URL in Your Local Repository</h2>
+<h3 id="sync-a-local-repository">Sync a local repository</h3>
+<p>To sync your local repository with the GitHub repository, change the remote URL to use the SSH alias you’ve configured in <code>~/.ssh/config</code>. Navigate to your local Git repository and run the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
+</span></span><span style="display:flex;"><span>git remote set-url origin git@github-repo:username/repository.git
+</span></span></code></pre></div><p>Make sure to replace <code>username/repository.git</code> with the actual repository path.</p>
+<h3 id="add-remote-repository-to-local">Add remote repository to local</h3>
+<p>To add a remote repository:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
+</span></span><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git remote add origin git@github-repo:username/repository.git
+</span></span></code></pre></div><h2 id="step-5-test-the-ssh-connection">Step 5: Test the SSH Connection</h2>
+<p>Now that everything is set up, verify that your SSH connection works properly by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh -T github-repo
+</span></span></code></pre></div><p>You should see a message like:</p>
+<pre tabindex="0"><code>Hi username! You&#39;ve successfully authenticated, but GitHub does not provide shell access.
+</code></pre><p>This confirms that the SSH key is correctly configured and is being used to authenticate with GitHub.</p>
+<h2 id="step-6-push-changes-to-github">Step 6: Push Changes to GitHub</h2>
+<p>Once the remote URL is updated, you can start syncing your local repository with GitHub. To push changes to your GitHub repository, simply run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git push origin main  <span style="color:#75715e"># Or the relevant branch name</span>
+</span></span></code></pre></div><p>Git will use the SSH key associated with the <code>github-repo</code> alias to authenticate and push your changes.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>By following these steps, you’ve securely configured SSH to access a specific GitHub repository. This approach not only enhances security by limiting access but also provides better management of your SSH keys, especially when dealing with multiple repositories or automating workflows.</p>
+<p>With this setup, you can now safely push, pull, and manage your GitHub repository without the risk of exposing your other repositories or credentials.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>I Choose Cloudflare Access over Authelia/Authentik</title>
@@ -29,6 +118,29 @@
       <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
       <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
       <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
+      <content:encoded><![CDATA[<p>When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.</p>
+<h3 id="the-complexity-of-authelia-and-authentik">The Complexity of Authelia and Authentik</h3>
+<p>Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:</p>
+<ol>
+<li><strong>Complex Setup</strong>: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance.</li>
+<li><strong>Server Overhead</strong>: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance.</li>
+<li><strong>Single Point of Failure</strong>: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects.</li>
+<li><strong>Time Investment</strong>: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects.</li>
+</ol>
+<h3 id="why-i-chose-cloudflare-access">Why I Chose Cloudflare Access</h3>
+<p>Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:</p>
+<ul>
+<li><strong>Centralized Management</strong>: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place.</li>
+<li><strong>Straightforward Setup</strong>: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running.</li>
+<li><strong>Domain-Level Implementation</strong>: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient.</li>
+<li><strong>Built-In Resilience</strong>: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions.</li>
+<li><strong>Seamless Integration</strong>: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management.</li>
+<li><strong>Zero Trust Security</strong>: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications.</li>
+<li><strong>Bonus Benefits</strong>: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance.</li>
+</ul>
+<h3 id="why-it-might-be-right-for-you">Why It Might Be Right for You</h3>
+<p>If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
@@ -36,6 +148,52 @@
       <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
       <guid>https://deuts.org/p/docker-caddy-basic-auth/</guid>
       <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
+      <content:encoded><![CDATA[<p>HTTP Basic Authentication offers a quick way to secure access to internal or staging services in a Docker environment, especially for controlled scenarios where high security isn’t critical. Although credentials sent via Basic Authentication can be decoded if intercepted, combining it with HTTPS ensures encryption, making it suitable for simple use cases. Here, we’ll set up Caddy as a reverse proxy with Basic Authentication to limit access to a service running in another container.</p>
+<h3 id="scenario-overview">Scenario Overview</h3>
+<p>In this example, we have:</p>
+<ul>
+<li>A <strong>Caddy container</strong> named <code>caddy</code></li>
+<li>A <strong>service container</strong> named <code>sampledockercontainer</code>, which is the service we’re protecting, running on port <code>8080</code></li>
+<li>Both containers are on the same <strong>Docker network</strong></li>
+<li>The goal is to limit access to the <code>sampledockercontainer</code> service with Basic Authentication</li>
+</ul>
+<h3 id="setting-up-the-caddyfile">Setting Up the Caddyfile</h3>
+<p>Start with a simple Caddyfile that proxies traffic to the <code>sampledockercontainer</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This configuration forwards all requests for <code>example.com</code> to the <code>sampledockercontainer</code> service within the Docker network.</p>
+<h3 id="generating-a-hashed-password-for-authentication">Generating a Hashed Password for Authentication</h3>
+<p>Since Caddy is running as a Docker container, use the following <code>docker exec</code> command to generate a hashed password for authentication:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker exec -it caddy caddy hash-password --plaintext <span style="color:#e6db74">&#39;yoursupersecretpassword&#39;</span>
+</span></span></code></pre></div><p>Assuming your username is <code>user</code>, the command returns a hashed password like:</p>
+<pre tabindex="0"><code>$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm
+</code></pre><h3 id="adding-basic-authentication-to-the-caddyfile">Adding Basic Authentication to the Caddyfile</h3>
+<p>Update the Caddyfile to include Basic Authentication, securing access to <code>example.com</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">basicauth</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">user</span> <span style="color:#e6db74">$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Now, visitors will be prompted for a username and password before gaining access.</p>
+<h3 id="restricting-authentication-to-specific-paths">Restricting Authentication to Specific Paths</h3>
+<p>You may want only certain paths to require authentication, allowing general access to others. For example, you can limit Basic Authentication to the <code>/admin</code> path while keeping the root URL publicly accessible:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">basicauth</span> <span style="color:#a6e22e">/admin/*</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">user</span> <span style="color:#e6db74">$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> <span style="color:#a6e22e">/admin/*</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> <span style="color:#a6e22e">/*</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>With this setup:</p>
+<ul>
+<li>Requests to <code>example.com</code> are open to all users.</li>
+<li>Requests to <code>example.com/admin/</code> require a valid username and password.</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>This Caddyfile setup demonstrates a simple, effective way to protect containerized services with Basic Authentication. For Dockerized applications, Caddy makes it easy to limit access to sensitive areas, securing your internal or staging environments with minimal configuration.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -15,6 +15,9 @@
       <pubDate>Wed, 11 Dec 2024 11:53:06 +0800</pubDate>
       <guid>https://deuts.org/x/wallabagged-extension-in-distress/</guid>
       <description>The Wallabag Chrome Extension is frustratingly broken when it comes to authentication.</description>
+      <content:encoded><![CDATA[<p>The Wallabag Chrome Extension feels about as useful as a bookmark on a broken page. Despite providing the correct client ID, client token, username, and password, it steadfastly refuses to work. It’s like yelling at a locked door with the key in hand.</p>
+<p>Wallabag, if you’re listening, please fix this! Otherwise, I might just give Readeck a spin—and who knows, it might read me better than you do.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

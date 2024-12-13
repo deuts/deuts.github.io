@@ -15,6 +15,29 @@
       <pubDate>Mon, 18 Nov 2024 09:37:51 +0800</pubDate>
       <guid>https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/</guid>
       <description>A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.</description>
+      <content:encoded><![CDATA[<p>When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.</p>
+<h3 id="the-complexity-of-authelia-and-authentik">The Complexity of Authelia and Authentik</h3>
+<p>Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:</p>
+<ol>
+<li><strong>Complex Setup</strong>: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance.</li>
+<li><strong>Server Overhead</strong>: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance.</li>
+<li><strong>Single Point of Failure</strong>: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects.</li>
+<li><strong>Time Investment</strong>: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects.</li>
+</ol>
+<h3 id="why-i-chose-cloudflare-access">Why I Chose Cloudflare Access</h3>
+<p>Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:</p>
+<ul>
+<li><strong>Centralized Management</strong>: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place.</li>
+<li><strong>Straightforward Setup</strong>: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running.</li>
+<li><strong>Domain-Level Implementation</strong>: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient.</li>
+<li><strong>Built-In Resilience</strong>: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions.</li>
+<li><strong>Seamless Integration</strong>: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management.</li>
+<li><strong>Zero Trust Security</strong>: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications.</li>
+<li><strong>Bonus Benefits</strong>: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance.</li>
+</ul>
+<h3 id="why-it-might-be-right-for-you">Why It Might Be Right for You</h3>
+<p>If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Securing Your Docker-Hosted Service with HTTP Basic Authentication in Caddy</title>
@@ -22,6 +45,52 @@
       <pubDate>Thu, 14 Nov 2024 21:46:40 +0800</pubDate>
       <guid>https://deuts.org/p/docker-caddy-basic-auth/</guid>
       <description>Learn to secure Docker services with Caddy’s Basic Authentication by setting up a reverse proxy to protect internal or staging containers and restrict access to specific paths.</description>
+      <content:encoded><![CDATA[<p>HTTP Basic Authentication offers a quick way to secure access to internal or staging services in a Docker environment, especially for controlled scenarios where high security isn’t critical. Although credentials sent via Basic Authentication can be decoded if intercepted, combining it with HTTPS ensures encryption, making it suitable for simple use cases. Here, we’ll set up Caddy as a reverse proxy with Basic Authentication to limit access to a service running in another container.</p>
+<h3 id="scenario-overview">Scenario Overview</h3>
+<p>In this example, we have:</p>
+<ul>
+<li>A <strong>Caddy container</strong> named <code>caddy</code></li>
+<li>A <strong>service container</strong> named <code>sampledockercontainer</code>, which is the service we’re protecting, running on port <code>8080</code></li>
+<li>Both containers are on the same <strong>Docker network</strong></li>
+<li>The goal is to limit access to the <code>sampledockercontainer</code> service with Basic Authentication</li>
+</ul>
+<h3 id="setting-up-the-caddyfile">Setting Up the Caddyfile</h3>
+<p>Start with a simple Caddyfile that proxies traffic to the <code>sampledockercontainer</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This configuration forwards all requests for <code>example.com</code> to the <code>sampledockercontainer</code> service within the Docker network.</p>
+<h3 id="generating-a-hashed-password-for-authentication">Generating a Hashed Password for Authentication</h3>
+<p>Since Caddy is running as a Docker container, use the following <code>docker exec</code> command to generate a hashed password for authentication:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker exec -it caddy caddy hash-password --plaintext <span style="color:#e6db74">&#39;yoursupersecretpassword&#39;</span>
+</span></span></code></pre></div><p>Assuming your username is <code>user</code>, the command returns a hashed password like:</p>
+<pre tabindex="0"><code>$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm
+</code></pre><h3 id="adding-basic-authentication-to-the-caddyfile">Adding Basic Authentication to the Caddyfile</h3>
+<p>Update the Caddyfile to include Basic Authentication, securing access to <code>example.com</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">basicauth</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">user</span> <span style="color:#e6db74">$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Now, visitors will be prompted for a username and password before gaining access.</p>
+<h3 id="restricting-authentication-to-specific-paths">Restricting Authentication to Specific Paths</h3>
+<p>You may want only certain paths to require authentication, allowing general access to others. For example, you can limit Basic Authentication to the <code>/admin</code> path while keeping the root URL publicly accessible:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Caddyfile" data-lang="Caddyfile"><span style="display:flex;"><span>example.com {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">basicauth</span> <span style="color:#a6e22e">/admin/*</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">user</span> <span style="color:#e6db74">$2a$14$UnmpufOS3hIBsW5Jn.lbpe0qtoa5kCKYfJNPGsgnOr2D6mPma8aPm</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> <span style="color:#a6e22e">/admin/*</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">reverse_proxy</span> <span style="color:#a6e22e">/*</span> sampledockercontainer:<span style="color:#ae81ff">8080</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>With this setup:</p>
+<ul>
+<li>Requests to <code>example.com</code> are open to all users.</li>
+<li>Requests to <code>example.com/admin/</code> require a valid username and password.</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>This Caddyfile setup demonstrates a simple, effective way to protect containerized services with Basic Authentication. For Dockerized applications, Caddy makes it easy to limit access to sensitive areas, securing your internal or staging environments with minimal configuration.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

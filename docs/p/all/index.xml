@@ -15,6 +15,18 @@
       <pubDate>Wed, 11 Dec 2024 13:02:41 +0800</pubDate>
       <guid>https://deuts.org/p/tailscale-accept-dns-settings/</guid>
       <description>Tailscale automatically manages DNS settings, but you may prefer to use local DNS servers. Find out how to disable Tailscale DNS on Linux and how the process differs on Windows.</description>
+      <content:encoded><![CDATA[<p>When you install Tailscale on a Linux server and run the <code>sudo tailscale up</code> command, it automatically enables DNS management with the setting <code>--accept-dns=true</code>. This forces Tailscale to handle DNS resolution, which may not always be what you want.</p>
+<p>By default, when you enable <strong>MagicDNS</strong> in the Tailscale admin panel, it overwrites your <code>/etc/resolv.conf</code> file with its DNS server <code>100.100.100.100</code>. If you add a custom nameserver and enable <strong>Override local DNS</strong>, Tailscale will apply that DNS server across all devices in your Tailnet. This is useful if you’re using services like Pi-Hole or NextDNS.</p>
+<p>But what if you want to disable Tailscale DNS on certain devices and revert to local DNS settings?</p>
+<h2 id="disabling-tailscale-dns-on-linux">Disabling Tailscale DNS on Linux</h2>
+<p>To disable Tailscale&rsquo;s DNS management on Linux, run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo tailscale set --accept-dns<span style="color:#f92672">=</span>false
+</span></span></code></pre></div><p>This command will revert your <code>/etc/resolv.conf</code> to the DNS values it had before Tailscale was installed, like <code>1.1.1.1</code> or <code>8.8.8.8</code>. Your Linux server will no longer be affected by Tailscale&rsquo;s DNS settings, which is useful if you prefer to manage DNS locally, particularly on a VPS where misconfigurations, either in the DNS settings or the ACL, can be problematic.</p>
+<h2 id="tailscale-dns-on-windows">Tailscale DNS on Windows</h2>
+<p>On Windows, this process is easier, as there&rsquo;s a simple checkbox to disable Tailscale DNS in the system tray preferences. This GUI option offers a more straightforward way to adjust DNS settings without needing terminal commands.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Tailscale’s DNS management is convenient, but sometimes you may need to regain control over DNS settings. Disabling Tailscale DNS on Linux is a quick way to ensure your server uses local DNS settings, keeping your configuration simple and reliable.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Why Are Bluetooth Speakers Losing Their Built-In Microphones?</title>
@@ -22,6 +34,12 @@
       <pubDate>Mon, 09 Dec 2024 13:34:36 +0800</pubDate>
       <guid>https://deuts.org/p/bluetooth-speaker-built-in-mic/</guid>
       <description>Bluetooth speakers are increasingly losing built-in microphones, reducing their versatility for online meetings. Possible motivations for this change include cost-cutting and focusing on core features, which creates challenges for mobile users unable to separate mic and audio functions.</description>
+      <content:encoded><![CDATA[<p>Bluetooth speakers used to come with built-in microphones, like the JBL Go 1, making them perfect for online meetings and calls. But starting with newer models like the JBL Go 3, manufacturers have dropped this feature—and it’s frustrating. Why might this be happening?</p>
+<p>One reason could be cost-cutting. Adding a microphone requires extra hardware and software like noise cancellation, which might not be worth the expense for manufacturers if most users aren’t using it. It’s also possible that companies want to simplify their devices, focusing on sound quality and portability instead of trying to make them all-purpose tools.</p>
+<p>Another possibility is that manufacturers don’t want Bluetooth speakers to overlap with other products like smart speakers or earbuds, which are better suited for calls. Removing the mic helps clearly position Bluetooth speakers as music devices and avoids complaints about call quality or compatibility issues.</p>
+<p>But for people like me, this design shift creates a real problem. If you use a mobile device like an Android phone or tablet for online meetings, a Bluetooth speaker without a mic is practically useless. You can’t separate the audio and mic functions, meaning you’re forced to either use the phone’s built-in speaker or switch to headphones. This limitation doesn’t exist on laptops, where you can mix and match input and output devices more freely.</p>
+<p>The result? A once-convenient feature is gone, making Bluetooth speakers less versatile. While manufacturers might have their reasons, it feels like a step backward for users who relied on this functionality.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
@@ -29,6 +47,110 @@
       <pubDate>Tue, 03 Dec 2024 11:16:34 +0800</pubDate>
       <guid>https://deuts.org/p/switch-paperless-ngx-pdfding/</guid>
       <description>A personal reflection on the features and limitations of Paperless NGX and PDFDing as I consider simplifying my document management system.</description>
+      <content:encoded><![CDATA[<p>I’ve been running <a class="applink" href="https://deuts.org/a/paperless-ngx" target="_blank">Paperless NGX</a> as my document management tool for a while now, but lately, I’ve started wondering if a simpler solution like <a class="applink" href="https://deuts.org/a/pdfding" target="_blank">PDFDing</a> might be better suited for my needs. Both tools have their strengths and weaknesses, so I’ve been testing them side by side to see how they compare.</p>
+<h3 id="paperless-ngx-great-features-but-too-much">Paperless NGX: Great Features, but Too Much?</h3>
+<p><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless NGX</a> has a lot going for it:</p>
+<ul>
+<li><strong>Organizes &amp; Tags Documents</strong>: Scan and categorize documents with custom tags, correspondents, types, and more for easy retrieval.</li>
+<li><strong>OCR &amp; Multi-Language Support</strong>: Performs OCR on scanned documents, making them searchable. Supports over 100 languages via the Tesseract engine.</li>
+<li><strong>Local Data Storage &amp; Security</strong>: Your data is stored securely on your own server, with no transmission or sharing of your files.</li>
+<li><strong>PDF/A Format for Long-Term Storage</strong>: Documents are saved in PDF/A format, designed for long-term storage, alongside the original files.</li>
+<li><strong>Machine Learning for Metadata</strong>: Automatically tags documents with correspondents and document types, streamlining organization.</li>
+<li><strong>Supports Multiple File Types</strong>: Supports PDFs, images, Office documents (Word, Excel, PowerPoint), and more.</li>
+<li><strong>Modern Web Interface</strong>: Features a customizable dashboard, filtering options, drag-and-drop uploads, and customizable views. It also supports custom fields and shareable public links.</li>
+<li><strong>Powerful Search &amp; Auto-Suggestions</strong>: Full-text search, autocomplete, relevance-based sorting, and document highlighting make finding files efficient.</li>
+<li><strong>Email Processing</strong>: Import and process documents directly from email accounts with customizable rules for actions such as marking as read or deleting.</li>
+<li><strong>Consume Folder</strong>: Automatically processes documents dropped into a designated folder, making it easy to quickly add documents to the system without manual uploads.</li>
+<li><strong>Multi-User Permissions &amp; Workflow</strong>: A robust permissions system, with global and per-document access control, and a powerful workflow system for advanced management.</li>
+<li><strong>Optimized for Performance</strong>: Utilizes multi-core systems for parallel document processing and includes an integrated sanity checker to ensure document archive health.</li>
+</ul>
+<p>However, these features come with some drawbacks:</p>
+<ol>
+<li><strong>High Memory Usage</strong>: Paperless NGX uses about 1.4 GB of memory even when it’s idle. On a system with 11 GB of RAM, this is noticeable.</li>
+<li><strong>Machine Learning Accuracy</strong>: Predictions are inconsistent. Correspondent and document type are about 50% accurate, and creation date predictions are wrong 80% of the time.</li>
+<li><strong>Custom Fields</strong>: While you can create custom fields, they don’t appear by default and need to be enabled manually for every new document.</li>
+<li><strong>Editing Limitations</strong>: Updating metadata for multiple documents is cumbersome since each document must be opened individually. A grid-style interface, similar to Airtable or spreadsheet apps, for faster and more efficient bulk editing would have been much better.</li>
+</ol>
+<h3 id="pdfding-simple-lightweight-and-efficient">PDFDing: Simple, Lightweight, and Efficient</h3>
+<p><a href="https://github.com/mrmn2/PdfDing">PDFDing</a> takes a minimalist approach, using tags instead of multiple metadata fields. Its design is sleek and straightforward, similar to tools like <a class="applink" href="https://deuts.org/a/linkding" target="_blank">Linkding</a>, which I already use and appreciate.</p>
+<p>One of the biggest advantages of PDFDing is how light it is on system resources. It uses only about 156 MB of memory on average, a fraction of what Paperless NGX demands.</p>
+<p>Additionally, a standout feature of PDFDing is its ease of use on both desktop and mobile devices. When opening a document in the web app on a mobile browser, it’s displayed directly in the browser without triggering a download. This saves storage space and avoids cluttering your downloads folder with duplicate files if you repeatedly access the same document. In contrast, Paperless NGX downloads the file each time it’s viewed in full-page mode on mobile browsers, which can quickly become messy.</p>
+<h3 id="whats-missing-in-pdfding">What’s Missing in PDFDing</h3>
+<p>Despite its simplicity, PDFDing isn’t perfect. The biggest feature I miss is Paperless NGX’s <strong>consume folder</strong>, which makes it easy to add and organize documents automatically. If PDFDing could implement this, it would make the decision to switch much easier.</p>
+<h3 id="resource-usage-comparison">Resource Usage Comparison</h3>
+<p>To give some context, I’m running these tools on a system with 11 GB of RAM. Here’s how they compare in terms of system resource usage over the past week:</p>
+<h4 id="paperless-ngx">Paperless NGX</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Container Name</th>
+          <th>AveCPU</th>
+          <th>AveMem (MiB)</th>
+          <th>AveMem%</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>paperless-webserver</td>
+          <td>7.10%</td>
+          <td>1155.12</td>
+          <td>10.53%</td>
+      </tr>
+      <tr>
+          <td>paperless-tika</td>
+          <td>0.26%</td>
+          <td>277.51</td>
+          <td>2.53%</td>
+      </tr>
+      <tr>
+          <td>paperless-gotenberg</td>
+          <td>0.06%</td>
+          <td>6.63</td>
+          <td>0.06%</td>
+      </tr>
+      <tr>
+          <td>paperless-redis</td>
+          <td>0.39%</td>
+          <td>4.78</td>
+          <td>0.04%</td>
+      </tr>
+      <tr>
+          <td><strong>Total</strong></td>
+          <td><strong>7.81%</strong></td>
+          <td><strong>1444.05</strong></td>
+          <td><strong>13.17%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="pdfding">PDFDing</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Container Name</th>
+          <th>AveCPU</th>
+          <th>AveMem (MiB)</th>
+          <th>AveMem%</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>pdfding</td>
+          <td>0.02%</td>
+          <td>156.36</td>
+          <td>1.43%</td>
+      </tr>
+      <tr>
+          <td><strong>Total</strong></td>
+          <td><strong>0.02%</strong></td>
+          <td><strong>156.36</strong></td>
+          <td><strong>1.43%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>Right now, I’m undecided. Paperless NGX has powerful features but can feel over-engineered and resource-hungry. PDFDing is minimalist and efficient but lacks some key features I rely on.</p>
+<p>For now, I’ll keep running both systems and see how PDFDing fits into my workflow. If it can streamline document management without too many compromises, it might be worth switching.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Is the Philippine Condo Market Overheating?</title>
@@ -36,6 +158,19 @@
       <pubDate>Sat, 30 Nov 2024 22:42:24 +0800</pubDate>
       <guid>https://deuts.org/p/ph-condo-market/</guid>
       <description>Shrinking rental yields and high vacancy rates raise questions about the Philippine condo market’s sustainability. Are we headed toward a correction, and could this spell opportunities for buyers?</description>
+      <content:encoded><![CDATA[<p>The Philippine condo market is under scrutiny as rising prices, shrinking rental yields, and climbing vacancy rates raise red flags. The video below delves into these issues, highlighting the risks and potential pitfalls of investing in this challenging market.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q0aYBUxW05s?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+<p>I fully agree with the creator’s observations. Based on my personal experience and internal calculations, rental yields for new developments more likely fall below 3%, making renting significantly more affordable than buying. In areas like BGC, walking around at night reveals that many buildings appear under 20% occupied—perhaps even closer to 10%—judging by how few units are lit. This supports concerns about overbuilding and waning foreign demand. The absence of official vacancy rate data only adds to the market&rsquo;s opacity.</p>
+<p>Despite these challenges, I see potential opportunities if a market correction occurs. Lower prices could present a chance to acquire properties at more reasonable values, whether for future living or long-term investment.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>The Frustrations of Online Shopping on Lazada</title>
@@ -43,6 +178,19 @@
       <pubDate>Sat, 30 Nov 2024 15:36:15 +0800</pubDate>
       <guid>https://deuts.org/p/online-shopping-lazada/</guid>
       <description>Navigating online shopping platforms like Lazada for Mini PCs has become increasingly difficult, with vendors bundling various specs and models into a single listing, often misleading buyers during sale events. </description>
+      <content:encoded><![CDATA[<p>I used to enjoy window shopping on Lazada, particularly for Mini PCs. But lately, the experience has become tiresome, thanks to how vendors are allowed to list multiple specs—and even entirely different models—on a single product page.</p>
+<p>Take the Beelink SER5 Max Mini PC as an example. This model, powered by the AMD Ryzen 7 5800H processor, has been on my radar for a while. Typically, the 32GB RAM and 1TB NVMe storage variant sells for around Php22,000. But when you search for it on Lazada, you’ll encounter listings priced as low as Php7,995.</p>
+<p>Sounds like a steal, right? Not so fast.</p>
+<p>When you click on the listing, you’ll find that the advertised price isn’t for the SER5 Max. Instead, it applies to an entirely different product—the Beelink S12 Pro with an N100 CPU, no RAM, and no storage. To make matters worse, these listings lump together multiple models, including the Beelink S12, SER3 3750H, SER5 5560U, and SER5 Max, each in varying configurations of RAM and storage.</p>
+<p>By the time you navigate through the confusing options and finally select the SER5 Max with 32GB RAM and 1TB NVMe, the price is often much higher than expected—or the variant is not even available.</p>
+<p>This approach makes it nearly impossible to distinguish real deals from regular prices. For shoppers like me, it’s a frustrating way to ruin sale events like 11.11, 12.12, or Black Friday.</p>
+<h3 id="suggestions-for-lazada">Suggestions for Lazada:</h3>
+<ul>
+<li>Prohibit bundling completely different products/models under a single listing. It’s acceptable to group variants of the same model with differing RAM and storage, but combining entirely unrelated products should not be allowed.</li>
+<li>Introduce a mechanism that enables shoppers to report sellers who use deceptive listings to mislead customers and gain undue attention.</li>
+</ul>
+<p>By the way, this applies to Shopee as well. I&rsquo;m just a loyal Lazada shopper (first-mover advantage), so my focus has been on Lazada so far.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Unlocking New Power Query Tricks</title>
@@ -50,6 +198,20 @@
       <pubDate>Sat, 30 Nov 2024 15:00:52 +0800</pubDate>
       <guid>https://deuts.org/p/new-power-query-tricks/</guid>
       <description>A quick reflection on my Power Query journey and a must-watch video showcasing the latest tricks to enhance workflows.  </description>
+      <content:encoded><![CDATA[<p>I consider myself somewhere between intermediate and advanced in Power Query, but there&rsquo;s always more to learn. One of the things I enjoy most is discovering new tricks to incorporate into my workflow.</p>
+<p>Recently, I watched the latest <strong>Power Query Tricks Battle</strong> video by Goodly on YouTube, featuring Melissa de Korte and Rick de Groot. It’s packed with creative techniques that can take your Power Query game to the next level.</p>
+<p>It’s a shame Melissa’s mic quality wasn’t the best (perhaps she used a built-in laptop mic), but I’m confident her tricks were outstanding.</p>
+<p>Watch the video below and tell me if you learned something new, what tricks are you most excited about to try out in your projects, and which of the tricks featured is your favorite?</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/iixGowsOUmE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+]]></content:encoded>
     </item>
     <item>
       <title>The story of a fly-by-night VPS host</title>
@@ -57,6 +219,60 @@
       <pubDate>Thu, 28 Nov 2024 08:40:14 +0800</pubDate>
       <guid>https://deuts.org/p/slicehosting-fly-by-night/</guid>
       <description>Slicehosting abruptly closed its doors, citing management challenges. While they promised refunds, my experience with their slow storage and frequent downtimes highlights the risks of trusting fly-by-night VPS providers.</description>
+      <content:encoded><![CDATA[<p>Recently, a message was posted in Slicehosting&rsquo;s Discord server that left many customers, including myself, in disbelief:</p>
+<blockquote>
+<p><strong>Dear [Customers/All],</strong></p>
+<p>I regret to inform you that Slicehosting is now closed as I no longer have the time to manage it effectively. Refunds for any remaining subscription time have been issued and should appear in your bank accounts within 7 days.</p>
+<p>If anyone is interested in taking over this project, I am open to offers for a reasonable price. Please feel free to contact me at <a href="mailto:support@slicehosting.tech">support@slicehosting.tech</a> for further details.</p>
+<p>Thank you for your support, and I apologize for any inconvenience caused.</p>
+<p><strong>Best regards,</strong><br>
+<em>Shivang Shastri</em></p>
+</blockquote>
+<p>This announcement marked the abrupt end of a VPS provider that had appeared promising—at least at first glance.</p>
+<p>Back in September, I signed up for a Slicehosting VPS plan because they offered a deal that seemed too good to pass up. The service had even been mentioned on <a href="https://lowendbox.com/blog/did-you-miss-slicehostings-offer-in-june-theyve-restocked-cheap-vps-in-frankfurt-and-mumbai-starting-with-16gb-ram-for-6-month/">LowEndBox</a>, lending it some credibility. However, as things turned out, Slicehosting has joined the ranks of fly-by-night VPS providers.</p>
+<p>Here’s the plan I got:</p>
+<h2 id="plan-details">Plan Details</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Description</strong></th>
+          <th><strong>Value</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Price ($/yr)</strong></td>
+          <td>12</td>
+      </tr>
+      <tr>
+          <td><strong>CPU Core</strong></td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td><strong>Memory (GB)</strong></td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td><strong>Storage (GB, HDD)</strong></td>
+          <td>20</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="my-experience">My Experience</h2>
+<p>While the plan looked appealing on paper, my time with Slicehosting was less than ideal. Here are some observations:</p>
+<h3 id="frequent-downtimes">Frequent Downtimes</h3>
+<p>Before this week’s closure announcement, I encountered <strong>several instances of prolonged downtime</strong>, sometimes lasting multiple days. This made the service unreliable, even for non-critical tasks.</p>
+<h3 id="underwhelming-performance">Underwhelming Performance</h3>
+<p>The <strong>HDD storage</strong> was painfully slow. During performance tests, I compared the VPS’s storage to a directory mounted via rclone from OneDrive—and shockingly, the <strong>rclone-mounted directory outperformed the VPS’s local storage</strong>.</p>
+<h3 id="refunds-wishful-thinking">Refunds: Wishful Thinking?</h3>
+<p>In their message, Slicehosting mentioned issuing refunds for unused subscription time. While I remain hopeful, I can&rsquo;t help but be skeptical given how chaotic things have been.</p>
+<hr>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Slicehosting’s closure is disappointing but not entirely surprising given the red flags many users observed over the past months. This experience underscores the importance of vetting VPS providers, especially when deals seem too good to be true.</p>
+<p>For those affected, the promise of refunds offers a glimmer of hope, but only time will tell if Slicehosting follows through.</p>
+<p>If you&rsquo;re considering a budget VPS provider, learn from experiences like this: read reviews, test performance, and, when possible, pay monthly to avoid being stuck in situations like this.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Enclosed could be the best PrivateBin replacement</title>
@@ -64,6 +280,32 @@
       <pubDate>Wed, 27 Nov 2024 00:13:09 +0800</pubDate>
       <guid>https://deuts.org/p/enclosed-privatebin-alternative/</guid>
       <description>My thoughts on Enclosed, a minimalistic and secure web app for private note sharing, and why it’s a strong contender to replace PrivateBin in my workflow. </description>
+      <content:encoded><![CDATA[<p><strong><a href="https://github.com/CorentinTh/enclosed">Enclosed</a></strong> is a minimalistic web application designed for sending private and secure notes.</p>
+<p>All notes are end-to-end encrypted, ensuring that the server and storage have zero knowledge of the content. You can set a password, define an expiration period (TTL), and choose to have the note self-destruct after being read.</p>
+<h3 id="a-promising-alternative-to-privatebin">A Promising Alternative to PrivateBin</h3>
+<p>I’ve been using <a class="applink" href="https://deuts.org/a/privatebin" target="_blank">PrivateBin</a> for secure note sharing, but its outdated interface often left me wishing for a modernized alternative. <a class="applink" href="https://deuts.org/a/enclosed" target="_blank">Enclosed</a>, with its elegant default dark theme and minimalist design, feels like a breath of fresh air.</p>
+<p>While I haven’t completely switched yet, I’m seriously contemplating making Enclosed my primary tool. It addresses several pain points I had with PrivateBin, such as:</p>
+<ol>
+<li><strong>A Modern, Elegant Interface:</strong> Enclosed stays true to its design philosophy, providing a clean and visually appealing experience.</li>
+<li><strong>Improved Reliability:</strong> I often faced issues with PrivateBin where pastes would disappear after upgrades. I’m optimistic that Enclosed won’t suffer from the same problem, given its well-thought-out implementation.</li>
+</ol>
+<h3 id="features-that-won-me-over">Features That Won Me Over</h3>
+<p>Two recent updates in the last month to Enclosed particularly impressed me:</p>
+<ol>
+<li><strong>Restricting Note Creation to Logged-In Users:</strong> This feature adds an extra layer of control, making the platform more secure.</li>
+<li><strong>No Expiration Option:</strong> Previously, expiration periods were limited to 1 hour, 1 day, 1 week, or 1 month. Now, I can set notes to never expire, which is perfect for more persistent needs.</li>
+</ol>
+<p>These enhancements show the developer’s commitment to refining the app and meeting user needs, making Enclosed a very attractive alternative.</p>
+<h3 id="my-wishlist-for-enclosed">My Wishlist for Enclosed</h3>
+<p>While Enclosed has been a joy to use so far, there are a few features I’d love to see added:</p>
+<ol>
+<li><strong>Deleting Shared Notes:</strong> As a logged-in user, I’d like the option to delete notes I’ve shared, provided I know the key.</li>
+<li><strong>More Formatting Options:</strong> Just like PrivateBin allows formatting pastes as markdown, plaintext, or source code, I hope Enclosed adds similar options—and ideally, supports even more formats.</li>
+</ol>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>Enclosed isn’t just a potential replacement for PrivateBin—it could become the best tool for secure note sharing. While I’m still evaluating it, the updates and overall experience have made a strong case for switching for good.</p>
+<p>If you’re exploring alternatives for PrivateBin or looking for a secure, modern solution for note sharing, Enclosed is definitely worth a try.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Hugo vs. Jekyll: Which One Should You Choose?</title>
@@ -71,6 +313,87 @@
       <pubDate>Fri, 22 Nov 2024 14:09:57 +0800</pubDate>
       <guid>https://deuts.org/p/hugo-vs-jekyll/</guid>
       <description>Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.</description>
+      <content:encoded><![CDATA[<p>If you&rsquo;re deciding between <a class="applink" href="https://deuts.org/a/hugo" target="_blank">Hugo</a> and <a class="applink" href="https://deuts.org/a/jekyll" target="_blank">Jekyll</a> for your static site generator, here&rsquo;s a clear comparison to help you choose the right tool for your needs.</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Criteria</strong></th>
+          <th><strong>Hugo</strong></th>
+          <th><strong>Jekyll</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Performance</strong></td>
+          <td>Extremely fast; can rebuild thousands of pages in seconds. Great for large or frequently updated sites.</td>
+          <td>Slower compared to Hugo, especially with large sites. Suitable for smaller, less frequently updated sites.</td>
+      </tr>
+      <tr>
+          <td><strong>Installation</strong></td>
+          <td>Simple: a single binary with no dependencies.</td>
+          <td>Requires Ruby and Gems, which can be complex for non-Ruby users.</td>
+      </tr>
+      <tr>
+          <td><strong>Themes</strong></td>
+          <td>Flexible with advanced customization options and shortcodes. Templates use Go’s templating engine.</td>
+          <td>Large library of pre-built themes. Uses Liquid templates, which are simpler but less powerful for advanced users.</td>
+      </tr>
+      <tr>
+          <td><strong>Markdown Support</strong></td>
+          <td>Native support with configurable front matter (TOML, YAML, JSON). Excellent for multilingual sites.</td>
+          <td>Markdown support via plugins like kramdown. Front matter is YAML-only. Limited multilingual capabilities.</td>
+      </tr>
+      <tr>
+          <td><strong>Ecosystem</strong></td>
+          <td>Rapidly growing community with a smaller but expanding theme library. Hugo also has more GitHub stars, reflecting its developer appeal.</td>
+          <td>Established ecosystem with a mature community and wide adoption. Native integration with GitHub Pages.</td>
+      </tr>
+      <tr>
+          <td><strong>Plugins</strong></td>
+          <td>No plugins; functionality is built-in or handled externally. Faster and more secure as a result.</td>
+          <td>Extensive plugin ecosystem for advanced features. Can slow down build times and add complexity.</td>
+      </tr>
+      <tr>
+          <td><strong>Use Case</strong></td>
+          <td>Best for performance-focused, large, multilingual, or highly customized sites.</td>
+          <td>Great for smaller sites, blogs, or projects requiring GitHub Pages integration or extensive plugins.</td>
+      </tr>
+  </tbody>
+</table>
+<div class="callout info">
+  <div class="callout-content">
+    <strong>On Github Pages Hosting</strong>
+    <p>
+Jekyll has native support on GitHub Pages, allowing you to upload Markdown files directly to your repository and have the site built automatically on GitHub’s servers. In contrast, Hugo requires you to build the site yourself (using the hugo command) before deploying the generated static files to GitHub Pages.
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="recommendations">Recommendations</h3>
+<ul>
+<li>
+<p><strong>Choose Hugo</strong> if you:</p>
+<ul>
+<li>Need blazing-fast performance.</li>
+<li>Prefer a simpler installation process.</li>
+<li>Work on multilingual or large sites.</li>
+<li>Want flexibility and control over site structure and layout.</li>
+</ul>
+</li>
+<li>
+<p><strong>Choose Jekyll</strong> if you:</p>
+<ul>
+<li>Need an extensive plugin ecosystem.</li>
+<li>Want simplicity with pre-built themes.</li>
+<li>Rely heavily on GitHub Pages for hosting.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="conclusion">Conclusion</h3>
+<p>Hugo and Jekyll are both excellent tools, but your choice will depend on your specific needs. While Hugo&rsquo;s rising GitHub star count highlights its developer-first focus and popularity among performance-conscious users, Jekyll shines with its ease of use and extensive theme community.</p>
+<p>At the end of the day, Hugo and Jekyll are like coffee and tea—both get the job done, but one’s probably better suited to your taste. So, pick your brew, and let the static site-building begin!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>How to Use an SSH Key for a Specific GitHub Repository</title>
@@ -78,6 +401,69 @@
       <pubDate>Fri, 22 Nov 2024 11:01:31 +0800</pubDate>
       <guid>https://deuts.org/p/ssh-key-github-repo/</guid>
       <description>A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>When working with GitHub repositories, it&rsquo;s common to use SSH keys to authenticate instead of passwords. However, if you&rsquo;re managing multiple repositories or working on a single repository with specific security needs, you might want to configure SSH keys for just one repository. In this guide, we’ll walk you through setting up a dedicated SSH key to securely sync with a single GitHub repository, improving security, especially when storing private keys on remote servers or VPS.</p>
+<h2 id="why-use-ssh-keys-for-a-specific-repository">Why Use SSH Keys for a Specific Repository?</h2>
+<p>Using a single SSH key for a repository restricts access to only that repository. This isolation is useful in several scenarios:</p>
+<ul>
+<li><strong>Improved security</strong>: If your private key is compromised, access is limited to just the target repository.</li>
+<li><strong>Granular control</strong>: You can control which key has access to which repository, making it easier to manage multiple keys for different tasks.</li>
+<li><strong>Simplified automation</strong>: When using deploy keys or automation scripts, this approach can be used to grant access to only one repository at a time.</li>
+</ul>
+<h2 id="step-1-generate-a-new-ssh-key">Step 1: Generate a New SSH Key</h2>
+<p>If you don’t already have a specific SSH key for your GitHub repository, start by generating one. You can use <code>ssh-keygen</code> to create a new key pair.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -C <span style="color:#e6db74">&#34;your_email@example.com&#34;</span> -f ~/.ssh/github_repo_id_ed25519
+</span></span></code></pre></div><p>This will create two files:</p>
+<ul>
+<li><code>~/.ssh/github_repo_id_ed25519</code> (your private key)</li>
+<li><code>~/.ssh/github_repo_id_ed25519.pub</code> (your public key)</li>
+</ul>
+<p>The private key should <strong>never</strong> be shared or exposed, while the public key will be added to your GitHub repository.</p>
+<h2 id="step-2-add-the-public-key-to-your-github-repository">Step 2: Add the Public Key to Your GitHub Repository</h2>
+<p>Go to your GitHub repository, and in the <strong>Settings</strong> section, add the <strong>public key</strong> as a <strong>deploy key</strong>:</p>
+<ol>
+<li>Navigate to <strong>Settings</strong> → <strong>Deploy Keys</strong>.</li>
+<li>Click <strong>Add deploy key</strong>.</li>
+<li>Give it a name (e.g., &ldquo;GitHub SSH Key&rdquo;).</li>
+<li>Paste the contents of your <code>github_repo_id_ed25519.pub</code> file into the key field.</li>
+<li>Select either <strong>read-only</strong> or <strong>read-write</strong> access depending on the level of access you want.</li>
+</ol>
+<p>Click <strong>Add key</strong> to save.</p>
+<h2 id="step-3-configure-ssh-for-the-repository">Step 3: Configure SSH for the Repository</h2>
+<p>Now, configure SSH to use the specific key for accessing the repository. You can do this by adding an entry to your <code>~/.ssh/config</code> file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.ssh/config
+</span></span></code></pre></div><p>Add the following configuration, replacing <code>github-repo</code> with your preferred alias and ensuring the path to your private key is correct:</p>
+<pre tabindex="0"><code class="language-ssh" data-lang="ssh">Host github-repo
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github_repo_id_ed25519
+    IdentitiesOnly yes
+</code></pre><p>This configuration tells SSH to use the specific key <code>github_repo_id_ed25519</code> when connecting to GitHub.</p>
+<h2 id="step-4-update-or-add-the-remote-url-in-your-local-repository">Step 4: Update or Add the Remote URL in Your Local Repository</h2>
+<h3 id="sync-a-local-repository">Sync a local repository</h3>
+<p>To sync your local repository with the GitHub repository, change the remote URL to use the SSH alias you’ve configured in <code>~/.ssh/config</code>. Navigate to your local Git repository and run the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
+</span></span><span style="display:flex;"><span>git remote set-url origin git@github-repo:username/repository.git
+</span></span></code></pre></div><p>Make sure to replace <code>username/repository.git</code> with the actual repository path.</p>
+<h3 id="add-remote-repository-to-local">Add remote repository to local</h3>
+<p>To add a remote repository:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
+</span></span><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git remote add origin git@github-repo:username/repository.git
+</span></span></code></pre></div><h2 id="step-5-test-the-ssh-connection">Step 5: Test the SSH Connection</h2>
+<p>Now that everything is set up, verify that your SSH connection works properly by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh -T github-repo
+</span></span></code></pre></div><p>You should see a message like:</p>
+<pre tabindex="0"><code>Hi username! You&#39;ve successfully authenticated, but GitHub does not provide shell access.
+</code></pre><p>This confirms that the SSH key is correctly configured and is being used to authenticate with GitHub.</p>
+<h2 id="step-6-push-changes-to-github">Step 6: Push Changes to GitHub</h2>
+<p>Once the remote URL is updated, you can start syncing your local repository with GitHub. To push changes to your GitHub repository, simply run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git push origin main  <span style="color:#75715e"># Or the relevant branch name</span>
+</span></span></code></pre></div><p>Git will use the SSH key associated with the <code>github-repo</code> alias to authenticate and push your changes.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>By following these steps, you’ve securely configured SSH to access a specific GitHub repository. This approach not only enhances security by limiting access but also provides better management of your SSH keys, especially when dealing with multiple repositories or automating workflows.</p>
+<p>With this setup, you can now safely push, pull, and manage your GitHub repository without the risk of exposing your other repositories or credentials.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

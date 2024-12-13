@@ -15,6 +15,33 @@
       <pubDate>Fri, 18 Aug 2023 08:33:53 +0800</pubDate>
       <guid>https://deuts.org/p/nextcloud-post-install-config/</guid>
       <description>Nextcloud installation via Docker may show warnings for service discovery and cron jobs. To fix the service discovery issue, update the .htaccess file. For cron jobs, set up a cron task on the host system to run cron.php every 5 minutes in the Nextcloud container.</description>
+      <content:encoded><![CDATA[<p>After installing Nextcloud via <a href="https://github.com/nextcloud/docker">Docker</a>, and if you go to <code>/settings/admin/overview</code>, you might find some warnings that you need to do further configurations to get rid of.</p>
+<hr>
+<h2 id="service-discovery">Service Discovery</h2>
+<blockquote>
+<p>Your web server is not properly set up to resolve &ldquo;/.well-known/caldav&rdquo;.
+Your web server is not properly set up to resolve &ldquo;/.well-known/carddav&rdquo;.</p>
+</blockquote>
+<p>Go to the <code>app/</code> directory where you&rsquo;ll find the <code>.htaccess</code> file, and change the following lines:</p>
+<pre tabindex="0"><code>  RewriteRule ^\.well-known/carddav /remote.php/dav/ [R=301,L]
+  RewriteRule ^\.well-known/caldav /remote.php/dav/ [R=301,L]
+</code></pre><p>To:</p>
+<pre tabindex="0"><code>  RewriteRule ^\.well-known/carddav https://%{SERVER_NAME}/remote.php/dav/ [R=301,L]
+  RewriteRule ^\.well-known/caldav https://%{SERVER_NAME}/remote.php/dav/ [R=301,L]
+</code></pre><ul>
+<li><a href="https://github.com/nextcloud/docker/issues/528">Source</a></li>
+</ul>
+<hr>
+<h2 id="cron-jobs-not-working">Cron Jobs not working</h2>
+<p>You will need to setup a cron job from your host system. Try:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo crontab -e
+</span></span></code></pre></div><p>Then add this line at the bottom:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>*/5 * * * * docker exec -u www-data <span style="color:#f92672">[</span>containername<span style="color:#f92672">]</span> php /var/www/html/cron.php
+</span></span></code></pre></div><p>Make sure to change <code>[containername]</code> to the actual name of your container.</p>
+<ul>
+<li><a href="https://help.nextcloud.com/t/nextcloud-docker-container-best-way-to-run-cron-job/157734/4">Source</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>How to Rescan Your Docker Nextcloud Folders</title>
@@ -22,6 +49,20 @@
       <pubDate>Tue, 25 Jul 2023 21:50:59 +0800</pubDate>
       <guid>https://deuts.org/p/how-to-rescan-docker-nextcloud-folders/</guid>
       <description>If you can&amp;#39;t see files or subfolders in Nextcloud after creating them or restoring from a backup, running the command docker exec -u www-data nextcloud_app php occ files:scan --all will fix the issue. This works for Nextcloud version 27.0.1 when installed via Docker.</description>
+      <content:encoded><![CDATA[<p>What if:</p>
+<ul>
+<li>You installed Nextcloud via Docker</li>
+<li>You created files or subfolders in the Nextcloud folder of a user
+<ul>
+<li>This is also true if you&rsquo;re restoring files and folders from a backup</li>
+</ul>
+</li>
+<li>You can&rsquo;t see the files or subfolders in the Nextcloud web interface</li>
+</ul>
+<p>Just run the following command, replacing <code>nextcloud_app</code> with the actual container name of your Nextcloud Docker install:</p>
+<pre tabindex="0"><code>docker exec -u www-data nextcloud_app php occ files:scan --all
+</code></pre><p>This is working for me, on Nextcloud version 27.0.1.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

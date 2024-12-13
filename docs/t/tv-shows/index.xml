@@ -15,6 +15,29 @@
       <pubDate>Sun, 23 Jul 2023 19:20:35 +0800</pubDate>
       <guid>https://deuts.org/p/underrated-tv-shows-2022-et-al/</guid>
       <description>These underrated TV shows from 2022 are worth checking out. The True Story of the LA Lakers dives into the history of the Lakers with rich stories and insightful interviews.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.theringer.com/tv/2022/11/3/23437524/andor-vs-house-of-the-dragon-rings-of-power-best-show">This article</a> promises I would enjoy Andor. I should probably start watching these <em>Star Wars</em> TV shows.</p>
+<hr>
+<p>How come every time I come here to just post a quick short post, I end up with a long one?</p>
+<hr>
+<p><a href="https://every.to/p/the-end-of-excel">Excel is dead?</a> What a stupid question. This guy doesn&rsquo;t use Microsoft Excel as much as I do. Such a click-bait.</p>
+<hr>
+<p><a href="https://www.yugatech.com/news/disney-plus-coming-to-the-philippines-on-november-17/">Yugatech</a>: Disney+ coming to the Philippines on November 17. Price starts at P159 for mobile plan and P369 for premium. Take your pick: you split the subscription price, or just do everything, every streaming service, on Plex.</p>
+<hr>
+<p>A <a href="https://www.gmanetwork.com/news/topstories/regions/848725/bridge-in-bayambang-pangasinan-collapses/story/">bridge collapsed</a> in Bayambang, Pangasinan. That&rsquo;s why it&rsquo;s so scary to be stuck in traffic while in the middle of a bridge.</p>
+<h3 id="the-underrated-tv-shows-in-2022">The Underrated TV Shows in 2022</h3>
+<p>I think these are the shows you shouldn&rsquo;t miss in 2022:</p>
+<ul>
+<li>WeCrashed</li>
+<li>Slow Horse</li>
+<li>The Dropout</li>
+<li>Severance</li>
+<li>Winning Time: The Rise of the Lakers Dynasty</li>
+<li>Blackbird</li>
+</ul>
+<p>Of course, the <strong>House of the Dragon</strong> is not mentioned in this list, because it belongs to a totally different list.</p>
+<h3 id="legacy-the-true-story-of-the-la-lakers">Legacy: The True Story of the LA Lakers</h3>
+<p>This TV series is so full of rich stories about the story behind the LA Lakers upon the ascension of Jerry Buss to the head of the organization. But it&rsquo;s also full of interviews, and less drama actually.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Streaming Movies and TV Shows on Kodi</title>
@@ -22,6 +45,28 @@
       <pubDate>Fri, 21 Oct 2022 21:28:50 +0800</pubDate>
       <guid>https://deuts.org/p/streaming-movies-tv-shows-kodi/</guid>
       <description>You can set up Kodi to stream media from a VPS or local server using Apache or Nginx. See the video for details on adding remote media sources in Kodi.</description>
+      <content:encoded><![CDATA[<p>When I started hoarding movies and TV shows back when streaming services were not yet a thing, of course I played them using VLC. But you can only do that on a computer. These media are better consumed over TV, right?</p>
+<p>Then, the rise of Netflix showed us a glipmse of how your media should be better managed — with posters or thumbnails, description or summary, genre, casts list, and even related movies to watch after. I remember I used to have several hard drives with duplicate movies from several sources or several different versions and video codecs. Worse, it was so hard to keep track back then which movies you&rsquo;ve already watched or what episode of a show did you last watch.</p>
+<p>Then came Kodi. And you can sync your collection and watch status with Trakt. But Kodi was supposed to manage your local files only — or so I knew.</p>
+<p>If you have a VPS or even a local server with your media files while running Apache or Nginx to serve webpages and/or files, you can actually add those folders as a media source to your Kodi app. The video below will show you how:</p>
+<hr>
+<p> 
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yREBMpLC4QY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+ </p>
+<hr>
+<p>Of course, now there are media servers like Plex, Emby and Jellyfin to help you manage and stream your media files. But Kodi has a lot to offer over these other apps, and that&rsquo;s a totally different topic.</p>
+<h3 id="faq">FAQ</h3>
+<h4 id="will-this-work-with-http-basic-authentication-on-nginx-server">Will this work with HTTP Basic Authentication on Nginx server?</h4>
+<p>I actually have yet to try this out, and will update this post when I find out. But feel free to mention me <a href="https://twitter.com/deuts">@deuts</a> if you know the answer.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>TV Shows I May Consider Watching in the Future</title>
@@ -29,6 +74,22 @@
       <pubDate>Fri, 21 Oct 2022 12:24:06 +0800</pubDate>
       <guid>https://deuts.org/p/tv-shows-consider-watching-future/</guid>
       <description>Shows I removed from Sonarr but may follow again.</description>
+      <content:encoded><![CDATA[<p>These are the TV shows that I deleted from my Sonarr installation, but may consider following or monitoring them in the future.</p>
+<ul>
+<li>Bad Sisters</li>
+<li>Gaslit</li>
+<li>Hacks</li>
+<li>Mindhunter</li>
+<li>The Morning Show</li>
+<li>Only Murders in the Building Season 2</li>
+<li>Severance Season 2</li>
+<li>Slow Horses Season 2</li>
+<li>The Time Traveler&rsquo;s Wife</li>
+<li>Warrior</li>
+<li>What We Do in the Shadows</li>
+</ul>
+<p>Several of these I have watched the Season 1 already, and will definitely add them back when Season 2 are ready.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Ano Ang Nasa Dakong Paroon</title>
@@ -36,6 +97,16 @@
       <pubDate>Thu, 20 Oct 2022 15:15:07 +0800</pubDate>
       <guid>https://deuts.org/p/ano-ang-nasa-dakong-paroon/</guid>
       <description>Gabi ng lagim</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Ano ang nasa dakong paroon,<br>
+bunga ng malilikot na pagiisip,<br>
+likha ng balintataw o halaw<br>
+mula sa daigdig ng kababalaghan</p>
+<p>di kayang ipaliwanag<br>
+ngunit alam mong magaganap</p>
+<p>aawooooo!</p>
+</blockquote>
+]]></content:encoded>
     </item>
     <item>
       <title>Blood vs. Name</title>
@@ -43,6 +114,14 @@
       <pubDate>Thu, 06 Oct 2022 13:01:14 +0100</pubDate>
       <guid>https://deuts.org/p/blood-vs-name/</guid>
       <description>A powerful reminder that what we leave behind is often more about our legacy and reputation than the battles we&amp;#39;ve fought.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>History does not remember blood.<br>
+It remembers names.</p>
+</blockquote>
+<blockquote>
+<p>— Corlys Velaryon</p>
+</blockquote>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

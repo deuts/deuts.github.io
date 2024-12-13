@@ -15,6 +15,39 @@
       <pubDate>Fri, 29 Nov 2024 11:13:59 +0800</pubDate>
       <guid>https://deuts.org/x/admonitions-hints-callouts/</guid>
       <description>These are the available admonitions/hints/callouts implementation for your Hugo blog.</description>
+      <content:encoded><![CDATA[<div class="post-entry">
+    <a href="https://github.com/KKKZOZ/hugo-admonitions" target="_blank" class="linkcard-wrapper">
+      <div class="linkcard-content">
+        <h3 class="linkcard-title">Hugo Admonitions</h3>
+        <p class="linkcard-description">Simple admonitions for hugo.</p>
+      </div>
+    </a>
+  </div>
+  
+<p>Nice design, blends well with dark themes. There are just too many options, though, that adds to the clutter.</p>
+<hr>
+<div class="post-entry">
+    <a href="https://hugo-book-demo.netlify.app/docs/shortcodes/hints/" target="_blank" class="linkcard-wrapper">
+      <div class="linkcard-content">
+        <h3 class="linkcard-title">Hints</h3>
+        <p class="linkcard-description">Hint shortcode can be used as hint/alerts/notification block. There are 3 colors to choose from: info, warning and danger.</p>
+      </div>
+    </a>
+  </div>
+  
+<p>Part of the <a href="https://github.com/alex-shpak/hugo-book">Hugo-Book</a> theme, but we can take out the implementation and add the relevant css.</p>
+<hr>
+<div class="post-entry">
+    <a href="https://cosimameyer.com/post/customized-callout-boxes-in-hugo/" target="_blank" class="linkcard-wrapper">
+      <div class="linkcard-content">
+        <h3 class="linkcard-title">Customized callout boxes for Hugo</h3>
+        <p class="linkcard-description">What I look for in text is when it’s visually appealing. And I think callout boxes are a great way to direct the reader to important information. The Hugo Portio theme doesn’t ship with them, so I implemented and customized them. If you want something as nice as this, here’s your guide.</p>
+      </div>
+    </a>
+  </div>
+  
+<p>This is the current implementation, though I can&rsquo;t promise it&rsquo;ll be that way moving forward. It requires The <em>Font Awesome</em> font for the icons.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Enhancing Readability with Callouts in Hugo</title>
@@ -22,6 +55,78 @@
       <pubDate>Thu, 14 Nov 2024 18:26:00 +0800</pubDate>
       <guid>https://deuts.org/p/hugo-callouts/</guid>
       <description>Discover how callouts can enhance readability and engagement by highlighting key information in notes or web content. Learn how to implement custom callouts in Hugo using shortcodes, making important details more accessible and memorable for your readers.</description>
+      <content:encoded><![CDATA[<h2 id="why-use-callouts">Why use callouts</h2>
+<p>Callouts in notes or web content are a secret weapon for enhancing readability and guiding the reader’s focus. By spotlighting key points such as tips, warnings, or action items, callouts break up dense text, making it visually engaging and easy to navigate—perfect for readers who like to skim for the good stuff. Think of them as visual pitstops for key information.</p>
+<p>Beyond making content look better, callouts help readers retain critical details. By emphasizing important points, callouts make it more likely that the message will stick long after the reader has moved on. Plus, they boost engagement, encouraging readers to linger on essential details they might otherwise miss. In short, callouts don’t just share information; they make it memorable.</p>
+<h2 id="hugo-support-for-callouts">Hugo support for callouts</h2>
+<p>Hugo doesn’t come with built-in support for callouts, but there’s a simple solution—shortcodes! By using a shortcode, you can add custom callouts to your Hugo content with ease.</p>
+<h2 id="hugo-shortcode-for-callouts">Hugo shortcode for callouts</h2>
+<p>Thanks to Cosimameyer’s <a href="https://cosimameyer.com/post/customized-callout-boxes-in-hugo/">tutorial</a> on implementing callouts in Hugo, we can use the following example shortcodes:</p>
+<h3 id="info">Info</h3>
+<pre><code>{{< callout type="info" title="Information" >}}
+This is an informational callout with default styling.
+{{< /callout >}}</code></pre>  
+<div class="callout info">
+  <div class="callout-content">
+    <strong>Information</strong>
+    <p>
+This is an informational callout with default styling.
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="success">Success</h3>
+<pre><code>{{< callout type="success" title="Success" >}}
+Tell me more about your success story.
+{{< /callout >}}</code></pre>  
+<div class="callout success">
+  <div class="callout-content">
+    <strong>Success</strong>
+    <p>
+Tell me more about your success story.
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="error">Error</h3>
+<pre><code>{{< callout type="error" title="Mistake" >}}
+You're making a big mistake!
+{{< /callout >}}</code></pre>  
+<div class="callout error">
+  <div class="callout-content">
+    <strong>Mistake</strong>
+    <p>
+You're making a big mistake!
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="warning">Warning</h3>
+<pre><code>{{< callout type="warning" title="Caution" >}}
+You have been warned!
+{{< /callout >}}</code></pre>  
+<div class="callout warning">
+  <div class="callout-content">
+    <strong>Caution</strong>
+    <p>
+You have been warned!
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="others">Others</h3>
+<pre><code>{{< callout type="nothing" title="Nothing" >}}
+This is nothing!
+{{< /callout >}}</code></pre>  
+<div class="callout nothing">
+  <div class="callout-content">
+    <strong>Nothing</strong>
+    <p>
+This is nothing!
+</p>
+  </div>
+</div>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -15,6 +15,41 @@
       <pubDate>Tue, 19 Nov 2024 17:55:00 +0800</pubDate>
       <guid>https://deuts.org/p/medama-vs-google-analytics/</guid>
       <description>Looking for a Google Analytics alternative, I explored several options and ultimately settled on Medama for its simplicity, lightweight nature, and ease of use. It provides essential insights without the complexity of other analytics tools.</description>
+      <content:encoded><![CDATA[<p>I was recently browsing through <a href="https://selfh.st/apps/?alternative=Google+Analytics">selfh.st</a> looking for a Google Analytics alternative for my public websites. I wanted something that would give me the basic insights I need, without being bloated or overly complicated. After narrowing it down, I ended up considering three options: Umami, Matomo, and Medama.</p>
+<h3 id="why-im-moving-away-from-google-analytics">Why I&rsquo;m Moving Away from Google Analytics</h3>
+<p>Before we jump into the alternatives, let me first explain why I’m steering clear of Google Analytics—because sometimes, less is more!</p>
+<ul>
+<li>
+<p><strong>Self-Hosted Simplicity</strong>: Google Analytics, while powerful, requires an external service and complex integration. I prefer a self-hosted solution where I have full control over my data, without relying on third-party providers.</p>
+</li>
+<li>
+<p><strong>Google Analytics is Hard to Navigate</strong>: I’ve always found Google Analytics difficult to navigate, especially when looking for specific insights. The overwhelming number of features and menus can make it hard to pinpoint exactly what I want without wading through unnecessary options.</p>
+</li>
+<li>
+<p><strong>Privacy Concerns</strong>: While it’s not always discussed openly, Google Analytics sometimes includes tracking scripts that could be seen as invasive. With data collection practices that tie into Google&rsquo;s wider ecosystem, it could potentially compromise user privacy in ways that I don’t fully control. For example, data shared with Google can be used for advertising purposes, which might not align with my privacy policies.</p>
+</li>
+<li>
+<p><strong>Excessive Complexity for Basic Needs</strong>: For most of my websites, I don&rsquo;t need detailed reports or a high level of tracking. I just want to know which pages are visited, where my traffic is coming from, and what devices or browsers visitors are using. Google Analytics can do this, but it requires navigating through complex dashboards and reports that are too advanced for my simple needs.</p>
+</li>
+</ul>
+<h3 id="umami-great-but-not-without-issues">Umami: Great but Not Without Issues</h3>
+<p>I’ve tried <strong>Umami</strong> before and had some issues with it. When I upgraded to a newer version, I encountered errors that disrupted my tracking. Additionally, Umami requires a separate database container, either MySQL or Postgres, which added complexity to my setup. For a simple analytics solution, it felt like a bit too much to maintain.</p>
+<h3 id="matomo-too-bloated-for-my-needs">Matomo: Too Bloated for My Needs</h3>
+<p>Next up was <strong>Matomo</strong>, which was previously known as Piwik. I’ve used Matomo before, especially in environments like cPanel, but I found it to be too bloated for my use case. There are so many features, many of which I never use, that navigating through the platform often felt overwhelming. With countless options and pages to browse, it became difficult to figure out what was essential versus what was unnecessary. It’s powerful, but I just needed something much simpler.</p>
+<h3 id="what-i-really-want-simple-effective-analytics">What I Really Want: Simple, Effective Analytics</h3>
+<p>At this point, I realized that all I wanted was a simple tool that would tell me which pages on my website are popular, where my visitors are coming from, what devices and browsers they&rsquo;re using, and the sources that brought them there. I didn’t need extensive reports or a full-blown dashboard with complex features. I wanted basic insights without the clutter.</p>
+<h3 id="why-i-chose-medama">Why I Chose Medama</h3>
+<p>After further research, I finally settled on <strong><a href="https://github.com/medama-io/medama">Medama</a></strong>, and here’s why:</p>
+<ul>
+<li><strong>Lightweight Tracker</strong>: Medama’s simplicity is its strength. It provides just the essentials and does it well.</li>
+<li><strong>SQLite Database Support</strong>: Unlike Umami, Medama uses SQLite, which is easier to manage and doesn’t require setting up a separate database container.</li>
+<li><strong>Simple and Intuitive Interface</strong>: The interface is clean and easy to navigate, making it much more user-friendly than the other options I explored.</li>
+</ul>
+<h3 id="my-wish-for-medama">My Wish for Medama</h3>
+<p>One feature I’d love to see in Medama is the ability to filter out my own browsing activity from the statistics. It would be great to ensure my personal visits to my website don’t skew the data.</p>
+<h3 id="a-potential-jetpack-replacement">A Potential Jetpack Replacement?</h3>
+<p>If my experience with Medama continues to be positive, I might even consider replacing Jetpack on my WordPress site. Jetpack Stats is really the only feature that keeps me using Jetpack, alongside Akismet for spam protection. If Medama proves to be a reliable and lightweight tracker, it could serve as an ideal replacement for my needs.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

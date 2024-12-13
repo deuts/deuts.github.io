@@ -15,6 +15,19 @@
       <pubDate>Sat, 30 Nov 2024 15:36:15 +0800</pubDate>
       <guid>https://deuts.org/p/online-shopping-lazada/</guid>
       <description>Navigating online shopping platforms like Lazada for Mini PCs has become increasingly difficult, with vendors bundling various specs and models into a single listing, often misleading buyers during sale events. </description>
+      <content:encoded><![CDATA[<p>I used to enjoy window shopping on Lazada, particularly for Mini PCs. But lately, the experience has become tiresome, thanks to how vendors are allowed to list multiple specs—and even entirely different models—on a single product page.</p>
+<p>Take the Beelink SER5 Max Mini PC as an example. This model, powered by the AMD Ryzen 7 5800H processor, has been on my radar for a while. Typically, the 32GB RAM and 1TB NVMe storage variant sells for around Php22,000. But when you search for it on Lazada, you’ll encounter listings priced as low as Php7,995.</p>
+<p>Sounds like a steal, right? Not so fast.</p>
+<p>When you click on the listing, you’ll find that the advertised price isn’t for the SER5 Max. Instead, it applies to an entirely different product—the Beelink S12 Pro with an N100 CPU, no RAM, and no storage. To make matters worse, these listings lump together multiple models, including the Beelink S12, SER3 3750H, SER5 5560U, and SER5 Max, each in varying configurations of RAM and storage.</p>
+<p>By the time you navigate through the confusing options and finally select the SER5 Max with 32GB RAM and 1TB NVMe, the price is often much higher than expected—or the variant is not even available.</p>
+<p>This approach makes it nearly impossible to distinguish real deals from regular prices. For shoppers like me, it’s a frustrating way to ruin sale events like 11.11, 12.12, or Black Friday.</p>
+<h3 id="suggestions-for-lazada">Suggestions for Lazada:</h3>
+<ul>
+<li>Prohibit bundling completely different products/models under a single listing. It’s acceptable to group variants of the same model with differing RAM and storage, but combining entirely unrelated products should not be allowed.</li>
+<li>Introduce a mechanism that enables shoppers to report sellers who use deceptive listings to mislead customers and gain undue attention.</li>
+</ul>
+<p>By the way, this applies to Shopee as well. I&rsquo;m just a loyal Lazada shopper (first-mover advantage), so my focus has been on Lazada so far.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Black Friday VPS Deals: More Bang, Less Buck, and a Side of Virtual Glory</title>
@@ -22,6 +35,50 @@
       <pubDate>Tue, 19 Nov 2024 20:31:27 +0800</pubDate>
       <guid>https://deuts.org/p/black-friday-vps-deals/</guid>
       <description>Black Friday offers unmatched VPS deals, perfect for expanding your digital empire. RackNerd’s discounts showcase the jaw-dropping value this season provides.</description>
+      <content:encoded><![CDATA[<p>Black Friday is the <em>de facto</em> holiday for tech enthusiasts, and VPS hunters know it’s the golden hour to snag unbeatable deals. Case in point: RackNerd’s stunning <a href="https://lowendtalk.com/discussion/199589/racknerds-official-let-black-friday-hundreds-of-giveaways-crazy-deals-massive-come-see">Black Friday</a> offer this year.</p>
+<p>For just <strong>$18.93/year</strong>, here’s what you get:</p>
+<ul>
+<li><strong>2 vCPU Cores</strong></li>
+<li><strong>40 GB Pure SSD Storage</strong></li>
+<li><strong>2.5 GB RAM</strong></li>
+<li><strong>3000 GB Monthly Transfer</strong></li>
+<li><strong>1 Gbps Network Port</strong></li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM Control Panel</li>
+<li>Multiple Locations to choose from!</li>
+</ul>
+<p>Compare that to RackNerd’s recent <a href="https://lowendbox.com/blog/racknerds-11-11-sale-now-live-kvm-vps-from-11-11-year-in-los-angeles-san-jose-seattle-dallas-chicago-new-york-and-atlanta/">11.11 sale</a> for <strong>$17.98/year</strong>:</p>
+<ul>
+<li>1x vCPU Core</li>
+<li>25 GB SSD Storage</li>
+<li>2 GB RAM</li>
+<li>3000GB Monthly Bandwidth</li>
+<li>1Gbps Public Network Port</li>
+<li>Full Root Admin Access</li>
+<li>1 Dedicated IPv4 Address</li>
+<li>KVM / SolusVM</li>
+<li>Multiple Locations</li>
+</ul>
+<p>Sure, the 11.11 sale shaves off $0.95, but for less than a dollar more on Black Friday, you get:</p>
+<ul>
+<li><strong>Double the vCPU cores</strong></li>
+<li><strong>15 GB more SSD storage</strong></li>
+<li><strong>An extra 0.5 GB of RAM</strong></li>
+</ul>
+<p>Of course, there are other options at varying hardware configurations and prices if you follow the links above.</p>
+<p>If the 11.11 deal is a steal, then the Black Friday deal is straight-up daylight robbery—with a bigger bag to carry your spoils!</p>
+<div class="callout warning">
+  <div class="callout-content">
+    <strong>You&#39;ve been warned!</strong>
+    <p>
+Black Friday VPS deals are highly addictive! Proceed with caution, or better yet, hand your credit card to a responsible adult—preferably one without a tech obsession. 😉
+</p>
+  </div>
+</div>
+<hr>
+<p>If you’ve been holding out for a VPS upgrade, Black Friday is your cue. And deals like this? They’ll vanish faster than you can say <em>&ldquo;KVM-powered SSD.&rdquo;</em></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

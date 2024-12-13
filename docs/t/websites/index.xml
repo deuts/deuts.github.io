@@ -15,6 +15,35 @@
       <pubDate>Fri, 21 Oct 2022 09:40:50 +0800</pubDate>
       <guid>https://deuts.org/p/gt-metrix-comparison-3-websites/</guid>
       <description>A GTMetrix comparison shows Hugo (deuts.org) outperforms WordPress (deuts.net and chesshive.com), proving the efficiency of static site generators for better site speed and user experience.</description>
+      <content:encoded><![CDATA[<p>Ran my 3 websites on <a href="https://gtmetrix.com/compare/RWibuAUu/zCxqhGsH/Bt42ee12">GT Metrix</a>, and this is what I got:</p>
+<hr>
+<p><a href="gt-metrix-comparison.png"><img alt="GT Metrix Comparison: Deuts.org, Deuts.net, Chesshive.com" loading="lazy" src="/p/gt-metrix-comparison-3-websites/gt-metrix-comparison.png"></a></p>
+<hr>
+<p>Current, they are running on the following platforms:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Website</th>
+          <th>Platform</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>deuts.org</td>
+          <td>Hugo</td>
+      </tr>
+      <tr>
+          <td>deuts.net</td>
+          <td>WordPress</td>
+      </tr>
+      <tr>
+          <td>chesshive.com</td>
+          <td>WordPress</td>
+      </tr>
+  </tbody>
+</table>
+<p>That goes to show how efficient static site generators like <a href="https://gohugo.io">Hugo</a> can be to make your websites more user and search friendly.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

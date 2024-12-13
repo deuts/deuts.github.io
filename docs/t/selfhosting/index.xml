@@ -15,6 +15,52 @@
       <pubDate>Wed, 20 Nov 2024 14:25:27 +0800</pubDate>
       <guid>https://deuts.org/p/picsur-sharex-setup/</guid>
       <description>A step-by-step guide to set up Picsur with ShareX, complete with tips for generating API keys and configuring the uploader.</description>
+      <content:encoded><![CDATA[<h3 id="why-this-guide-matters">Why This Guide Matters</h3>
+<p>If you’re like me, you might have struggled to find a clear guide to setting up <a class="applink" href="https://deuts.org/a/picsur" target="_blank">Picsur</a> with <a class="applink" href="https://deuts.org/a/sharex" target="_blank">ShareX</a> . Picsur boasts some excellent features, including ShareX integration, but documentation for this feature is practically non-existent.</p>
+<ul>
+<li>The official <a href="https://github.com/caramelfur/picsur">Picsur GitHub repository</a> and its website lack instructions.</li>
+<li>GitHub <a href="https://github.com/CaramelFur/Picsur/issues?q=sharex">issues</a> on this topic were closed without providing clear answers.</li>
+<li>No help could be found in popular forums like <strong><a href="https://reddit.com/r/selfhosted">r/selfhosted</a></strong>.</li>
+</ul>
+<p>To save you the same frustration, here’s a detailed step-by-step guide to integrate Picsur with ShareX.</p>
+<hr>
+<h3 id="step-1-generate-an-api-key-in-picsur">Step 1: Generate an API Key in Picsur</h3>
+<ol>
+<li>Log in to your Picsur instance.</li>
+<li>Navigate to the <strong><code>Api Keys</code></strong> page from the settings menu.</li>
+<li>Click <strong>Generate API Key</strong>, and give it a descriptive name, like <code>ShareX API</code>.</li>
+<li>Save your changes.</li>
+</ol>
+<p><img alt="picsur-api-key" loading="lazy" src="/p/picsur-sharex-setup/picsur-api-key.png"></p>
+<h3 id="step-2-configure-the-sharex-integration">Step 2: Configure the ShareX Integration</h3>
+<ol>
+<li>In the settings menu of Picsur, go to the <strong><code>ShareX</code></strong> page (located next to <code>Api Keys</code>).</li>
+<li>From the dropdown, select the API key you just created.</li>
+<li>Set the <strong>Image Format</strong> to <code>PNG</code> (recommended for high-quality uploads).</li>
+<li>Click the <strong>Export Config</strong> button to download the <code>.sxcu</code> file.</li>
+</ol>
+<p><img alt="sharex-target-config" loading="lazy" src="/p/picsur-sharex-setup/sharex-target-config.png"></p>
+<hr>
+<h3 id="step-3-import-the-config-to-sharex">Step 3: Import the Config to ShareX</h3>
+<ol>
+<li>Locate the downloaded <code>.sxcu</code> file on your system.</li>
+<li>Double-click the file to open it.</li>
+<li>You’ll see a prompt asking if you want to set <strong>Picsur</strong> as the active custom uploader for ShareX.</li>
+<li>Confirm by clicking <strong>Yes</strong>.</li>
+</ol>
+<p><img alt="sharex-custom-uploader" loading="lazy" src="/p/picsur-sharex-setup/sharex-custom-uploader.png"></p>
+<div class="callout info">
+  <div class="callout-content">
+    <strong>Tip for automatic upload</strong>
+    <p>
+To automatically upload images to your Picsur instance, configure ShareX's <span style="font-family: monospace;">After capture tasks</span> and enable the <span style="font-family: monospace;">Upload image to host</span> option.
+</p>
+  </div>
+</div>
+<hr>
+<h3 id="happy-screenshotting">Happy Screenshotting!</h3>
+<p>Once setup is complete, you can use ShareX to take screenshots and have them automatically uploaded to your Picsur instance. This setup ensures quick, reliable, and self-hosted screenshot management.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Samba Docker or Native</title>
@@ -22,6 +68,14 @@
       <pubDate>Sat, 16 Mar 2024 17:41:18 +0800</pubDate>
       <guid>https://deuts.org/p/samba-on-docker/</guid>
       <description>This post discusses the advantages of using Docker for Samba over native implementation, highlighting the convenience of portability and easier reinstallation with Docker Compose files. The author reflects on their past experience with native Samba setups and shares resources for a Docker-based Samba implementation.</description>
+      <content:encoded><![CDATA[<p>There is a 2-year old <a href="https://www.reddit.com/r/selfhosted/comments/t2x1fy/samba_server_docker_or_native/">thread</a> on Reddit. Many in the comments say it doesn&rsquo;t make sense.</p>
+<p>I&rsquo;ve successfully implemented Samba natively in the past. The problem with native implementation is that you can take note of the procedures you&rsquo;ve made to make it running, but when you need to reinstall your Linux OS or install in another box, you have to go through all <a href="https://ubuntu.com/tutorials/install-and-configure-samba">those procedures again</a>. With Docker, especially if you already have a working docker compose file, you just need to back up and/or carry over that yml file to the new box.</p>
+<p>So here are the resources I will need to revisit in the future for a Docker implementation of Samba:</p>
+<ul>
+<li><a href="https://github.com/crazy-max/docker-samba">Crazy Max</a> - <a href="https://github.com/crazy-max/docker-samba/blob/master/examples/compose/compose.yml">docker compose file</a></li>
+<li><a href="https://github.com/ServerContainers/samba">ServerContainers Samba</a> - sample <a href="https://github.com/ServerContainers/samba/blob/master/docker-compose.yml">docker compose file</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Docker Apps to Install</title>
@@ -29,6 +83,15 @@
       <pubDate>Sun, 25 Feb 2024 22:41:59 +0800</pubDate>
       <guid>https://deuts.org/p/my-docker-apps-to-install-in-2024/</guid>
       <description>This post shares the author&amp;#39;s inspiration from Jim’s Garage on YouTube and his GitHub repository to try out several Docker applications: Immich, Paperless-ngx, Vikunja, rClone, and Restic.</description>
+      <content:encoded><![CDATA[<p>Browsing through <a href="https://www.youtube.com/@Jims-Garage">Jim&rsquo;s Garage</a> on Youtube, and his <a href="https://github.com/JamesTurland/JimsGarage">Github repository</a>, I was inspired to finally give these Docker apps a try:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/JamesTurland/JimsGarage/tree/main/Immich">Immich</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/JamesTurland/JimsGarage/tree/main/Paperless-ngx">Paperless-ngx</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/JamesTurland/JimsGarage/tree/main/Vikunja">Vikunja</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/JamesTurland/JimsGarage/tree/main/rClone">rClone</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/JamesTurland/JimsGarage/tree/main/restic">Restic</a></li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

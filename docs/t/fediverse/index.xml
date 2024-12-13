@@ -15,6 +15,8 @@
       <pubDate>Wed, 04 Dec 2024 11:16:48 +0800</pubDate>
       <guid>https://deuts.org/x/running-mastodon-via-docker-complicated/</guid>
       <description>A rant about the convoluted process of setting up Mastodon using Docker and the frustration of dealing with multiple dependencies and configurations.</description>
+      <content:encoded><![CDATA[<p>I&rsquo;m wishing I could host my own Mastodon instance, but setting it up with Docker is unnecessarily complicated. There are countless dependencies to handle, multiple services to configure, and numerous potential points of failure. For a platform of its size, you&rsquo;d expect a more straightforward, user-friendly Docker setup, but it&rsquo;s anything but. Why is this process so difficult to get right?</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

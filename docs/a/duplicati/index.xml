@@ -15,6 +15,154 @@
       <pubDate>Sun, 13 Aug 2023 16:40:41 +0800</pubDate>
       <guid>https://deuts.org/p/new-vps-checklist/</guid>
       <description>This guide walks through the process of setting up a fresh Linux system and installing essential tools, Docker, Docker Compose, Cloudflare Tunnel, Portainer, and Duplicati. It includes instructions for updating the system, changing the root password, adding a non-root user, setting the timezone, and installing Docker. Additionally, it provides detailed steps for configuring Docker containers for Cloudflare Tunnel, Portainer (for managing Docker containers), and Duplicati (for backup), all set up with a cloudflared network bridge to securely expose the apps.</description>
+      <content:encoded><![CDATA[<h2 id="update-the-system">Update the system</h2>
+<p>From this moment, we&rsquo;ll assume you&rsquo;re still logged in as <code>root</code>. After all, this is a fresh install of Linux, right?</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>apt update
+</span></span><span style="display:flex;"><span>apt upgrade -y
+</span></span></code></pre></div><h2 id="install-essential-utilities">Install essential utilities</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>apt install sudo htop curl nano wget net-tools
+</span></span></code></pre></div><h2 id="change-root-password">Change root password</h2>
+<p>This is just in case you don&rsquo;t think the assigned root password is not complex enough for your liking:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>passwd
+</span></span></code></pre></div><p>Then enter you new password twice.</p>
+<h2 id="update-timezone">Update Timezone</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>dpkg-reconfigure tzdata
+</span></span></code></pre></div><h2 id="add-non-root-user">Add non-root user</h2>
+<h3 id="add-user">Add user</h3>
+<p>Change <code>username</code> with the username of your choice:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>adduser username
+</span></span></code></pre></div><h3 id="add-user-to-sudoers-group">Add user to sudoers group</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>usermod -aG sudo username
+</span></span></code></pre></div><p>So, the non-root user is ready. From this moment on, we&rsquo;ll assume you&rsquo;re logged as that non-root user.</p>
+<h2 id="change-the-hostname">Change the hostname</h2>
+<h3 id="edit-etchostname">Edit <code>/etc/hostname</code></h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/hostname
+</span></span></code></pre></div><p>And change accordingly.</p>
+<h3 id="edit-etchosts">Edit <code>/etc/hosts</code></h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/hosts
+</span></span></code></pre></div><p>And change accordingly.</p>
+<h3 id="reboot">Reboot</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo reboot
+</span></span></code></pre></div><h2 id="install-docker-and-docker-compose">Install Docker and Docker Compose</h2>
+<h3 id="install-docker">Install Docker</h3>
+<p>Follow the instructions applicable for your system from the official Docker <a href="https://docs.docker.com/engine/install/">documentation</a>. My favorite systems are <a href="https://docs.docker.com/engine/install/ubuntu/">Ubuntu</a> and <a href="https://docs.docker.com/engine/install/debian/">Debian</a>, and I actually prefer to use the <a href="https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository">install using the repository</a> method:</p>
+<h4 id="set-up-dockers-apt-repository">Set up Docker&rsquo;s Apt repository</h4>
+<h5 id="for-ubuntu">For Ubuntu</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Add Docker&#39;s official GPG key:</span>
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span><span style="display:flex;"><span>sudo apt-get install ca-certificates curl gnupg
+</span></span><span style="display:flex;"><span>sudo install -m <span style="color:#ae81ff">0755</span> -d /etc/apt/keyrings
+</span></span><span style="display:flex;"><span>curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>sudo chmod a+r /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Add the repository to Apt sources:</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  <span style="color:#e6db74">&#34;deb [arch=&#34;</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  &#34;</span><span style="color:#66d9ef">$(</span>. /etc/os-release <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;</span>$VERSION_CODENAME<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; stable&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span></code></pre></div><h5 id="for-debian">For Debian</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Add Docker&#39;s official GPG key:</span>
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span><span style="display:flex;"><span>sudo apt-get install ca-certificates curl gnupg
+</span></span><span style="display:flex;"><span>sudo install -m <span style="color:#ae81ff">0755</span> -d /etc/apt/keyrings
+</span></span><span style="display:flex;"><span>curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>sudo chmod a+r /etc/apt/keyrings/docker.gpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Add the repository to Apt sources:</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  <span style="color:#e6db74">&#34;deb [arch=&#34;</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  &#34;</span><span style="color:#66d9ef">$(</span>. /etc/os-release <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;</span>$VERSION_CODENAME<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34; stable&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+</span></span><span style="display:flex;"><span>sudo apt-get update
+</span></span></code></pre></div><h4 id="install-the-docker-packages">Install the Docker packages</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+</span></span></code></pre></div><h3 id="install-docker-compose">Install Docker Compose</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install docker-compose
+</span></span></code></pre></div><h2 id="add-user-to-the-docker-group">Add user to the Docker group</h2>
+<ul>
+<li>Check if docker group already exists: <code>grep docker /etc/group</code></li>
+<li>Add user to the docker group: <code>usermod -aG docker username</code> (don&rsquo;t forget to change <code>username</code> to the username of your choice)</li>
+</ul>
+<h2 id="create-a-network-bridge-for-docker-containers">Create a network bridge for Docker Containers</h2>
+<p>From now on, the instructions here is if you plan to expose your applications via Cloudflare Tunnel.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker network create -d bridge cloudflared
+</span></span></code></pre></div><h2 id="install-cloudflare-tunnel">Install Cloudflare Tunnel</h2>
+<ul>
+<li>Make a directory: <code>mkdir appdata/cloudflared</code> <em>(the directory structure is up to you)</em></li>
+<li>CD to that directory: <code>cd appdata/cloudflared</code></li>
+<li>Create the <code>docker-compose.yml</code> file: <code>nano docker-compose.yml</code></li>
+</ul>
+<p>Then paste the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#34;3.3&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">tunnel</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">cloudflared-tunnel</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">cloudflare/cloudflared</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">command</span>: <span style="color:#ae81ff">tunnel --no-autoupdate run</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TUNNEL_TOKEN=[paste_here_your_actual_token]</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Don&rsquo;t forget to paste your actual token that will be generated when you create a new tunnel in Cloudflare.</p>
+<h2 id="install-portainer">Install Portainer</h2>
+<h3 id="via-docker-compose">Via Docker Compose</h3>
+<p>Same as above, mkdir for portainer, then create the <code>docker-compose.yml</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">portainer</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">portainer/portainer-ce:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">portainer</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PUID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PGID=1000</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TZ=Asia/Manila</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">/var/run/docker.sock:/var/run/docker.sock</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./data:/data</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#    ports:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 9000:9000</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 8000:8000</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 9443:9443</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Note that I commented out the ports portion of the <code>docker-compose.yml</code> because we&rsquo;re not exposing the ports to the internet. Instead, we&rsquo;re using Cloudflare Tunnel to expose the apps.</p>
+<h2 id="install-duplicati">Install Duplicati</h2>
+<p>All these efforts you do to set up Docker containers will go to waste if you don&rsquo;t do a proper backup of your config and data files.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#34;2.1&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">duplicati</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">lscr.io/linuxserver/duplicati:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">duplicati</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PUID=0</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">PGID=0</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">TZ=America/Denver</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./config:/config</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./backups:/backups</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">/home/username:/source</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#    ports:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#      - 8200:8200</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">cloudflared</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">cloudflared</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>I prefer to run Duplicati as root so I won&rsquo;t have to deal with read permission issues in the future, so I set <code>PUID</code> and <code>PGID</code> to <code>0</code>. Needless to say, you have to change your <code>TZ</code> and your <code>source folder</code> to map to the container.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Make Joplin work with Nginx Proxy Manager and Duplicati (Docker)</title>
@@ -22,6 +170,111 @@
       <pubDate>Mon, 24 Oct 2022 22:03:23 +0800</pubDate>
       <guid>https://deuts.org/p/joplin-npm-duplicati-docker/</guid>
       <description>A guide on setting up a Joplin server using Docker Compose, including benefits like faster syncing, easy note sharing, and user access. It covers steps for creating a Docker network, configuring Nginx Proxy Manager, setting up the app and database, and managing backups with Duplicati. Troubleshooting steps for connection issues between Joplin and PostgreSQL are also provided.</description>
+      <content:encoded><![CDATA[<p>I was wondering why Docker apps don&rsquo;t come as easy to install like <a href="https://www.linuxserver.io/">Linuxserver</a>&rsquo;s? Case in point: Joplin.</p>
+<p>Well, I really do think Joplin server&rsquo;s <a href="https://github.com/laurent22/joplin/blob/dev/docker-compose.server.yml">documentation</a> needs a lot more polishing. Fortunately I was able to make it work in my system, even without exposing additional ports to the public, which I&rsquo;m sharing below.</p>
+<h2 id="why-joplin-server-instead-of-webdav-dropbox-onedrive-nextcloud-etc">Why Joplin Server instead of Webdav, Dropbox, OneDrive, NextCloud, etc.</h2>
+<p>According to <a href="https://noted.lol/install-joplin-server-using-docker-compose/">Noted</a>:</p>
+<ul>
+<li>Speed up the sync<br>
+<em>I still have to find out if this really is true</em></li>
+<li>Sharing a note with anyone, using a URL<br>
+<em>This is actually my favorite feature. This enables me to share notes that are not so private to other people by just sharing a link to the public page. Then as I update my note, the page also updates.</em></li>
+<li>User access<br>
+<em>I still have to evangelize other people about Joplin so I could add users to my Joplin server, if ever they need a sync server.</em></li>
+<li>Sharing a notebook with a user on the same Joplin Server<br>
+<em>This is also a great feature, especially if I have other users I can share my Joplin server with.</em></li>
+</ul>
+<h2 id="docker-compose-for-joplin-server">Docker Compose for Joplin Server</h2>
+<h3 id="docker-network">Docker Network</h3>
+<p>Make sure that you already have a ready Docker Network for your Joplin app and database. This will make sure that you don&rsquo;t expose additional ports to the public. If you don&rsquo;t have a dedicated network yet, just run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker network create -d bridge examplenetwork
+</span></span></code></pre></div><h3 id="nginx-proxy-manager">Nginx Proxy Manager</h3>
+<p>I would assume that you already have the Nginx Proxy Manager installed and it&rsquo;s running in the same <code>examplenetwork</code> . Now, add a new Proxy Host with your domain name, e.g. <code>joplin.example.com</code>, then hostname should be <code>joplin_app</code> (container name below) and port <code>22300</code>.</p>
+<h3 id="install-joplin-app-and-db">Install Joplin App and DB</h3>
+<p>On your favorite directory, just create the <code>docker-compose.yml</code> file, which should contain:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">db</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">postgres:13</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">./data/postgres:/var/lib/postgresql/data</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#        ports:		we don&#39;t need this anymore because we&#39;re reverse proxying anyway</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#            - &#34;5432:5432&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DB=Sudden9997</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">examplenetwork</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">app</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">joplin/server:latest</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">depends_on</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_app</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#        ports:		we don&#39;t need this anymore because we&#39;re reverse proxying anyway</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#            - &#34;22300:22300&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_PORT=22300</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_BASE_URL=https://joplin.example.com</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">DB_CLIENT=pg</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DATABASE=Sudden9997</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PORT=5432</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_HOST=db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">examplenetwork </span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">examplenetwork</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">external</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>Don&rsquo;t worry about the usernames and passwords in my sample <code>docker-compose.yml</code> file, they were just randomly generated and not used for production elsewhere.</p>
+<p>Then run <code>sudo docker-compose up -d</code></p>
+<p>Did you know that the Joplin docker image alone is worth 1.2GB of storage in your server? Postgres is another 373MB.</p>
+<h2 id="backup-with-duplicati">Backup with Duplicati</h2>
+<p>As Joplin populates your <code>/data/postgres</code> folder in the initial setup, as well as along the way as you actually use your server, it creates files and directories with user and group permissions assigned to <code>systemd-coredump</code>. Worse, they are readable and writable by the user only. That is usually fine, until you try backing them up using Duplicati.</p>
+<p>The solution: run your Duplicati docker app with root privileges.</p>
+<p>I know the rule about not running apps as root. But that&rsquo;s the only way I see so far that work. Perhaps, Joplin could give us an option to create and update files in the persistent volumes as a regular user. That way, I can run Duplicati as that same user and could access the files for backup.</p>
+<h2 id="update-as-of-mar-24-2024">Update as of Mar. 24, 2024</h2>
+<p>For whatever reason, recently I noticed my Joplin server was down. The GUI is not accessible, and the sync process is not pushing though. Looked at the log, and it appears the Joplin app container is having trouble connecting to the Postgres database.</p>
+<p>In order to fix it, I needed to remove all the reference to the examplenetwork and uncomment all ports to make them active. Moreover, I needed to point directly the hostname in Nginx Proxy Manager (NPM) to the server&rsquo;s IP address.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">version</span>: <span style="color:#e6db74">&#39;3&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">db</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">postgres:13</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">./data/postgres:/var/lib/postgresql/data</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#e6db74">&#34;5432:5432&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DB=Sudden9997</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">app</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">image</span>: <span style="color:#ae81ff">joplin/server:latest</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">depends_on</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">db</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">joplin_app</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#e6db74">&#34;22300:22300&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_PORT=22300</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">APP_BASE_URL=https://joplin.example.com</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">DB_CLIENT=pg</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PASSWORD=yHZ4TbsyKJI0Xi2sUmXDuz</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_DATABASE=Sudden9997</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_USER=Barrier1542</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_PORT=5432</span>
+</span></span><span style="display:flex;"><span>            - <span style="color:#ae81ff">POSTGRES_HOST=db</span>
+</span></span></code></pre></div>]]></content:encoded>
     </item>
   </channel>
 </rss>
