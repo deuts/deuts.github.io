@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 01:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:25:00 +0000</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deuts.hamili.net 2024-12-13 03-25-00</title>
+      <link></link>
+      <pubDate>Fri, 13 Dec 2024 03:25:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Finally was able to pull my &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#bluesky&lt;/a&gt; posts into my &lt;a href=&#34;https://bsky.app/hashtag/hugo&#34;&gt;#hugo&lt;/a&gt; blog at deuts.org/bsky/
+&lt;a href=&#34;https://deuts.org/bsky/&#34;&gt;deuts.org&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Finally was able to pull my <a href="https://bsky.app/hashtag/bluesky">#bluesky</a> posts into my <a href="https://bsky.app/hashtag/hugo">#hugo</a> blog at deuts.org/bsky/
+<a href="https://deuts.org/bsky/">deuts.org</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>deuts.hamili.net 2024-12-13 01-16-00</title>
       <link></link>
@@ -92,17 +103,6 @@
       <guid></guid>
       <description>&lt;p&gt;And the drama continues &lt;a href=&#34;https://www.404media.co/wordpress-wp-engine-preliminary-injunction/&#34;&gt;www.404media.co&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>And the drama continues <a href="https://www.404media.co/wordpress-wp-engine-preliminary-injunction/">www.404media.co</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>deuts.hamili.net 2024-12-12 02-13-00</title>
-      <link></link>
-      <pubDate>Thu, 12 Dec 2024 02:13:00 +0000</pubDate>
-      <guid></guid>
-      <description>&lt;p&gt;No wonder why Wallabag on the Chrome Store is rated 3.7/5. It&amp;rsquo;s not working.
-&lt;a href=&#34;https://chromewebstore.google.com/detail/wallabagger/gbmgphmejlcoihgedabhgjdkcahacjlj&#34;&gt;chromewebstore.google.com&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>No wonder why Wallabag on the Chrome Store is rated 3.7/5. It&rsquo;s not working.
-<a href="https://chromewebstore.google.com/detail/wallabagger/gbmgphmejlcoihgedabhgjdkcahacjlj">chromewebstore.google.com</a></p>
 ]]></content:encoded>
     </item>
   </channel>
