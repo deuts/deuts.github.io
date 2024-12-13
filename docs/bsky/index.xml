@@ -7,8 +7,26 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 17:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 23:43:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ld74sccdhc2d</title>
+      <link>https://deuts.org/b/2024-12-13-23-43-3ld74sccdhc2d/</link>
+      <pubDate>Fri, 13 Dec 2024 23:43:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-13-23-43-3ld74sccdhc2d/</guid>
+      <description>&lt;p&gt;Mind you, I already have a piece about this, why Bitcoin is a scam &lt;a href=&#34;https://deuts.org/p/why-bitcoin-is-a-scam/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Mind you, I already have a piece about this, why Bitcoin is a scam <a href="https://deuts.org/p/why-bitcoin-is-a-scam/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts.hamili.net 3ld74f4eiuc2d</title>
+      <link>https://deuts.org/b/2024-12-13-23-35-3ld74f4eiuc2d/</link>
+      <pubDate>Fri, 13 Dec 2024 23:35:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-13-23-35-3ld74f4eiuc2d/</guid>
+      <description>&lt;p&gt;Story-telling time: Defending open source, protecting the future of WordPress &lt;a href=&#34;https://automattic.com/protecting-wordpress/&#34;&gt;automattic.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Story-telling time: Defending open source, protecting the future of WordPress <a href="https://automattic.com/protecting-wordpress/">automattic.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ld6hdudxmk2d</title>
       <link>https://deuts.org/b/2024-12-13-17-19-3ld6hdudxmk2d/</link>
@@ -83,26 +101,6 @@
       <guid>https://deuts.org/b/2024-12-12-21-09-3ld4dqabs7s2k/</guid>
       <description>&lt;p&gt;I would have given &lt;a href=&#34;https://bsky.app/profile/graysky.app&#34;&gt;@graysky.app&lt;/a&gt; a try but its lack for PDS support is a big deal breaker.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I would have given <a href="https://bsky.app/profile/graysky.app">@graysky.app</a> a try but its lack for PDS support is a big deal breaker.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ld4dkwkt7c2k</title>
-      <link>https://deuts.org/b/2024-12-12-21-06-3ld4dkwkt7c2k/</link>
-      <pubDate>Thu, 12 Dec 2024 21:06:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-12-21-06-3ld4dkwkt7c2k/</guid>
-      <description>&lt;p&gt;Can we have a list of World Champions with their headshots ala list of Presidents?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Can we have a list of World Champions with their headshots ala list of Presidents?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ld47ercr622v</title>
-      <link>https://deuts.org/b/2024-12-12-19-51-3ld47ercr622v/</link>
-      <pubDate>Thu, 12 Dec 2024 19:51:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-12-19-51-3ld47ercr622v/</guid>
-      <description>&lt;p&gt;If I have &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; PDS installed in a server using a domain name, can I still change the base domain name and retain my DID?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/bsky.app&#34;&gt;@bsky.app&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>If I have <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> PDS installed in a server using a domain name, can I still change the base domain name and retain my DID?</p>
-<p><a href="https://bsky.app/profile/bsky.app">@bsky.app</a></p>
 ]]></content:encoded>
     </item>
   </channel>
