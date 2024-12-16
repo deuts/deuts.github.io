@@ -12,7 +12,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -25,7 +25,25 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2024-12-16T10:27:00+08:00</lastmod>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/apps/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/bookmarks/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/hoarder/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/linkding/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/linkding-vs-hoarder/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/b/2024-12-16-10-27-3ldfbpagp7s2s/</loc>
     <lastmod>2024-12-16T10:27:00+08:00</lastmod>
@@ -123,9 +141,6 @@
     <loc>https://deuts.org/b/2024-12-11-19-22-3lczncynkbs2y/</loc>
     <lastmod>2024-12-11T19:22:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/apps/</loc>
-    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/dns/</loc>
     <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
@@ -136,9 +151,6 @@
     <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/networking/</loc>
-    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/tailscale/</loc>
@@ -161,9 +173,6 @@
   </url><url>
     <loc>https://deuts.org/a/pds/</loc>
     <lastmod>2024-12-11T12:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/bookmarks/</loc>
-    <lastmod>2024-12-11T11:53:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/readeck/</loc>
     <lastmod>2024-12-11T11:53:06+08:00</lastmod>
@@ -238,9 +247,6 @@
     <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/document-management/</loc>
-    <lastmod>2024-12-03T11:16:34+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/a/linkding/</loc>
     <lastmod>2024-12-03T11:16:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/minimalism/</loc>

@@ -7,8 +7,109 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 13:02:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 15:54:21 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkding vs. Hoarder</title>
+      <link>https://deuts.org/p/linkding-vs-hoarder/</link>
+      <pubDate>Mon, 16 Dec 2024 15:54:21 +0800</pubDate>
+      <guid>https://deuts.org/p/linkding-vs-hoarder/</guid>
+      <description>Explore the differences between Linkding and Hoarder, two popular bookmark management tools. Learn about their features, resource usage, and unique offerings to find the best fit for your needs.</description>
+      <content:encoded><![CDATA[<p>Linkding and Hoarder are two bookmark management tools with distinct strengths. Here&rsquo;s a comparison of their features, resource usage, and other key details to help you choose the one that best meets your needs.</p>
+<h2 id="container-images-and-resource-usages">Container Images and Resource Usages</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Metric</th>
+          <th>Linkding</th>
+          <th>Hoarder-web</th>
+          <th>Hoarder-chrome</th>
+          <th>Hoarder-meilisearch</th>
+          <th>Total for Hoarder</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Image Size</strong></td>
+          <td>473 MB</td>
+          <td>823 MB</td>
+          <td>673 MB</td>
+          <td>147 MB</td>
+          <td><strong>1.6 GB</strong></td>
+      </tr>
+      <tr>
+          <td><strong>CPU Usage</strong></td>
+          <td>0.11%</td>
+          <td>0.37%</td>
+          <td>0.03%</td>
+          <td>0.10%</td>
+          <td><strong>0.50%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Memory Usage</strong></td>
+          <td>248.3 MiB</td>
+          <td>272.2 MiB</td>
+          <td>74.6 MiB</td>
+          <td>212.1 MiB</td>
+          <td><strong>558.9 MiB</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="key-feature-differences">Key Feature Differences</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Linkding</th>
+          <th>Hoarder</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>AI Capabilities</strong></td>
+          <td>None available</td>
+          <td>Can generate summaries and tags for bookmarks.</td>
+      </tr>
+      <tr>
+          <td><strong>Interface Design</strong></td>
+          <td>Sleek, with a blog-like feel for organizing bookmarks.</td>
+          <td>Straightforward and functional.</td>
+      </tr>
+      <tr>
+          <td><strong>Public Bookmark Sharing</strong></td>
+          <td>Shared bookmarks can be made public, but the process could be smoother.</td>
+          <td>No way to share bookmarks publicly.</td>
+      </tr>
+      <tr>
+          <td>Subscribe to RSS feed</td>
+          <td>None</td>
+          <td>I can set up Hoarder to actually subscribe to the RSS feed of my Linkding instance</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="conclusion">Conclusion</h2>
+<p>Linkding is a lightweight and efficient option with a minimalist design, while Hoarder offers advanced features like AI-generated tags but requires more system resources. The choice between the two comes down to whether you value simplicity and lower resource usage or extra functionality.</p>
+<h3 id="wishlist-for-linkding">Wishlist for Linkding</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Details</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Enhanced Public Bookmark Sharing</strong></td>
+          <td>Allow shared bookmarks to appear directly at the base URL. Adding an option to mark bookmarks as &ldquo;public&rdquo; instead of &ldquo;shared&rdquo;.</td>
+      </tr>
+      <tr>
+          <td><strong>Customization Options</strong></td>
+          <td>Enable users to change the site title and icon for a more personalized experience.</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded>
+    </item>
     <item>
       <title>Tailscale Accept DNS Settings</title>
       <link>https://deuts.org/p/tailscale-accept-dns-settings/</link>
@@ -393,76 +494,6 @@ Jekyll has native support on GitHub Pages, allowing you to upload Markdown files
 <h3 id="conclusion">Conclusion</h3>
 <p>Hugo and Jekyll are both excellent tools, but your choice will depend on your specific needs. While Hugo&rsquo;s rising GitHub star count highlights its developer-first focus and popularity among performance-conscious users, Jekyll shines with its ease of use and extensive theme community.</p>
 <p>At the end of the day, Hugo and Jekyll are like coffee and tea—both get the job done, but one’s probably better suited to your taste. So, pick your brew, and let the static site-building begin!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to Use an SSH Key for a Specific GitHub Repository</title>
-      <link>https://deuts.org/p/ssh-key-github-repo/</link>
-      <pubDate>Fri, 22 Nov 2024 11:01:31 +0800</pubDate>
-      <guid>https://deuts.org/p/ssh-key-github-repo/</guid>
-      <description>A walkthrough process of configuring SSH keys to connect to a specific GitHub repository. This setup enhances security by limiting access to just one repository, making it safer, especially when storing private keys on remote servers or VPS.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>When working with GitHub repositories, it&rsquo;s common to use SSH keys to authenticate instead of passwords. However, if you&rsquo;re managing multiple repositories or working on a single repository with specific security needs, you might want to configure SSH keys for just one repository. In this guide, we’ll walk you through setting up a dedicated SSH key to securely sync with a single GitHub repository, improving security, especially when storing private keys on remote servers or VPS.</p>
-<h2 id="why-use-ssh-keys-for-a-specific-repository">Why Use SSH Keys for a Specific Repository?</h2>
-<p>Using a single SSH key for a repository restricts access to only that repository. This isolation is useful in several scenarios:</p>
-<ul>
-<li><strong>Improved security</strong>: If your private key is compromised, access is limited to just the target repository.</li>
-<li><strong>Granular control</strong>: You can control which key has access to which repository, making it easier to manage multiple keys for different tasks.</li>
-<li><strong>Simplified automation</strong>: When using deploy keys or automation scripts, this approach can be used to grant access to only one repository at a time.</li>
-</ul>
-<h2 id="step-1-generate-a-new-ssh-key">Step 1: Generate a New SSH Key</h2>
-<p>If you don’t already have a specific SSH key for your GitHub repository, start by generating one. You can use <code>ssh-keygen</code> to create a new key pair.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -C <span style="color:#e6db74">&#34;your_email@example.com&#34;</span> -f ~/.ssh/github_repo_id_ed25519
-</span></span></code></pre></div><p>This will create two files:</p>
-<ul>
-<li><code>~/.ssh/github_repo_id_ed25519</code> (your private key)</li>
-<li><code>~/.ssh/github_repo_id_ed25519.pub</code> (your public key)</li>
-</ul>
-<p>The private key should <strong>never</strong> be shared or exposed, while the public key will be added to your GitHub repository.</p>
-<h2 id="step-2-add-the-public-key-to-your-github-repository">Step 2: Add the Public Key to Your GitHub Repository</h2>
-<p>Go to your GitHub repository, and in the <strong>Settings</strong> section, add the <strong>public key</strong> as a <strong>deploy key</strong>:</p>
-<ol>
-<li>Navigate to <strong>Settings</strong> → <strong>Deploy Keys</strong>.</li>
-<li>Click <strong>Add deploy key</strong>.</li>
-<li>Give it a name (e.g., &ldquo;GitHub SSH Key&rdquo;).</li>
-<li>Paste the contents of your <code>github_repo_id_ed25519.pub</code> file into the key field.</li>
-<li>Select either <strong>read-only</strong> or <strong>read-write</strong> access depending on the level of access you want.</li>
-</ol>
-<p>Click <strong>Add key</strong> to save.</p>
-<h2 id="step-3-configure-ssh-for-the-repository">Step 3: Configure SSH for the Repository</h2>
-<p>Now, configure SSH to use the specific key for accessing the repository. You can do this by adding an entry to your <code>~/.ssh/config</code> file.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.ssh/config
-</span></span></code></pre></div><p>Add the following configuration, replacing <code>github-repo</code> with your preferred alias and ensuring the path to your private key is correct:</p>
-<pre tabindex="0"><code class="language-ssh" data-lang="ssh">Host github-repo
-    HostName github.com
-    User git
-    IdentityFile ~/.ssh/github_repo_id_ed25519
-    IdentitiesOnly yes
-</code></pre><p>This configuration tells SSH to use the specific key <code>github_repo_id_ed25519</code> when connecting to GitHub.</p>
-<h2 id="step-4-update-or-add-the-remote-url-in-your-local-repository">Step 4: Update or Add the Remote URL in Your Local Repository</h2>
-<h3 id="sync-a-local-repository">Sync a local repository</h3>
-<p>To sync your local repository with the GitHub repository, change the remote URL to use the SSH alias you’ve configured in <code>~/.ssh/config</code>. Navigate to your local Git repository and run the following:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
-</span></span><span style="display:flex;"><span>git remote set-url origin git@github-repo:username/repository.git
-</span></span></code></pre></div><p>Make sure to replace <code>username/repository.git</code> with the actual repository path.</p>
-<h3 id="add-remote-repository-to-local">Add remote repository to local</h3>
-<p>To add a remote repository:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd /path/to/your/repository
-</span></span><span style="display:flex;"><span>git init
-</span></span><span style="display:flex;"><span>git remote add origin git@github-repo:username/repository.git
-</span></span></code></pre></div><h2 id="step-5-test-the-ssh-connection">Step 5: Test the SSH Connection</h2>
-<p>Now that everything is set up, verify that your SSH connection works properly by running:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh -T github-repo
-</span></span></code></pre></div><p>You should see a message like:</p>
-<pre tabindex="0"><code>Hi username! You&#39;ve successfully authenticated, but GitHub does not provide shell access.
-</code></pre><p>This confirms that the SSH key is correctly configured and is being used to authenticate with GitHub.</p>
-<h2 id="step-6-push-changes-to-github">Step 6: Push Changes to GitHub</h2>
-<p>Once the remote URL is updated, you can start syncing your local repository with GitHub. To push changes to your GitHub repository, simply run:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git push origin main  <span style="color:#75715e"># Or the relevant branch name</span>
-</span></span></code></pre></div><p>Git will use the SSH key associated with the <code>github-repo</code> alias to authenticate and push your changes.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>By following these steps, you’ve securely configured SSH to access a specific GitHub repository. This approach not only enhances security by limiting access but also provides better management of your SSH keys, especially when dealing with multiple repositories or automating workflows.</p>
-<p>With this setup, you can now safely push, pull, and manage your GitHub repository without the risk of exposing your other repositories or credentials.</p>
 ]]></content:encoded>
     </item>
   </channel>
