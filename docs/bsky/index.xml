@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 17:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 17:57:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldg2u5qzbc2g</title>
+      <link>https://deuts.org/b/2024-12-16-17-57-3ldg2u5qzbc2g/</link>
+      <pubDate>Mon, 16 Dec 2024 17:57:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-16-17-57-3ldg2u5qzbc2g/</guid>
+      <description>&lt;p&gt;Jekyll themes like Just the Docs and Chirpy are some of the reasons why I would like to revisit my decision in the &lt;a href=&#34;https://bsky.app/hashtag/hugo&#34;&gt;#Hugo&lt;/a&gt; vs. &lt;a href=&#34;https://bsky.app/hashtag/jekyll&#34;&gt;#Jekyll&lt;/a&gt; debate. &lt;a href=&#34;https://deuts.org/p/hugo-vs-jekyll/&#34;&gt;deuts.org/∞&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/gohugo&#34;&gt;#GoHugo&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Jekyll themes like Just the Docs and Chirpy are some of the reasons why I would like to revisit my decision in the <a href="https://bsky.app/hashtag/hugo">#Hugo</a> vs. <a href="https://bsky.app/hashtag/jekyll">#Jekyll</a> debate. <a href="https://deuts.org/p/hugo-vs-jekyll/">deuts.org/∞</a> <a href="https://bsky.app/hashtag/gohugo">#GoHugo</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldg2q4dntc2g</title>
       <link>https://deuts.org/b/2024-12-16-17-54-3ldg2q4dntc2g/</link>
@@ -116,15 +125,6 @@ $55.95 / 3 years</p>
       <content:encoded><![CDATA[<p>Look at what I found: paste crap, get truth.</p>
 <p><a href="https://www.bullshitremover.com">www.bullshitremover.com</a>
 <a href="https://www.bullshitremover.com/">www.bullshitremover.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lda5uolrak2w</title>
-      <link>https://deuts.org/b/2024-12-14-09-35-3lda5uolrak2w/</link>
-      <pubDate>Sat, 14 Dec 2024 09:35:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-14-09-35-3lda5uolrak2w/</guid>
-      <description>&lt;p&gt;For me I&amp;rsquo;m waiting around here for &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/atproto&#34;&gt;#ATProto&lt;/a&gt; to mature and excited to try out all the cool features to come in the future, especially for those who have their own PDS instance like me.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>For me I&rsquo;m waiting around here for <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> and <a href="https://bsky.app/hashtag/atproto">#ATProto</a> to mature and excited to try out all the cool features to come in the future, especially for those who have their own PDS instance like me.</p>
 ]]></content:encoded>
     </item>
   </channel>
