@@ -7,8 +7,21 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 17:52:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 17:54:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldg2q4dntc2g</title>
+      <link>https://deuts.org/b/2024-12-16-17-54-3ldg2q4dntc2g/</link>
+      <pubDate>Mon, 16 Dec 2024 17:54:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-16-17-54-3ldg2q4dntc2g/</guid>
+      <description>&lt;p&gt;I’m torn between Bytestash and Opengist for my snippets repository. I love Opengist’s clean and simple design, but Bytestash’s robust search functionality is hard to overlook.
+&lt;a href=&#34;https://github.com/jordan-dalby/ByteStash&#34;&gt;github.com/∞&lt;/a&gt;
+&lt;a href=&#34;https://github.com/thomiceli/opengist&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I’m torn between Bytestash and Opengist for my snippets repository. I love Opengist’s clean and simple design, but Bytestash’s robust search functionality is hard to overlook.
+<a href="https://github.com/jordan-dalby/ByteStash">github.com/∞</a>
+<a href="https://github.com/thomiceli/opengist">github.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldg2mfdy4s2g</title>
       <link>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</link>
@@ -112,15 +125,6 @@ $55.95 / 3 years</p>
       <guid>https://deuts.org/b/2024-12-14-09-35-3lda5uolrak2w/</guid>
       <description>&lt;p&gt;For me I&amp;rsquo;m waiting around here for &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/atproto&#34;&gt;#ATProto&lt;/a&gt; to mature and excited to try out all the cool features to come in the future, especially for those who have their own PDS instance like me.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>For me I&rsquo;m waiting around here for <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> and <a href="https://bsky.app/hashtag/atproto">#ATProto</a> to mature and excited to try out all the cool features to come in the future, especially for those who have their own PDS instance like me.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lda5bcbgck2w</title>
-      <link>https://deuts.org/b/2024-12-14-09-24-3lda5bcbgck2w/</link>
-      <pubDate>Sat, 14 Dec 2024 09:24:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-14-09-24-3lda5bcbgck2w/</guid>
-      <description>&lt;p&gt;Why does it always have to be &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt; vs. &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;? They can co-exist, you and your friends can sign up to both.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Why does it always have to be <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a> vs. <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>? They can co-exist, you and your friends can sign up to both.</p>
 ]]></content:encoded>
     </item>
   </channel>
