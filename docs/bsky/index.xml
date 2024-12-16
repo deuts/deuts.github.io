@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 17:34:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 17:52:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldg2mfdy4s2g</title>
+      <link>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</link>
+      <pubDate>Mon, 16 Dec 2024 17:52:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</guid>
+      <description>&lt;p&gt;I don’t see much point in self-hosting PortChecker if it&amp;rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! &lt;a href=&#34;https://www.youtube.com/watch?v=0EgbXY0ZaeU&#34;&gt;www.youtube.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I don’t see much point in self-hosting PortChecker if it&rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! <a href="https://www.youtube.com/watch?v=0EgbXY0ZaeU">www.youtube.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldfzm5nsys2g</title>
       <link>https://deuts.org/b/2024-12-16-17-34-3ldfzm5nsys2g/</link>
@@ -112,15 +121,6 @@ $55.95 / 3 years</p>
       <guid>https://deuts.org/b/2024-12-14-09-24-3lda5bcbgck2w/</guid>
       <description>&lt;p&gt;Why does it always have to be &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt; vs. &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;? They can co-exist, you and your friends can sign up to both.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Why does it always have to be <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a> vs. <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>? They can co-exist, you and your friends can sign up to both.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ld77mskf6c2x</title>
-      <link>https://deuts.org/b/2024-12-14-00-33-3ld77mskf6c2x/</link>
-      <pubDate>Sat, 14 Dec 2024 00:33:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-14-00-33-3ld77mskf6c2x/</guid>
-      <description>&lt;p&gt;The chess world champions list. Of course missing in this list are Khalifman, Ponomariov, Khasimdzhanov, and Topalov. That&amp;rsquo;s how chaotic the chess world has been in the 90&amp;rsquo;s to 2000&amp;rsquo;s.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The chess world champions list. Of course missing in this list are Khalifman, Ponomariov, Khasimdzhanov, and Topalov. That&rsquo;s how chaotic the chess world has been in the 90&rsquo;s to 2000&rsquo;s.</p>
 ]]></content:encoded>
     </item>
   </channel>
