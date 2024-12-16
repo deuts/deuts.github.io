@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 17:57:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 21:28:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldggnn2elc2s</title>
+      <link>https://deuts.org/b/2024-12-16-21-28-3ldggnn2elc2s/</link>
+      <pubDate>Mon, 16 Dec 2024 21:28:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-16-21-28-3ldggnn2elc2s/</guid>
+      <description>&lt;p&gt;A lot of &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt; users hating on &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;, primarily because of its centralized nature. I wonder if these same users realize how much they are relying on their Mastodon instance administrotor (e.g. mastodon.social) instead of bsky.social.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A lot of <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a> users hating on <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>, primarily because of its centralized nature. I wonder if these same users realize how much they are relying on their Mastodon instance administrotor (e.g. mastodon.social) instead of bsky.social.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldg2u5qzbc2g</title>
       <link>https://deuts.org/b/2024-12-16-17-57-3ldg2u5qzbc2g/</link>
@@ -112,19 +121,6 @@ $55.95 / 3 years</p>
 &lt;p&gt;My wish for this is a notification for overdue tasks via Gotify, Telegram or email.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tududi - A Minimalist, Open-Source Task and Project Management Tool <a href="https://github.com/chrisvel/tududi">github.com/∞</a></p>
 <p>My wish for this is a notification for overdue tasks via Gotify, Telegram or email.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lda72ic4os2w</title>
-      <link>https://deuts.org/b/2024-12-14-09-56-3lda72ic4os2w/</link>
-      <pubDate>Sat, 14 Dec 2024 09:56:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-14-09-56-3lda72ic4os2w/</guid>
-      <description>&lt;p&gt;Look at what I found: paste crap, get truth.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.bullshitremover.com&#34;&gt;www.bullshitremover.com&lt;/a&gt;
-&lt;a href=&#34;https://www.bullshitremover.com/&#34;&gt;www.bullshitremover.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Look at what I found: paste crap, get truth.</p>
-<p><a href="https://www.bullshitremover.com">www.bullshitremover.com</a>
-<a href="https://www.bullshitremover.com/">www.bullshitremover.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
