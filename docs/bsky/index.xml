@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 21:28:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 00:02:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldgpc6mhns2s</title>
+      <link>https://deuts.org/b/2024-12-17-00-02-3ldgpc6mhns2s/</link>
+      <pubDate>Tue, 17 Dec 2024 00:02:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-17-00-02-3ldgpc6mhns2s/</guid>
+      <description>&lt;p&gt;Couldn&amp;rsquo;t really enjoy Jack + Coke when drinking alone.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Couldn&rsquo;t really enjoy Jack + Coke when drinking alone.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldggnn2elc2s</title>
       <link>https://deuts.org/b/2024-12-16-21-28-3ldggnn2elc2s/</link>
@@ -110,17 +119,6 @@ $55.95 / 3 years</p>
       <guid>https://deuts.org/b/2024-12-15-15-28-3lddc3cqe7c2r/</guid>
       <description>&lt;p&gt;I wonder how to enable openssh on &lt;a href=&#34;https://bsky.app/profile/linuxserver.io&#34;&gt;@linuxserver.io&lt;/a&gt; Code Server &lt;a href=&#34;https://bsky.app/hashtag/docker&#34;&gt;#Docker&lt;/a&gt; image? &lt;a href=&#34;https://docs.linuxserver.io/images/docker-code-server/&#34;&gt;docs.linuxserver.io/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I wonder how to enable openssh on <a href="https://bsky.app/profile/linuxserver.io">@linuxserver.io</a> Code Server <a href="https://bsky.app/hashtag/docker">#Docker</a> image? <a href="https://docs.linuxserver.io/images/docker-code-server/">docs.linuxserver.io/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lddb2k5mas2r</title>
-      <link>https://deuts.org/b/2024-12-15-15-10-3lddb2k5mas2r/</link>
-      <pubDate>Sun, 15 Dec 2024 15:10:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-15-15-10-3lddb2k5mas2r/</guid>
-      <description>&lt;p&gt;Tududi - A Minimalist, Open-Source Task and Project Management Tool &lt;a href=&#34;https://github.com/chrisvel/tududi&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;My wish for this is a notification for overdue tasks via Gotify, Telegram or email.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Tududi - A Minimalist, Open-Source Task and Project Management Tool <a href="https://github.com/chrisvel/tududi">github.com/∞</a></p>
-<p>My wish for this is a notification for overdue tasks via Gotify, Telegram or email.</p>
 ]]></content:encoded>
     </item>
   </channel>
