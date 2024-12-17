@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 12:42:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldierqqmws2j</title>
+      <link>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</link>
+      <pubDate>Tue, 17 Dec 2024 16:00:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</guid>
+      <description>&lt;p&gt;If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldhzq6q65s2y</title>
       <link>https://deuts.org/b/2024-12-17-12-42-3ldhzq6q65s2y/</link>
@@ -92,15 +101,6 @@
       <guid>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</guid>
       <description>&lt;p&gt;I don’t see much point in self-hosting PortChecker if it&amp;rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! &lt;a href=&#34;https://www.youtube.com/watch?v=0EgbXY0ZaeU&#34;&gt;www.youtube.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I don’t see much point in self-hosting PortChecker if it&rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! <a href="https://www.youtube.com/watch?v=0EgbXY0ZaeU">www.youtube.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldfzm5nsys2g</title>
-      <link>https://deuts.org/b/2024-12-16-17-34-3ldfzm5nsys2g/</link>
-      <pubDate>Mon, 16 Dec 2024 17:34:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-16-17-34-3ldfzm5nsys2g/</guid>
-      <description>&lt;p&gt;Explore the differences between Linkding and Hoarder, two popular bookmark management tools. Learn about their features, resource usage, and unique offerings to find the best fit for your needs. &lt;a href=&#34;https://deuts.org/p/linkding-vs-hoarder/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Explore the differences between Linkding and Hoarder, two popular bookmark management tools. Learn about their features, resource usage, and unique offerings to find the best fit for your needs. <a href="https://deuts.org/p/linkding-vs-hoarder/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
