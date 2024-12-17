@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 19:26:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldiqcmsmcs2y</title>
+      <link>https://deuts.org/b/2024-12-17-19-26-3ldiqcmsmcs2y/</link>
+      <pubDate>Tue, 17 Dec 2024 19:26:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-17-19-26-3ldiqcmsmcs2y/</guid>
+      <description>&lt;p&gt;Working on making my &lt;a href=&#34;https://bsky.app/hashtag/linkding&#34;&gt;#Linkding&lt;/a&gt; bookmarks pulled into my &lt;a href=&#34;https://bsky.app/hashtag/gohugo&#34;&gt;#GoHugo&lt;/a&gt; blog at deuts.org
+&lt;a href=&#34;https://deuts.org&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Working on making my <a href="https://bsky.app/hashtag/linkding">#Linkding</a> bookmarks pulled into my <a href="https://bsky.app/hashtag/gohugo">#GoHugo</a> blog at deuts.org
+<a href="https://deuts.org">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldierqqmws2j</title>
       <link>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</link>
@@ -92,15 +103,6 @@
       <content:encoded><![CDATA[<p>I’m torn between Bytestash and Opengist for my snippets repository. I love Opengist’s clean and simple design, but Bytestash’s robust search functionality is hard to overlook.
 <a href="https://github.com/jordan-dalby/ByteStash">github.com/∞</a>
 <a href="https://github.com/thomiceli/opengist">github.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldg2mfdy4s2g</title>
-      <link>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</link>
-      <pubDate>Mon, 16 Dec 2024 17:52:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-16-17-52-3ldg2mfdy4s2g/</guid>
-      <description>&lt;p&gt;I don’t see much point in self-hosting PortChecker if it&amp;rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! &lt;a href=&#34;https://www.youtube.com/watch?v=0EgbXY0ZaeU&#34;&gt;www.youtube.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I don’t see much point in self-hosting PortChecker if it&rsquo;s just for checking port status, which you can do on the official website anyway. Unless you’re set on hosting everything, it feels unnecessary! <a href="https://www.youtube.com/watch?v=0EgbXY0ZaeU">www.youtube.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
