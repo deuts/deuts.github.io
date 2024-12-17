@@ -7,8 +7,26 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 22:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 23:11:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldj4vta6ds2o</title>
+      <link>https://deuts.org/b/2024-12-17-23-11-3ldj4vta6ds2o/</link>
+      <pubDate>Tue, 17 Dec 2024 23:11:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-17-23-11-3ldj4vta6ds2o/</guid>
+      <description>&lt;p&gt;One day, I&amp;rsquo;ll finally take &lt;a href=&#34;https://bsky.app/hashtag/proxmox&#34;&gt;#Proxmox&lt;/a&gt; for a spin—because why settle for simplicity when you can have a full-blown virtualization playground?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>One day, I&rsquo;ll finally take <a href="https://bsky.app/hashtag/proxmox">#Proxmox</a> for a spin—because why settle for simplicity when you can have a full-blown virtualization playground?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts.hamili.net 3ldj3wl755c2o</title>
+      <link>https://deuts.org/b/2024-12-17-22-54-3ldj3wl755c2o/</link>
+      <pubDate>Tue, 17 Dec 2024 22:54:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-17-22-54-3ldj3wl755c2o/</guid>
+      <description>&lt;p&gt;It seems like every hour &lt;a href=&#34;https://bsky.app/hashtag/blinko&#34;&gt;#blinko&lt;/a&gt; is updated. &lt;a href=&#34;https://github.com/blinko-space/blinko&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>It seems like every hour <a href="https://bsky.app/hashtag/blinko">#blinko</a> is updated. <a href="https://github.com/blinko-space/blinko">github.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldj35gwuls2h</title>
       <link>https://deuts.org/b/2024-12-17-22-40-3ldj35gwuls2h/</link>
@@ -85,24 +103,6 @@
       <guid>https://deuts.org/b/2024-12-17-00-19-3ldgqa25iis2s/</guid>
       <description>&lt;p&gt;GoToSocial, Misskey, Sharkey, Hollo, Iceshrimp, Pleroma, the list goes on. So which one is the best at being lightweight but feature complete?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>GoToSocial, Misskey, Sharkey, Hollo, Iceshrimp, Pleroma, the list goes on. So which one is the best at being lightweight but feature complete?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldgpc6mhns2s</title>
-      <link>https://deuts.org/b/2024-12-17-00-02-3ldgpc6mhns2s/</link>
-      <pubDate>Tue, 17 Dec 2024 00:02:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-17-00-02-3ldgpc6mhns2s/</guid>
-      <description>&lt;p&gt;Couldn&amp;rsquo;t really enjoy Jack + Coke when drinking alone.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Couldn&rsquo;t really enjoy Jack + Coke when drinking alone.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldggnn2elc2s</title>
-      <link>https://deuts.org/b/2024-12-16-21-28-3ldggnn2elc2s/</link>
-      <pubDate>Mon, 16 Dec 2024 21:28:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-16-21-28-3ldggnn2elc2s/</guid>
-      <description>&lt;p&gt;A lot of &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt; users hating on &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;, primarily because of its centralized nature. I wonder if these same users realize how much they are relying on their Mastodon instance administrotor (e.g. mastodon.social) instead of bsky.social.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A lot of <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a> users hating on <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>, primarily because of its centralized nature. I wonder if these same users realize how much they are relying on their Mastodon instance administrotor (e.g. mastodon.social) instead of bsky.social.</p>
 ]]></content:encoded>
     </item>
   </channel>
