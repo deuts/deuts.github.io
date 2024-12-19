@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 19 Dec 2024 14:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 16:15:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldngltwevk2x</title>
+      <link>https://deuts.org/b/2024-12-19-16-15-3ldngltwevk2x/</link>
+      <pubDate>Thu, 19 Dec 2024 16:15:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-19-16-15-3ldngltwevk2x/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://bsky.app/hashtag/psei&#34;&gt;#PSEi&lt;/a&gt; why art thou like this?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://bsky.app/hashtag/psei">#PSEi</a> why art thou like this?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldna2goaw22n</title>
       <link>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</link>
@@ -94,15 +103,6 @@
 &lt;a href=&#34;https://deuts.org&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Working on making my <a href="https://bsky.app/hashtag/linkding">#Linkding</a> bookmarks pulled into my <a href="https://bsky.app/hashtag/gohugo">#GoHugo</a> blog at deuts.org
 <a href="https://deuts.org">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldierqqmws2j</title>
-      <link>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</link>
-      <pubDate>Tue, 17 Dec 2024 16:00:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</guid>
-      <description>&lt;p&gt;If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.</p>
 ]]></content:encoded>
     </item>
   </channel>
