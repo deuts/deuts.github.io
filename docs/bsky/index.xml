@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 18 Dec 2024 21:07:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 09:31:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldmpxvrhcc2n</title>
+      <link>https://deuts.org/b/2024-12-19-09-31-3ldmpxvrhcc2n/</link>
+      <pubDate>Thu, 19 Dec 2024 09:31:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-19-09-31-3ldmpxvrhcc2n/</guid>
+      <description>&lt;p&gt;Tried many todo/tasks app. Even selfhosted: Vikunja, Tududi. But I still keep coming back to RememberTheMilk. Why?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tried many todo/tasks app. Even selfhosted: Vikunja, Tududi. But I still keep coming back to RememberTheMilk. Why?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldlggxzypk2j</title>
       <link>https://deuts.org/b/2024-12-18-21-07-3ldlggxzypk2j/</link>
@@ -94,15 +103,6 @@
       <guid>https://deuts.org/b/2024-12-17-12-42-3ldhzq6q65s2y/</guid>
       <description>&lt;p&gt;Might be spinning up this app: DocuSeal in the near future.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Might be spinning up this app: DocuSeal in the near future.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldhxclqf722j</title>
-      <link>https://deuts.org/b/2024-12-17-11-58-3ldhxclqf722j/</link>
-      <pubDate>Tue, 17 Dec 2024 11:58:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-17-11-58-3ldhxclqf722j/</guid>
-      <description>&lt;p&gt;If you have your own PDS instance, how do you show your posts in your own webpage?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>If you have your own PDS instance, how do you show your posts in your own webpage?</p>
 ]]></content:encoded>
     </item>
   </channel>
