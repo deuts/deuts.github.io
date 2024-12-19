@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 19 Dec 2024 09:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:18:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldna2goaw22n</title>
+      <link>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</link>
+      <pubDate>Thu, 19 Dec 2024 14:18:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&amp;rsquo; experience so far? &lt;a href=&#34;https://bsky.app/hashtag/fediverse&#34;&gt;#Fediverse&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>My <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&rsquo; experience so far? <a href="https://bsky.app/hashtag/fediverse">#Fediverse</a> <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldmpxvrhcc2n</title>
       <link>https://deuts.org/b/2024-12-19-09-31-3ldmpxvrhcc2n/</link>
@@ -94,15 +103,6 @@
       <guid>https://deuts.org/b/2024-12-17-16-00-3ldierqqmws2j/</guid>
       <description>&lt;p&gt;If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>If you need your open source projects to fly, please consider adding (and highlighting) Docker install instructions.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldhzq6q65s2y</title>
-      <link>https://deuts.org/b/2024-12-17-12-42-3ldhzq6q65s2y/</link>
-      <pubDate>Tue, 17 Dec 2024 12:42:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-17-12-42-3ldhzq6q65s2y/</guid>
-      <description>&lt;p&gt;Might be spinning up this app: DocuSeal in the near future.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Might be spinning up this app: DocuSeal in the near future.</p>
 ]]></content:encoded>
     </item>
   </channel>
