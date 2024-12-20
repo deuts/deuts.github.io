@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 20 Dec 2024 09:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 10:20:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldpd7gdvis2k</title>
+      <link>https://deuts.org/b/2024-12-20-10-20-3ldpd7gdvis2k/</link>
+      <pubDate>Fri, 20 Dec 2024 10:20:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-20-10-20-3ldpd7gdvis2k/</guid>
+      <description>&lt;p&gt;Inc: Is Matt Mullenweg the Mad King of WordPress? Fortunately for us Matt didn&amp;rsquo;t have dragons. Otherwise, we would have been burned to the ground. &lt;a href=&#34;https://www.inc.com/dfreedman/matt-mullenweg-wordpress-wp-engine/90994969&#34;&gt;www.inc.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Inc: Is Matt Mullenweg the Mad King of WordPress? Fortunately for us Matt didn&rsquo;t have dragons. Otherwise, we would have been burned to the ground. <a href="https://www.inc.com/dfreedman/matt-mullenweg-wordpress-wp-engine/90994969">www.inc.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldpa3yxfec2n</title>
       <link>https://deuts.org/b/2024-12-20-09-24-3ldpa3yxfec2n/</link>
@@ -88,15 +97,6 @@
       <guid>https://deuts.org/b/2024-12-17-23-11-3ldj4vta6ds2o/</guid>
       <description>&lt;p&gt;One day, I&amp;rsquo;ll finally take &lt;a href=&#34;https://bsky.app/hashtag/proxmox&#34;&gt;#Proxmox&lt;/a&gt; for a spin—because why settle for simplicity when you can have a full-blown virtualization playground?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>One day, I&rsquo;ll finally take <a href="https://bsky.app/hashtag/proxmox">#Proxmox</a> for a spin—because why settle for simplicity when you can have a full-blown virtualization playground?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldj3wl755c2o</title>
-      <link>https://deuts.org/b/2024-12-17-22-54-3ldj3wl755c2o/</link>
-      <pubDate>Tue, 17 Dec 2024 22:54:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-17-22-54-3ldj3wl755c2o/</guid>
-      <description>&lt;p&gt;It seems like every hour &lt;a href=&#34;https://bsky.app/hashtag/blinko&#34;&gt;#blinko&lt;/a&gt; is updated. &lt;a href=&#34;https://github.com/blinko-space/blinko&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>It seems like every hour <a href="https://bsky.app/hashtag/blinko">#blinko</a> is updated. <a href="https://github.com/blinko-space/blinko">github.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
