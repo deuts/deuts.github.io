@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 11:21:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 21:59:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldt2pya24s2z</title>
+      <link>https://deuts.org/b/2024-12-21-21-59-3ldt2pya24s2z/</link>
+      <pubDate>Sat, 21 Dec 2024 21:59:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-21-21-59-3ldt2pya24s2z/</guid>
+      <description>&lt;p&gt;3 reasons U.2 SSD is better than M.2, none of those reasons is because it&amp;rsquo;s cheaper. PASS!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.xda-developers.com/reasons-worth-upgrading-u-2-ssd-instead-m-2/&#34;&gt;www.xda-developers.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>3 reasons U.2 SSD is better than M.2, none of those reasons is because it&rsquo;s cheaper. PASS!</p>
+<p><a href="https://www.xda-developers.com/reasons-worth-upgrading-u-2-ssd-instead-m-2/">www.xda-developers.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldrx2eov5s25</title>
       <link>https://deuts.org/b/2024-12-21-11-21-3ldrx2eov5s25/</link>
@@ -88,15 +99,6 @@
       <guid>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</guid>
       <description>&lt;p&gt;My &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&amp;rsquo; experience so far? &lt;a href=&#34;https://bsky.app/hashtag/fediverse&#34;&gt;#Fediverse&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>My <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&rsquo; experience so far? <a href="https://bsky.app/hashtag/fediverse">#Fediverse</a> <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldmpxvrhcc2n</title>
-      <link>https://deuts.org/b/2024-12-19-09-31-3ldmpxvrhcc2n/</link>
-      <pubDate>Thu, 19 Dec 2024 09:31:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-19-09-31-3ldmpxvrhcc2n/</guid>
-      <description>&lt;p&gt;Tried many todo/tasks app. Even selfhosted: Vikunja, Tududi. But I still keep coming back to RememberTheMilk. Why?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Tried many todo/tasks app. Even selfhosted: Vikunja, Tududi. But I still keep coming back to RememberTheMilk. Why?</p>
 ]]></content:encoded>
     </item>
   </channel>
