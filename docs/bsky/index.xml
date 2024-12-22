@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 22 Dec 2024 22:53:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 23:05:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldvovcqdi22t</title>
+      <link>https://deuts.org/b/2024-12-22-23-05-3ldvovcqdi22t/</link>
+      <pubDate>Sun, 22 Dec 2024 23:05:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-22-23-05-3ldvovcqdi22t/</guid>
+      <description>&lt;p&gt;My single user &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; instance is getting even bigger at 2.6gb, even though I didn&amp;rsquo;t really have much activities in the last 2 days. I wonder how big it&amp;rsquo;s really gonna get in say 6 months? I wonder how bigger it would have been if it were a single user instance of &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt;?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>My single user <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> instance is getting even bigger at 2.6gb, even though I didn&rsquo;t really have much activities in the last 2 days. I wonder how big it&rsquo;s really gonna get in say 6 months? I wonder how bigger it would have been if it were a single user instance of <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a>?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldvo6t5ruk2t</title>
       <link>https://deuts.org/b/2024-12-22-22-53-3ldvo6t5ruk2t/</link>
@@ -90,15 +99,6 @@
       <guid>https://deuts.org/b/2024-12-20-09-24-3ldpa3yxfec2n/</guid>
       <description>&lt;p&gt;How to install CCTV in my dreams?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>How to install CCTV in my dreams?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldovjmejrk2n</title>
-      <link>https://deuts.org/b/2024-12-20-06-15-3ldovjmejrk2n/</link>
-      <pubDate>Fri, 20 Dec 2024 06:15:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-20-06-15-3ldovjmejrk2n/</guid>
-      <description>&lt;p&gt;To put it into perspective, my &lt;a href=&#34;https://bsky.app/hashtag/pds&#34;&gt;#PDS&lt;/a&gt; directory size is at 14MB, while &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; at 1.9GB.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>To put it into perspective, my <a href="https://bsky.app/hashtag/pds">#PDS</a> directory size is at 14MB, while <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> at 1.9GB.</p>
 ]]></content:encoded>
     </item>
   </channel>
