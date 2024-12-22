@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 21:59:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:35:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3ldv7siwspc2d</title>
+      <link>https://deuts.org/b/2024-12-22-18-35-3ldv7siwspc2d/</link>
+      <pubDate>Sun, 22 Dec 2024 18:35:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-22-18-35-3ldv7siwspc2d/</guid>
+      <description>&lt;p&gt;TSDProxy is making great strides, I just don&amp;rsquo;t know how to incorporate it in my workflow &lt;a href=&#34;https://www.reddit.com/r/Tailscale/s/38yMIx8MI7&#34;&gt;www.reddit.com/∞&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/tailscale&#34;&gt;#Tailscale&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>TSDProxy is making great strides, I just don&rsquo;t know how to incorporate it in my workflow <a href="https://www.reddit.com/r/Tailscale/s/38yMIx8MI7">www.reddit.com/∞</a> <a href="https://bsky.app/hashtag/tailscale">#Tailscale</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3ldt2pya24s2z</title>
       <link>https://deuts.org/b/2024-12-21-21-59-3ldt2pya24s2z/</link>
@@ -90,15 +99,6 @@
       <guid>https://deuts.org/b/2024-12-19-16-15-3ldngltwevk2x/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://bsky.app/hashtag/psei&#34;&gt;#PSEi&lt;/a&gt; why art thou like this?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://bsky.app/hashtag/psei">#PSEi</a> why art thou like this?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldna2goaw22n</title>
-      <link>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</link>
-      <pubDate>Thu, 19 Dec 2024 14:18:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-19-14-18-3ldna2goaw22n/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&amp;rsquo; experience so far? &lt;a href=&#34;https://bsky.app/hashtag/fediverse&#34;&gt;#Fediverse&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>My <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> instance has been running for less than a week, and the folder is using up to 1.7Gb already. I wonder how are the other users&rsquo; experience so far? <a href="https://bsky.app/hashtag/fediverse">#Fediverse</a> <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a></p>
 ]]></content:encoded>
     </item>
   </channel>
