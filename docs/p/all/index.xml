@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Dec 2024 15:54:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 17:59:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The True Cost of Cheap VPS</title>
+      <link>https://deuts.org/p/the-true-cost-of-cheap-vps/</link>
+      <pubDate>Sat, 28 Dec 2024 17:59:59 +0800</pubDate>
+      <guid>https://deuts.org/p/the-true-cost-of-cheap-vps/</guid>
+      <description>GreenCloud&amp;#39;s recent migration process highlights the hidden costs of cheap VPS hosting. While the price may be attractive, the burden of manual tasks like backups, system reinstallation, and DNS updates falls on the customer, turning what should be a seamless process into a time-consuming hassle.</description>
+      <content:encoded><![CDATA[<p>Choosing an affordable VPS provider can save money, but it often comes with extra work and frustration. GreenCloud’s recent migration from SolusVM to VirtFusion is a prime example. Here&rsquo;s the email they sent:</p>
+<hr>
+<p><em>Subject: [GreenCloud] Control Panel Migration on the MILAN2SG1 node</em></p>
+<blockquote>
+<p>Dear Customer,</p>
+<p>As part of our service improvement, we are migrating from our current control panel (SolusVM) to a new, modern, and user-friendly control panel called VirtFusion, which offers advanced features such as Backup/Snapshot, SSH Key management, Custom ISOs and more.</p>
+<p>Since this is a manual process, so we kindly ask you to back up your VPS on the MILAN2SG1 node and notify us once this is done so we can create a new VPS on VirtFusion for you. If needed, we can retain your old IPv4 address. Please open a ticket with our Technical Department when you&rsquo;re ready. Please do not reply to this email directly as it might go to our Spam/Junk folder.</p>
+<p>If you prefer to remain on SolusVM, a migration may be required to merge with our available SolusVM nodes. We will notify you with a schedule at that time. Kindly let us know your decision within 10 days of receiving this email.</p>
+<p>Best regards,<br>
+GreenCloud Team</p>
+</blockquote>
+<hr>
+<p><strong>The Hassle of Migration</strong></p>
+<p>Instead of a smooth transition, GreenCloud’s migration process places the burden on customers:</p>
+<ol>
+<li>
+<p><strong>Manual Backups</strong><br>
+No tools or instructions for backing up data. Customers must do it themselves.</p>
+</li>
+<li>
+<p><strong>Reinstallation of Systems</strong><br>
+A complete OS reinstall means customers need to manually restore backups and reconfigure their setups.</p>
+</li>
+<li>
+<p><strong>Changing IP Address and DNS Records</strong><br>
+Most likely, a new IP address will be assigned, forcing customers to update DNS records manually and endure service downtime.</p>
+</li>
+</ol>
+<p><strong>Conclusion</strong></p>
+<p>GreenCloud’s approach to migration highlights the real cost of cheap VPS hosting: when the price is low, customers are often left to deal with the burdens and frustrations that providers should be handling, disrupting services and causing unnecessary hassle.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Linkding vs. Hoarder</title>
       <link>https://deuts.org/p/linkding-vs-hoarder/</link>
@@ -406,94 +444,6 @@
 <h3 id="final-thoughts">Final Thoughts</h3>
 <p>Enclosed isn’t just a potential replacement for PrivateBin—it could become the best tool for secure note sharing. While I’m still evaluating it, the updates and overall experience have made a strong case for switching for good.</p>
 <p>If you’re exploring alternatives for PrivateBin or looking for a secure, modern solution for note sharing, Enclosed is definitely worth a try.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugo vs. Jekyll: Which One Should You Choose?</title>
-      <link>https://deuts.org/p/hugo-vs-jekyll/</link>
-      <pubDate>Fri, 22 Nov 2024 14:09:57 +0800</pubDate>
-      <guid>https://deuts.org/p/hugo-vs-jekyll/</guid>
-      <description>Wondering whether to choose Hugo or Jekyll for your static site? Read on as we compare their strengths, weaknesses, and hosting options, helping you make an informed decision based on your preferences and project requirements.</description>
-      <content:encoded><![CDATA[<p>If you&rsquo;re deciding between <a class="applink" href="https://deuts.org/a/hugo" target="_blank">Hugo</a> and <a class="applink" href="https://deuts.org/a/jekyll" target="_blank">Jekyll</a> for your static site generator, here&rsquo;s a clear comparison to help you choose the right tool for your needs.</p>
-<table>
-  <thead>
-      <tr>
-          <th><strong>Criteria</strong></th>
-          <th><strong>Hugo</strong></th>
-          <th><strong>Jekyll</strong></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Performance</strong></td>
-          <td>Extremely fast; can rebuild thousands of pages in seconds. Great for large or frequently updated sites.</td>
-          <td>Slower compared to Hugo, especially with large sites. Suitable for smaller, less frequently updated sites.</td>
-      </tr>
-      <tr>
-          <td><strong>Installation</strong></td>
-          <td>Simple: a single binary with no dependencies.</td>
-          <td>Requires Ruby and Gems, which can be complex for non-Ruby users.</td>
-      </tr>
-      <tr>
-          <td><strong>Themes</strong></td>
-          <td>Flexible with advanced customization options and shortcodes. Templates use Go’s templating engine.</td>
-          <td>Large library of pre-built themes. Uses Liquid templates, which are simpler but less powerful for advanced users.</td>
-      </tr>
-      <tr>
-          <td><strong>Markdown Support</strong></td>
-          <td>Native support with configurable front matter (TOML, YAML, JSON). Excellent for multilingual sites.</td>
-          <td>Markdown support via plugins like kramdown. Front matter is YAML-only. Limited multilingual capabilities.</td>
-      </tr>
-      <tr>
-          <td><strong>Ecosystem</strong></td>
-          <td>Rapidly growing community with a smaller but expanding theme library. Hugo also has more GitHub stars, reflecting its developer appeal.</td>
-          <td>Established ecosystem with a mature community and wide adoption. Native integration with GitHub Pages.</td>
-      </tr>
-      <tr>
-          <td><strong>Plugins</strong></td>
-          <td>No plugins; functionality is built-in or handled externally. Faster and more secure as a result.</td>
-          <td>Extensive plugin ecosystem for advanced features. Can slow down build times and add complexity.</td>
-      </tr>
-      <tr>
-          <td><strong>Use Case</strong></td>
-          <td>Best for performance-focused, large, multilingual, or highly customized sites.</td>
-          <td>Great for smaller sites, blogs, or projects requiring GitHub Pages integration or extensive plugins.</td>
-      </tr>
-  </tbody>
-</table>
-<div class="callout info">
-  <div class="callout-content">
-    <strong>On Github Pages Hosting</strong>
-    <p>
-Jekyll has native support on GitHub Pages, allowing you to upload Markdown files directly to your repository and have the site built automatically on GitHub’s servers. In contrast, Hugo requires you to build the site yourself (using the hugo command) before deploying the generated static files to GitHub Pages.
-</p>
-  </div>
-</div>
-<hr>
-<h3 id="recommendations">Recommendations</h3>
-<ul>
-<li>
-<p><strong>Choose Hugo</strong> if you:</p>
-<ul>
-<li>Need blazing-fast performance.</li>
-<li>Prefer a simpler installation process.</li>
-<li>Work on multilingual or large sites.</li>
-<li>Want flexibility and control over site structure and layout.</li>
-</ul>
-</li>
-<li>
-<p><strong>Choose Jekyll</strong> if you:</p>
-<ul>
-<li>Need an extensive plugin ecosystem.</li>
-<li>Want simplicity with pre-built themes.</li>
-<li>Rely heavily on GitHub Pages for hosting.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="conclusion">Conclusion</h3>
-<p>Hugo and Jekyll are both excellent tools, but your choice will depend on your specific needs. While Hugo&rsquo;s rising GitHub star count highlights its developer-first focus and popularity among performance-conscious users, Jekyll shines with its ease of use and extensive theme community.</p>
-<p>At the end of the day, Hugo and Jekyll are like coffee and tea—both get the job done, but one’s probably better suited to your taste. So, pick your brew, and let the static site-building begin!</p>
 ]]></content:encoded>
     </item>
   </channel>
