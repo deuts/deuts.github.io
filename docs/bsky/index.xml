@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 16:58:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 18:17:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3leeblsfh522r</title>
+      <link>https://deuts.org/b/2024-12-28-18-17-3leeblsfh522r/</link>
+      <pubDate>Sat, 28 Dec 2024 18:17:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2024-12-28-18-17-3leeblsfh522r/</guid>
+      <description>&lt;p&gt;Received an email from GreenCloud &lt;a href=&#34;https://bsky.app/hashtag/vps&#34;&gt;#VPS&lt;/a&gt; yesterday, saying they&amp;rsquo;re migrating control panel from SolusVM to VirtFusion, but they&amp;rsquo;re letting customers take care of the backup and restore process. Why can&amp;rsquo;t there just be a more seamless process for customers instead? &lt;a href=&#34;https://deuts.org/p/the-true-cost-of-cheap-vps/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Received an email from GreenCloud <a href="https://bsky.app/hashtag/vps">#VPS</a> yesterday, saying they&rsquo;re migrating control panel from SolusVM to VirtFusion, but they&rsquo;re letting customers take care of the backup and restore process. Why can&rsquo;t there just be a more seamless process for customers instead? <a href="https://deuts.org/p/the-true-cost-of-cheap-vps/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lee56fnxyc2r</title>
       <link>https://deuts.org/b/2024-12-28-16-58-3lee56fnxyc2r/</link>
@@ -88,17 +97,6 @@
       <guid>https://deuts.org/b/2024-12-22-18-35-3ldv7siwspc2d/</guid>
       <description>&lt;p&gt;TSDProxy is making great strides, I just don&amp;rsquo;t know how to incorporate it in my workflow &lt;a href=&#34;https://www.reddit.com/r/Tailscale/s/38yMIx8MI7&#34;&gt;www.reddit.com/∞&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/tailscale&#34;&gt;#Tailscale&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>TSDProxy is making great strides, I just don&rsquo;t know how to incorporate it in my workflow <a href="https://www.reddit.com/r/Tailscale/s/38yMIx8MI7">www.reddit.com/∞</a> <a href="https://bsky.app/hashtag/tailscale">#Tailscale</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldt2pya24s2z</title>
-      <link>https://deuts.org/b/2024-12-21-21-59-3ldt2pya24s2z/</link>
-      <pubDate>Sat, 21 Dec 2024 21:59:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-21-21-59-3ldt2pya24s2z/</guid>
-      <description>&lt;p&gt;3 reasons U.2 SSD is better than M.2, none of those reasons is because it&amp;rsquo;s cheaper. PASS!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.xda-developers.com/reasons-worth-upgrading-u-2-ssd-instead-m-2/&#34;&gt;www.xda-developers.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>3 reasons U.2 SSD is better than M.2, none of those reasons is because it&rsquo;s cheaper. PASS!</p>
-<p><a href="https://www.xda-developers.com/reasons-worth-upgrading-u-2-ssd-instead-m-2/">www.xda-developers.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
