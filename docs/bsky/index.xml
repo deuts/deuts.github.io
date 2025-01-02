@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 29 Dec 2024 08:13:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 10:26:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lepzmm5jgc23</title>
+      <link>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</link>
+      <pubDate>Thu, 02 Jan 2025 10:26:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</guid>
+      <description>&lt;p&gt;Is it just me? I find so much insight from running &lt;code&gt;docker stats&lt;/code&gt; regularly via cron, logging them, and data modeling and analyzing via &lt;a href=&#34;https://bsky.app/hashtag/powerquery&#34;&gt;#PowerQuery&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/powerpivot&#34;&gt;#PowerPivot&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/dax&#34;&gt;#DAX&lt;/a&gt; compared to what I have with the &lt;a href=&#34;https://bsky.app/hashtag/prometheus&#34;&gt;#Prometheus&lt;/a&gt;, &lt;a href=&#34;https://bsky.app/hashtag/grafana&#34;&gt;#Grafana&lt;/a&gt;, CAdvisor, and Node-Exporter. The latter further consumes system resources.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Is it just me? I find so much insight from running <code>docker stats</code> regularly via cron, logging them, and data modeling and analyzing via <a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> and <a href="https://bsky.app/hashtag/powerpivot">#PowerPivot</a> <a href="https://bsky.app/hashtag/dax">#DAX</a> compared to what I have with the <a href="https://bsky.app/hashtag/prometheus">#Prometheus</a>, <a href="https://bsky.app/hashtag/grafana">#Grafana</a>, CAdvisor, and Node-Exporter. The latter further consumes system resources.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lefqbnfrec2b</title>
       <link>https://deuts.org/b/2024-12-29-08-13-3lefqbnfrec2b/</link>
@@ -88,15 +97,6 @@
       <guid>https://deuts.org/b/2024-12-22-22-53-3ldvo6t5ruk2t/</guid>
       <description>&lt;p&gt;I think I have too many Subreddit subscriptions. It&amp;rsquo;s time to leave some groups and narrow them down to the ones that truly interest me. &lt;a href=&#34;https://bsky.app/hashtag/reddit&#34;&gt;#Reddit&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I think I have too many Subreddit subscriptions. It&rsquo;s time to leave some groups and narrow them down to the ones that truly interest me. <a href="https://bsky.app/hashtag/reddit">#Reddit</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldvnvez5f22t</title>
-      <link>https://deuts.org/b/2024-12-22-22-47-3ldvnvez5f22t/</link>
-      <pubDate>Sun, 22 Dec 2024 22:47:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-22-22-47-3ldvnvez5f22t/</guid>
-      <description>&lt;p&gt;My days of distrohopping is done. Nowadays, it&amp;rsquo;s only Debian or Ubuntu for server, and probably Debian, Pop!_OS or Linux Mint for desktop. Of course Windows will always be there because I&amp;rsquo;m a power &lt;a href=&#34;https://bsky.app/hashtag/excel&#34;&gt;#Excel&lt;/a&gt; user.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>My days of distrohopping is done. Nowadays, it&rsquo;s only Debian or Ubuntu for server, and probably Debian, Pop!_OS or Linux Mint for desktop. Of course Windows will always be there because I&rsquo;m a power <a href="https://bsky.app/hashtag/excel">#Excel</a> user.</p>
 ]]></content:encoded>
     </item>
   </channel>
