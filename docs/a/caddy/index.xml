@@ -63,6 +63,7 @@
 <p>Caddy&rsquo;s HTTP and TLS challenges work well for most, but the DNS challenge shines when:</p>
 <ul>
 <li>Your server is behind a firewall or CGNAT.</li>
+<li>Your service is behind Cloudflare access policy</li>
 <li>You want to avoid exposing ports 80 and 443 to the public.</li>
 <li>Your setup includes a load balancer or other restrictive networking configurations.</li>
 </ul>
