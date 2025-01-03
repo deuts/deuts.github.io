@@ -12,7 +12,7 @@
     <lastmod>2022-10-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2024-12-28T17:59:59+08:00</lastmod>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
@@ -24,13 +24,37 @@
   </url><url>
     <loc>https://deuts.org/search/</loc>
   </url><url>
+    <loc>https://deuts.org/apps/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/bash-script/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/debian/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/hugo/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/hugo-automated-install-and-update/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/linux/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/tags/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/ubuntu/</loc>
+    <lastmod>2025-01-03T18:36:50+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/b/2025-01-03-15-58-3let4nbggvk2h/</loc>
     <lastmod>2025-01-03T15:58:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/bsky/</loc>
-    <lastmod>2025-01-03T15:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/</loc>
     <lastmod>2025-01-03T15:58:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/b/2025-01-03-14-03-3lesw62kwvk25/</loc>
@@ -52,9 +76,6 @@
     <lastmod>2024-12-28T18:17:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/greencloud/</loc>
-    <lastmod>2024-12-28T17:59:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/tags/</loc>
     <lastmod>2024-12-28T17:59:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/the-true-cost-of-cheap-vps/</loc>
@@ -177,9 +198,6 @@
     <loc>https://deuts.org/b/2024-12-16-17-34-3ldfzm5nsys2g/</loc>
     <lastmod>2024-12-16T17:34:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/apps/</loc>
-    <lastmod>2024-12-16T15:54:21+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/bookmarks/</loc>
     <lastmod>2024-12-16T15:54:21+08:00</lastmod>
   </url><url>
@@ -286,9 +304,6 @@
     <lastmod>2024-12-11T19:22:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/dns/</loc>
-    <lastmod>2024-12-11T13:02:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/linux/</loc>
     <lastmod>2024-12-11T13:02:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/magicdns/</loc>
@@ -442,9 +457,6 @@
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/callout/</loc>
-    <lastmod>2024-11-29T11:13:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/a/hugo/</loc>
     <lastmod>2024-11-29T11:13:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/slicehosting-fly-by-night/</loc>
@@ -726,16 +738,10 @@
     <loc>https://deuts.org/p/new-vps-checklist/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/debian/</loc>
-    <lastmod>2023-08-13T16:40:41+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/a/duplicati/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/portainer/</loc>
-    <lastmod>2023-08-13T16:40:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/ubuntu/</loc>
     <lastmod>2023-08-13T16:40:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/hugo-linux-vps/</loc>

@@ -7,8 +7,105 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 17:59:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 18:36:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Automated Install and Update</title>
+      <link>https://deuts.org/p/hugo-automated-install-and-update/</link>
+      <pubDate>Fri, 03 Jan 2025 18:36:50 +0800</pubDate>
+      <guid>https://deuts.org/p/hugo-automated-install-and-update/</guid>
+      <description>Automate the process of fetching the latest Hugo Extended release directly from GitHub, downloading it, and installing it, making sure your system always runs the most up-to-date version. </description>
+      <content:encoded><![CDATA[<p>Installing Hugo via package managers like apt on Linux (Debian, Ubuntu) often results in outdated versions, which can be delayed by months or even years. While installing Hugo directly from GitHub is the best way to stay current, manually downloading the .deb package each time a new version is released can be a chore. Many users find themselves putting off updates, leaving Hugo outdated for longer than they&rsquo;d like.</p>
+<p>This simple script automates both the installation and updating of Hugo Extended to the latest version directly from GitHub. It checks if Hugo is installed, fetches the latest release, and installs it, all while eliminating the need for manual downloads or worrying about missing updates. It’s designed for the Hugo Extended amd64 Linux version but can be easily modified to suit different systems or versions.</p>
+<h3 id="the-script">The Script</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#!/bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if Hugo is installed by running `hugo version`</span>
+</span></span><span style="display:flex;"><span>HUGO_VERSION<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>hugo version 2&gt;/dev/null<span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> $? -ne <span style="color:#ae81ff">0</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If hugo is not installed, print the message</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Hugo is not yet installed.&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If hugo is installed, display the current version</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;</span>$HUGO_VERSION<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Fetch the URL of the latest Hugo extended release for Linux (non-withdeploy version)</span>
+</span></span><span style="display:flex;"><span>HUGO_URL<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>grep <span style="color:#e6db74">&#34;browser_download_url&#34;</span> | grep <span style="color:#e6db74">&#34;hugo_extended&#34;</span> | grep <span style="color:#e6db74">&#34;linux-amd64.deb&#34;</span> | grep -v <span style="color:#e6db74">&#34;withdeploy&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>sed -E <span style="color:#e6db74">&#39;s/.*&#34;([^&#34;]+)&#34;.*/\1/&#39;</span><span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if the URL was successfully retrieved</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Unable to retrieve the latest Hugo release URL.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Extract the filename from the URL (e.g., hugo_extended_0.140.2_linux-amd64.deb)</span>
+</span></span><span style="display:flex;"><span>FILE_NAME<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>basename <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Prompt the user before downloading, based on whether Hugo is installed or not</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$HUGO_VERSION<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If Hugo is not installed</span>
+</span></span><span style="display:flex;"><span>    echo -n <span style="color:#e6db74">&#34;Latest Hugo Extended version is </span>$FILE_NAME<span style="color:#e6db74">. Do you want to download it? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If Hugo is installed</span>
+</span></span><span style="display:flex;"><span>    echo -n <span style="color:#e6db74">&#34;Latest Hugo Extended version is </span>$FILE_NAME<span style="color:#e6db74">. Do you want to download it? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>read -r RESPONSE
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> <span style="color:#e6db74">&#34;</span>$RESPONSE<span style="color:#e6db74">&#34;</span> !<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;y&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Download aborted.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Download the latest Hugo .deb package with its original name</span>
+</span></span><span style="display:flex;"><span>wget -q <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span> -O <span style="color:#e6db74">&#34;</span>$FILE_NAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Failed to download Hugo package.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Prompt the user before installing</span>
+</span></span><span style="display:flex;"><span>echo -n <span style="color:#e6db74">&#34;Do you want to install the Hugo package </span>$FILE_NAME<span style="color:#e6db74">? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span>read -r RESPONSE
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> <span style="color:#e6db74">&#34;</span>$RESPONSE<span style="color:#e6db74">&#34;</span> !<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;y&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Installation aborted.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Install the downloaded Hugo package</span>
+</span></span><span style="display:flex;"><span>sudo dpkg -i <span style="color:#e6db74">&#34;</span>$FILE_NAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Failed to install Hugo package.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Success message</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Hugo package </span>$FILE_NAME<span style="color:#e6db74"> has been successfully installed.&#34;</span>
+</span></span><span style="display:flex;"><span>hugo version
+</span></span></code></pre></div><h3 id="how-to-use">How to Use</h3>
+<ol>
+<li>
+<p><strong>Save and Make the Script Executable</strong><br>
+Copy the script into a file (e.g., <code>update_hugo.sh</code>) and make it executable with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>chmod +x update_hugo.sh
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Run the Script</strong><br>
+Execute the script with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./update_hugo.sh
+</span></span></code></pre></div><p>The script will check if Hugo is installed, prompt you to download the latest version (which will be saved in the same directory as the script), and ask if you want to install it.</p>
+</li>
+<li>
+<p><strong>Verify Installation</strong><br>
+Once installed, you can check the Hugo version with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo version
+</span></span></code></pre></div></li>
+</ol>
+<h3 id="conclusion">Conclusion</h3>
+<p>This script automates Hugo updates, ensuring you always have the latest version without the hassle of manual installation. Perfect for users who want to avoid outdated versions from <code>apt</code> and streamline their workflow, it keeps your Hugo installation current with minimal effort. Customize it for your own system and preferred version, and enjoy a seamless update process.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>The True Cost of Cheap VPS</title>
       <link>https://deuts.org/p/the-true-cost-of-cheap-vps/</link>
@@ -411,39 +508,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
 <p>Slicehosting’s closure is disappointing but not entirely surprising given the red flags many users observed over the past months. This experience underscores the importance of vetting VPS providers, especially when deals seem too good to be true.</p>
 <p>For those affected, the promise of refunds offers a glimmer of hope, but only time will tell if Slicehosting follows through.</p>
 <p>If you&rsquo;re considering a budget VPS provider, learn from experiences like this: read reviews, test performance, and, when possible, pay monthly to avoid being stuck in situations like this.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Enclosed could be the best PrivateBin replacement</title>
-      <link>https://deuts.org/p/enclosed-privatebin-alternative/</link>
-      <pubDate>Wed, 27 Nov 2024 00:13:09 +0800</pubDate>
-      <guid>https://deuts.org/p/enclosed-privatebin-alternative/</guid>
-      <description>My thoughts on Enclosed, a minimalistic and secure web app for private note sharing, and why it’s a strong contender to replace PrivateBin in my workflow. </description>
-      <content:encoded><![CDATA[<p><strong><a href="https://github.com/CorentinTh/enclosed">Enclosed</a></strong> is a minimalistic web application designed for sending private and secure notes.</p>
-<p>All notes are end-to-end encrypted, ensuring that the server and storage have zero knowledge of the content. You can set a password, define an expiration period (TTL), and choose to have the note self-destruct after being read.</p>
-<h3 id="a-promising-alternative-to-privatebin">A Promising Alternative to PrivateBin</h3>
-<p>I’ve been using <a class="applink" href="https://deuts.org/a/privatebin" target="_blank">PrivateBin</a> for secure note sharing, but its outdated interface often left me wishing for a modernized alternative. <a class="applink" href="https://deuts.org/a/enclosed" target="_blank">Enclosed</a>, with its elegant default dark theme and minimalist design, feels like a breath of fresh air.</p>
-<p>While I haven’t completely switched yet, I’m seriously contemplating making Enclosed my primary tool. It addresses several pain points I had with PrivateBin, such as:</p>
-<ol>
-<li><strong>A Modern, Elegant Interface:</strong> Enclosed stays true to its design philosophy, providing a clean and visually appealing experience.</li>
-<li><strong>Improved Reliability:</strong> I often faced issues with PrivateBin where pastes would disappear after upgrades. I’m optimistic that Enclosed won’t suffer from the same problem, given its well-thought-out implementation.</li>
-</ol>
-<h3 id="features-that-won-me-over">Features That Won Me Over</h3>
-<p>Two recent updates in the last month to Enclosed particularly impressed me:</p>
-<ol>
-<li><strong>Restricting Note Creation to Logged-In Users:</strong> This feature adds an extra layer of control, making the platform more secure.</li>
-<li><strong>No Expiration Option:</strong> Previously, expiration periods were limited to 1 hour, 1 day, 1 week, or 1 month. Now, I can set notes to never expire, which is perfect for more persistent needs.</li>
-</ol>
-<p>These enhancements show the developer’s commitment to refining the app and meeting user needs, making Enclosed a very attractive alternative.</p>
-<h3 id="my-wishlist-for-enclosed">My Wishlist for Enclosed</h3>
-<p>While Enclosed has been a joy to use so far, there are a few features I’d love to see added:</p>
-<ol>
-<li><strong>Deleting Shared Notes:</strong> As a logged-in user, I’d like the option to delete notes I’ve shared, provided I know the key.</li>
-<li><strong>More Formatting Options:</strong> Just like PrivateBin allows formatting pastes as markdown, plaintext, or source code, I hope Enclosed adds similar options—and ideally, supports even more formats.</li>
-</ol>
-<h3 id="final-thoughts">Final Thoughts</h3>
-<p>Enclosed isn’t just a potential replacement for PrivateBin—it could become the best tool for secure note sharing. While I’m still evaluating it, the updates and overall experience have made a strong case for switching for good.</p>
-<p>If you’re exploring alternatives for PrivateBin or looking for a secure, modern solution for note sharing, Enclosed is definitely worth a try.</p>
 ]]></content:encoded>
     </item>
   </channel>
