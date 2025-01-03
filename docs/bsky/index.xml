@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 13:51:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 14:03:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lesw62kwvk25</title>
+      <link>https://deuts.org/b/2025-01-03-14-03-3lesw62kwvk25/</link>
+      <pubDate>Fri, 03 Jan 2025 14:03:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-03-14-03-3lesw62kwvk25/</guid>
+      <description>&lt;p&gt;Any Docker app that insists on &lt;a href=&#34;https://bsky.app/hashtag/docker&#34;&gt;#Docker&lt;/a&gt; volumes and not support volume binds will be a no go moving forward. I&amp;rsquo;m looking at you &lt;a href=&#34;https://bsky.app/hashtag/searxng&#34;&gt;#SearXNG&lt;/a&gt;, &lt;a href=&#34;https://bsky.app/hashtag/grafana&#34;&gt;#Grafana&lt;/a&gt;, and &lt;a href=&#34;https://bsky.app/hashtag/prometheus&#34;&gt;#Prometheus&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Any Docker app that insists on <a href="https://bsky.app/hashtag/docker">#Docker</a> volumes and not support volume binds will be a no go moving forward. I&rsquo;m looking at you <a href="https://bsky.app/hashtag/searxng">#SearXNG</a>, <a href="https://bsky.app/hashtag/grafana">#Grafana</a>, and <a href="https://bsky.app/hashtag/prometheus">#Prometheus</a>.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lesvj73d3k25</title>
       <link>https://deuts.org/b/2025-01-03-13-51-3lesvj73d3k25/</link>
@@ -100,15 +109,6 @@
       <guid>https://deuts.org/b/2024-12-27-10-00-3leavdh57as2h/</guid>
       <description>&lt;p&gt;I liked the new look of &lt;a href=&#34;https://bsky.app/hashtag/bitwarden&#34;&gt;#Bitwarden&lt;/a&gt;. You can now open the Chrome extension in a new windows even if you&amp;rsquo;ve already opened one of your accounts. Great for editing.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I liked the new look of <a href="https://bsky.app/hashtag/bitwarden">#Bitwarden</a>. You can now open the Chrome extension in a new windows even if you&rsquo;ve already opened one of your accounts. Great for editing.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldzbp43gss2m</title>
-      <link>https://deuts.org/b/2024-12-24-09-20-3ldzbp43gss2m/</link>
-      <pubDate>Tue, 24 Dec 2024 09:20:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-24-09-20-3ldzbp43gss2m/</guid>
-      <description>&lt;p&gt;Shouldn&amp;rsquo;t it be the Galaxy doesn&amp;rsquo;t care?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Shouldn&rsquo;t it be the Galaxy doesn&rsquo;t care?</p>
 ]]></content:encoded>
     </item>
   </channel>
