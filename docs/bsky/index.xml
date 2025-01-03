@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 14:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 15:58:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3let4nbggvk2h</title>
+      <link>https://deuts.org/b/2025-01-03-15-58-3let4nbggvk2h/</link>
+      <pubDate>Fri, 03 Jan 2025 15:58:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-03-15-58-3let4nbggvk2h/</guid>
+      <description>&lt;p&gt;So, it appears you also need to &lt;a href=&#34;https://bsky.app/hashtag/cloudflare&#34;&gt;#Cloudflare&lt;/a&gt; DNS Challenge configuration in your &lt;a href=&#34;https://bsky.app/hashtag/caddyfile&#34;&gt;#Caddyfile&lt;/a&gt; if you&amp;rsquo;re using Cloudflare access policy for your service: &lt;a href=&#34;https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/&#34;&gt;deuts.org/∞&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/caddy&#34;&gt;#Caddy&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>So, it appears you also need to <a href="https://bsky.app/hashtag/cloudflare">#Cloudflare</a> DNS Challenge configuration in your <a href="https://bsky.app/hashtag/caddyfile">#Caddyfile</a> if you&rsquo;re using Cloudflare access policy for your service: <a href="https://deuts.org/p/caddy-docker-cloudflare-dns-challenge/">deuts.org/∞</a> <a href="https://bsky.app/hashtag/caddy">#Caddy</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lesw62kwvk25</title>
       <link>https://deuts.org/b/2025-01-03-14-03-3lesw62kwvk25/</link>
@@ -100,15 +109,6 @@
       <guid>https://deuts.org/b/2024-12-27-17-30-3leboic4a4k2h/</guid>
       <description>&lt;p&gt;Beelink SER5 Pro with AMD Ryzen 7 Pro 5850U, where were you not available by then when I bought my Beelink SER5 5650U? &lt;a href=&#34;https://ecommerce.datablitz.com.ph/collections/pc-mac/products/beelink-ser5-pro-amd-ryzen-7-pro-5850u-processor-32gb-ram-1tb-ssd-windows-11-pro-mini-pc-black&#34;&gt;ecommerce.datablitz.com.ph/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Beelink SER5 Pro with AMD Ryzen 7 Pro 5850U, where were you not available by then when I bought my Beelink SER5 5650U? <a href="https://ecommerce.datablitz.com.ph/collections/pc-mac/products/beelink-ser5-pro-amd-ryzen-7-pro-5850u-processor-32gb-ram-1tb-ssd-windows-11-pro-mini-pc-black">ecommerce.datablitz.com.ph/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3leavdh57as2h</title>
-      <link>https://deuts.org/b/2024-12-27-10-00-3leavdh57as2h/</link>
-      <pubDate>Fri, 27 Dec 2024 10:00:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-27-10-00-3leavdh57as2h/</guid>
-      <description>&lt;p&gt;I liked the new look of &lt;a href=&#34;https://bsky.app/hashtag/bitwarden&#34;&gt;#Bitwarden&lt;/a&gt;. You can now open the Chrome extension in a new windows even if you&amp;rsquo;ve already opened one of your accounts. Great for editing.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I liked the new look of <a href="https://bsky.app/hashtag/bitwarden">#Bitwarden</a>. You can now open the Chrome extension in a new windows even if you&rsquo;ve already opened one of your accounts. Great for editing.</p>
 ]]></content:encoded>
     </item>
   </channel>
