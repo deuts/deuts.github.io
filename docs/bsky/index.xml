@@ -7,8 +7,29 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 10:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 10:13:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lesjdhn6as25</title>
+      <link>https://deuts.org/b/2025-01-03-10-13-3lesjdhn6as25/</link>
+      <pubDate>Fri, 03 Jan 2025 10:13:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-03-10-13-3lesjdhn6as25/</guid>
+      <description>&lt;p&gt;My wishlist for &lt;a href=&#34;https://bsky.app/hashtag/opengist&#34;&gt;#OpenGist&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ability to add custom metadata&lt;/li&gt;
+&lt;li&gt;Home should point to All (existing) gists, not new gist&lt;/li&gt;
+&lt;li&gt;Better search, include description, url and any custom metadata in the search parameters and results.
+&lt;a href=&#34;https://github.com/thomiceli/opengist&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>My wishlist for <a href="https://bsky.app/hashtag/opengist">#OpenGist</a>:</p>
+<ol>
+<li>Ability to add custom metadata</li>
+<li>Home should point to All (existing) gists, not new gist</li>
+<li>Better search, include description, url and any custom metadata in the search parameters and results.
+<a href="https://github.com/thomiceli/opengist">github.com/∞</a></li>
+</ol>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lepzmm5jgc23</title>
       <link>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</link>
@@ -88,15 +109,6 @@
       <guid>https://deuts.org/b/2024-12-22-23-05-3ldvovcqdi22t/</guid>
       <description>&lt;p&gt;My single user &lt;a href=&#34;https://bsky.app/hashtag/gotosocial&#34;&gt;#GoToSocial&lt;/a&gt; instance is getting even bigger at 2.6gb, even though I didn&amp;rsquo;t really have much activities in the last 2 days. I wonder how big it&amp;rsquo;s really gonna get in say 6 months? I wonder how bigger it would have been if it were a single user instance of &lt;a href=&#34;https://bsky.app/hashtag/mastodon&#34;&gt;#Mastodon&lt;/a&gt;?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>My single user <a href="https://bsky.app/hashtag/gotosocial">#GoToSocial</a> instance is getting even bigger at 2.6gb, even though I didn&rsquo;t really have much activities in the last 2 days. I wonder how big it&rsquo;s really gonna get in say 6 months? I wonder how bigger it would have been if it were a single user instance of <a href="https://bsky.app/hashtag/mastodon">#Mastodon</a>?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3ldvo6t5ruk2t</title>
-      <link>https://deuts.org/b/2024-12-22-22-53-3ldvo6t5ruk2t/</link>
-      <pubDate>Sun, 22 Dec 2024 22:53:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-22-22-53-3ldvo6t5ruk2t/</guid>
-      <description>&lt;p&gt;I think I have too many Subreddit subscriptions. It&amp;rsquo;s time to leave some groups and narrow them down to the ones that truly interest me. &lt;a href=&#34;https://bsky.app/hashtag/reddit&#34;&gt;#Reddit&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I think I have too many Subreddit subscriptions. It&rsquo;s time to leave some groups and narrow them down to the ones that truly interest me. <a href="https://bsky.app/hashtag/reddit">#Reddit</a></p>
 ]]></content:encoded>
     </item>
   </channel>
