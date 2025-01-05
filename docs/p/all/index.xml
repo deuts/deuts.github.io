@@ -7,8 +7,35 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 18:36:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 09:03:38 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional Documentation for Hugo PaperMod Post Cover Image</title>
+      <link>https://deuts.org/p/add-docs-hugo-papermod-cover-image/</link>
+      <pubDate>Sun, 05 Jan 2025 09:03:38 +0800</pubDate>
+      <guid>https://deuts.org/p/add-docs-hugo-papermod-cover-image/</guid>
+      <description>Here&amp;#39;s how to set up a cover image in Hugo PaperMod posts, including the use of relative paths in page bundles to ensure the image links are correctly resolved.</description>
+      <content:encoded><![CDATA[<p>In the <a href="https://github.com/adityatelange/hugo-PaperMod/wiki/Features#post-cover-image">Hugo PaperMod wiki</a>, the process for adding a cover image to your posts is outlined. Below is the relevant frontmatter structure, taken directly from the wiki:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;&lt;image path/url&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># You can also use a direct link from an external site</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># Example: https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">alt</span>: <span style="color:#e6db74">&#34;&lt;alt text&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">caption</span>: <span style="color:#e6db74">&#34;&lt;text&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">false</span> <span style="color:#75715e"># Use relative path for cover image, particularly in Hugo page bundles</span>
+</span></span></code></pre></div><p>If you&rsquo;re working with <a href="https://gohugo.io/content-management/page-bundles/">page bundles</a> and your file structure looks like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>.
+</span></span><span style="display:flex;"><span>├── cover-image.jpg
+</span></span><span style="display:flex;"><span>└── index.md
+</span></span></code></pre></div><p>The frontmatter should be adjusted as follows:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;cover-image.jpg&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>It&rsquo;s important to set <code>relative: true</code> when using page bundles. If this isn&rsquo;t set, the <code>&lt;head&gt;</code> of your page will contain an incorrect link, leading to a 404 error, like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://deuts.org/cover-image.jpg&#34;</span>&gt;
+</span></span></code></pre></div><p>Setting <code>relative: true</code> ensures that the image link is correctly handled within the page bundle, avoiding broken links.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Hugo Automated Install and Update</title>
       <link>https://deuts.org/p/hugo-automated-install-and-update/</link>
@@ -447,67 +474,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
     </div>
     <div class="yt-separator">&nbsp;</div>
 
-]]></content:encoded>
-    </item>
-    <item>
-      <title>The story of a fly-by-night VPS host</title>
-      <link>https://deuts.org/p/slicehosting-fly-by-night/</link>
-      <pubDate>Thu, 28 Nov 2024 08:40:14 +0800</pubDate>
-      <guid>https://deuts.org/p/slicehosting-fly-by-night/</guid>
-      <description>Slicehosting abruptly closed its doors, citing management challenges. While they promised refunds, my experience with their slow storage and frequent downtimes highlights the risks of trusting fly-by-night VPS providers.</description>
-      <content:encoded><![CDATA[<p>Recently, a message was posted in Slicehosting&rsquo;s Discord server that left many customers, including myself, in disbelief:</p>
-<blockquote>
-<p><strong>Dear [Customers/All],</strong></p>
-<p>I regret to inform you that Slicehosting is now closed as I no longer have the time to manage it effectively. Refunds for any remaining subscription time have been issued and should appear in your bank accounts within 7 days.</p>
-<p>If anyone is interested in taking over this project, I am open to offers for a reasonable price. Please feel free to contact me at <a href="mailto:support@slicehosting.tech">support@slicehosting.tech</a> for further details.</p>
-<p>Thank you for your support, and I apologize for any inconvenience caused.</p>
-<p><strong>Best regards,</strong><br>
-<em>Shivang Shastri</em></p>
-</blockquote>
-<p>This announcement marked the abrupt end of a VPS provider that had appeared promising—at least at first glance.</p>
-<p>Back in September, I signed up for a Slicehosting VPS plan because they offered a deal that seemed too good to pass up. The service had even been mentioned on <a href="https://lowendbox.com/blog/did-you-miss-slicehostings-offer-in-june-theyve-restocked-cheap-vps-in-frankfurt-and-mumbai-starting-with-16gb-ram-for-6-month/">LowEndBox</a>, lending it some credibility. However, as things turned out, Slicehosting has joined the ranks of fly-by-night VPS providers.</p>
-<p>Here’s the plan I got:</p>
-<h2 id="plan-details">Plan Details</h2>
-<table>
-  <thead>
-      <tr>
-          <th><strong>Description</strong></th>
-          <th><strong>Value</strong></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Price ($/yr)</strong></td>
-          <td>12</td>
-      </tr>
-      <tr>
-          <td><strong>CPU Core</strong></td>
-          <td>2</td>
-      </tr>
-      <tr>
-          <td><strong>Memory (GB)</strong></td>
-          <td>4</td>
-      </tr>
-      <tr>
-          <td><strong>Storage (GB, HDD)</strong></td>
-          <td>20</td>
-      </tr>
-  </tbody>
-</table>
-<hr>
-<h2 id="my-experience">My Experience</h2>
-<p>While the plan looked appealing on paper, my time with Slicehosting was less than ideal. Here are some observations:</p>
-<h3 id="frequent-downtimes">Frequent Downtimes</h3>
-<p>Before this week’s closure announcement, I encountered <strong>several instances of prolonged downtime</strong>, sometimes lasting multiple days. This made the service unreliable, even for non-critical tasks.</p>
-<h3 id="underwhelming-performance">Underwhelming Performance</h3>
-<p>The <strong>HDD storage</strong> was painfully slow. During performance tests, I compared the VPS’s storage to a directory mounted via rclone from OneDrive—and shockingly, the <strong>rclone-mounted directory outperformed the VPS’s local storage</strong>.</p>
-<h3 id="refunds-wishful-thinking">Refunds: Wishful Thinking?</h3>
-<p>In their message, Slicehosting mentioned issuing refunds for unused subscription time. While I remain hopeful, I can&rsquo;t help but be skeptical given how chaotic things have been.</p>
-<hr>
-<h2 id="final-thoughts">Final Thoughts</h2>
-<p>Slicehosting’s closure is disappointing but not entirely surprising given the red flags many users observed over the past months. This experience underscores the importance of vetting VPS providers, especially when deals seem too good to be true.</p>
-<p>For those affected, the promise of refunds offers a glimmer of hope, but only time will tell if Slicehosting follows through.</p>
-<p>If you&rsquo;re considering a budget VPS provider, learn from experiences like this: read reviews, test performance, and, when possible, pay monthly to avoid being stuck in situations like this.</p>
 ]]></content:encoded>
     </item>
   </channel>
