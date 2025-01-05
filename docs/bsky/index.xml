@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 09:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 12:45:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lexsr6pak22o</title>
+      <link>https://deuts.org/b/2025-01-05-12-45-3lexsr6pak22o/</link>
+      <pubDate>Sun, 05 Jan 2025 12:45:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-05-12-45-3lexsr6pak22o/</guid>
+      <description>&lt;p&gt;On Plex vs. Jellyfin, why not use both instead?
+&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/xkiAjCDLYg&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>On Plex vs. Jellyfin, why not use both instead?
+<a href="https://www.reddit.com/r/selfhosted/s/xkiAjCDLYg">www.reddit.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lexha4e7l22c</title>
       <link>https://deuts.org/b/2025-01-05-09-19-3lexha4e7l22c/</link>
@@ -102,15 +113,6 @@
       <guid>https://deuts.org/b/2024-12-29-08-13-3lefqbnfrec2b/</guid>
       <description>&lt;p&gt;Projectivy and FLauncher are 2 of Google/Android TV launchers I need to check out. &lt;a href=&#34;https://www.reddit.com/r/Chromecast/s/5Njm7iGI2K&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Projectivy and FLauncher are 2 of Google/Android TV launchers I need to check out. <a href="https://www.reddit.com/r/Chromecast/s/5Njm7iGI2K">www.reddit.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3leeblsfh522r</title>
-      <link>https://deuts.org/b/2024-12-28-18-17-3leeblsfh522r/</link>
-      <pubDate>Sat, 28 Dec 2024 18:17:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-28-18-17-3leeblsfh522r/</guid>
-      <description>&lt;p&gt;Received an email from GreenCloud &lt;a href=&#34;https://bsky.app/hashtag/vps&#34;&gt;#VPS&lt;/a&gt; yesterday, saying they&amp;rsquo;re migrating control panel from SolusVM to VirtFusion, but they&amp;rsquo;re letting customers take care of the backup and restore process. Why can&amp;rsquo;t there just be a more seamless process for customers instead? &lt;a href=&#34;https://deuts.org/p/the-true-cost-of-cheap-vps/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Received an email from GreenCloud <a href="https://bsky.app/hashtag/vps">#VPS</a> yesterday, saying they&rsquo;re migrating control panel from SolusVM to VirtFusion, but they&rsquo;re letting customers take care of the backup and restore process. Why can&rsquo;t there just be a more seamless process for customers instead? <a href="https://deuts.org/p/the-true-cost-of-cheap-vps/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
