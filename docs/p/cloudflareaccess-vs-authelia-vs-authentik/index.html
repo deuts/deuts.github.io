@@ -41,9 +41,9 @@
     <meta property="article:tag" content="Cloudflare">
     <meta property="article:tag" content="Authentication">
     <meta property="article:tag" content="Security">
-    <meta property="og:image" content="https://deuts.org/cloudflare.png">
+    <meta property="og:image" content="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/cloudflare.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://deuts.org/cloudflare.png">
+<meta name="twitter:image" content="https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/cloudflare.png">
 <meta name="twitter:title" content="I Choose Cloudflare Access over Authelia/Authentik">
 <meta name="twitter:description" content="A comparison of the complexities and risks of Authelia and Authentik with the simplicity and reliability of using Cloudflare Access for application security.">
 
@@ -62,7 +62,7 @@
   "articleBody": "When it comes to securing your applications, the choice often boils down to what best fits your needs and resources. After exploring my options, I decided that Cloudflare Access was the right tool for the job.\nThe Complexity of Authelia and Authentik Authelia and Authentik are robust tools for managing application security, but using them comes with several challenges:\nComplex Setup: Setting up either solution requires multiple Docker containers—typically three or four—for just a single instance. Server Overhead: Running these extra containers means higher resource consumption, which can strain your server and add unnecessary maintenance. Single Point of Failure: These systems act as gatekeepers for your applications. If they go down, so does access to all your apps—even simple, low-risk ones. This creates a dependency that adds unnecessary risk, especially for small-scale projects. Time Investment: Learning to configure and maintain these systems demands significant time and effort—something not always feasible for smaller projects. Why I Chose Cloudflare Access Rather than spending my time managing self-hosted tools like Authelia or Authentik, I turned to Cloudflare Access. Here’s what makes it stand out:\nCentralized Management: Cloudflare Access provides a unified dashboard to easily manage all your applications in one place. Straightforward Setup: There’s no need for additional containers or a complicated configuration process—just a few steps and you’re up and running. Domain-Level Implementation: Cloudflare Access is implemented directly at the domain or subdomain level, eliminating the need to spin up yet another Docker container to manage access. This makes it lightweight and efficient. Built-In Resilience: Unlike Authelia or Authentik, Cloudflare Access avoids creating a single point of failure. Cloudflare’s globally distributed infrastructure ensures that your applications remain available, even in the face of disruptions. Seamless Integration: It works smoothly with popular identity providers like Google Workspace and GitHub, simplifying authentication management. Zero Trust Security: Cloudflare Access includes powerful features like Zero Trust policies and device posture checks, ensuring only authorized users can access your applications. Bonus Benefits: Using Cloudflare Access means leveraging Cloudflare’s network for additional perks like DDoS protection and improved application performance. Why It Might Be Right for You If your goal is to simplify application security without sacrificing reliability, Cloudflare Access is an excellent choice. It eliminates the complexity of self-hosted solutions, reduces server overhead, and removes the risk of losing access due to a single point of failure.\n",
   "wordCount" : "390",
   "inLanguage": "en",
-  "image":"https://deuts.org/cloudflare.png","datePublished": "2024-11-18T09:37:51+08:00",
+  "image":"https://deuts.org/p/cloudflareaccess-vs-authelia-vs-authentik/cloudflare.png","datePublished": "2024-11-18T09:37:51+08:00",
   "dateModified": "2024-11-18T09:37:51+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",

@@ -39,9 +39,9 @@
     <meta property="article:published_time" content="2024-11-21T13:53:32+08:00">
     <meta property="article:modified_time" content="2024-11-21T13:53:32+08:00">
     <meta property="article:tag" content="Blogging">
-    <meta property="og:image" content="https://deuts.org/hugo-content-structure.jpg">
+    <meta property="og:image" content="https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://deuts.org/hugo-content-structure.jpg">
+<meta name="twitter:image" content="https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure.jpg">
 <meta name="twitter:title" content="Understanding Hugo’s Section Structure with `_index.md` Files">
 <meta name="twitter:description" content="Hugo’s sections are defined by directories containing `_index.md` files. This post explains how Hugo handles sections and subsections, including how content from a subsection’s `_index.md` appears in the parent section.">
 
@@ -60,7 +60,7 @@
   "articleBody": "Understanding Hugo’s Section Structure Hugo organizes content into sections based on directories that contain an _index.md file. This file acts as the homepage for the section and controls how content is displayed. Here’s how sections and subsections behave:\nSections in Hugo Parent Section (_index.md):\nA folder with an _index.md file defines a section. Hugo lists the content from this section, including content from any subsections (directories with their own _index.md files). Subsection (Subfolder with _index.md):\nA subfolder with its own _index.md file defines a subsection. The content from this subsection’s _index.md will appear as part of the parent section’s content. Example Structure content/staging ├── _index.md # Section 1 (Homepage) ├── new-post/index.md └── sample ├── _index.md # Section 2 (Homepage) ├── check.md └── post.md Section 1: Lists new-post/index.md and includes content from sample/_index.md (Section 2), displaying it as part of Section 1. Section 2: Lists content files check.md and post.md as part of its own content. Key Takeaways Parent sections list and display content from their subsections, including the content from the _index.md of the subsections. Subsections list their own content (like check.md, post.md) but not the content from the parent section. ",
   "wordCount" : "191",
   "inLanguage": "en",
-  "image":"https://deuts.org/hugo-content-structure.jpg","datePublished": "2024-11-21T13:53:32+08:00",
+  "image":"https://deuts.org/p/understanding-hugo-sections-index/hugo-content-structure.jpg","datePublished": "2024-11-21T13:53:32+08:00",
   "dateModified": "2024-11-21T13:53:32+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",

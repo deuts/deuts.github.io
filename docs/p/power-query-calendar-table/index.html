@@ -43,9 +43,9 @@
     <meta property="article:tag" content="Data-Modeling">
     <meta property="article:tag" content="Dax">
     <meta property="article:tag" content="Power-Bi">
-    <meta property="og:image" content="https://deuts.org/calendar-table-cover.jpg">
+    <meta property="og:image" content="https://deuts.org/p/power-query-calendar-table/calendar-table-cover.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://deuts.org/calendar-table-cover.jpg">
+<meta name="twitter:image" content="https://deuts.org/p/power-query-calendar-table/calendar-table-cover.jpg">
 <meta name="twitter:title" content="Power Query Calendar Table">
 <meta name="twitter:description" content="Discover the importance of a calendar table in data modeling and how it simplifies date-based analysis, advanced calculations, and filtering. Struggling with DAX bugs? Power Query offers a robust alternative for generating a dynamic calendar table effortlessly.">
 
@@ -64,7 +64,7 @@
   "articleBody": "A calendar table is an essential component of effective data modeling. It serves as a centralized hub for date-related calculations, enabling analysts to unlock powerful insights while maintaining a clean and organized model.\nPurpose of a Calendar Table Date-based Analysis: A calendar table allows for consistent time-based aggregations, such as year-to-date (YTD), quarter-over-quarter (QoQ), and month-over-month (MoM) comparisons. Handling Complex Calculations: Advanced calculations like working days, fiscal calendars, or custom holidays become easier with a well-structured calendar table. Seamless Filtering: Calendar tables provide a single source of truth for date filtering across related tables, ensuring accuracy. Improved Performance: Predefined relationships between the calendar and fact tables improve query performance and reduce the need for repeated calculations. Creating Calendar Table in Power Query In my Excel workflow, I encountered an unusual bug while generating a Calendar table with DAX, possibly related to differences in date formats (mm/dd/yyyy vs. dd/mm/yyyy). Because of this, I prefer using Power Query to create Calendar tables. If you feel the same way, here’s the code to generate a dynamic Calendar table:\nlet StartDate = #date(2022,1,1), EndDate = #date(2023,12,31), Source = List.Dates(StartDate,Duration.Days(EndDate-StartDate)+1,#duration(1,0,0,0)), ExpandDate = Table.TransformColumnTypes(Table.RenameColumns(Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),{{\"Column1\", \"Date\"}}),{{\"Date\", type date}}), InsertYear = Table.AddColumn(ExpandDate, \"Year\", each Date.Year([Date]), Int64.Type), InsertMonNum = Table.AddColumn(InsertYear, \"MonNum\", each Date.Month([Date]), Int64.Type), InsertMonth = Table.AddColumn(InsertMonNum, \"Month\", each Text.Start(Date.MonthName([Date]), 3), type text) in InsertMonth How to Use This Code: Paste it into Power Query’s Advanced Editor. Adjust the StartDate and EndDate to fit your needs. Load the table into your model. By incorporating a calendar table into your data model, you gain the ability to perform more advanced and precise analysis while streamlining your workflow. Whether you use DAX or Power Query, the results will elevate the power and efficiency of your reporting.\n",
   "wordCount" : "289",
   "inLanguage": "en",
-  "image":"https://deuts.org/calendar-table-cover.jpg","datePublished": "2024-11-19T09:19:01+08:00",
+  "image":"https://deuts.org/p/power-query-calendar-table/calendar-table-cover.jpg","datePublished": "2024-11-19T09:19:01+08:00",
   "dateModified": "2024-11-19T09:19:01+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
