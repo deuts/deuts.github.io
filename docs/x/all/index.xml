@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 17:56:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 22:58:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lf3fiombq22e</title>
+      <link>https://deuts.org/x/2025-01-06-22-58-3lf3fiombq22e/</link>
+      <pubDate>Mon, 06 Jan 2025 22:58:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-06-22-58-3lf3fiombq22e/</guid>
+      <description>&lt;p&gt;Goodly now has a new book on Power Query M: &lt;a href=&#34;https://goodly.co.in/power-query-book/&#34;&gt;goodly.co.in/∞&lt;/a&gt; Looking at the sample content though, I think this book is geared towards intermediate level users. For more advanced applications, I think the Definitive Guide be Rick De Groot is still better: &lt;a href=&#34;https://www.packtpub.com/en-ph/product/the-definitive-guide-to-power-query-m-9781835086162&#34;&gt;www.packtpub.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Goodly now has a new book on Power Query M: <a href="https://goodly.co.in/power-query-book/">goodly.co.in/∞</a> Looking at the sample content though, I think this book is geared towards intermediate level users. For more advanced applications, I think the Definitive Guide be Rick De Groot is still better: <a href="https://www.packtpub.com/en-ph/product/the-definitive-guide-to-power-query-m-9781835086162">www.packtpub.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lf2umv5u2k2u</title>
       <link>https://deuts.org/x/2025-01-06-17-56-3lf2umv5u2k2u/</link>
@@ -217,17 +226,6 @@
     The prioritization of settings in the official documentation is not clearly outlined, so this guide organizes the process.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lexha4e7l22c</title>
-      <link>https://deuts.org/x/2025-01-05-09-19-3lexha4e7l22c/</link>
-      <pubDate>Sun, 05 Jan 2025 09:19:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-05-09-19-3lexha4e7l22c/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been using Hugo Papermod&amp;rsquo;s Cover Image wrong in the past, that&amp;rsquo;s why my links didn&amp;rsquo;t use to have cover images here. Now I know. &lt;a href=&#34;https://bsky.app/hashtag/gohugo&#34;&gt;#GoHugo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://deuts.org/p/add-docs-hugo-papermod-cover-image/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;ve been using Hugo Papermod&rsquo;s Cover Image wrong in the past, that&rsquo;s why my links didn&rsquo;t use to have cover images here. Now I know. <a href="https://bsky.app/hashtag/gohugo">#GoHugo</a></p>
-<p><a href="https://deuts.org/p/add-docs-hugo-papermod-cover-image/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
