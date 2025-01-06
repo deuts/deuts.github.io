@@ -126,11 +126,11 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
 ]]></content:encoded>
     </item>
     <item>
-      <title>Integrate Bluesky replies as your blog&#39;s comment section in gohugo.io framework</title>
-      <link>https://deuts.org/x/289-integrate-bluesky-replies-as-your-blog-s-comment-section-in-gohugo-io-framework/</link>
+      <title>Bluesky comments in Hugo</title>
+      <link>https://deuts.org/x/289-bluesky-comments-in-hugo/</link>
       <pubDate>Fri, 13 Dec 2024 09:14:54 +0800</pubDate>
-      <guid>https://deuts.org/x/289-integrate-bluesky-replies-as-your-blog-s-comment-section-in-gohugo-io-framework/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-289&#34;&gt;&lt;a href=&#34;https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d&#34;&gt;Integrate Bluesky replies as your blog&amp;#39;s comment section in gohugo.io framework&lt;/a&gt;&lt;/h3&gt;
+      <guid>https://deuts.org/x/289-bluesky-comments-in-hugo/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-289&#34;&gt;&lt;a href=&#34;https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d&#34;&gt;Bluesky comments in Hugo&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-289 {
     background: url(&#39;https://bm.deuts.org/static/https_gist_github_com.png&#39;) no-repeat left center;
@@ -138,9 +138,9 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Integrate Bluesky replies as your blog&amp;rsquo;s comment section in gohugo.io framework - gohugo_bsky_comments.md
+    Integrate Bluesky replies as your blog&amp;rsquo;s comment section in gohugo.io framework
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-289"><a href="https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d">Integrate Bluesky replies as your blog&#39;s comment section in gohugo.io framework</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-289"><a href="https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d">Bluesky comments in Hugo</a></h3>
 <style>
 .favicon-289 {
     background: url('https://bm.deuts.org/static/https_gist_github_com.png') no-repeat left center;
@@ -148,7 +148,7 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
 </style>
 
 <blockquote class="linkding-description">
-    Integrate Bluesky replies as your blog&rsquo;s comment section in gohugo.io framework - gohugo_bsky_comments.md
+    Integrate Bluesky replies as your blog&rsquo;s comment section in gohugo.io framework
 </blockquote>
   
 ]]></content:encoded>
