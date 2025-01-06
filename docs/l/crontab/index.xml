@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crontab on Deuts Log</title>
+    <link>https://deuts.org/l/crontab/</link>
+    <description>Recent content in Crontab on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 09:27:27 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/crontab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Crontab</title>
+      <link>https://deuts.org/x/283-docker-crontab/</link>
+      <pubDate>Wed, 11 Dec 2024 09:27:27 +0800</pubDate>
+      <guid>https://deuts.org/x/283-docker-crontab/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-283&#34;&gt;&lt;a href=&#34;https://github.com/davidhfrankelcodes/docker-crontab&#34;&gt;Docker Crontab&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-283 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    It&amp;rsquo;s crontab but in a container. No ports. No GUI. No BS. Just cron in a container. Why? Because someone decided that setting up cron jobs the normal way wasn&amp;rsquo;t edgy enough. Now you get to deal with Docker AND cron at the same time. You&amp;rsquo;re welcome.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I assume this will make the crontab so much easier to backup and restore in a new system.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-283"><a href="https://github.com/davidhfrankelcodes/docker-crontab">Docker Crontab</a></h3>
+<style>
+.favicon-283 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    It&rsquo;s crontab but in a container. No ports. No GUI. No BS. Just cron in a container. Why? Because someone decided that setting up cron jobs the normal way wasn&rsquo;t edgy enough. Now you get to deal with Docker AND cron at the same time. You&rsquo;re welcome.
+</blockquote>
+  
+<div class="linkding-notes">
+    I assume this will make the crontab so much easier to backup and restore in a new system.
+</div>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

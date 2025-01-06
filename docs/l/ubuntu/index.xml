@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ubuntu on Deuts Log</title>
+    <link>https://deuts.org/l/ubuntu/</link>
+    <description>Recent content in Ubuntu on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 07:02:20 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replace Snap with Flatpak on Ubuntu – XdN</title>
+      <link>https://deuts.org/x/105-replace-snap-with-flatpak-on-ubuntu-xdn/</link>
+      <pubDate>Thu, 20 Jun 2024 07:02:20 +0800</pubDate>
+      <guid>https://deuts.org/x/105-replace-snap-with-flatpak-on-ubuntu-xdn/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-105&#34;&gt;&lt;a href=&#34;https://xenomorph.net/linux/ubuntu/misc/replace-snap-with-flatpak/&#34;&gt;Replace Snap with Flatpak on Ubuntu – XdN&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-105 {
+    background: url(&#39;https://bm.deuts.org/static/https_xenomorph_net.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-105"><a href="https://xenomorph.net/linux/ubuntu/misc/replace-snap-with-flatpak/">Replace Snap with Flatpak on Ubuntu – XdN</a></h3>
+<style>
+.favicon-105 {
+    background: url('https://bm.deuts.org/static/https_xenomorph_net.png') no-repeat left center;
+}
+</style>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Download | Notepadqq</title>
+      <link>https://deuts.org/x/102-download-notepadqq/</link>
+      <pubDate>Fri, 14 Jun 2024 10:14:52 +0800</pubDate>
+      <guid>https://deuts.org/x/102-download-notepadqq/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-102&#34;&gt;&lt;a href=&#34;https://notepadqq.com/wp/download/&#34;&gt;Download | Notepadqq&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-102 {
+    background: url(&#39;https://bm.deuts.org/static/https_notepadqq_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    For Ubuntu and most other distributions Just run the following command in a terminal window: sudo apt install notepadqq &amp;lt;!–sudo snap install –classic notepadqq (if your distro doesn&amp;amp;…
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-102"><a href="https://notepadqq.com/wp/download/">Download | Notepadqq</a></h3>
+<style>
+.favicon-102 {
+    background: url('https://bm.deuts.org/static/https_notepadqq_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    For Ubuntu and most other distributions Just run the following command in a terminal window: sudo apt install notepadqq &lt;!–sudo snap install –classic notepadqq (if your distro doesn&amp;…
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to install Flatpak on Ubuntu: Step-by-step guide - OMG! Ubuntu</title>
+      <link>https://deuts.org/x/101-how-to-install-flatpak-on-ubuntu-step-by-step-guide-omg-ubuntu/</link>
+      <pubDate>Fri, 14 Jun 2024 09:09:09 +0800</pubDate>
+      <guid>https://deuts.org/x/101-how-to-install-flatpak-on-ubuntu-step-by-step-guide-omg-ubuntu/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-101&#34;&gt;&lt;a href=&#34;https://www.omgubuntu.co.uk/how-to-install-flatpak-on-ubuntu&#34;&gt;How to install Flatpak on Ubuntu: Step-by-step guide - OMG! Ubuntu&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-101 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_omgubuntu_co_uk.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Learn how to install Flatpak on Ubuntu 18.04 LTS or later to access hundreds of Flatpak apps available on Flathub — it&amp;rsquo;s easier than you think!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-101"><a href="https://www.omgubuntu.co.uk/how-to-install-flatpak-on-ubuntu">How to install Flatpak on Ubuntu: Step-by-step guide - OMG! Ubuntu</a></h3>
+<style>
+.favicon-101 {
+    background: url('https://bm.deuts.org/static/https_www_omgubuntu_co_uk.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Learn how to install Flatpak on Ubuntu 18.04 LTS or later to access hundreds of Flatpak apps available on Flathub — it&rsquo;s easier than you think!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Install and Use Flatpak on Ubuntu</title>
+      <link>https://deuts.org/x/100-install-and-use-flatpak-on-ubuntu/</link>
+      <pubDate>Fri, 14 Jun 2024 09:05:46 +0800</pubDate>
+      <guid>https://deuts.org/x/100-install-and-use-flatpak-on-ubuntu/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-100&#34;&gt;&lt;a href=&#34;https://itsfoss.com/flatpak-ubuntu/&#34;&gt;Install and Use Flatpak on Ubuntu&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-100 {
+    background: url(&#39;https://bm.deuts.org/static/https_itsfoss_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Ubuntu may come with Snap by default but you could still enjoy the Flatpak universal packages on it. Learn to install and use Fltapak on Ubuntu.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-100"><a href="https://itsfoss.com/flatpak-ubuntu/">Install and Use Flatpak on Ubuntu</a></h3>
+<style>
+.favicon-100 {
+    background: url('https://bm.deuts.org/static/https_itsfoss_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Ubuntu may come with Snap by default but you could still enjoy the Flatpak universal packages on it. Learn to install and use Fltapak on Ubuntu.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

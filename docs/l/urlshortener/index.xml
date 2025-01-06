@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>URLShortener on Deuts Log</title>
+    <link>https://deuts.org/l/urlshortener/</link>
+    <description>Recent content in URLShortener on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 22:21:57 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/urlshortener/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoShort URL Shortener</title>
+      <link>https://deuts.org/x/310-goshort-url-shortener/</link>
+      <pubDate>Fri, 03 Jan 2025 22:21:57 +0800</pubDate>
+      <guid>https://deuts.org/x/310-goshort-url-shortener/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-310&#34;&gt;&lt;a href=&#34;https://github.com/kek-Sec/GoShort&#34;&gt;GoShort URL Shortener&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-310 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    GoShort is a fast and customizable URL shortener built with Go , Svelte and TailwindCSS. It is designed to be self-hosted and easy to deploy.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    One of the many self-hostable URL shortener we might want to check out later.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-310"><a href="https://github.com/kek-Sec/GoShort">GoShort URL Shortener</a></h3>
+<style>
+.favicon-310 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    GoShort is a fast and customizable URL shortener built with Go , Svelte and TailwindCSS. It is designed to be self-hosted and easy to deploy.
+</blockquote>
+  
+<div class="linkding-notes">
+    One of the many self-hostable URL shortener we might want to check out later.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Simple URL Shortener Service (SSURLSS)</title>
+      <link>https://deuts.org/x/260-super-simple-url-shortener-service-ssurlss/</link>
+      <pubDate>Fri, 22 Nov 2024 23:07:36 +0800</pubDate>
+      <guid>https://deuts.org/x/260-super-simple-url-shortener-service-ssurlss/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-260&#34;&gt;&lt;a href=&#34;https://github.com/Hoverth/ssurlss?ref=selfh.st&#34;&gt;Super Simple URL Shortener Service (SSURLSS)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-260 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Super Simple URL Shortener Service, written in Rust, with Docker in mind.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-260"><a href="https://github.com/Hoverth/ssurlss?ref=selfh.st">Super Simple URL Shortener Service (SSURLSS)</a></h3>
+<style>
+.favicon-260 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Super Simple URL Shortener Service, written in Rust, with Docker in mind.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

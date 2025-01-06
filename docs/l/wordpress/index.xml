@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WordPress on Deuts Log</title>
+    <link>https://deuts.org/l/wordpress/</link>
+    <description>Recent content in WordPress on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Tue, 22 Oct 2024 19:04:21 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress to Hugo Exporter</title>
+      <link>https://deuts.org/x/229-wordpress-to-hugo-exporter/</link>
+      <pubDate>Tue, 22 Oct 2024 19:04:21 +0800</pubDate>
+      <guid>https://deuts.org/x/229-wordpress-to-hugo-exporter/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-229&#34;&gt;&lt;a href=&#34;https://github.com/SchumacherFM/wordpress-to-hugo-exporter&#34;&gt;WordPress to Hugo Exporter&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-229 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome! - SchumacherFM/wordpress-to-hugo-exporter
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;This is not working for me. At least for deuts.net&lt;/p&gt;
+&lt;p&gt;Might have to try out the cli version instead.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-229"><a href="https://github.com/SchumacherFM/wordpress-to-hugo-exporter">WordPress to Hugo Exporter</a></h3>
+<style>
+.favicon-229 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome! - SchumacherFM/wordpress-to-hugo-exporter
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>This is not working for me. At least for deuts.net</p>
+<p>Might have to try out the cli version instead.</p>
+
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenPGP Form Encryption for WordPress – WordPress plugin | WordPress.org</title>
+      <link>https://deuts.org/x/185-openpgp-form-encryption-for-wordpress-wordpress-plugin-wordpress-org/</link>
+      <pubDate>Sun, 15 Sep 2024 14:59:49 +0800</pubDate>
+      <guid>https://deuts.org/x/185-openpgp-form-encryption-for-wordpress-wordpress-plugin-wordpress-org/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-185&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/openpgp-form-encryption/#how%20do%20i%20get%20a%20public%20key%3F&#34;&gt;OpenPGP Form Encryption for WordPress – WordPress plugin | WordPress.org&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-185 {
+    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    OpenPGP public key encryption for any textarea with a shortcode button.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-185"><a href="https://wordpress.org/plugins/openpgp-form-encryption/#how%20do%20i%20get%20a%20public%20key%3F">OpenPGP Form Encryption for WordPress – WordPress plugin | WordPress.org</a></h3>
+<style>
+.favicon-185 {
+    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    OpenPGP public key encryption for any textarea with a shortcode button.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Database Queries in WordPress | WordPress Tutorials - YouTube</title>
+      <link>https://deuts.org/x/75-custom-database-queries-in-wordpress-wordpress-tutorials-youtube/</link>
+      <pubDate>Wed, 29 May 2024 21:32:51 +0800</pubDate>
+      <guid>https://deuts.org/x/75-custom-database-queries-in-wordpress-wordpress-tutorials-youtube/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-75&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=IM6zohH4B3E&amp;amp;si=KqM3KPDNaZPIKbs2&#34;&gt;Custom Database Queries in WordPress | WordPress Tutorials - YouTube&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-75 {
+    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Custom WordPress Database Queries as requested.. Use $wpdb WordPress object to do a database query.Company Website: &lt;a href=&#34;https://www.ideapro.com&#34;&gt;https://www.ideapro.com&lt;/a&gt;SEND BUSINESS CORR&amp;hellip;
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-75"><a href="https://youtube.com/watch?v=IM6zohH4B3E&amp;si=KqM3KPDNaZPIKbs2">Custom Database Queries in WordPress | WordPress Tutorials - YouTube</a></h3>
+<style>
+.favicon-75 {
+    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Custom WordPress Database Queries as requested.. Use $wpdb WordPress object to do a database query.Company Website: <a href="https://www.ideapro.com">https://www.ideapro.com</a>SEND BUSINESS CORR&hellip;
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>WP Data Access</title>
+      <link>https://deuts.org/x/73-wp-data-access/</link>
+      <pubDate>Tue, 28 May 2024 22:33:37 +0800</pubDate>
+      <guid>https://deuts.org/x/73-wp-data-access/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-73&#34;&gt;&lt;a href=&#34;https://wpdataaccess.com/&#34;&gt;WP Data Access&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-73 {
+    background: url(&#39;https://bm.deuts.org/static/https_wpdataaccess_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    I think this is the ultimate plugin to create low-code no-code apps in WordPress.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-73"><a href="https://wpdataaccess.com/">WP Data Access</a></h3>
+<style>
+.favicon-73 {
+    background: url('https://bm.deuts.org/static/https_wpdataaccess_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    I think this is the ultimate plugin to create low-code no-code apps in WordPress.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Why WordPress won the CMS war on Reddit</title>
+      <link>https://deuts.org/x/42-why-wordpress-won-the-cms-war-on-reddit/</link>
+      <pubDate>Mon, 08 Apr 2024 07:42:43 +0800</pubDate>
+      <guid>https://deuts.org/x/42-why-wordpress-won-the-cms-war-on-reddit/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-42&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/Wordpress/s/fmdrSXFWLV&#34;&gt;Why WordPress won the CMS war on Reddit&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-42 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-42"><a href="https://www.reddit.com/r/Wordpress/s/fmdrSXFWLV">Why WordPress won the CMS war on Reddit</a></h3>
+<style>
+.favicon-42 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+}
+</style>
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

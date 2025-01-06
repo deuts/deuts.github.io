@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Speedtest on Deuts Log</title>
+    <link>https://deuts.org/l/speedtest/</link>
+    <description>Recent content in Speedtest on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 12:05:16 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/speedtest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying Speedtest Tracker with Docker Compose</title>
+      <link>https://deuts.org/x/295-deploying-speedtest-tracker-with-docker-compose/</link>
+      <pubDate>Mon, 16 Dec 2024 12:05:16 +0800</pubDate>
+      <guid>https://deuts.org/x/295-deploying-speedtest-tracker-with-docker-compose/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-295&#34;&gt;&lt;a href=&#34;https://docs.techdox.nz/speedtest-tracker/&#34;&gt;Deploying Speedtest Tracker with Docker Compose&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-295 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_techdox_nz.jpg&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&amp;rsquo;s Speedtest service.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-295"><a href="https://docs.techdox.nz/speedtest-tracker/">Deploying Speedtest Tracker with Docker Compose</a></h3>
+<style>
+.favicon-295 {
+    background: url('https://bm.deuts.org/static/https_docs_techdox_nz.jpg') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&rsquo;s Speedtest service.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MySpeed - Automated Speedtests</title>
+      <link>https://deuts.org/x/164-myspeed-automated-speedtests/</link>
+      <pubDate>Sat, 10 Aug 2024 21:17:15 +0800</pubDate>
+      <guid>https://deuts.org/x/164-myspeed-automated-speedtests/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-164&#34;&gt;&lt;a href=&#34;https://myspeed.dev/&#34;&gt;MySpeed - Automated Speedtests&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-164 {
+    background: url(&#39;https://bm.deuts.org/static/https_myspeed_dev.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A speed test analysis software that shows your internet speed for up to 30 days
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-164"><a href="https://myspeed.dev/">MySpeed - Automated Speedtests</a></h3>
+<style>
+.favicon-164 {
+    background: url('https://bm.deuts.org/static/https_myspeed_dev.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A speed test analysis software that shows your internet speed for up to 30 days
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

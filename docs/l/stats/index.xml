@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stats on Deuts Log</title>
+    <link>https://deuts.org/l/stats/</link>
+    <description>Recent content in Stats on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Thu, 25 Jul 2024 13:11:49 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - henrygd/beszel: A lightweight server monitoring hub with historical data, docker stats, and alerts.</title>
+      <link>https://deuts.org/x/138-github-henrygd-beszel-a-lightweight-server-monitoring-hub-with-historical-data-docker-stats-and-alerts/</link>
+      <pubDate>Thu, 25 Jul 2024 13:11:49 +0800</pubDate>
+      <guid>https://deuts.org/x/138-github-henrygd-beszel-a-lightweight-server-monitoring-hub-with-historical-data-docker-stats-and-alerts/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-138&#34;&gt;&lt;a href=&#34;https://github.com/henrygd/beszel&#34;&gt;GitHub - henrygd/beszel: A lightweight server monitoring hub with historical data, docker stats, and alerts.&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-138 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;A lightweight server monitoring hub with historical data, docker stats, and alerts. - henrygd/beszel&lt;/p&gt;
+&lt;p&gt;On Reddit &lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/getQ3NbzNL&#34;&gt;https://www.reddit.com/r/selfhosted/s/getQ3NbzNL&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-138"><a href="https://github.com/henrygd/beszel">GitHub - henrygd/beszel: A lightweight server monitoring hub with historical data, docker stats, and alerts.</a></h3>
+<style>
+.favicon-138 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>A lightweight server monitoring hub with historical data, docker stats, and alerts. - henrygd/beszel</p>
+<p>On Reddit <a href="https://www.reddit.com/r/selfhosted/s/getQ3NbzNL">https://www.reddit.com/r/selfhosted/s/getQ3NbzNL</a></p>
+
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

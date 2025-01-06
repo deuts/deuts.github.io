@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reddit on Deuts Log</title>
+    <link>https://deuts.org/l/reddit/</link>
+    <description>Recent content in Reddit on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 22:43:08 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lurker - a selfhostable read-only Reddit client</title>
+      <link>https://deuts.org/x/312-lurker-a-selfhostable-read-only-reddit-client/</link>
+      <pubDate>Fri, 03 Jan 2025 22:43:08 +0800</pubDate>
+      <guid>https://deuts.org/x/312-lurker-a-selfhostable-read-only-reddit-client/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-312&#34;&gt;&lt;a href=&#34;https://github.com/oppiliappan/lurker&#34;&gt;Lurker - a selfhostable read-only Reddit client&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-312 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    It is better than old-reddit because it renders well on mobile, it respects prefers-color-scheme, no account necessary to subscribe to subreddits, and no account necessary for over-18 content
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-312"><a href="https://github.com/oppiliappan/lurker">Lurker - a selfhostable read-only Reddit client</a></h3>
+<style>
+.favicon-312 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    It is better than old-reddit because it renders well on mobile, it respects prefers-color-scheme, no account necessary to subscribe to subreddits, and no account necessary for over-18 content
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

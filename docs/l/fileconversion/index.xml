@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FileConversion on Deuts Log</title>
+    <link>https://deuts.org/l/fileconversion/</link>
+    <description>Recent content in FileConversion on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Thu, 18 Apr 2024 13:46:59 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/fileconversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - danvergara/morphos: Self-hosted file converter server</title>
+      <link>https://deuts.org/x/51-github-danvergara-morphos-self-hosted-file-converter-server/</link>
+      <pubDate>Thu, 18 Apr 2024 13:46:59 +0800</pubDate>
+      <guid>https://deuts.org/x/51-github-danvergara-morphos-self-hosted-file-converter-server/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-51&#34;&gt;&lt;a href=&#34;https://github.com/danvergara/morphos&#34;&gt;GitHub - danvergara/morphos: Self-hosted file converter server&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-51 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted file converter server. Contribute to danvergara/morphos development by creating an account on GitHub.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-51"><a href="https://github.com/danvergara/morphos">GitHub - danvergara/morphos: Self-hosted file converter server</a></h3>
+<style>
+.favicon-51 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted file converter server. Contribute to danvergara/morphos development by creating an account on GitHub.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

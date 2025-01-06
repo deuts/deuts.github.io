@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social on Deuts Log</title>
+    <link>https://deuts.org/l/social/</link>
+    <description>Recent content in Social on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 00:03:13 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hollo - Federated single-user microblogging software</title>
+      <link>https://deuts.org/x/263-hollo-federated-single-user-microblogging-software/</link>
+      <pubDate>Sat, 23 Nov 2024 00:03:13 +0800</pubDate>
+      <guid>https://deuts.org/x/263-hollo-federated-single-user-microblogging-software/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-263&#34;&gt;&lt;a href=&#34;https://github.com/dahlia/hollo&#34;&gt;Hollo - Federated single-user microblogging software&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-263 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Hollo is a federated single-user microblogging software powered by Fedify. Although it is for single-user, it is designed to be federated through ActivityPub, which means that you can follow and be followed by other users from other instances, even from other software that supports ActivityPub like Mastodon, Misskey, and so on.&lt;/p&gt;
+&lt;p&gt;Hollo does not have its own web interface. Instead, it implements Mastodon-compatible APIs so that you can integrate it with the most of the existing Mastodon clients.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-263"><a href="https://github.com/dahlia/hollo">Hollo - Federated single-user microblogging software</a></h3>
+<style>
+.favicon-263 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Hollo is a federated single-user microblogging software powered by Fedify. Although it is for single-user, it is designed to be federated through ActivityPub, which means that you can follow and be followed by other users from other instances, even from other software that supports ActivityPub like Mastodon, Misskey, and so on.</p>
+<p>Hollo does not have its own web interface. Instead, it implements Mastodon-compatible APIs so that you can integrate it with the most of the existing Mastodon clients.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    Single-user Mastodon alternative with activitypub.
+</div>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

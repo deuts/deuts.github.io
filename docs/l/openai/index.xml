@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenAI on Deuts Log</title>
+    <link>https://deuts.org/l/openai/</link>
+    <description>Recent content in OpenAI on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 10:14:35 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paperless AI</title>
+      <link>https://deuts.org/x/316-paperless-ai/</link>
+      <pubDate>Mon, 06 Jan 2025 10:14:35 +0800</pubDate>
+      <guid>https://deuts.org/x/316-paperless-ai/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-316&#34;&gt;&lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;Paperless AI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-316 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.&lt;/p&gt;
+&lt;p&gt;See post on &lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1htiwd1/paperlessai_automated_document_analyzer_for/&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    If only this could help minimize Paperless&amp;rsquo; memory (RAM) usage.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-316"><a href="https://github.com/clusterzx/paperless-ai/">Paperless AI</a></h3>
+<style>
+.favicon-316 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.</p>
+<p>See post on <a href="https://www.reddit.com/r/selfhosted/comments/1htiwd1/paperlessai_automated_document_analyzer_for/">Reddit</a>.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    If only this could help minimize Paperless&rsquo; memory (RAM) usage.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>What is the canvas feature in ChatGPT?</title>
+      <link>https://deuts.org/x/294-what-is-the-canvas-feature-in-chatgpt/</link>
+      <pubDate>Mon, 16 Dec 2024 11:12:01 +0800</pubDate>
+      <guid>https://deuts.org/x/294-what-is-the-canvas-feature-in-chatgpt/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-294&#34;&gt;&lt;a href=&#34;https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it&#34;&gt;What is the canvas feature in ChatGPT?&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-294 {
+    background: url(&#39;https://bm.deuts.org/static/https_help_openai_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Canvas is a new interface for working with ChatGPT on writing and coding projects that require editing and revisions.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-294"><a href="https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it">What is the canvas feature in ChatGPT?</a></h3>
+<style>
+.favicon-294 {
+    background: url('https://bm.deuts.org/static/https_help_openai_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Canvas is a new interface for working with ChatGPT on writing and coding projects that require editing and revisions.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

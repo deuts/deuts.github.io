@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selfhosting on Deuts Log</title>
+    <link>https://deuts.org/l/selfhosting/</link>
+    <description>Recent content in Selfhosting on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 06 Jan 2025 10:14:35 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/selfhosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paperless AI</title>
+      <link>https://deuts.org/x/316-paperless-ai/</link>
+      <pubDate>Mon, 06 Jan 2025 10:14:35 +0800</pubDate>
+      <guid>https://deuts.org/x/316-paperless-ai/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-316&#34;&gt;&lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;Paperless AI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-316 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.&lt;/p&gt;
+&lt;p&gt;See post on &lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1htiwd1/paperlessai_automated_document_analyzer_for/&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    If only this could help minimize Paperless&amp;rsquo; memory (RAM) usage.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-316"><a href="https://github.com/clusterzx/paperless-ai/">Paperless AI</a></h3>
+<style>
+.favicon-316 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.</p>
+<p>See post on <a href="https://www.reddit.com/r/selfhosted/comments/1htiwd1/paperlessai_automated_document_analyzer_for/">Reddit</a>.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    If only this could help minimize Paperless&rsquo; memory (RAM) usage.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</title>
+      <link>https://deuts.org/x/315-bitwarden-vaultwarden-finally-with-ssh-keys-and-agent/</link>
+      <pubDate>Mon, 06 Jan 2025 10:08:56 +0800</pubDate>
+      <guid>https://deuts.org/x/315-bitwarden-vaultwarden-finally-with-ssh-keys-and-agent/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-315&#34;&gt;&lt;a href=&#34;https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/&#34;&gt;Bitwarden/Vaultwarden - Finally with SSH keys (and agent)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-315 {
+    background: url(&#39;https://bm.deuts.org/static/https_idpea_org.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-315"><a href="https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/">Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</a></h3>
+<style>
+.favicon-315 {
+    background: url('https://bm.deuts.org/static/https_idpea_org.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ErsatzTV: A Comprehensive Guide to setting up a Private IPTV Server</title>
+      <link>https://deuts.org/x/314-ersatztv-a-comprehensive-guide-to-setting-up-a-private-iptv-server/</link>
+      <pubDate>Mon, 06 Jan 2025 09:53:38 +0800</pubDate>
+      <guid>https://deuts.org/x/314-ersatztv-a-comprehensive-guide-to-setting-up-a-private-iptv-server/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-314&#34;&gt;&lt;a href=&#34;https://noted.lol/ersatztv-a-comprehensive-guide-to-setting-up-a-private-iptv-server/&#34;&gt;ErsatzTV: A Comprehensive Guide to setting up a Private IPTV Server&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-314 {
+    background: url(&#39;https://bm.deuts.org/static/https_noted_lol.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Experience the power of community-driven video streaming with Ersatz TV - personalize your channels, stream your own content, and embrace a diverse media landscape!
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Gotta find time to run this app. There&amp;rsquo;s a simple docker compose to get it easily going.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-314"><a href="https://noted.lol/ersatztv-a-comprehensive-guide-to-setting-up-a-private-iptv-server/">ErsatzTV: A Comprehensive Guide to setting up a Private IPTV Server</a></h3>
+<style>
+.favicon-314 {
+    background: url('https://bm.deuts.org/static/https_noted_lol.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Experience the power of community-driven video streaming with Ersatz TV - personalize your channels, stream your own content, and embrace a diverse media landscape!
+</blockquote>
+  
+<div class="linkding-notes">
+    Gotta find time to run this app. There&rsquo;s a simple docker compose to get it easily going.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lurker - a selfhostable read-only Reddit client</title>
+      <link>https://deuts.org/x/312-lurker-a-selfhostable-read-only-reddit-client/</link>
+      <pubDate>Fri, 03 Jan 2025 22:43:08 +0800</pubDate>
+      <guid>https://deuts.org/x/312-lurker-a-selfhostable-read-only-reddit-client/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-312&#34;&gt;&lt;a href=&#34;https://github.com/oppiliappan/lurker&#34;&gt;Lurker - a selfhostable read-only Reddit client&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-312 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    It is better than old-reddit because it renders well on mobile, it respects prefers-color-scheme, no account necessary to subscribe to subreddits, and no account necessary for over-18 content
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-312"><a href="https://github.com/oppiliappan/lurker">Lurker - a selfhostable read-only Reddit client</a></h3>
+<style>
+.favicon-312 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    It is better than old-reddit because it renders well on mobile, it respects prefers-color-scheme, no account necessary to subscribe to subreddits, and no account necessary for over-18 content
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>RSS.Beauty: Make Your RSS Beautiful!</title>
+      <link>https://deuts.org/x/311-rss-beauty-make-your-rss-beautiful/</link>
+      <pubDate>Fri, 03 Jan 2025 22:32:20 +0800</pubDate>
+      <guid>https://deuts.org/x/311-rss-beauty-make-your-rss-beautiful/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-311&#34;&gt;&lt;a href=&#34;https://github.com/ccbikai/RSS.Beauty&#34;&gt;RSS.Beauty: Make Your RSS Beautiful!&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-311 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    RSS.Beauty is an RSS beautification tool based on XSLT technology that transforms ordinary RSS/Atom feeds into elegant reading interfaces.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This could prove to be a good tool for examining RSS contents.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-311"><a href="https://github.com/ccbikai/RSS.Beauty">RSS.Beauty: Make Your RSS Beautiful!</a></h3>
+<style>
+.favicon-311 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    RSS.Beauty is an RSS beautification tool based on XSLT technology that transforms ordinary RSS/Atom feeds into elegant reading interfaces.
+</blockquote>
+  
+<div class="linkding-notes">
+    This could prove to be a good tool for examining RSS contents.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GoShort URL Shortener</title>
+      <link>https://deuts.org/x/310-goshort-url-shortener/</link>
+      <pubDate>Fri, 03 Jan 2025 22:21:57 +0800</pubDate>
+      <guid>https://deuts.org/x/310-goshort-url-shortener/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-310&#34;&gt;&lt;a href=&#34;https://github.com/kek-Sec/GoShort&#34;&gt;GoShort URL Shortener&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-310 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    GoShort is a fast and customizable URL shortener built with Go , Svelte and TailwindCSS. It is designed to be self-hosted and easy to deploy.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    One of the many self-hostable URL shortener we might want to check out later.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-310"><a href="https://github.com/kek-Sec/GoShort">GoShort URL Shortener</a></h3>
+<style>
+.favicon-310 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    GoShort is a fast and customizable URL shortener built with Go , Svelte and TailwindCSS. It is designed to be self-hosted and easy to deploy.
+</blockquote>
+  
+<div class="linkding-notes">
+    One of the many self-hostable URL shortener we might want to check out later.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>S3 File Share</title>
+      <link>https://deuts.org/x/309-s3-file-share/</link>
+      <pubDate>Fri, 03 Jan 2025 22:06:28 +0800</pubDate>
+      <guid>https://deuts.org/x/309-s3-file-share/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-309&#34;&gt;&lt;a href=&#34;https://github.com/rohitg00/s3-file-share-for-free&#34;&gt;S3 File Share&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-309 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A modern web application for easily sharing and managing files using Amazon S3 storage with a clean and intuitive user interface.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wonder how this integrates with a separate Minio installation.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-309"><a href="https://github.com/rohitg00/s3-file-share-for-free">S3 File Share</a></h3>
+<style>
+.favicon-309 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A modern web application for easily sharing and managing files using Amazon S3 storage with a clean and intuitive user interface.
+</blockquote>
+  
+<div class="linkding-notes">
+    I wonder how this integrates with a separate Minio installation.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Telegram Files Downloader</title>
+      <link>https://deuts.org/x/306-telegram-files-downloader/</link>
+      <pubDate>Sat, 28 Dec 2024 00:24:35 +0800</pubDate>
+      <guid>https://deuts.org/x/306-telegram-files-downloader/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-306&#34;&gt;&lt;a href=&#34;https://github.com/jarvis2f/telegram-files&#34;&gt;Telegram Files Downloader&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-306 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A way to automate downloading files from Telegram chats, channels or group.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    There&amp;rsquo;s even a simple &lt;a href=&#34;https://github.com/jarvis2f/telegram-files/blob/main/docker-compose.yaml&#34;&gt;Docker Compose&lt;/a&gt; to get it running.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-306"><a href="https://github.com/jarvis2f/telegram-files">Telegram Files Downloader</a></h3>
+<style>
+.favicon-306 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A way to automate downloading files from Telegram chats, channels or group.
+</blockquote>
+  
+<div class="linkding-notes">
+    There&rsquo;s even a simple <a href="https://github.com/jarvis2f/telegram-files/blob/main/docker-compose.yaml">Docker Compose</a> to get it running.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Introduction to atproto 1: What is PDS？ What Features Does It Have?</title>
+      <link>https://deuts.org/x/305-introduction-to-atproto-1-what-is-pds-what-features-does-it-have/</link>
+      <pubDate>Fri, 27 Dec 2024 17:25:45 +0800</pubDate>
+      <guid>https://deuts.org/x/305-introduction-to-atproto-1-what-is-pds-what-features-does-it-have/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-305&#34;&gt;&lt;a href=&#34;https://whtwnd.com/whtwnd.com/entries/Introduction%20to%20atproto%201:%20What%20is%20PDS%EF%BC%9F%20What%20Features%20Does%20It%20Have%EF%BC%9F&#34;&gt;Introduction to atproto 1: What is PDS？ What Features Does It Have?&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-305 {
+    background: url(&#39;https://bm.deuts.org/static/https_whtwnd_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This is a simplified overview of Bluesky&amp;rsquo;s operation, focusing on the essential components for a basic understanding of atproto.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    If we are to manipulate our data in our PDS, this is the documentation to read.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-305"><a href="https://whtwnd.com/whtwnd.com/entries/Introduction%20to%20atproto%201:%20What%20is%20PDS%EF%BC%9F%20What%20Features%20Does%20It%20Have%EF%BC%9F">Introduction to atproto 1: What is PDS？ What Features Does It Have?</a></h3>
+<style>
+.favicon-305 {
+    background: url('https://bm.deuts.org/static/https_whtwnd_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This is a simplified overview of Bluesky&rsquo;s operation, focusing on the essential components for a basic understanding of atproto.
+</blockquote>
+  
+<div class="linkding-notes">
+    If we are to manipulate our data in our PDS, this is the documentation to read.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Next steps with Bluesky - hosting your own data and more on the API</title>
+      <link>https://deuts.org/x/302-next-steps-with-bluesky-hosting-your-own-data-and-more-on-the-api/</link>
+      <pubDate>Wed, 18 Dec 2024 00:04:32 +0800</pubDate>
+      <guid>https://deuts.org/x/302-next-steps-with-bluesky-hosting-your-own-data-and-more-on-the-api/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-302&#34;&gt;&lt;a href=&#34;https://chrismcleod.dev/blog/next-steps-with-bluesky-hosting-your-own-data-and-more-on-the-api/&#34;&gt;Next steps with Bluesky - hosting your own data and more on the API&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-302 {
+    background: url(&#39;https://bm.deuts.org/static/https_chrismcleod_dev.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The thing is, ATproto/Bluesky have been growing a lot lately, and things have moved on very fast. Everything in that previous post still holds up and works, but there have been some interesting developments that warrant an update, namely: you can now host your own data. It’s pretty straightforward too. It does have some implications for working with the APIs, which I’ll get to shortly.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    More about the Bluesky API.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-302"><a href="https://chrismcleod.dev/blog/next-steps-with-bluesky-hosting-your-own-data-and-more-on-the-api/">Next steps with Bluesky - hosting your own data and more on the API</a></h3>
+<style>
+.favicon-302 {
+    background: url('https://bm.deuts.org/static/https_chrismcleod_dev.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The thing is, ATproto/Bluesky have been growing a lot lately, and things have moved on very fast. Everything in that previous post still holds up and works, but there have been some interesting developments that warrant an update, namely: you can now host your own data. It’s pretty straightforward too. It does have some implications for working with the APIs, which I’ll get to shortly.
+</blockquote>
+  
+<div class="linkding-notes">
+    More about the Bluesky API.
+</div>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sync on Deuts Log</title>
+    <link>https://deuts.org/l/sync/</link>
+    <description>Recent content in Sync on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Fri, 18 Oct 2024 14:00:52 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/l/sync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian Livesync Tutorial for CouchDB on Reddit</title>
+      <link>https://deuts.org/x/224-obsidian-livesync-tutorial-for-couchdb-on-reddit/</link>
+      <pubDate>Fri, 18 Oct 2024 14:00:52 +0800</pubDate>
+      <guid>https://deuts.org/x/224-obsidian-livesync-tutorial-for-couchdb-on-reddit/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-224&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1eo7knj/guide_obsidian_with_free_selfhosted_instant_sync/&#34;&gt;Obsidian Livesync Tutorial for CouchDB on Reddit&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-224 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    I&amp;rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&amp;rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&amp;rsquo;m doing, so take my guide with a pinch of salt.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-224"><a href="https://www.reddit.com/r/selfhosted/comments/1eo7knj/guide_obsidian_with_free_selfhosted_instant_sync/">Obsidian Livesync Tutorial for CouchDB on Reddit</a></h3>
+<style>
+.favicon-224 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    I&rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&rsquo;m doing, so take my guide with a pinch of salt.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
