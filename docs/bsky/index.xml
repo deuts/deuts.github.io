@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 12:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 08:32:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lezv3qomws2u</title>
+      <link>https://deuts.org/b/2025-01-06-08-32-3lezv3qomws2u/</link>
+      <pubDate>Mon, 06 Jan 2025 08:32:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-06-08-32-3lezv3qomws2u/</guid>
+      <description>&lt;p&gt;Wicked 2024 is just Part 1—Act I of the musical. They’ve defied gravity and my hopes for closure. At least we’ve got something to sing about until 2025! 🎶&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Wicked 2024 is just Part 1—Act I of the musical. They’ve defied gravity and my hopes for closure. At least we’ve got something to sing about until 2025! 🎶</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lexsr6pak22o</title>
       <link>https://deuts.org/b/2025-01-05-12-45-3lexsr6pak22o/</link>
@@ -104,15 +113,6 @@
       <guid>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</guid>
       <description>&lt;p&gt;Is it just me? I find so much insight from running &lt;code&gt;docker stats&lt;/code&gt; regularly via cron, logging them, and data modeling and analyzing via &lt;a href=&#34;https://bsky.app/hashtag/powerquery&#34;&gt;#PowerQuery&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/powerpivot&#34;&gt;#PowerPivot&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/dax&#34;&gt;#DAX&lt;/a&gt; compared to what I have with the &lt;a href=&#34;https://bsky.app/hashtag/prometheus&#34;&gt;#Prometheus&lt;/a&gt;, &lt;a href=&#34;https://bsky.app/hashtag/grafana&#34;&gt;#Grafana&lt;/a&gt;, CAdvisor, and Node-Exporter. The latter further consumes system resources.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Is it just me? I find so much insight from running <code>docker stats</code> regularly via cron, logging them, and data modeling and analyzing via <a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> and <a href="https://bsky.app/hashtag/powerpivot">#PowerPivot</a> <a href="https://bsky.app/hashtag/dax">#DAX</a> compared to what I have with the <a href="https://bsky.app/hashtag/prometheus">#Prometheus</a>, <a href="https://bsky.app/hashtag/grafana">#Grafana</a>, CAdvisor, and Node-Exporter. The latter further consumes system resources.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lefqbnfrec2b</title>
-      <link>https://deuts.org/b/2024-12-29-08-13-3lefqbnfrec2b/</link>
-      <pubDate>Sun, 29 Dec 2024 08:13:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2024-12-29-08-13-3lefqbnfrec2b/</guid>
-      <description>&lt;p&gt;Projectivy and FLauncher are 2 of Google/Android TV launchers I need to check out. &lt;a href=&#34;https://www.reddit.com/r/Chromecast/s/5Njm7iGI2K&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Projectivy and FLauncher are 2 of Google/Android TV launchers I need to check out. <a href="https://www.reddit.com/r/Chromecast/s/5Njm7iGI2K">www.reddit.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
