@@ -128,7 +128,7 @@
 &lt;/blockquote&gt;
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
-    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden.
+    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden, are enough reasons to maintain a working Vaultwarden container.
 &lt;/div&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-315"><a href="https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/">Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</a></h3>
 <style>
@@ -143,7 +143,7 @@
 </blockquote>
   
 <div class="linkding-notes">
-    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden.
+    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden, are enough reasons to maintain a working Vaultwarden container.
 </div>
   
 ]]></content:encoded>
