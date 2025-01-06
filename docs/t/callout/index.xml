@@ -7,48 +7,8 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 11:13:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 18:26:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/t/callout/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Admonitions, Hints, or Callouts</title>
-      <link>https://deuts.org/x/admonitions-hints-callouts/</link>
-      <pubDate>Fri, 29 Nov 2024 11:13:59 +0800</pubDate>
-      <guid>https://deuts.org/x/admonitions-hints-callouts/</guid>
-      <description>These are the available admonitions/hints/callouts implementation for your Hugo blog.</description>
-      <content:encoded><![CDATA[<div class="post-entry">
-    <a href="https://github.com/KKKZOZ/hugo-admonitions" target="_blank" class="linkcard-wrapper">
-      <div class="linkcard-content">
-        <h3 class="linkcard-title">Hugo Admonitions</h3>
-        <p class="linkcard-description">Simple admonitions for hugo.</p>
-      </div>
-    </a>
-  </div>
-  
-<p>Nice design, blends well with dark themes. There are just too many options, though, that adds to the clutter.</p>
-<hr>
-<div class="post-entry">
-    <a href="https://hugo-book-demo.netlify.app/docs/shortcodes/hints/" target="_blank" class="linkcard-wrapper">
-      <div class="linkcard-content">
-        <h3 class="linkcard-title">Hints</h3>
-        <p class="linkcard-description">Hint shortcode can be used as hint/alerts/notification block. There are 3 colors to choose from: info, warning and danger.</p>
-      </div>
-    </a>
-  </div>
-  
-<p>Part of the <a href="https://github.com/alex-shpak/hugo-book">Hugo-Book</a> theme, but we can take out the implementation and add the relevant css.</p>
-<hr>
-<div class="post-entry">
-    <a href="https://cosimameyer.com/post/customized-callout-boxes-in-hugo/" target="_blank" class="linkcard-wrapper">
-      <div class="linkcard-content">
-        <h3 class="linkcard-title">Customized callout boxes for Hugo</h3>
-        <p class="linkcard-description">What I look for in text is when it’s visually appealing. And I think callout boxes are a great way to direct the reader to important information. The Hugo Portio theme doesn’t ship with them, so I implemented and customized them. If you want something as nice as this, here’s your guide.</p>
-      </div>
-    </a>
-  </div>
-  
-<p>This is the current implementation, though I can&rsquo;t promise it&rsquo;ll be that way moving forward. It requires The <em>Font Awesome</em> font for the icons.</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>Enhancing Readability with Callouts in Hugo</title>
       <link>https://deuts.org/p/hugo-callouts/</link>
