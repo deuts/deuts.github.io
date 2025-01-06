@@ -125,7 +125,11 @@
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
     Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
-&lt;/blockquote&gt;</description>
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden.
+&lt;/div&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-315"><a href="https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/">Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</a></h3>
 <style>
 .favicon-315 {
@@ -137,6 +141,10 @@
 <blockquote class="linkding-description">
     Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
 </blockquote>
+  
+<div class="linkding-notes">
+    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden.
+</div>
   
 ]]></content:encoded>
     </item>
