@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 22:58:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 07:22:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lf4bnq2upk26</title>
+      <link>https://deuts.org/x/2025-01-07-07-22-3lf4bnq2upk26/</link>
+      <pubDate>Tue, 07 Jan 2025 07:22:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-07-07-22-3lf4bnq2upk26/</guid>
+      <description>&lt;p&gt;Blu-ray 4K, at 94mbps bit rate? Really? I&amp;rsquo;m fine watching my movies and TV shows in 720p at YTS quality. No thank you. &lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/KIjauRogYI&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Blu-ray 4K, at 94mbps bit rate? Really? I&rsquo;m fine watching my movies and TV shows in 720p at YTS quality. No thank you. <a href="https://www.reddit.com/r/selfhosted/s/KIjauRogYI">www.reddit.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lf3fiombq22e</title>
       <link>https://deuts.org/x/2025-01-06-22-58-3lf3fiombq22e/</link>
@@ -204,36 +213,6 @@
 &lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/xkiAjCDLYg&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>On Plex vs. Jellyfin, why not use both instead?
 <a href="https://www.reddit.com/r/selfhosted/s/xkiAjCDLYg">www.reddit.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to Set a Fallback OpenGraph Image in Hugo-PaperMod</title>
-      <link>https://deuts.org/x/313-how-to-set-a-fallback-opengraph-image-in-hugo-papermod/</link>
-      <pubDate>Sun, 05 Jan 2025 09:27:58 +0800</pubDate>
-      <guid>https://deuts.org/x/313-how-to-set-a-fallback-opengraph-image-in-hugo-papermod/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-313&#34;&gt;&lt;a href=&#34;https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/&#34;&gt;How to Set a Fallback OpenGraph Image in Hugo-PaperMod&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-313 {
-    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The prioritization of settings in the official documentation is not clearly outlined, so this guide organizes the process.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-313"><a href="https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/">How to Set a Fallback OpenGraph Image in Hugo-PaperMod</a></h3>
-<style>
-.favicon-313 {
-    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The prioritization of settings in the official documentation is not clearly outlined, so this guide organizes the process.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
