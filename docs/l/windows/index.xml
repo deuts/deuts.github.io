@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-160&#34;&gt;&lt;a href=&#34;https://dupeguru.voltaicideas.net/&#34;&gt;dupeGuru | finds duplicate files&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-160 {
-    background: url(&#39;https://bm.deuts.org/static/https_dupeguru_voltaicideas_net.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_dupeguru_voltaicideas_net.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-160"><a href="https://dupeguru.voltaicideas.net/">dupeGuru | finds duplicate files</a></h3>
 <style>
 .favicon-160 {
-    background: url('https://bm.deuts.org/static/https_dupeguru_voltaicideas_net.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_dupeguru_voltaicideas_net.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-159&#34;&gt;&lt;a href=&#34;https://github.com/qarmin/czkawka&#34;&gt;GitHub - qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-159 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-159"><a href="https://github.com/qarmin/czkawka">GitHub - qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc.</a></h3>
 <style>
 .favicon-159 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-133&#34;&gt;&lt;a href=&#34;https://superuser.com/questions/1214281/how-to-hide-or-disable-allow-pc-to-be-discoverable-on-this-network&#34;&gt;windows - How to hide or disable &amp;#39;allow PC to be discoverable on this network&amp;#39;? - Super User&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-133 {
-    background: url(&#39;https://bm.deuts.org/static/https_superuser_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_superuser_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-133"><a href="https://superuser.com/questions/1214281/how-to-hide-or-disable-allow-pc-to-be-discoverable-on-this-network">windows - How to hide or disable &#39;allow PC to be discoverable on this network&#39;? - Super User</a></h3>
 <style>
 .favicon-133 {
-    background: url('https://bm.deuts.org/static/https_superuser_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_superuser_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

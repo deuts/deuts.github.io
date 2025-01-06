@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-313&#34;&gt;&lt;a href=&#34;https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/&#34;&gt;How to Set a Fallback OpenGraph Image in Hugo-PaperMod&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-313 {
-    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-313"><a href="https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/">How to Set a Fallback OpenGraph Image in Hugo-PaperMod</a></h3>
 <style>
 .favicon-313 {
-    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-292&#34;&gt;&lt;a href=&#34;https://github.com/fplanque/obsigo&#34;&gt;Obsigo&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-292 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-292"><a href="https://github.com/fplanque/obsigo">Obsigo</a></h3>
 <style>
 .favicon-292 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-291&#34;&gt;&lt;a href=&#34;https://ryomayama.com/en/2024/12/12/adding-bluesky-share-link-to-hugo-papermod/&#34;&gt;How to Add a Bluesky (bsky.app) Share Link to Hugo (PaperMod)&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-291 {
-    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -84,7 +89,8 @@ However, Bluesky’s web client, bsky.app, provides a mechanism via its Web API 
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-291"><a href="https://ryomayama.com/en/2024/12/12/adding-bluesky-share-link-to-hugo-papermod/">How to Add a Bluesky (bsky.app) Share Link to Hugo (PaperMod)</a></h3>
 <style>
 .favicon-291 {
-    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -103,7 +109,8 @@ However, Bluesky’s web client, bsky.app, provides a mechanism via its Web API 
       <description>&lt;h3 class=&#34;linkding-title favicon-290&#34;&gt;&lt;a href=&#34;https://ryomayama.com/en/2024/12/10/hugo-papermod-cloudflare-pages-deploy-guide/&#34;&gt;How to Deploy a Hugo (PaperMod) Site to Cloudflare Pages&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-290 {
-    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -114,7 +121,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-290"><a href="https://ryomayama.com/en/2024/12/10/hugo-papermod-cloudflare-pages-deploy-guide/">How to Deploy a Hugo (PaperMod) Site to Cloudflare Pages</a></h3>
 <style>
 .favicon-290 {
-    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -133,7 +141,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-289&#34;&gt;&lt;a href=&#34;https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d&#34;&gt;Bluesky comments in Hugo&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-289 {
-    background: url(&#39;https://bm.deuts.org/static/https_gist_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_gist_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -143,7 +152,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-289"><a href="https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d">Bluesky comments in Hugo</a></h3>
 <style>
 .favicon-289 {
-    background: url('https://bm.deuts.org/static/https_gist_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_gist_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -161,7 +171,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-268&#34;&gt;&lt;a href=&#34;https://github.com/KKKZOZ/hugo-admonitions&#34;&gt;Hugo Admonitions&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-268 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -171,7 +182,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-268"><a href="https://github.com/KKKZOZ/hugo-admonitions">Hugo Admonitions</a></h3>
 <style>
 .favicon-268 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -189,7 +201,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-266&#34;&gt;&lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;XMin Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-266 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -199,7 +212,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-266"><a href="https://github.com/yihui/hugo-xmin">XMin Hugo Theme</a></h3>
 <style>
 .favicon-266 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -217,7 +231,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-257&#34;&gt;&lt;a href=&#34;https://frontmatter.codes/?utm_source=navendu_blog&amp;amp;utm_medium=referral&amp;amp;utm_campaign=theres-a-cms-in-my-ide&#34;&gt;Headless CMS right in your code editor&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-257 {
-    background: url(&#39;https://bm.deuts.org/static/https_frontmatter_codes.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_frontmatter_codes.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -227,7 +242,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-257"><a href="https://frontmatter.codes/?utm_source=navendu_blog&amp;utm_medium=referral&amp;utm_campaign=theres-a-cms-in-my-ide">Headless CMS right in your code editor</a></h3>
 <style>
 .favicon-257 {
-    background: url('https://bm.deuts.org/static/https_frontmatter_codes.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_frontmatter_codes.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -245,7 +261,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-256&#34;&gt;&lt;a href=&#34;https://navendu.me/posts/cms-ide/&#34;&gt;There&amp;#39;s a CMS in My IDE!&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-256 {
-    background: url(&#39;https://bm.deuts.org/static/https_navendu_me.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_navendu_me.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -255,7 +272,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-256"><a href="https://navendu.me/posts/cms-ide/">There&#39;s a CMS in My IDE!</a></h3>
 <style>
 .favicon-256 {
-    background: url('https://bm.deuts.org/static/https_navendu_me.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_navendu_me.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -273,7 +291,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <description>&lt;h3 class=&#34;linkding-title favicon-255&#34;&gt;&lt;a href=&#34;https://navendu.me/posts/til-section-hugo/&#34;&gt;Creating a &amp;#39;Today I Learned (TIL)&amp;#39; Section for My Hugo Website&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-255 {
-    background: url(&#39;https://bm.deuts.org/static/https_navendu_me.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_navendu_me.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -283,7 +302,8 @@ For simplicity, it is assumed that readers have basic knowledge of Git and relat
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-255"><a href="https://navendu.me/posts/til-section-hugo/">Creating a &#39;Today I Learned (TIL)&#39; Section for My Hugo Website</a></h3>
 <style>
 .favicon-255 {
-    background: url('https://bm.deuts.org/static/https_navendu_me.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_navendu_me.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

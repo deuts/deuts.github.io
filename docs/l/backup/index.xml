@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-216&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-rsnapshot/&#34;&gt;GitHub - linuxserver/docker-rsnapshot&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-216 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-216"><a href="https://github.com/linuxserver/docker-rsnapshot/">GitHub - linuxserver/docker-rsnapshot</a></h3>
 <style>
 .favicon-216 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-214&#34;&gt;&lt;a href=&#34;https://github.com/Minituff/nautical-backup&#34;&gt;GitHub - Minituff/nautical-backup: A simple Docker volume backup tool.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-214 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-214"><a href="https://github.com/Minituff/nautical-backup">GitHub - Minituff/nautical-backup: A simple Docker volume backup tool.</a></h3>
 <style>
 .favicon-214 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-190&#34;&gt;&lt;a href=&#34;https://github.com/querylab/lazywarden&#34;&gt;GitHub - querylab/lazywarden: Automatic Bitwarden Backup&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-190 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-190"><a href="https://github.com/querylab/lazywarden">GitHub - querylab/lazywarden: Automatic Bitwarden Backup</a></h3>
 <style>
 .favicon-190 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -101,7 +107,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-156&#34;&gt;&lt;a href=&#34;https://youtu.be/UzQIKYZDlLI?si=nCQr2X90oo0Ehp5R&#34;&gt;Mount OneDrive as folder in Linux with Rclone - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-156 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -111,7 +118,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-156"><a href="https://youtu.be/UzQIKYZDlLI?si=nCQr2X90oo0Ehp5R">Mount OneDrive as folder in Linux with Rclone - YouTube</a></h3>
 <style>
 .favicon-156 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -129,7 +137,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-148&#34;&gt;&lt;a href=&#34;https://www.cnet.com/tech/services-and-software/if-your-gmail-inbox-is-full-heres-how-you-can-get-back-15gb-of-free-storage/&#34;&gt;If Your Gmail Inbox Is Full, Here&amp;#39;s How You Can Get Back 15GB of Free Storage&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-148 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_cnet_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_cnet_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -139,7 +148,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-148"><a href="https://www.cnet.com/tech/services-and-software/if-your-gmail-inbox-is-full-heres-how-you-can-get-back-15gb-of-free-storage/">If Your Gmail Inbox Is Full, Here&#39;s How You Can Get Back 15GB of Free Storage</a></h3>
 <style>
 .favicon-148 {
-    background: url('https://bm.deuts.org/static/https_www_cnet_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_cnet_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -157,7 +167,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-145&#34;&gt;&lt;a href=&#34;https://offen.github.io/docker-volume-backup/&#34;&gt;Offen Docker Volume Backup&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-145 {
-    background: url(&#39;https://bm.deuts.org/static/https_offen_github_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_offen_github_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -167,7 +178,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-145"><a href="https://offen.github.io/docker-volume-backup/">Offen Docker Volume Backup</a></h3>
 <style>
 .favicon-145 {
-    background: url('https://bm.deuts.org/static/https_offen_github_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_offen_github_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -185,7 +197,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-144&#34;&gt;&lt;a href=&#34;https://minituff.github.io/nautical-backup/&#34;&gt;Nautical Backup&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-144 {
-    background: url(&#39;https://bm.deuts.org/static/https_minituff_github_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_minituff_github_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -199,7 +212,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-144"><a href="https://minituff.github.io/nautical-backup/">Nautical Backup</a></h3>
 <style>
 .favicon-144 {
-    background: url('https://bm.deuts.org/static/https_minituff_github_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_minituff_github_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -221,7 +235,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-140&#34;&gt;&lt;a href=&#34;https://www.costin.rocks/blog/posts/automate-and-optimize-rclone-in-docker&#34;&gt;Automate and Optimize rclone in Docker - Blog by Costin Anghel&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-140 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_costin_rocks.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_costin_rocks.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -235,7 +250,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-140"><a href="https://www.costin.rocks/blog/posts/automate-and-optimize-rclone-in-docker">Automate and Optimize rclone in Docker - Blog by Costin Anghel</a></h3>
 <style>
 .favicon-140 {
-    background: url('https://bm.deuts.org/static/https_www_costin_rocks.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_costin_rocks.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -257,7 +273,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-139&#34;&gt;&lt;a href=&#34;https://www.urbackup.org/&#34;&gt;UrBackup - Client/Server Open Source Network Backup for Windows and Linux&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-139 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_urbackup_org.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_urbackup_org.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -267,7 +284,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-139"><a href="https://www.urbackup.org/">UrBackup - Client/Server Open Source Network Backup for Windows and Linux</a></h3>
 <style>
 .favicon-139 {
-    background: url('https://bm.deuts.org/static/https_www_urbackup_org.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_urbackup_org.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -285,7 +303,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-118&#34;&gt;&lt;a href=&#34;https://github.com/garethgeorge/backrest&#34;&gt;GitHub - garethgeorge/backrest: Backrest is a web UI and orchestrator for restic backup.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-118 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -295,7 +314,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-118"><a href="https://github.com/garethgeorge/backrest">GitHub - garethgeorge/backrest: Backrest is a web UI and orchestrator for restic backup.</a></h3>
 <style>
 .favicon-118 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

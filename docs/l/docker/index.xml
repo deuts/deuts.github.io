@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-296&#34;&gt;&lt;a href=&#34;https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/&#34;&gt;Docker Monitoring with Prometheus: A Step-by-Step Guide&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-296 {
-    background: url(&#39;https://bm.deuts.org/static/https_last9_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_last9_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,13 +28,12 @@
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
     &lt;p&gt;Among the many guides out there for deploying Prometheus and Grafana, this is the one that actually worked.&lt;/p&gt;
-&lt;p&gt;Although, whether I&amp;rsquo;ll keep this in the long run is another question.&lt;/p&gt;
-
-&lt;/div&gt;</description>
+&lt;p&gt;Although, whether I&amp;rsquo;ll keep this in the long run is another question.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-296"><a href="https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/">Docker Monitoring with Prometheus: A Step-by-Step Guide</a></h3>
 <style>
 .favicon-296 {
-    background: url('https://bm.deuts.org/static/https_last9_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_last9_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -57,7 +57,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-284&#34;&gt;&lt;a href=&#34;https://polotek.net/posts/local-mastodon-in-docker/&#34;&gt;Getting A Local Mastodon Setup In Docker - These Yaks Ain’t Gonna Shave Themselves&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-284 {
-    background: url(&#39;https://bm.deuts.org/static/https_polotek_net.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_polotek_net.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -68,7 +69,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-284"><a href="https://polotek.net/posts/local-mastodon-in-docker/">Getting A Local Mastodon Setup In Docker - These Yaks Ain’t Gonna Shave Themselves</a></h3>
 <style>
 .favicon-284 {
-    background: url('https://bm.deuts.org/static/https_polotek_net.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_polotek_net.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -87,7 +89,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-283&#34;&gt;&lt;a href=&#34;https://github.com/davidhfrankelcodes/docker-crontab&#34;&gt;Docker Crontab&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-283 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -101,7 +104,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-283"><a href="https://github.com/davidhfrankelcodes/docker-crontab">Docker Crontab</a></h3>
 <style>
 .favicon-283 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -123,7 +127,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-276&#34;&gt;&lt;a href=&#34;https://github.com/Notifiarr/dockwatch&#34;&gt;DockWatch&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-276 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -133,7 +138,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-276"><a href="https://github.com/Notifiarr/dockwatch">DockWatch</a></h3>
 <style>
 .favicon-276 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -151,7 +157,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-259&#34;&gt;&lt;a href=&#34;https://mods.linuxserver.io/&#34;&gt;Linuxserver Container Mods&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-259 {
-    background: url(&#39;https://bm.deuts.org/static/https_mods_linuxserver_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_mods_linuxserver_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -161,7 +168,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-259"><a href="https://mods.linuxserver.io/">Linuxserver Container Mods</a></h3>
 <style>
 .favicon-259 {
-    background: url('https://bm.deuts.org/static/https_mods_linuxserver_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_mods_linuxserver_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -179,7 +187,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-227&#34;&gt;&lt;a href=&#34;https://github.com/DonutWare/Fladder&#34;&gt;Fladder&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-227 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -189,7 +198,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-227"><a href="https://github.com/DonutWare/Fladder">Fladder</a></h3>
 <style>
 .favicon-227 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -207,7 +217,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-221&#34;&gt;&lt;a href=&#34;https://portainer-templates.as93.net/&#34;&gt;Portainer Templates&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-221 {
-    background: url(&#39;https://bm.deuts.org/static/https_portainer_templates_as93_net.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_portainer_templates_as93_net.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -217,7 +228,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-221"><a href="https://portainer-templates.as93.net/">Portainer Templates</a></h3>
 <style>
 .favicon-221 {
-    background: url('https://bm.deuts.org/static/https_portainer_templates_as93_net.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_portainer_templates_as93_net.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -235,7 +247,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-220&#34;&gt;&lt;a href=&#34;https://awesome-docker-compose.com/&#34;&gt;Awesome Docker Compose&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-220 {
-    background: url(&#39;https://bm.deuts.org/static/https_awesome_docker_compose_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_awesome_docker_compose_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -245,7 +258,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-220"><a href="https://awesome-docker-compose.com/">Awesome Docker Compose</a></h3>
 <style>
 .favicon-220 {
-    background: url('https://bm.deuts.org/static/https_awesome_docker_compose_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_awesome_docker_compose_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -263,7 +277,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-219&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-hedgedoc/&#34;&gt;Docker HedgeDoc&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-219 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -273,7 +288,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-219"><a href="https://github.com/linuxserver/docker-hedgedoc/">Docker HedgeDoc</a></h3>
 <style>
 .favicon-219 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -291,7 +307,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <description>&lt;h3 class=&#34;linkding-title favicon-218&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file&#34;&gt;GitHub - linuxserver/docker-guacd&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-218 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -301,7 +318,8 @@ The first milestone is just getting a mastodon instance set up on my laptop.
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-218"><a href="https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file">GitHub - linuxserver/docker-guacd</a></h3>
 <style>
 .favicon-218 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

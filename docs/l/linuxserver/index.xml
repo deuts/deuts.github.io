@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-219&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-hedgedoc/&#34;&gt;Docker HedgeDoc&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-219 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-219"><a href="https://github.com/linuxserver/docker-hedgedoc/">Docker HedgeDoc</a></h3>
 <style>
 .favicon-219 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-218&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file&#34;&gt;GitHub - linuxserver/docker-guacd&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-218 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-218"><a href="https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file">GitHub - linuxserver/docker-guacd</a></h3>
 <style>
 .favicon-218 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-217&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-adguardhome-sync/&#34;&gt;GitHub - linuxserver/docker-adguardhome-sync&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-217 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-217"><a href="https://github.com/linuxserver/docker-adguardhome-sync/">GitHub - linuxserver/docker-adguardhome-sync</a></h3>
 <style>
 .favicon-217 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -101,7 +107,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-216&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-rsnapshot/&#34;&gt;GitHub - linuxserver/docker-rsnapshot&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-216 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -111,7 +118,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-216"><a href="https://github.com/linuxserver/docker-rsnapshot/">GitHub - linuxserver/docker-rsnapshot</a></h3>
 <style>
 .favicon-216 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -129,7 +137,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-215&#34;&gt;&lt;a href=&#34;https://tailscale.dev/blog/docker-mod-tailscale&#34;&gt;Introducing the Tailscale Universal Docker Mod&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-215 {
-    background: url(&#39;https://bm.deuts.org/static/https_tailscale_dev.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_tailscale_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -139,7 +148,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-215"><a href="https://tailscale.dev/blog/docker-mod-tailscale">Introducing the Tailscale Universal Docker Mod</a></h3>
 <style>
 .favicon-215 {
-    background: url('https://bm.deuts.org/static/https_tailscale_dev.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_tailscale_dev.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -157,7 +167,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-45&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-librewolf&#34;&gt;GitHub - linuxserver/docker-librewolf: Web accessible Librewolf inside a Debian Container&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-45 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -167,7 +178,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-45"><a href="https://github.com/linuxserver/docker-librewolf">GitHub - linuxserver/docker-librewolf: Web accessible Librewolf inside a Debian Container</a></h3>
 <style>
 .favicon-45 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -185,7 +197,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-44&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-keepassxc&#34;&gt;GitHub - linuxserver/docker-keepassxc: Web accessible KeePassXC inside an Alpine Container&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-44 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -195,7 +208,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-44"><a href="https://github.com/linuxserver/docker-keepassxc">GitHub - linuxserver/docker-keepassxc: Web accessible KeePassXC inside an Alpine Container</a></h3>
 <style>
 .favicon-44 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -213,7 +227,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-43&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-obsidian&#34;&gt;GitHub - linuxserver/docker-obsidian&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-43 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -223,7 +238,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-43"><a href="https://github.com/linuxserver/docker-obsidian">GitHub - linuxserver/docker-obsidian</a></h3>
 <style>
 .favicon-43 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

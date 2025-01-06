@@ -17,13 +17,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-141&#34;&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/power-platform/products/power-apps/free&#34;&gt;Power Apps Developer Plan - Create free Power Apps account&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-141 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_microsoft_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_microsoft_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-141"><a href="https://www.microsoft.com/en-us/power-platform/products/power-apps/free">Power Apps Developer Plan - Create free Power Apps account</a></h3>
 <style>
 .favicon-141 {
-    background: url('https://bm.deuts.org/static/https_www_microsoft_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_microsoft_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -37,7 +39,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-64&#34;&gt;&lt;a href=&#34;https://github.com/Budibase/budibase&#34;&gt;GitHub - Budibase/budibase: Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-64 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -51,7 +54,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-64"><a href="https://github.com/Budibase/budibase">GitHub - Budibase/budibase: Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀</a></h3>
 <style>
 .favicon-64 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-63&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bjvigaL68ts&#34;&gt;Set Default Values in Power Apps | Dropdown, Lookup, Choice, Date | SharePoint - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-63 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -87,7 +92,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-63"><a href="https://www.youtube.com/watch?v=bjvigaL68ts">Set Default Values in Power Apps | Dropdown, Lookup, Choice, Date | SharePoint - YouTube</a></h3>
 <style>
 .favicon-63 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -109,13 +115,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-62&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/PowerApps/s/eEsClYFrlz&#34;&gt;Powerapps and SharePoint list security&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-62 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-62"><a href="https://www.reddit.com/r/PowerApps/s/eEsClYFrlz">Powerapps and SharePoint list security</a></h3>
 <style>
 .favicon-62 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -129,7 +137,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-61&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GrtzAqqDgN8&#34;&gt;Power Apps Responsive Layout Design - Horizonal and Vertical - Part 1 - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-61 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -143,7 +152,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-61"><a href="https://www.youtube.com/watch?v=GrtzAqqDgN8">Power Apps Responsive Layout Design - Horizonal and Vertical - Part 1 - YouTube</a></h3>
 <style>
 .favicon-61 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -165,7 +175,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-60&#34;&gt;&lt;a href=&#34;https://powerusers.microsoft.com/t5/Building-Power-Apps/LastSubmit-for-Patch/td-p/2474010&#34;&gt;LastSubmit for Patch - Power Platform Community&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-60 {
-    background: url(&#39;https://bm.deuts.org/static/https_powerusers_microsoft_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_powerusers_microsoft_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -175,7 +186,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-60"><a href="https://powerusers.microsoft.com/t5/Building-Power-Apps/LastSubmit-for-Patch/td-p/2474010">LastSubmit for Patch - Power Platform Community</a></h3>
 <style>
 .favicon-60 {
-    background: url('https://bm.deuts.org/static/https_powerusers_microsoft_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_powerusers_microsoft_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -193,7 +205,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-59&#34;&gt;&lt;a href=&#34;https://www.lewisdoes.dev/blog/get-the-id-of-a-record-just-patched-in-power-apps/&#34;&gt;Get the ID of a record just patched in Power Apps - Low Code Lewis&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-59 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_lewisdoes_dev.jpg&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_lewisdoes_dev.jpg&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -203,7 +216,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-59"><a href="https://www.lewisdoes.dev/blog/get-the-id-of-a-record-just-patched-in-power-apps/">Get the ID of a record just patched in Power Apps - Low Code Lewis</a></h3>
 <style>
 .favicon-59 {
-    background: url('https://bm.deuts.org/static/https_www_lewisdoes_dev.jpg') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_lewisdoes_dev.jpg') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -221,7 +235,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-58&#34;&gt;&lt;a href=&#34;https://youtu.be/C3uRaC6_BcA?si=QxmsFbENiAjax4nc&#34;&gt;How to build a Responsive Modern Gallery in Power Apps | Tutorial - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-58 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -235,7 +250,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-58"><a href="https://youtu.be/C3uRaC6_BcA?si=QxmsFbENiAjax4nc">How to build a Responsive Modern Gallery in Power Apps | Tutorial - YouTube</a></h3>
 <style>
 .favicon-58 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -257,7 +273,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-55&#34;&gt;&lt;a href=&#34;https://powerusers.microsoft.com/t5/Building-Power-Apps/Responsive-design-one-container-goes-below-an-other-container/td-p/2364066&#34;&gt;Solved: Responsive design : one container goes below an ot... - Power Platform Community&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-55 {
-    background: url(&#39;https://bm.deuts.org/static/https_powerusers_microsoft_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_powerusers_microsoft_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -272,7 +289,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-55"><a href="https://powerusers.microsoft.com/t5/Building-Power-Apps/Responsive-design-one-container-goes-below-an-other-container/td-p/2364066">Solved: Responsive design : one container goes below an ot... - Power Platform Community</a></h3>
 <style>
 .favicon-55 {
-    background: url('https://bm.deuts.org/static/https_powerusers_microsoft_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_powerusers_microsoft_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

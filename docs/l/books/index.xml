@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-92&#34;&gt;&lt;a href=&#34;https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-&#34;&gt;GitHub - PacktPublishing/The-Definitive-Guide-to-Power-Query-M-: The Definitive Guide to Power Query (M), published by Packt&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-92 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -31,7 +32,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-92"><a href="https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-">GitHub - PacktPublishing/The-Definitive-Guide-to-Power-Query-M-: The Definitive Guide to Power Query (M), published by Packt</a></h3>
 <style>
 .favicon-92 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -53,7 +55,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-85&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758&#34;&gt;Alexander Hamilton: Chernow, Ron&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-85 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_amazon_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_amazon_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -67,7 +70,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-85"><a href="https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758">Alexander Hamilton: Chernow, Ron</a></h3>
 <style>
 .favicon-85 {
-    background: url('https://bm.deuts.org/static/https_www_amazon_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_amazon_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

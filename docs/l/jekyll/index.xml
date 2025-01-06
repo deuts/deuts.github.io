@@ -17,13 +17,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-271&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/Jekyll/comments/1gueoyi/best_way_to_blog_on_the_go_for_a_github_pages/&#34;&gt;Ability to manage Jekyll site like a CMS&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-271 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-271"><a href="https://www.reddit.com/r/Jekyll/comments/1gueoyi/best_way_to_blog_on_the_go_for_a_github_pages/">Ability to manage Jekyll site like a CMS</a></h3>
 <style>
 .favicon-271 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -37,7 +39,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-26&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zijOXpZzdvs&amp;amp;t=0s&#34;&gt;Develop GitHub Pages locally in a Ubuntu Docker Container&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-26 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -47,7 +50,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-26"><a href="https://www.youtube.com/watch?v=zijOXpZzdvs&amp;t=0s">Develop GitHub Pages locally in a Ubuntu Docker Container</a></h3>
 <style>
 .favicon-26 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

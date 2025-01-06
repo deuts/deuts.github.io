@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-108&#34;&gt;&lt;a href=&#34;https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/&#34;&gt;How I synchronize and backup my Obsidian Notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-108 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_dsebastien_net.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_dsebastien_net.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-108"><a href="https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/">How I synchronize and backup my Obsidian Notes</a></h3>
 <style>
 .favicon-108 {
-    background: url('https://bm.deuts.org/static/https_www_dsebastien_net.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_dsebastien_net.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

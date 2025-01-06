@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-275&#34;&gt;&lt;a href=&#34;https://github.com/BattermanZ/FlareSync&#34;&gt;FlareSync&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-275 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-275"><a href="https://github.com/BattermanZ/FlareSync">FlareSync</a></h3>
 <style>
 .favicon-275 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-217&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-adguardhome-sync/&#34;&gt;GitHub - linuxserver/docker-adguardhome-sync&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-217 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-217"><a href="https://github.com/linuxserver/docker-adguardhome-sync/">GitHub - linuxserver/docker-adguardhome-sync</a></h3>
 <style>
 .favicon-217 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-215&#34;&gt;&lt;a href=&#34;https://tailscale.dev/blog/docker-mod-tailscale&#34;&gt;Introducing the Tailscale Universal Docker Mod&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-215 {
-    background: url(&#39;https://bm.deuts.org/static/https_tailscale_dev.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_tailscale_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-215"><a href="https://tailscale.dev/blog/docker-mod-tailscale">Introducing the Tailscale Universal Docker Mod</a></h3>
 <style>
 .favicon-215 {
-    background: url('https://bm.deuts.org/static/https_tailscale_dev.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_tailscale_dev.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-211&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/Tailscale/s/4uJjveVJm4&#34;&gt;Docker, Tailscale and Caddy with HTTPS. A love story!&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-211 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-211"><a href="https://www.reddit.com/r/Tailscale/s/4uJjveVJm4">Docker, Tailscale and Caddy with HTTPS. A love story!</a></h3>
 <style>
 .favicon-211 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-210&#34;&gt;&lt;a href=&#34;https://github.com/http403/tailscale-caddy&#34;&gt;GitHub - http403/tailscale-caddy: Serving Caddy with Tailscale Side Car&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-210 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-210"><a href="https://github.com/http403/tailscale-caddy">GitHub - http403/tailscale-caddy: Serving Caddy with Tailscale Side Car</a></h3>
 <style>
 .favicon-210 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -101,7 +107,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-208&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Vt4PDUXB_fg&amp;amp;list=TLPQMTMxMDIwMjQPc1DTEvOd_A&amp;amp;index=2&#34;&gt;Remotely access and share your self-hosted services - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-208 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -111,7 +118,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-208"><a href="https://www.youtube.com/watch?v=Vt4PDUXB_fg&amp;list=TLPQMTMxMDIwMjQPc1DTEvOd_A&amp;index=2">Remotely access and share your self-hosted services - YouTube</a></h3>
 <style>
 .favicon-208 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -129,7 +137,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-206&#34;&gt;&lt;a href=&#34;https://timnash.co.uk/tailscale-caddy-for-better-admin-security/&#34;&gt;Tailscale &amp;amp; Caddy for better admin security by Tim Nash&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-206 {
-    background: url(&#39;https://bm.deuts.org/static/https_timnash_co_uk.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_timnash_co_uk.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -139,7 +148,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-206"><a href="https://timnash.co.uk/tailscale-caddy-for-better-admin-security/">Tailscale &amp; Caddy for better admin security by Tim Nash</a></h3>
 <style>
 .favicon-206 {
-    background: url('https://bm.deuts.org/static/https_timnash_co_uk.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_timnash_co_uk.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -157,7 +167,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-200&#34;&gt;&lt;a href=&#34;https://tailscale.com/blog/docker-tailscale-guide&#34;&gt;Contain your excitement: A deep dive into using Tailscale with Docker&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-200 {
-    background: url(&#39;https://bm.deuts.org/static/https_tailscale_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_tailscale_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -167,7 +178,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-200"><a href="https://tailscale.com/blog/docker-tailscale-guide">Contain your excitement: A deep dive into using Tailscale with Docker</a></h3>
 <style>
 .favicon-200 {
-    background: url('https://bm.deuts.org/static/https_tailscale_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_tailscale_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

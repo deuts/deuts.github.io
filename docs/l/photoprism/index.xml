@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-154&#34;&gt;&lt;a href=&#34;https://itsfoss.com/google-photos-alternatives/&#34;&gt;Self-hosted Open Source Alternatives to Google Photos&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-154 {
-    background: url(&#39;https://bm.deuts.org/static/https_itsfoss_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_itsfoss_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-154"><a href="https://itsfoss.com/google-photos-alternatives/">Self-hosted Open Source Alternatives to Google Photos</a></h3>
 <style>
 .favicon-154 {
-    background: url('https://bm.deuts.org/static/https_itsfoss_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_itsfoss_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,13 +47,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-112&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/OpNQzy5jAE&#34;&gt;Immich vs. Photoprism on Reddit&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-112 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-112"><a href="https://www.reddit.com/r/selfhosted/s/OpNQzy5jAE">Immich vs. Photoprism on Reddit</a></h3>
 <style>
 .favicon-112 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

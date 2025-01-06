@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-51&#34;&gt;&lt;a href=&#34;https://github.com/danvergara/morphos&#34;&gt;GitHub - danvergara/morphos: Self-hosted file converter server&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-51 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-51"><a href="https://github.com/danvergara/morphos">GitHub - danvergara/morphos: Self-hosted file converter server</a></h3>
 <style>
 .favicon-51 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

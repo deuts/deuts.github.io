@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-226&#34;&gt;&lt;a href=&#34;https://blog.kirillov.cc/posts/obsidian-livesync/&#34;&gt;Obsidian with LiveSync: your very own CouchDB-backed cloud notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-226 {
-    background: url(&#39;https://bm.deuts.org/static/https_blog_kirillov_cc.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_blog_kirillov_cc.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-226"><a href="https://blog.kirillov.cc/posts/obsidian-livesync/">Obsidian with LiveSync: your very own CouchDB-backed cloud notes</a></h3>
 <style>
 .favicon-226 {
-    background: url('https://bm.deuts.org/static/https_blog_kirillov_cc.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_blog_kirillov_cc.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-193&#34;&gt;&lt;a href=&#34;https://github.com/KosmosisDire/obsidian-webpage-export&#34;&gt;GitHub - KosmosisDire/obsidian-webpage-export: Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-193 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-193"><a href="https://github.com/KosmosisDire/obsidian-webpage-export">GitHub - KosmosisDire/obsidian-webpage-export: Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.</a></h3>
 <style>
 .favicon-193 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-192&#34;&gt;&lt;a href=&#34;https://github.com/dragonwocky/obsidian-tray&#34;&gt;GitHub - dragonwocky/obsidian-tray: Run Obsidian from the system tray for customisable window management &amp;amp; global quick notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-192 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-192"><a href="https://github.com/dragonwocky/obsidian-tray">GitHub - dragonwocky/obsidian-tray: Run Obsidian from the system tray for customisable window management &amp; global quick notes</a></h3>
 <style>
 .favicon-192 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -101,7 +107,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-185&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/openpgp-form-encryption/#how%20do%20i%20get%20a%20public%20key%3F&#34;&gt;OpenPGP Form Encryption for WordPress – WordPress plugin | WordPress.org&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-185 {
-    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -111,7 +118,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-185"><a href="https://wordpress.org/plugins/openpgp-form-encryption/#how%20do%20i%20get%20a%20public%20key%3F">OpenPGP Form Encryption for WordPress – WordPress plugin | WordPress.org</a></h3>
 <style>
 .favicon-185 {
-    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -129,13 +137,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-163&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/Cb869h3VzQ&#34;&gt;Obsidian Livesync Plugin installation process&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-163 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-163"><a href="https://www.reddit.com/r/selfhosted/s/Cb869h3VzQ">Obsidian Livesync Plugin installation process</a></h3>
 <style>
 .favicon-163 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -149,7 +159,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-157&#34;&gt;&lt;a href=&#34;https://youtu.be/0e0qaK2f-Bc?si=iY_8XuSlPpcL9ukl&#34;&gt;Awesome OBSIDIAN TWEAKS and TIPS You Did Not Know You Need - Episode 3 - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-157 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -159,7 +170,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-157"><a href="https://youtu.be/0e0qaK2f-Bc?si=iY_8XuSlPpcL9ukl">Awesome OBSIDIAN TWEAKS and TIPS You Did Not Know You Need - Episode 3 - YouTube</a></h3>
 <style>
 .favicon-157 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -177,7 +189,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-151&#34;&gt;&lt;a href=&#34;https://github.com/rcsaquino/obsidian-auto-filename&#34;&gt;GitHub - rcsaquino/obsidian-auto-filename: Auto Filename is an Obsidian.md plugin that automatically renames files in Obsidian based on the first x characters of the file, saving you time and effort.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-151 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -187,7 +200,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-151"><a href="https://github.com/rcsaquino/obsidian-auto-filename">GitHub - rcsaquino/obsidian-auto-filename: Auto Filename is an Obsidian.md plugin that automatically renames files in Obsidian based on the first x characters of the file, saving you time and effort.</a></h3>
 <style>
 .favicon-151 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

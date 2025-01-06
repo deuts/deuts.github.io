@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-316&#34;&gt;&lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;Paperless AI&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-316 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -33,7 +34,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-316"><a href="https://github.com/clusterzx/paperless-ai/">Paperless AI</a></h3>
 <style>
 .favicon-316 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -57,7 +59,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-294&#34;&gt;&lt;a href=&#34;https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it&#34;&gt;What is the canvas feature in ChatGPT?&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-294 {
-    background: url(&#39;https://bm.deuts.org/static/https_help_openai_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_help_openai_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -67,7 +70,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-294"><a href="https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it">What is the canvas feature in ChatGPT?</a></h3>
 <style>
 .favicon-294 {
-    background: url('https://bm.deuts.org/static/https_help_openai_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_help_openai_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

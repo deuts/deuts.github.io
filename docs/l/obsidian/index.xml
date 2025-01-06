@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-307&#34;&gt;&lt;a href=&#34;https://github.com/h-sphere/sql-seal&#34;&gt;Obsidian SQLSeal&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-307 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -31,7 +32,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-307"><a href="https://github.com/h-sphere/sql-seal">Obsidian SQLSeal</a></h3>
 <style>
 .favicon-307 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -53,7 +55,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-292&#34;&gt;&lt;a href=&#34;https://github.com/fplanque/obsigo&#34;&gt;Obsigo&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-292 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -63,7 +66,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-292"><a href="https://github.com/fplanque/obsigo">Obsigo</a></h3>
 <style>
 .favicon-292 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -81,7 +85,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-226&#34;&gt;&lt;a href=&#34;https://blog.kirillov.cc/posts/obsidian-livesync/&#34;&gt;Obsidian with LiveSync: your very own CouchDB-backed cloud notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-226 {
-    background: url(&#39;https://bm.deuts.org/static/https_blog_kirillov_cc.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_blog_kirillov_cc.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -91,7 +96,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-226"><a href="https://blog.kirillov.cc/posts/obsidian-livesync/">Obsidian with LiveSync: your very own CouchDB-backed cloud notes</a></h3>
 <style>
 .favicon-226 {
-    background: url('https://bm.deuts.org/static/https_blog_kirillov_cc.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_blog_kirillov_cc.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -109,7 +115,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-224&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1eo7knj/guide_obsidian_with_free_selfhosted_instant_sync/&#34;&gt;Obsidian Livesync Tutorial for CouchDB on Reddit&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-224 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -119,7 +126,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-224"><a href="https://www.reddit.com/r/selfhosted/comments/1eo7knj/guide_obsidian_with_free_selfhosted_instant_sync/">Obsidian Livesync Tutorial for CouchDB on Reddit</a></h3>
 <style>
 .favicon-224 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -137,7 +145,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-193&#34;&gt;&lt;a href=&#34;https://github.com/KosmosisDire/obsidian-webpage-export&#34;&gt;GitHub - KosmosisDire/obsidian-webpage-export: Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-193 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -147,7 +156,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-193"><a href="https://github.com/KosmosisDire/obsidian-webpage-export">GitHub - KosmosisDire/obsidian-webpage-export: Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.</a></h3>
 <style>
 .favicon-193 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -165,7 +175,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-192&#34;&gt;&lt;a href=&#34;https://github.com/dragonwocky/obsidian-tray&#34;&gt;GitHub - dragonwocky/obsidian-tray: Run Obsidian from the system tray for customisable window management &amp;amp; global quick notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-192 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -175,7 +186,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-192"><a href="https://github.com/dragonwocky/obsidian-tray">GitHub - dragonwocky/obsidian-tray: Run Obsidian from the system tray for customisable window management &amp; global quick notes</a></h3>
 <style>
 .favicon-192 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -193,7 +205,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-186&#34;&gt;&lt;a href=&#34;https://github.com/rishikanthc/markopolis&#34;&gt;GitHub - rishikanthc/markopolis: Markdown Programmable Interface&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-186 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -207,7 +220,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-186"><a href="https://github.com/rishikanthc/markopolis">GitHub - rishikanthc/markopolis: Markdown Programmable Interface</a></h3>
 <style>
 .favicon-186 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -229,7 +243,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-174&#34;&gt;&lt;a href=&#34;https://github.com/chroxify/haptic&#34;&gt;GitHub - chroxify/haptic: A new local-first, privacy-focused and open-source home for your markdown notes&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-174 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -239,7 +254,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-174"><a href="https://github.com/chroxify/haptic">GitHub - chroxify/haptic: A new local-first, privacy-focused and open-source home for your markdown notes</a></h3>
 <style>
 .favicon-174 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -257,13 +273,15 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-171&#34;&gt;&lt;a href=&#34;https://markopolis.app/installation&#34;&gt;markopolis.app/installation&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-171 {
-    background: url(&#39;https://bm.deuts.org/static/https_markopolis_app.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_markopolis_app.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-171"><a href="https://markopolis.app/installation">markopolis.app/installation</a></h3>
 <style>
 .favicon-171 {
-    background: url('https://bm.deuts.org/static/https_markopolis_app.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_markopolis_app.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -277,7 +295,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-170&#34;&gt;&lt;a href=&#34;https://github.com/jaypyles/obsidian-to-bookstack&#34;&gt;GitHub - jaypyles/obsidian-to-bookstack: Download and upload changes between an Obsidian Vault and a Bookstack instance.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-170 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -287,7 +306,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-170"><a href="https://github.com/jaypyles/obsidian-to-bookstack">GitHub - jaypyles/obsidian-to-bookstack: Download and upload changes between an Obsidian Vault and a Bookstack instance.</a></h3>
 <style>
 .favicon-170 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

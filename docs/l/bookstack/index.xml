@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-170&#34;&gt;&lt;a href=&#34;https://github.com/jaypyles/obsidian-to-bookstack&#34;&gt;GitHub - jaypyles/obsidian-to-bookstack: Download and upload changes between an Obsidian Vault and a Bookstack instance.&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-170 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-170"><a href="https://github.com/jaypyles/obsidian-to-bookstack">GitHub - jaypyles/obsidian-to-bookstack: Download and upload changes between an Obsidian Vault and a Bookstack instance.</a></h3>
 <style>
 .favicon-170 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-30&#34;&gt;&lt;a href=&#34;https://github.com/BookStackApp/api-scripts&#34;&gt;GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-30 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-30"><a href="https://github.com/BookStackApp/api-scripts">GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts</a></h3>
 <style>
 .favicon-30 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

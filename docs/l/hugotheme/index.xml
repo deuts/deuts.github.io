@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-313&#34;&gt;&lt;a href=&#34;https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/&#34;&gt;How to Set a Fallback OpenGraph Image in Hugo-PaperMod&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-313 {
-    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_ryomayama_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-313"><a href="https://ryomayama.com/en/2024/12/21/set-fallback-for-opengraph-image-in-hugo-papermod/">How to Set a Fallback OpenGraph Image in Hugo-PaperMod</a></h3>
 <style>
 .favicon-313 {
-    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_ryomayama_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-266&#34;&gt;&lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;XMin Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-266 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-266"><a href="https://github.com/yihui/hugo-xmin">XMin Hugo Theme</a></h3>
 <style>
 .favicon-266 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-225&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-nightfall/&#34;&gt;Nightfall Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-225 {
-    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -90,7 +95,8 @@ Add these params to you config.toml&lt;br&gt;
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-225"><a href="https://themes.gohugo.io/themes/hugo-theme-nightfall/">Nightfall Hugo Theme</a></h3>
 <style>
 .favicon-225 {
-    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -115,7 +121,8 @@ Add these params to you config.toml<br>
       <description>&lt;h3 class=&#34;linkding-title favicon-179&#34;&gt;&lt;a href=&#34;https://github.com/tomfran/typo&#34;&gt;Typo Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-179 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -129,7 +136,8 @@ Add these params to you config.toml<br>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-179"><a href="https://github.com/tomfran/typo">Typo Hugo Theme</a></h3>
 <style>
 .favicon-179 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -151,7 +159,8 @@ Add these params to you config.toml<br>
       <description>&lt;h3 class=&#34;linkding-title favicon-88&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-relearn/&#34;&gt;Relearn Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-88 {
-    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -168,7 +177,8 @@ Features Wide set of usage scenarios Responsive design for mobile usage Looks ni
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-88"><a href="https://themes.gohugo.io/themes/hugo-theme-relearn/">Relearn Hugo Theme</a></h3>
 <style>
 .favicon-88 {
-    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -193,7 +203,8 @@ Features Wide set of usage scenarios Responsive design for mobile usage Looks ni
       <description>&lt;h3 class=&#34;linkding-title favicon-87&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/poison/&#34;&gt;Poison Hugo Theme&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-87 {
-    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_themes_gohugo_io.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -205,7 +216,8 @@ All the static assets for the site (JS files, CSS, and fonts) are located within
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-87"><a href="https://themes.gohugo.io/themes/poison/">Poison Hugo Theme</a></h3>
 <style>
 .favicon-87 {
-    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_themes_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

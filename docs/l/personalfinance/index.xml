@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-197&#34;&gt;&lt;a href=&#34;https://github.com/ellite/Wallos?tab=readme-ov-file#docker-compose&#34;&gt;GitHub - ellite/Wallos: Wallos: Open-Source Personal Subscription Tracker&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-197 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-197"><a href="https://github.com/ellite/Wallos?tab=readme-ov-file#docker-compose">GitHub - ellite/Wallos: Wallos: Open-Source Personal Subscription Tracker</a></h3>
 <style>
 .favicon-197 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-245&#34;&gt;&lt;a href=&#34;https://github.com/bhunter234/rclone-backup&#34;&gt;RClone Docker Backup&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-245 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-245"><a href="https://github.com/bhunter234/rclone-backup">RClone Docker Backup</a></h3>
 <style>
 .favicon-245 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-156&#34;&gt;&lt;a href=&#34;https://youtu.be/UzQIKYZDlLI?si=nCQr2X90oo0Ehp5R&#34;&gt;Mount OneDrive as folder in Linux with Rclone - YouTube&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-156 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-156"><a href="https://youtu.be/UzQIKYZDlLI?si=nCQr2X90oo0Ehp5R">Mount OneDrive as folder in Linux with Rclone - YouTube</a></h3>
 <style>
 .favicon-156 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-152&#34;&gt;&lt;a href=&#34;https://github.com/rclone/rclone&#34;&gt;RClone - RSync for Cloud Storage&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-152 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -87,7 +92,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-152"><a href="https://github.com/rclone/rclone">RClone - RSync for Cloud Storage</a></h3>
 <style>
 .favicon-152 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -109,7 +115,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-140&#34;&gt;&lt;a href=&#34;https://www.costin.rocks/blog/posts/automate-and-optimize-rclone-in-docker&#34;&gt;Automate and Optimize rclone in Docker - Blog by Costin Anghel&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-140 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_costin_rocks.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_www_costin_rocks.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -123,7 +130,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-140"><a href="https://www.costin.rocks/blog/posts/automate-and-optimize-rclone-in-docker">Automate and Optimize rclone in Docker - Blog by Costin Anghel</a></h3>
 <style>
 .favicon-140 {
-    background: url('https://bm.deuts.org/static/https_www_costin_rocks.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_www_costin_rocks.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

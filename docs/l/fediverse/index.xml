@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-303&#34;&gt;&lt;a href=&#34;https://masto-fe.iceshrimp.dev/&#34;&gt;Mastodon Front-end&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-303 {
-    background: url(&#39;https://bm.deuts.org/static/https_masto_fe_iceshrimp_dev.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_masto_fe_iceshrimp_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -31,7 +32,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-303"><a href="https://masto-fe.iceshrimp.dev/">Mastodon Front-end</a></h3>
 <style>
 .favicon-303 {
-    background: url('https://bm.deuts.org/static/https_masto_fe_iceshrimp_dev.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_masto_fe_iceshrimp_dev.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -53,7 +55,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-297&#34;&gt;&lt;a href=&#34;https://mattedwards.org/2022/02/setup-pixelfed-using-docker/&#34;&gt;Setup Pixelfed Using Docker&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-297 {
-    background: url(&#39;https://bm.deuts.org/static/https_mattedwards_org.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_mattedwards_org.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -67,7 +70,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-297"><a href="https://mattedwards.org/2022/02/setup-pixelfed-using-docker/">Setup Pixelfed Using Docker</a></h3>
 <style>
 .favicon-297 {
-    background: url('https://bm.deuts.org/static/https_mattedwards_org.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_mattedwards_org.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -89,7 +93,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-263&#34;&gt;&lt;a href=&#34;https://github.com/dahlia/hollo&#34;&gt;Hollo - Federated single-user microblogging software&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-263 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -99,7 +104,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-263"><a href="https://github.com/dahlia/hollo">Hollo - Federated single-user microblogging software</a></h3>
 <style>
 .favicon-263 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 

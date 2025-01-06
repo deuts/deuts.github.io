@@ -17,7 +17,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-172&#34;&gt;&lt;a href=&#34;https://docmost.com/&#34;&gt;Open-source collaborative wiki and documentation software | Docmost&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-172 {
-    background: url(&#39;https://bm.deuts.org/static/https_docmost_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_docmost_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -27,7 +28,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-172"><a href="https://docmost.com/">Open-source collaborative wiki and documentation software | Docmost</a></h3>
 <style>
 .favicon-172 {
-    background: url('https://bm.deuts.org/static/https_docmost_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_docmost_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -45,7 +47,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-134&#34;&gt;&lt;a href=&#34;https://docs.techdox.nz/mkdocs/&#34;&gt;Setting Up MkDocs with Docker Compose - Techdox Docs&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-134 {
-    background: url(&#39;https://bm.deuts.org/static/https_docs_techdox_nz.jpg&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_docs_techdox_nz.jpg&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -55,7 +58,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-134"><a href="https://docs.techdox.nz/mkdocs/">Setting Up MkDocs with Docker Compose - Techdox Docs</a></h3>
 <style>
 .favicon-134 {
-    background: url('https://bm.deuts.org/static/https_docs_techdox_nz.jpg') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_docs_techdox_nz.jpg') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -73,7 +77,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-30&#34;&gt;&lt;a href=&#34;https://github.com/BookStackApp/api-scripts&#34;&gt;GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-30 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -83,7 +88,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-30"><a href="https://github.com/BookStackApp/api-scripts">GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts</a></h3>
 <style>
 .favicon-30 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
@@ -101,7 +107,8 @@
       <description>&lt;h3 class=&#34;linkding-title favicon-29&#34;&gt;&lt;a href=&#34;https://github.com/Zavy86/WikiDocs&#34;&gt;GitHub - Zavy86/WikiDocs: 📗 Just a databaseless markdown flat-file wiki engine&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-29 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
 }
 &lt;/style&gt;
 
@@ -111,7 +118,8 @@
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-29"><a href="https://github.com/Zavy86/WikiDocs">GitHub - Zavy86/WikiDocs: 📗 Just a databaseless markdown flat-file wiki engine</a></h3>
 <style>
 .favicon-29 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
 }
 </style>
 
