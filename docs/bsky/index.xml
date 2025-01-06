@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 08:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 10:13:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/bsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lf22r2q3uc2u</title>
+      <link>https://deuts.org/b/2025-01-06-10-13-3lf22r2q3uc2u/</link>
+      <pubDate>Mon, 06 Jan 2025 10:13:00 +0800</pubDate>
+      <guid>https://deuts.org/b/2025-01-06-10-13-3lf22r2q3uc2u/</guid>
+      <description>&lt;p&gt;Selfhosting is just getting better: if only this could help minimize Paperless&amp;rsquo; memory usage &lt;a href=&#34;https://deuts.org/p/switch-paperless-ngx-pdfding/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. &lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Selfhosting is just getting better: if only this could help minimize Paperless&rsquo; memory usage <a href="https://deuts.org/p/switch-paperless-ngx-pdfding/">deuts.org/∞</a></p>
+<p>Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. <a href="https://github.com/clusterzx/paperless-ai/">github.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lezv3qomws2u</title>
       <link>https://deuts.org/b/2025-01-06-08-32-3lezv3qomws2u/</link>
@@ -104,15 +115,6 @@
 <li>Better search, include description, url and any custom metadata in the search parameters and results.
 <a href="https://github.com/thomiceli/opengist">github.com/∞</a></li>
 </ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lepzmm5jgc23</title>
-      <link>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</link>
-      <pubDate>Thu, 02 Jan 2025 10:26:00 +0800</pubDate>
-      <guid>https://deuts.org/b/2025-01-02-10-26-3lepzmm5jgc23/</guid>
-      <description>&lt;p&gt;Is it just me? I find so much insight from running &lt;code&gt;docker stats&lt;/code&gt; regularly via cron, logging them, and data modeling and analyzing via &lt;a href=&#34;https://bsky.app/hashtag/powerquery&#34;&gt;#PowerQuery&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/powerpivot&#34;&gt;#PowerPivot&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/dax&#34;&gt;#DAX&lt;/a&gt; compared to what I have with the &lt;a href=&#34;https://bsky.app/hashtag/prometheus&#34;&gt;#Prometheus&lt;/a&gt;, &lt;a href=&#34;https://bsky.app/hashtag/grafana&#34;&gt;#Grafana&lt;/a&gt;, CAdvisor, and Node-Exporter. The latter further consumes system resources.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Is it just me? I find so much insight from running <code>docker stats</code> regularly via cron, logging them, and data modeling and analyzing via <a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> and <a href="https://bsky.app/hashtag/powerpivot">#PowerPivot</a> <a href="https://bsky.app/hashtag/dax">#DAX</a> compared to what I have with the <a href="https://bsky.app/hashtag/prometheus">#Prometheus</a>, <a href="https://bsky.app/hashtag/grafana">#Grafana</a>, CAdvisor, and Node-Exporter. The latter further consumes system resources.</p>
 ]]></content:encoded>
     </item>
   </channel>
