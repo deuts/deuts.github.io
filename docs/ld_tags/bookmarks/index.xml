@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bookmarks on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/bookmarks/</link>
+    <description>Recent content in Bookmarks on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 16:28:34 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - hoarder-app/hoarder: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</title>
+      <link>https://deuts.org/x/198-github-hoarder-app-hoarder-a-self-hostable-bookmark-everything-app-links-notes-and-images-with-ai-based-automatic-tagging-and-full-text-search/</link>
+      <pubDate>Mon, 07 Oct 2024 16:28:34 +0800</pubDate>
+      <guid>https://deuts.org/x/198-github-hoarder-app-hoarder-a-self-hostable-bookmark-everything-app-links-notes-and-images-with-ai-based-automatic-tagging-and-full-text-search/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-198&#34;&gt;&lt;a href=&#34;https://github.com/hoarder-app/hoarder&#34;&gt;GitHub - hoarder-app/hoarder: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-198 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search - hoarder-app/hoarder
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-198"><a href="https://github.com/hoarder-app/hoarder">GitHub - hoarder-app/hoarder: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</a></h3>
+<style>
+.favicon-198 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search - hoarder-app/hoarder
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

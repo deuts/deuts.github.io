@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/security/</link>
+    <description>Recent content in Security on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sat, 21 Sep 2024 14:32:49 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - querylab/lazywarden: Automatic Bitwarden Backup</title>
+      <link>https://deuts.org/x/190-github-querylab-lazywarden-automatic-bitwarden-backup/</link>
+      <pubDate>Sat, 21 Sep 2024 14:32:49 +0800</pubDate>
+      <guid>https://deuts.org/x/190-github-querylab-lazywarden-automatic-bitwarden-backup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-190&#34;&gt;&lt;a href=&#34;https://github.com/querylab/lazywarden&#34;&gt;GitHub - querylab/lazywarden: Automatic Bitwarden Backup&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-190 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Automatic Bitwarden Backup. Contribute to querylab/lazywarden development by creating an account on GitHub.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-190"><a href="https://github.com/querylab/lazywarden">GitHub - querylab/lazywarden: Automatic Bitwarden Backup</a></h3>
+<style>
+.favicon-190 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Automatic Bitwarden Backup. Contribute to querylab/lazywarden development by creating an account on GitHub.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - mikeage/whatsrunning: Create a barebones webpage showing all docker containers that expose ports</title>
+      <link>https://deuts.org/x/189-github-mikeage-whatsrunning-create-a-barebones-webpage-showing-all-docker-containers-that-expose-ports/</link>
+      <pubDate>Fri, 20 Sep 2024 22:58:33 +0800</pubDate>
+      <guid>https://deuts.org/x/189-github-mikeage-whatsrunning-create-a-barebones-webpage-showing-all-docker-containers-that-expose-ports/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-189&#34;&gt;&lt;a href=&#34;https://github.com/mikeage/whatsrunning&#34;&gt;GitHub - mikeage/whatsrunning: Create a barebones webpage showing all docker containers that expose ports&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-189 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Create a barebones webpage showing all docker containers that expose ports - mikeage/whatsrunning
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-189"><a href="https://github.com/mikeage/whatsrunning">GitHub - mikeage/whatsrunning: Create a barebones webpage showing all docker containers that expose ports</a></h3>
+<style>
+.favicon-189 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Create a barebones webpage showing all docker containers that expose ports - mikeage/whatsrunning
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - CorentinTh/enclosed: Minimalistic web app designed for sending private and secure notes.</title>
+      <link>https://deuts.org/x/187-github-corentinth-enclosed-minimalistic-web-app-designed-for-sending-private-and-secure-notes/</link>
+      <pubDate>Wed, 18 Sep 2024 20:52:17 +0800</pubDate>
+      <guid>https://deuts.org/x/187-github-corentinth-enclosed-minimalistic-web-app-designed-for-sending-private-and-secure-notes/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-187&#34;&gt;&lt;a href=&#34;https://github.com/CorentinTh/enclosed&#34;&gt;GitHub - CorentinTh/enclosed: Minimalistic web app designed for sending private and secure notes.&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-187 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Minimalistic web app designed for sending private and secure notes. - CorentinTh/enclosed
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    A better looking alternative to Privatebin, just can&amp;rsquo;t find a way to set pastes/notes to never expire. Yes
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-187"><a href="https://github.com/CorentinTh/enclosed">GitHub - CorentinTh/enclosed: Minimalistic web app designed for sending private and secure notes.</a></h3>
+<style>
+.favicon-187 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Minimalistic web app designed for sending private and secure notes. - CorentinTh/enclosed
+</blockquote>
+  
+<div class="linkding-notes">
+    A better looking alternative to Privatebin, just can&rsquo;t find a way to set pastes/notes to never expire. Yes
+</div>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

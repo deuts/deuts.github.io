@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReverseTunnel on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/reversetunnel/</link>
+    <description>Recent content in ReverseTunnel on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 23:21:42 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/reversetunnel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - fractalnetworksco/selfhosted-gateway: Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.</title>
+      <link>https://deuts.org/x/199-github-fractalnetworksco-selfhosted-gateway-self-hosted-docker-native-tunneling-to-localhost-expose-local-docker-containers-to-the-public-internet-via-a-simple-docker-compose-interface/</link>
+      <pubDate>Mon, 07 Oct 2024 23:21:42 +0800</pubDate>
+      <guid>https://deuts.org/x/199-github-fractalnetworksco-selfhosted-gateway-self-hosted-docker-native-tunneling-to-localhost-expose-local-docker-containers-to-the-public-internet-via-a-simple-docker-compose-interface/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-199&#34;&gt;&lt;a href=&#34;https://github.com/fractalnetworksco/selfhosted-gateway&#34;&gt;GitHub - fractalnetworksco/selfhosted-gateway: Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-199 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface. - fractalnetworksco/selfhosted-gateway
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-199"><a href="https://github.com/fractalnetworksco/selfhosted-gateway">GitHub - fractalnetworksco/selfhosted-gateway: Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.</a></h3>
+<style>
+.favicon-199 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface. - fractalnetworksco/selfhosted-gateway
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

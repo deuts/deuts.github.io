@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/docker/</link>
+    <description>Recent content in Docker on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 12:11:35 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Monitoring with Prometheus: A Step-by-Step Guide</title>
+      <link>https://deuts.org/x/296-docker-monitoring-with-prometheus-a-step-by-step-guide/</link>
+      <pubDate>Mon, 16 Dec 2024 12:11:35 +0800</pubDate>
+      <guid>https://deuts.org/x/296-docker-monitoring-with-prometheus-a-step-by-step-guide/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-296&#34;&gt;&lt;a href=&#34;https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/&#34;&gt;Docker Monitoring with Prometheus: A Step-by-Step Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-296 {
+    background: url(&#39;https://bm.deuts.org/static/https_last9_io.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This guide walks you through setting up Docker monitoring using Prometheus and Grafana, helping you track container performance and resource usage with ease.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;Among the many guides out there for deploying Prometheus and Grafana, this is the one that actually worked.&lt;/p&gt;
+&lt;p&gt;Although, whether I&amp;rsquo;ll keep this in the long run is another question.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-296"><a href="https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/">Docker Monitoring with Prometheus: A Step-by-Step Guide</a></h3>
+<style>
+.favicon-296 {
+    background: url('https://bm.deuts.org/static/https_last9_io.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This guide walks you through setting up Docker monitoring using Prometheus and Grafana, helping you track container performance and resource usage with ease.
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>Among the many guides out there for deploying Prometheus and Grafana, this is the one that actually worked.</p>
+<p>Although, whether I&rsquo;ll keep this in the long run is another question.</p>
+
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Getting A Local Mastodon Setup In Docker - These Yaks Ain’t Gonna Shave Themselves</title>
+      <link>https://deuts.org/x/284-getting-a-local-mastodon-setup-in-docker-these-yaks-aint-gonna-shave-themselves/</link>
+      <pubDate>Wed, 11 Dec 2024 16:38:53 +0800</pubDate>
+      <guid>https://deuts.org/x/284-getting-a-local-mastodon-setup-in-docker-these-yaks-aint-gonna-shave-themselves/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-284&#34;&gt;&lt;a href=&#34;https://polotek.net/posts/local-mastodon-in-docker/&#34;&gt;Getting A Local Mastodon Setup In Docker - These Yaks Ain’t Gonna Shave Themselves&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-284 {
+    background: url(&#39;https://bm.deuts.org/static/https_polotek_net.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This is the first in probably a series of posts as I dig into the technical aspects of mastodon. My goal is to get a better understanding of the design of ActivityPub and how mastodon itself is designed to use ActivityPub. Eventually I want to learn enough to maybe do some hacking and create some of the experiences I want that mastodon doesn’t support today.&lt;br&gt;
+The first milestone is just getting a mastodon instance set up on my laptop.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-284"><a href="https://polotek.net/posts/local-mastodon-in-docker/">Getting A Local Mastodon Setup In Docker - These Yaks Ain’t Gonna Shave Themselves</a></h3>
+<style>
+.favicon-284 {
+    background: url('https://bm.deuts.org/static/https_polotek_net.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This is the first in probably a series of posts as I dig into the technical aspects of mastodon. My goal is to get a better understanding of the design of ActivityPub and how mastodon itself is designed to use ActivityPub. Eventually I want to learn enough to maybe do some hacking and create some of the experiences I want that mastodon doesn’t support today.<br>
+The first milestone is just getting a mastodon instance set up on my laptop.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docker Crontab</title>
+      <link>https://deuts.org/x/283-docker-crontab/</link>
+      <pubDate>Wed, 11 Dec 2024 09:27:27 +0800</pubDate>
+      <guid>https://deuts.org/x/283-docker-crontab/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-283&#34;&gt;&lt;a href=&#34;https://github.com/davidhfrankelcodes/docker-crontab&#34;&gt;Docker Crontab&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-283 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    It&amp;rsquo;s crontab but in a container. No ports. No GUI. No BS. Just cron in a container. Why? Because someone decided that setting up cron jobs the normal way wasn&amp;rsquo;t edgy enough. Now you get to deal with Docker AND cron at the same time. You&amp;rsquo;re welcome.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I assume this will make the crontab so much easier to backup and restore in a new system.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-283"><a href="https://github.com/davidhfrankelcodes/docker-crontab">Docker Crontab</a></h3>
+<style>
+.favicon-283 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    It&rsquo;s crontab but in a container. No ports. No GUI. No BS. Just cron in a container. Why? Because someone decided that setting up cron jobs the normal way wasn&rsquo;t edgy enough. Now you get to deal with Docker AND cron at the same time. You&rsquo;re welcome.
+</blockquote>
+  
+<div class="linkding-notes">
+    I assume this will make the crontab so much easier to backup and restore in a new system.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>DockWatch</title>
+      <link>https://deuts.org/x/276-dockwatch/</link>
+      <pubDate>Fri, 06 Dec 2024 22:36:48 +0800</pubDate>
+      <guid>https://deuts.org/x/276-dockwatch/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-276&#34;&gt;&lt;a href=&#34;https://github.com/Notifiarr/dockwatch&#34;&gt;DockWatch&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-276 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Automated Container Management and Notifications w/ beautiful WebUI
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-276"><a href="https://github.com/Notifiarr/dockwatch">DockWatch</a></h3>
+<style>
+.favicon-276 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Automated Container Management and Notifications w/ beautiful WebUI
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Linuxserver Container Mods</title>
+      <link>https://deuts.org/x/259-linuxserver-container-mods/</link>
+      <pubDate>Thu, 21 Nov 2024 23:04:05 +0800</pubDate>
+      <guid>https://deuts.org/x/259-linuxserver-container-mods/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-259&#34;&gt;&lt;a href=&#34;https://mods.linuxserver.io/&#34;&gt;Linuxserver Container Mods&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-259 {
+    background: url(&#39;https://bm.deuts.org/static/https_mods_linuxserver_io.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    List of mods for Linuxserver.io containers
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-259"><a href="https://mods.linuxserver.io/">Linuxserver Container Mods</a></h3>
+<style>
+.favicon-259 {
+    background: url('https://bm.deuts.org/static/https_mods_linuxserver_io.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    List of mods for Linuxserver.io containers
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fladder</title>
+      <link>https://deuts.org/x/227-fladder/</link>
+      <pubDate>Sat, 19 Oct 2024 17:08:41 +0800</pubDate>
+      <guid>https://deuts.org/x/227-fladder/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-227&#34;&gt;&lt;a href=&#34;https://github.com/DonutWare/Fladder&#34;&gt;Fladder&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-227 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Simple Jellyfin Frontend.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-227"><a href="https://github.com/DonutWare/Fladder">Fladder</a></h3>
+<style>
+.favicon-227 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Simple Jellyfin Frontend.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Portainer Templates</title>
+      <link>https://deuts.org/x/221-portainer-templates/</link>
+      <pubDate>Wed, 16 Oct 2024 17:27:52 +0800</pubDate>
+      <guid>https://deuts.org/x/221-portainer-templates/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-221&#34;&gt;&lt;a href=&#34;https://portainer-templates.as93.net/&#34;&gt;Portainer Templates&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-221 {
+    background: url(&#39;https://bm.deuts.org/static/https_portainer_templates_as93_net.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A community-driven library of 1-click self-hosted apps
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-221"><a href="https://portainer-templates.as93.net/">Portainer Templates</a></h3>
+<style>
+.favicon-221 {
+    background: url('https://bm.deuts.org/static/https_portainer_templates_as93_net.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A community-driven library of 1-click self-hosted apps
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Awesome Docker Compose</title>
+      <link>https://deuts.org/x/220-awesome-docker-compose/</link>
+      <pubDate>Wed, 16 Oct 2024 17:27:45 +0800</pubDate>
+      <guid>https://deuts.org/x/220-awesome-docker-compose/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-220&#34;&gt;&lt;a href=&#34;https://awesome-docker-compose.com/&#34;&gt;Awesome Docker Compose&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-220 {
+    background: url(&#39;https://bm.deuts.org/static/https_awesome_docker_compose_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A collection of self-hosted apps you can quickly set up with Docker Compose
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-220"><a href="https://awesome-docker-compose.com/">Awesome Docker Compose</a></h3>
+<style>
+.favicon-220 {
+    background: url('https://bm.deuts.org/static/https_awesome_docker_compose_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A collection of self-hosted apps you can quickly set up with Docker Compose
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docker HedgeDoc</title>
+      <link>https://deuts.org/x/219-docker-hedgedoc/</link>
+      <pubDate>Tue, 15 Oct 2024 17:55:06 +0800</pubDate>
+      <guid>https://deuts.org/x/219-docker-hedgedoc/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-219&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-hedgedoc/&#34;&gt;Docker HedgeDoc&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-219 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    HedgeDoc is a real-time, multi-platform collaborative markdown note editor. This means that you can write notes with other people on your desktop, tablet or even on the phone. You can sign-in via multiple auth providers like Facebook, Twitter, GitHub and many more on the homepage.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-219"><a href="https://github.com/linuxserver/docker-hedgedoc/">Docker HedgeDoc</a></h3>
+<style>
+.favicon-219 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    HedgeDoc is a real-time, multi-platform collaborative markdown note editor. This means that you can write notes with other people on your desktop, tablet or even on the phone. You can sign-in via multiple auth providers like Facebook, Twitter, GitHub and many more on the homepage.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - linuxserver/docker-guacd</title>
+      <link>https://deuts.org/x/218-github-linuxserver-docker-guacd/</link>
+      <pubDate>Tue, 15 Oct 2024 17:42:32 +0800</pubDate>
+      <guid>https://deuts.org/x/218-github-linuxserver-docker-guacd/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-218&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file&#34;&gt;GitHub - linuxserver/docker-guacd&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-218 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Contribute to linuxserver/docker-guacd development by creating an account on GitHub.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-218"><a href="https://github.com/linuxserver/docker-guacd/?tab=readme-ov-file">GitHub - linuxserver/docker-guacd</a></h3>
+<style>
+.favicon-218 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Contribute to linuxserver/docker-guacd development by creating an account on GitHub.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

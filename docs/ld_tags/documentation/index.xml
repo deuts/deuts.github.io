@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Documentation on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/documentation/</link>
+    <description>Recent content in Documentation on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 00:35:21 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-source collaborative wiki and documentation software | Docmost</title>
+      <link>https://deuts.org/x/172-open-source-collaborative-wiki-and-documentation-software-docmost/</link>
+      <pubDate>Thu, 05 Sep 2024 00:35:21 +0800</pubDate>
+      <guid>https://deuts.org/x/172-open-source-collaborative-wiki-and-documentation-software-docmost/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-172&#34;&gt;&lt;a href=&#34;https://docmost.com/&#34;&gt;Open-source collaborative wiki and documentation software | Docmost&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-172 {
+    background: url(&#39;https://bm.deuts.org/static/https_docmost_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Docmost is an open-source collaborative wiki and documentation software
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-172"><a href="https://docmost.com/">Open-source collaborative wiki and documentation software | Docmost</a></h3>
+<style>
+.favicon-172 {
+    background: url('https://bm.deuts.org/static/https_docmost_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Docmost is an open-source collaborative wiki and documentation software
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Setting Up MkDocs with Docker Compose - Techdox Docs</title>
+      <link>https://deuts.org/x/134-setting-up-mkdocs-with-docker-compose-techdox-docs/</link>
+      <pubDate>Tue, 16 Jul 2024 13:15:56 +0800</pubDate>
+      <guid>https://deuts.org/x/134-setting-up-mkdocs-with-docker-compose-techdox-docs/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-134&#34;&gt;&lt;a href=&#34;https://docs.techdox.nz/mkdocs/&#34;&gt;Setting Up MkDocs with Docker Compose - Techdox Docs&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-134 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_techdox_nz.jpg&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    MkDocs is a static site generator that&amp;rsquo;s geared towards project documentation. With the Material theme, it provides a sleek, responsive, and user-friendly interface for your documentation projects.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-134"><a href="https://docs.techdox.nz/mkdocs/">Setting Up MkDocs with Docker Compose - Techdox Docs</a></h3>
+<style>
+.favicon-134 {
+    background: url('https://bm.deuts.org/static/https_docs_techdox_nz.jpg') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    MkDocs is a static site generator that&rsquo;s geared towards project documentation. With the Material theme, it provides a sleek, responsive, and user-friendly interface for your documentation projects.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts</title>
+      <link>https://deuts.org/x/30-github-bookstackapp-api-scripts-examples-of-bookstack-api-scripts/</link>
+      <pubDate>Sun, 31 Mar 2024 21:19:47 +0800</pubDate>
+      <guid>https://deuts.org/x/30-github-bookstackapp-api-scripts-examples-of-bookstack-api-scripts/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-30&#34;&gt;&lt;a href=&#34;https://github.com/BookStackApp/api-scripts&#34;&gt;GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-30 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Examples of BookStack API scripts. Contribute to BookStackApp/api-scripts development by creating an account on GitHub.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-30"><a href="https://github.com/BookStackApp/api-scripts">GitHub - BookStackApp/api-scripts: Examples of BookStack API scripts</a></h3>
+<style>
+.favicon-30 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Examples of BookStack API scripts. Contribute to BookStackApp/api-scripts development by creating an account on GitHub.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - Zavy86/WikiDocs: 📗 Just a databaseless markdown flat-file wiki engine</title>
+      <link>https://deuts.org/x/29-github-zavy86-wikidocs-just-a-databaseless-markdown-flat-file-wiki-engine/</link>
+      <pubDate>Sun, 31 Mar 2024 21:19:16 +0800</pubDate>
+      <guid>https://deuts.org/x/29-github-zavy86-wikidocs-just-a-databaseless-markdown-flat-file-wiki-engine/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-29&#34;&gt;&lt;a href=&#34;https://github.com/Zavy86/WikiDocs&#34;&gt;GitHub - Zavy86/WikiDocs: 📗 Just a databaseless markdown flat-file wiki engine&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-29 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    📗 Just a databaseless markdown flat-file wiki engine - Zavy86/WikiDocs
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-29"><a href="https://github.com/Zavy86/WikiDocs">GitHub - Zavy86/WikiDocs: 📗 Just a databaseless markdown flat-file wiki engine</a></h3>
+<style>
+.favicon-29 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    📗 Just a databaseless markdown flat-file wiki engine - Zavy86/WikiDocs
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/productivity/</link>
+    <description>Recent content in Productivity on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sat, 14 Sep 2024 07:01:45 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - linuxserver/docker-planka</title>
+      <link>https://deuts.org/x/180-github-linuxserver-docker-planka/</link>
+      <pubDate>Sat, 14 Sep 2024 07:01:45 +0800</pubDate>
+      <guid>https://deuts.org/x/180-github-linuxserver-docker-planka/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-180&#34;&gt;&lt;a href=&#34;https://github.com/linuxserver/docker-planka/&#34;&gt;GitHub - linuxserver/docker-planka&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-180 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Contribute to linuxserver/docker-planka development by creating an account on GitHub.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Simple self-hosted kanban system
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-180"><a href="https://github.com/linuxserver/docker-planka/">GitHub - linuxserver/docker-planka</a></h3>
+<style>
+.favicon-180 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Contribute to linuxserver/docker-planka development by creating an account on GitHub.
+</blockquote>
+  
+<div class="linkding-notes">
+    Simple self-hosted kanban system
+</div>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

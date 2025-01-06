@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatGPT on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 11:12:01 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the canvas feature in ChatGPT?</title>
+      <link>https://deuts.org/x/294-what-is-the-canvas-feature-in-chatgpt/</link>
+      <pubDate>Mon, 16 Dec 2024 11:12:01 +0800</pubDate>
+      <guid>https://deuts.org/x/294-what-is-the-canvas-feature-in-chatgpt/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-294&#34;&gt;&lt;a href=&#34;https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it&#34;&gt;What is the canvas feature in ChatGPT?&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-294 {
+    background: url(&#39;https://bm.deuts.org/static/https_help_openai_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Canvas is a new interface for working with ChatGPT on writing and coding projects that require editing and revisions.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-294"><a href="https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it">What is the canvas feature in ChatGPT?</a></h3>
+<style>
+.favicon-294 {
+    background: url('https://bm.deuts.org/static/https_help_openai_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Canvas is a new interface for working with ChatGPT on writing and coding projects that require editing and revisions.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - deiucanta/chatpad: Not just another ChatGPT user-interface!</title>
+      <link>https://deuts.org/x/70-github-deiucanta-chatpad-not-just-another-chatgpt-user-interface/</link>
+      <pubDate>Fri, 24 May 2024 12:00:24 +0800</pubDate>
+      <guid>https://deuts.org/x/70-github-deiucanta-chatpad-not-just-another-chatgpt-user-interface/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-70&#34;&gt;&lt;a href=&#34;https://github.com/deiucanta/chatpad&#34;&gt;GitHub - deiucanta/chatpad: Not just another ChatGPT user-interface!&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-70 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Not just another ChatGPT user-interface! Contribute to deiucanta/chatpad development by creating an account on GitHub.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-70"><a href="https://github.com/deiucanta/chatpad">GitHub - deiucanta/chatpad: Not just another ChatGPT user-interface!</a></h3>
+<style>
+.favicon-70 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Not just another ChatGPT user-interface! Contribute to deiucanta/chatpad development by creating an account on GitHub.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

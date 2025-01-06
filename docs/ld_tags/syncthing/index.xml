@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Syncthing on Deuts Log</title>
+    <link>https://deuts.org/ld_tags/syncthing/</link>
+    <description>Recent content in Syncthing on Deuts Log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sat, 22 Jun 2024 10:23:54 +0800</lastBuildDate>
+    <atom:link href="https://deuts.org/ld_tags/syncthing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I synchronize and backup my Obsidian Notes</title>
+      <link>https://deuts.org/x/108-how-i-synchronize-and-backup-my-obsidian-notes/</link>
+      <pubDate>Sat, 22 Jun 2024 10:23:54 +0800</pubDate>
+      <guid>https://deuts.org/x/108-how-i-synchronize-and-backup-my-obsidian-notes/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-108&#34;&gt;&lt;a href=&#34;https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/&#34;&gt;How I synchronize and backup my Obsidian Notes&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-108 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_dsebastien_net.png&#39;) no-repeat left center;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Discover effective methods to synchronize and backup your Obsidian notes. This comprehensive guide covers using Syncthing, Google Drive, GitHub, Backblaze, and local backups to ensure your notes are secure and accessible from any device.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-108"><a href="https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/">How I synchronize and backup my Obsidian Notes</a></h3>
+<style>
+.favicon-108 {
+    background: url('https://bm.deuts.org/static/https_www_dsebastien_net.png') no-repeat left center;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Discover effective methods to synchronize and backup your Obsidian notes. This comprehensive guide covers using Syncthing, Google Drive, GitHub, Backblaze, and local backups to ensure your notes are secure and accessible from any device.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
