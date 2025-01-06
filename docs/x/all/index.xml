@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 10:28:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 17:56:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lf2umv5u2k2u</title>
+      <link>https://deuts.org/x/2025-01-06-17-56-3lf2umv5u2k2u/</link>
+      <pubDate>Mon, 06 Jan 2025 17:56:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-06-17-56-3lf2umv5u2k2u/</guid>
+      <description>&lt;p&gt;Major changes made to deuts.org My Linkding posts are now integrated to Asides together with my Bluesky posts.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Major changes made to deuts.org My Linkding posts are now integrated to Asides together with my Bluesky posts.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>KeePassXC to easily and securely manage your SSH Keys</title>
       <link>https://deuts.org/x/317-keepassxc-to-easily-and-securely-manage-your-ssh-keys/</link>
@@ -209,15 +218,6 @@
 &lt;p&gt;&lt;a href=&#34;https://deuts.org/p/add-docs-hugo-papermod-cover-image/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I&rsquo;ve been using Hugo Papermod&rsquo;s Cover Image wrong in the past, that&rsquo;s why my links didn&rsquo;t use to have cover images here. Now I know. <a href="https://bsky.app/hashtag/gohugo">#GoHugo</a></p>
 <p><a href="https://deuts.org/p/add-docs-hugo-papermod-cover-image/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3leuymfib6s2l</title>
-      <link>https://deuts.org/x/2025-01-04-09-52-3leuymfib6s2l/</link>
-      <pubDate>Sat, 04 Jan 2025 09:52:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-04-09-52-3leuymfib6s2l/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://bsky.app/hashtag/nbaleaguepass&#34;&gt;#NBALeaguePass&lt;/a&gt; at ₱499 per month is expensive considering that that because of the timezone difference I might just be able to watch 4x in a month, usually during weekends only. ₱199 per game is crazy stupid! &lt;a href=&#34;https://bsky.app/hashtag/nba&#34;&gt;#NBA&lt;/a&gt; should know better.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://bsky.app/hashtag/nbaleaguepass">#NBALeaguePass</a> at ₱499 per month is expensive considering that that because of the timezone difference I might just be able to watch 4x in a month, usually during weekends only. ₱199 per game is crazy stupid! <a href="https://bsky.app/hashtag/nba">#NBA</a> should know better.</p>
 ]]></content:encoded>
     </item>
   </channel>
