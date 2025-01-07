@@ -7,8 +7,47 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 15:13:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 22:34:29 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media Caching - GoToSocial Documentation</title>
+      <link>https://deuts.org/x/323-media-caching-gotosocial-documentation/</link>
+      <pubDate>Tue, 07 Jan 2025 22:34:29 +0800</pubDate>
+      <guid>https://deuts.org/x/323-media-caching-gotosocial-documentation/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-323&#34;&gt;&lt;a href=&#34;https://docs.gotosocial.org/en/latest/admin/media_caching/&#34;&gt;Media Caching - GoToSocial Documentation&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-323 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_gotosocial_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    GoToSocial uses the configured storage backend in order to store media (images, videos, etc) uploaded to the instance by local users, as well as to cache media attached to posts and profiles federated in from remote instances.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;GoToSocial total storage space usage currently stands at 3.9GB. If this gets out of hand, I may need to add in the &lt;code&gt;environment&lt;/code&gt; variable of the &lt;code&gt;compose.yml&lt;/code&gt; file:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-323"><a href="https://docs.gotosocial.org/en/latest/admin/media_caching/">Media Caching - GoToSocial Documentation</a></h3>
+<style>
+.favicon-323 {
+    background: url('https://bm.deuts.org/static/https_docs_gotosocial_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    GoToSocial uses the configured storage backend in order to store media (images, videos, etc) uploaded to the instance by local users, as well as to cache media attached to posts and profiles federated in from remote instances.
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>GoToSocial total storage space usage currently stands at 3.9GB. If this gets out of hand, I may need to add in the <code>environment</code> variable of the <code>compose.yml</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">GTS_MEDIA_REMOTE_CACHE_DAYS</span>: <span style="color:#ae81ff">2</span>  
+</span></span></code></pre></div>
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Fediscanner</title>
       <link>https://deuts.org/x/322-fediscanner/</link>
@@ -173,44 +212,6 @@
 &lt;p&gt;Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. &lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Selfhosting is just getting better: if only this could help minimize Paperless&rsquo; memory usage <a href="https://deuts.org/p/switch-paperless-ngx-pdfding/">deuts.org/∞</a></p>
 <p>Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. <a href="https://github.com/clusterzx/paperless-ai/">github.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</title>
-      <link>https://deuts.org/x/315-bitwarden-vaultwarden-finally-with-ssh-keys-and-agent/</link>
-      <pubDate>Mon, 06 Jan 2025 10:08:56 +0800</pubDate>
-      <guid>https://deuts.org/x/315-bitwarden-vaultwarden-finally-with-ssh-keys-and-agent/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-315&#34;&gt;&lt;a href=&#34;https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/&#34;&gt;Bitwarden/Vaultwarden - Finally with SSH keys (and agent)&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-315 {
-    background: url(&#39;https://bm.deuts.org/static/https_idpea_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden, are enough reasons to maintain a working Vaultwarden container.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-315"><a href="https://idpea.org/blog/bitwarden-vaultwarden-ssh-keys/">Bitwarden/Vaultwarden - Finally with SSH keys (and agent)</a></h3>
-<style>
-.favicon-315 {
-    background: url('https://bm.deuts.org/static/https_idpea_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Bitwarden, and by extension Vaultwarden, is finally receiving support for managing SSH keys AND authenticating via a built-in SSH agent!
-</blockquote>
-  
-<div class="linkding-notes">
-    Gotta revisit my Vaultwarden installation. This, and the 2FA feature of Vaultwarden, a paid feature in Bitwarden, are enough reasons to maintain a working Vaultwarden container.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>

@@ -22,21 +22,27 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/gotosocial/</loc>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/ld_tags/</loc>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/323-media-caching-gotosocial-documentation/</loc>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-07T22:34:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/322-fediscanner/</loc>
     <lastmod>2025-01-07T15:13:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/ld_tags/</loc>
-    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-07T15:13:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</loc>
@@ -305,9 +311,6 @@
   </url><url>
     <loc>https://deuts.org/k/realestate/</loc>
     <lastmod>2024-12-19T15:56:52+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/gotosocial/</loc>
-    <lastmod>2024-12-19T15:48:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/mastodon/</loc>
     <lastmod>2024-12-19T15:48:00+08:00</lastmod>
