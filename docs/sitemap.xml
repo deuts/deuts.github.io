@@ -22,27 +22,30 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</loc>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/x/324-fediverse-explorer/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/ld_tags/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/mastodon/</loc>
-    <lastmod>2025-01-07T22:54:24+08:00</lastmod>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/324-fediverse-explorer/</loc>
     <lastmod>2025-01-07T22:54:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/323-media-caching-gotosocial-documentation/</loc>
