@@ -21,13 +21,25 @@
   </url><url>
     <loc>https://deuts.org/search/</loc>
   </url><url>
-    <loc>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</loc>
-    <lastmod>2025-01-07T08:51:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-07T08:51:00+08:00</lastmod>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/322-fediscanner/</loc>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/ld_tags/</loc>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-07T15:13:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</loc>
     <lastmod>2025-01-07T08:51:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-07-08-45-3lf4gbwd3ys2l/</loc>
@@ -48,9 +60,6 @@
     <loc>https://deuts.org/x/317-keepassxc-to-easily-and-securely-manage-your-ssh-keys/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/ld_tags/</loc>
-    <lastmod>2025-01-06T10:28:26+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/passwords/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
   </url><url>
@@ -64,9 +73,6 @@
     <lastmod>2025-01-06T10:14:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/316-paperless-ai/</loc>
-    <lastmod>2025-01-06T10:14:35+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-06T10:14:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-06-10-13-3lf22r2q3uc2u/</loc>
@@ -299,9 +305,6 @@
   </url><url>
     <loc>https://deuts.org/k/realestate/</loc>
     <lastmod>2024-12-19T15:56:52+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2024-12-19T15:48:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
     <lastmod>2024-12-19T15:48:00+08:00</lastmod>
@@ -1329,10 +1332,10 @@
     <loc>https://deuts.org/x/179-typo-hugo-theme/</loc>
     <lastmod>2024-09-11T16:20:31+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/database/</loc>
+    <loc>https://deuts.org/x/178-adminer-sqlite/</loc>
     <lastmod>2024-09-09T09:50:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/178-github-fluidblue-adminer-sqlite-use-adminer-with-a-local-sqlite-database/</loc>
+    <loc>https://deuts.org/k/database/</loc>
     <lastmod>2024-09-09T09:50:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/ai/</loc>
