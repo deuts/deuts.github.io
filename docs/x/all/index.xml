@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 22:34:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 22:54:24 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fediverse Explorer</title>
+      <link>https://deuts.org/x/324-fediverse-explorer/</link>
+      <pubDate>Tue, 07 Jan 2025 22:54:24 +0800</pubDate>
+      <guid>https://deuts.org/x/324-fediverse-explorer/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-324&#34;&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/&#34;&gt;Fediverse Explorer&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-324 {
+    background: url(&#39;https://bm.deuts.org/static/https_fediverse_explorer_stefanbohacek_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Browse most recent public posts across the fediverse by hashtag.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is a great project. Lots of posts I&amp;rsquo;ve discovered from using this hashtag search. I know the source is on Github, but I wish this is easily selfhostable complete with Docker and compose documentation.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-324"><a href="https://fediverse-explorer.stefanbohacek.dev/">Fediverse Explorer</a></h3>
+<style>
+.favicon-324 {
+    background: url('https://bm.deuts.org/static/https_fediverse_explorer_stefanbohacek_dev.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Browse most recent public posts across the fediverse by hashtag.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is a great project. Lots of posts I&rsquo;ve discovered from using this hashtag search. I know the source is on Github, but I wish this is easily selfhostable complete with Docker and compose documentation.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Media Caching - GoToSocial Documentation</title>
       <link>https://deuts.org/x/323-media-caching-gotosocial-documentation/</link>
@@ -201,17 +239,6 @@
     If only this could help minimize Paperless&rsquo; memory (RAM) usage.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lf22r2q3uc2u</title>
-      <link>https://deuts.org/x/2025-01-06-10-13-3lf22r2q3uc2u/</link>
-      <pubDate>Mon, 06 Jan 2025 10:13:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-06-10-13-3lf22r2q3uc2u/</guid>
-      <description>&lt;p&gt;Selfhosting is just getting better: if only this could help minimize Paperless&amp;rsquo; memory usage &lt;a href=&#34;https://deuts.org/p/switch-paperless-ngx-pdfding/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. &lt;a href=&#34;https://github.com/clusterzx/paperless-ai/&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Selfhosting is just getting better: if only this could help minimize Paperless&rsquo; memory usage <a href="https://deuts.org/p/switch-paperless-ngx-pdfding/">deuts.org/∞</a></p>
-<p>Paperless AI: An automated document analyzer for Paperless-ngx using OpenAI API and Ollama to automatically analyze and tag your documents. <a href="https://github.com/clusterzx/paperless-ai/">github.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
