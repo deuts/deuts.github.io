@@ -1,1 +1,0 @@
-These are the favicons for Deuts Log while using the PaperMod theme.
