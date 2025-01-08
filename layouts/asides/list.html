@@ -1,0 +1,97 @@
+{{- define "main" }}
+
+
+
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1 class="asides-head">
+    {{ .Title }}
+  </h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+{{- $paginator := .Paginate $pages }}
+{{- $lastDate := "" -}} {{/*Added by Deuts*/}}
+{{- range $index, $page := $paginator.Pages }}
+
+{{ $asideType := .Page.Params.aside_type }}
+{{ if eq $asideType "bluesky" }}
+  {{ $asideType = "bsky" }}
+{{ end }}
+
+{{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}}
+
+<article class="asides-post">
+  {{- if ne $currentDate $lastDate }}
+    <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
+    {{- $lastDate = $currentDate -}}
+  {{- end }}
+
+  <div class="{{ $asideType }}-post-cont">
+    {{- if not .Date.IsZero -}}
+    <div class="post-time">
+      <span title="{{ .Date }}">
+        <a href="{{ .Permalink }}" aria-label="Link to the post">{{ .Date.Format "15:04" }}</a>
+      </span>
+    </div>
+    {{- end }}
+
+    <div class="{{ $asideType }}-content">
+      {{ .Content }}
+      <div class="{{ $asideType }}-footer">
+        {{ if eq $asideType "bsky" }}
+          <a href="{{ .Params.link }}" aria-label="Link to bsky">
+            {{ .Params.atpid }}
+          </a>
+        {{ else if eq $asideType "linkding" }}
+          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a>
+          {{ if .Params.ld_tags }}
+            {{ $tagsLength := len .Params.ld_tags }}
+            {{ range $index, $tag := .Params.ld_tags }}
+                <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>
+                {{ if ne $index (sub $tagsLength 1) }},{{ end }}
+            {{ end }} {{/* range $index */}}
+          {{ end }} {{/* if .Params.ld_tags */}}
+        {{ end }} {{/* if eq $asideType */}}
+      </div>
+    </div>
+  </div>
+</article>
+
+{{- end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
+      «&nbsp;{{ i18n "prev_page" }}&nbsp;
+      {{- if (.Param "ShowPageNums") }}
+      {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
+      {{- end }}
+    </a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">
+      {{- i18n "next_page" }}&nbsp;
+      {{- if (.Param "ShowPageNums") }}
+      {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
+      {{- end }}&nbsp;»
+    </a>
+    {{- end }}
+  </nav>
+</footer>
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
