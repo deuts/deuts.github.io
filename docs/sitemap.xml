@@ -22,10 +22,22 @@
     <loc>https://deuts.org/search/</loc>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</loc>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pixelfed/</loc>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</loc>
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
@@ -37,9 +49,6 @@
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/mastodon/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/324-fediverse-explorer/</loc>
@@ -390,9 +399,6 @@
     <loc>https://deuts.org/x/2024-12-16-17-34-3ldfzm5nsys2g/</loc>
     <lastmod>2024-12-16T17:34:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/pixelfed/</loc>
-    <lastmod>2024-12-16T16:09:29+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/297-setup-pixelfed-using-docker/</loc>
     <lastmod>2024-12-16T16:09:29+08:00</lastmod>
   </url><url>
@@ -407,9 +413,6 @@
   </url><url>
     <loc>https://deuts.org/p/linkding-vs-hoarder/</loc>
     <lastmod>2024-12-16T15:54:21+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2024-12-16T12:11:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/296-docker-monitoring-with-prometheus-a-step-by-step-guide/</loc>
     <lastmod>2024-12-16T12:11:35+08:00</lastmod>
