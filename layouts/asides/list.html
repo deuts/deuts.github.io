@@ -1,7 +1,5 @@
 {{- define "main" }}
 
-
-
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1 class="asides-head">
@@ -22,23 +20,21 @@
 
 {{- $pages := union .RegularPages .Sections }}
 {{- $paginator := .Paginate $pages }}
+
 {{- $lastDate := "" -}} {{/*Added by Deuts*/}}
 {{- range $index, $page := $paginator.Pages }}
 
 {{ $asideType := .Page.Params.aside_type }}
-{{ if eq $asideType "bluesky" }}
-  {{ $asideType = "bsky" }}
-{{ end }}
 
 {{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}}
 
-<article class="asides-post">
+<article class="asides-post {{ $asideType }}-post {{ $asideType }}-single asides-list">
   {{- if ne $currentDate $lastDate }}
     <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
     {{- $lastDate = $currentDate -}}
   {{- end }}
 
-  <div class="{{ $asideType }}-post-cont">
+  <div class="{{ $asideType }}-post-cont asides-post-cont">
     {{- if not .Date.IsZero -}}
     <div class="post-time">
       <span title="{{ .Date }}">
@@ -46,25 +42,25 @@
       </span>
     </div>
     {{- end }}
-
-    <div class="{{ $asideType }}-content">
+    <div class="{{ $asideType }}-content asides-content">
       {{ .Content }}
-      <div class="{{ $asideType }}-footer">
-        {{ if eq $asideType "bsky" }}
-          <a href="{{ .Params.link }}" aria-label="Link to bsky">
-            {{ .Params.atpid }}
-          </a>
+
+      <div class="{{ $asideType }}-footer asides-footer">
+        {{ if eq $asideType "bluesky" }}
+          <a href="{{ .Params.link }}" aria-label="Link to bsky">{{ .Params.atpid }}</a>
         {{ else if eq $asideType "linkding" }}
           <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a>
           {{ if .Params.ld_tags }}
             {{ $tagsLength := len .Params.ld_tags }}
             {{ range $index, $tag := .Params.ld_tags }}
-                <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>
-                {{ if ne $index (sub $tagsLength 1) }},{{ end }}
-            {{ end }} {{/* range $index */}}
-          {{ end }} {{/* if .Params.ld_tags */}}
-        {{ end }} {{/* if eq $asideType */}}
+              <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>{{ if ne $index (sub $tagsLength 1) }},{{ end }}
+            {{ end }}
+          {{ end }}
+        {{ else if eq $asideType "gotosocial" }}
+          <a href="{{ .Params.link }}" aria-label="Link to gotosocial">{{ .Params.gtsid }}</a>
+        {{ end }}
       </div>
+
     </div>
   </div>
 </article>
