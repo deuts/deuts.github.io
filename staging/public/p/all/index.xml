@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>All Posts on DL Staging</title>
+    <link>https://staging.deuts.org/p/all/</link>
+    <description>Recent content in All Posts on DL Staging</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>2024 Deuts Log</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 09:03:38 +0800</lastBuildDate>
+    <atom:link href="https://staging.deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional Documentation for Hugo PaperMod Post Cover Image</title>
+      <link>https://staging.deuts.org/p/add-docs-hugo-papermod-cover-image/</link>
+      <pubDate>Sun, 05 Jan 2025 09:03:38 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/add-docs-hugo-papermod-cover-image/</guid>
+      <description>Here&amp;#39;s how to set up a cover image in Hugo PaperMod posts, including the use of relative paths in page bundles to ensure the image links are correctly resolved.</description>
+      <content:encoded><![CDATA[<p>In the <a href="https://github.com/adityatelange/hugo-PaperMod/wiki/Features#post-cover-image">Hugo PaperMod wiki</a>, the process for adding a cover image to your posts is outlined. Below is the relevant frontmatter structure, taken directly from the wiki:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;&lt;image path/url&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># You can also use a direct link from an external site</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># Example: https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">alt</span>: <span style="color:#e6db74">&#34;&lt;alt text&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">caption</span>: <span style="color:#e6db74">&#34;&lt;text&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">false</span> <span style="color:#75715e"># Use relative path for cover image, particularly in Hugo page bundles</span>
+</span></span></code></pre></div><p>If you&rsquo;re working with <a href="https://gohugo.io/content-management/page-bundles/">page bundles</a> and your file structure looks like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>.
+</span></span><span style="display:flex;"><span>├── cover-image.jpg
+</span></span><span style="display:flex;"><span>└── index.md
+</span></span></code></pre></div><p>The frontmatter should be adjusted as follows:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;cover-image.jpg&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><p>It&rsquo;s important to set <code>relative: true</code> when using page bundles. If this isn&rsquo;t set, the <code>&lt;head&gt;</code> of your page will contain an incorrect link, leading to a 404 error, like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://deuts.org/cover-image.jpg&#34;</span>&gt;
+</span></span></code></pre></div><p>Setting <code>relative: true</code> ensures that the image link is correctly handled within the page bundle, avoiding broken links.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hugo Automated Install and Update</title>
+      <link>https://staging.deuts.org/p/hugo-automated-install-and-update/</link>
+      <pubDate>Fri, 03 Jan 2025 18:36:50 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/hugo-automated-install-and-update/</guid>
+      <description>Automate the process of fetching the latest Hugo Extended release directly from GitHub, downloading it, and installing it, making sure your system always runs the most up-to-date version. </description>
+      <content:encoded><![CDATA[<p>Installing Hugo via package managers like apt on Linux (Debian, Ubuntu) often results in outdated versions, which can be delayed by months or even years. While installing Hugo directly from GitHub is the best way to stay current, manually downloading the .deb package each time a new version is released can be a chore. Many users find themselves putting off updates, leaving Hugo outdated for longer than they&rsquo;d like.</p>
+<p>This simple script automates both the installation and updating of Hugo Extended to the latest version directly from GitHub. It checks if Hugo is installed, fetches the latest release, and installs it, all while eliminating the need for manual downloads or worrying about missing updates. It’s designed for the Hugo Extended amd64 Linux version but can be easily modified to suit different systems or versions.</p>
+<h3 id="the-script">The Script</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#!/bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if Hugo is installed by running `hugo version`</span>
+</span></span><span style="display:flex;"><span>HUGO_VERSION<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>hugo version 2&gt;/dev/null<span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> $? -ne <span style="color:#ae81ff">0</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If hugo is not installed, print the message</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Hugo is not yet installed.&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If hugo is installed, display the current version</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;</span>$HUGO_VERSION<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Fetch the URL of the latest Hugo extended release for Linux (non-withdeploy version)</span>
+</span></span><span style="display:flex;"><span>HUGO_URL<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>grep <span style="color:#e6db74">&#34;browser_download_url&#34;</span> | grep <span style="color:#e6db74">&#34;hugo_extended&#34;</span> | grep <span style="color:#e6db74">&#34;linux-amd64.deb&#34;</span> | grep -v <span style="color:#e6db74">&#34;withdeploy&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>sed -E <span style="color:#e6db74">&#39;s/.*&#34;([^&#34;]+)&#34;.*/\1/&#39;</span><span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if the URL was successfully retrieved</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Unable to retrieve the latest Hugo release URL.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Extract the filename from the URL (e.g., hugo_extended_0.140.2_linux-amd64.deb)</span>
+</span></span><span style="display:flex;"><span>FILE_NAME<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>basename <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Prompt the user before downloading, based on whether Hugo is installed or not</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$HUGO_VERSION<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If Hugo is not installed</span>
+</span></span><span style="display:flex;"><span>    echo -n <span style="color:#e6db74">&#34;Latest Hugo Extended version is </span>$FILE_NAME<span style="color:#e6db74">. Do you want to download it? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># If Hugo is installed</span>
+</span></span><span style="display:flex;"><span>    echo -n <span style="color:#e6db74">&#34;Latest Hugo Extended version is </span>$FILE_NAME<span style="color:#e6db74">. Do you want to download it? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>read -r RESPONSE
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> <span style="color:#e6db74">&#34;</span>$RESPONSE<span style="color:#e6db74">&#34;</span> !<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;y&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Download aborted.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Download the latest Hugo .deb package with its original name</span>
+</span></span><span style="display:flex;"><span>wget -q <span style="color:#e6db74">&#34;</span>$HUGO_URL<span style="color:#e6db74">&#34;</span> -O <span style="color:#e6db74">&#34;</span>$FILE_NAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Failed to download Hugo package.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Prompt the user before installing</span>
+</span></span><span style="display:flex;"><span>echo -n <span style="color:#e6db74">&#34;Do you want to install the Hugo package </span>$FILE_NAME<span style="color:#e6db74">? (y/n): &#34;</span>
+</span></span><span style="display:flex;"><span>read -r RESPONSE
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> <span style="color:#e6db74">&#34;</span>$RESPONSE<span style="color:#e6db74">&#34;</span> !<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;y&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Installation aborted.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Install the downloaded Hugo package</span>
+</span></span><span style="display:flex;"><span>sudo dpkg -i <span style="color:#e6db74">&#34;</span>$FILE_NAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;Error: Failed to install Hugo package.&#34;</span>
+</span></span><span style="display:flex;"><span>    exit <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Success message</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Hugo package </span>$FILE_NAME<span style="color:#e6db74"> has been successfully installed.&#34;</span>
+</span></span><span style="display:flex;"><span>hugo version
+</span></span></code></pre></div><h3 id="how-to-use">How to Use</h3>
+<ol>
+<li>
+<p><strong>Save and Make the Script Executable</strong><br>
+Copy the script into a file (e.g., <code>update_hugo.sh</code>) and make it executable with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>chmod +x update_hugo.sh
+</span></span></code></pre></div></li>
+<li>
+<p><strong>Run the Script</strong><br>
+Execute the script with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./update_hugo.sh
+</span></span></code></pre></div><p>The script will check if Hugo is installed, prompt you to download the latest version (which will be saved in the same directory as the script), and ask if you want to install it.</p>
+</li>
+<li>
+<p><strong>Verify Installation</strong><br>
+Once installed, you can check the Hugo version with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo version
+</span></span></code></pre></div></li>
+</ol>
+<h3 id="conclusion">Conclusion</h3>
+<p>This script automates Hugo updates, ensuring you always have the latest version without the hassle of manual installation. Perfect for users who want to avoid outdated versions from <code>apt</code> and streamline their workflow, it keeps your Hugo installation current with minimal effort. Customize it for your own system and preferred version, and enjoy a seamless update process.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>The True Cost of Cheap VPS</title>
+      <link>https://staging.deuts.org/p/the-true-cost-of-cheap-vps/</link>
+      <pubDate>Sat, 28 Dec 2024 17:59:59 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/the-true-cost-of-cheap-vps/</guid>
+      <description>GreenCloud&amp;#39;s recent migration process highlights the hidden costs of cheap VPS hosting. While the price may be attractive, the burden of manual tasks like backups, system reinstallation, and DNS updates falls on the customer, turning what should be a seamless process into a time-consuming hassle.</description>
+      <content:encoded><![CDATA[<p>Choosing an affordable VPS provider can save money, but it often comes with extra work and frustration. GreenCloud’s recent migration from SolusVM to VirtFusion is a prime example. Here&rsquo;s the email they sent:</p>
+<hr>
+<p><em>Subject: [GreenCloud] Control Panel Migration on the MILAN2SG1 node</em></p>
+<blockquote>
+<p>Dear Customer,</p>
+<p>As part of our service improvement, we are migrating from our current control panel (SolusVM) to a new, modern, and user-friendly control panel called VirtFusion, which offers advanced features such as Backup/Snapshot, SSH Key management, Custom ISOs and more.</p>
+<p>Since this is a manual process, so we kindly ask you to back up your VPS on the MILAN2SG1 node and notify us once this is done so we can create a new VPS on VirtFusion for you. If needed, we can retain your old IPv4 address. Please open a ticket with our Technical Department when you&rsquo;re ready. Please do not reply to this email directly as it might go to our Spam/Junk folder.</p>
+<p>If you prefer to remain on SolusVM, a migration may be required to merge with our available SolusVM nodes. We will notify you with a schedule at that time. Kindly let us know your decision within 10 days of receiving this email.</p>
+<p>Best regards,<br>
+GreenCloud Team</p>
+</blockquote>
+<hr>
+<p><strong>The Hassle of Migration</strong></p>
+<p>Instead of a smooth transition, GreenCloud’s migration process places the burden on customers:</p>
+<ol>
+<li>
+<p><strong>Manual Backups</strong><br>
+No tools or instructions for backing up data. Customers must do it themselves.</p>
+</li>
+<li>
+<p><strong>Reinstallation of Systems</strong><br>
+A complete OS reinstall means customers need to manually restore backups and reconfigure their setups.</p>
+</li>
+<li>
+<p><strong>Changing IP Address and DNS Records</strong><br>
+Most likely, a new IP address will be assigned, forcing customers to update DNS records manually and endure service downtime.</p>
+</li>
+</ol>
+<p><strong>Conclusion</strong></p>
+<p>GreenCloud’s approach to migration highlights the real cost of cheap VPS hosting: when the price is low, customers are often left to deal with the burdens and frustrations that providers should be handling, disrupting services and causing unnecessary hassle.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Linkding vs. Hoarder</title>
+      <link>https://staging.deuts.org/p/linkding-vs-hoarder/</link>
+      <pubDate>Mon, 16 Dec 2024 15:54:21 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/linkding-vs-hoarder/</guid>
+      <description>Explore the differences between Linkding and Hoarder, two popular bookmark management tools. Learn about their features, resource usage, and unique offerings to find the best fit for your needs.</description>
+      <content:encoded><![CDATA[<p>Linkding and Hoarder are two bookmark management tools with distinct strengths. Here&rsquo;s a comparison of their features, resource usage, and other key details to help you choose the one that best meets your needs.</p>
+<h2 id="container-images-and-resource-usages">Container Images and Resource Usages</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Metric</th>
+          <th>Linkding</th>
+          <th>Hoarder-web</th>
+          <th>Hoarder-chrome</th>
+          <th>Hoarder-meilisearch</th>
+          <th>Total for Hoarder</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Image Size</strong></td>
+          <td>473 MB</td>
+          <td>823 MB</td>
+          <td>673 MB</td>
+          <td>147 MB</td>
+          <td><strong>1.6 GB</strong></td>
+      </tr>
+      <tr>
+          <td><strong>CPU Usage</strong></td>
+          <td>0.11%</td>
+          <td>0.37%</td>
+          <td>0.03%</td>
+          <td>0.10%</td>
+          <td><strong>0.50%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Memory Usage</strong></td>
+          <td>248.3 MiB</td>
+          <td>272.2 MiB</td>
+          <td>74.6 MiB</td>
+          <td>212.1 MiB</td>
+          <td><strong>558.9 MiB</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="key-feature-differences">Key Feature Differences</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Linkding</th>
+          <th>Hoarder</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>AI Capabilities</strong></td>
+          <td>None available</td>
+          <td>Can generate summaries and tags for bookmarks.</td>
+      </tr>
+      <tr>
+          <td><strong>Interface Design</strong></td>
+          <td>Sleek, with a blog-like feel for organizing bookmarks.</td>
+          <td>Straightforward and functional.</td>
+      </tr>
+      <tr>
+          <td><strong>Public Bookmark Sharing</strong></td>
+          <td>Shared bookmarks can be made public, but the process could be smoother.</td>
+          <td>No way to share bookmarks publicly.</td>
+      </tr>
+      <tr>
+          <td>Subscribe to RSS feed</td>
+          <td>None</td>
+          <td>I can set up Hoarder to actually subscribe to the RSS feed of my Linkding instance</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="conclusion">Conclusion</h2>
+<p>Linkding is a lightweight and efficient option with a minimalist design, while Hoarder offers advanced features like AI-generated tags but requires more system resources. The choice between the two comes down to whether you value simplicity and lower resource usage or extra functionality.</p>
+<h3 id="wishlist-for-linkding">Wishlist for Linkding</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Details</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Enhanced Public Bookmark Sharing</strong></td>
+          <td>Allow shared bookmarks to appear directly at the base URL. Adding an option to mark bookmarks as &ldquo;public&rdquo; instead of &ldquo;shared&rdquo;.</td>
+      </tr>
+      <tr>
+          <td><strong>Customization Options</strong></td>
+          <td>Enable users to change the site title and icon for a more personalized experience.</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tailscale Accept DNS Settings</title>
+      <link>https://staging.deuts.org/p/tailscale-accept-dns-settings/</link>
+      <pubDate>Wed, 11 Dec 2024 13:02:41 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/tailscale-accept-dns-settings/</guid>
+      <description>Tailscale automatically manages DNS settings, but you may prefer to use local DNS servers. Find out how to disable Tailscale DNS on Linux and how the process differs on Windows.</description>
+      <content:encoded><![CDATA[<p>When you install Tailscale on a Linux server and run the <code>sudo tailscale up</code> command, it automatically enables DNS management with the setting <code>--accept-dns=true</code>. This forces Tailscale to handle DNS resolution, which may not always be what you want.</p>
+<p>By default, when you enable <strong>MagicDNS</strong> in the Tailscale admin panel, it overwrites your <code>/etc/resolv.conf</code> file with its DNS server <code>100.100.100.100</code>. If you add a custom nameserver and enable <strong>Override local DNS</strong>, Tailscale will apply that DNS server across all devices in your Tailnet. This is useful if you’re using services like Pi-Hole or NextDNS.</p>
+<p>But what if you want to disable Tailscale DNS on certain devices and revert to local DNS settings?</p>
+<h2 id="disabling-tailscale-dns-on-linux">Disabling Tailscale DNS on Linux</h2>
+<p>To disable Tailscale&rsquo;s DNS management on Linux, run:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo tailscale set --accept-dns<span style="color:#f92672">=</span>false
+</span></span></code></pre></div><p>This command will revert your <code>/etc/resolv.conf</code> to the DNS values it had before Tailscale was installed, like <code>1.1.1.1</code> or <code>8.8.8.8</code>. Your Linux server will no longer be affected by Tailscale&rsquo;s DNS settings, which is useful if you prefer to manage DNS locally, particularly on a VPS where misconfigurations, either in the DNS settings or the ACL, can be problematic.</p>
+<h2 id="tailscale-dns-on-windows">Tailscale DNS on Windows</h2>
+<p>On Windows, this process is easier, as there&rsquo;s a simple checkbox to disable Tailscale DNS in the system tray preferences. This GUI option offers a more straightforward way to adjust DNS settings without needing terminal commands.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Tailscale’s DNS management is convenient, but sometimes you may need to regain control over DNS settings. Disabling Tailscale DNS on Linux is a quick way to ensure your server uses local DNS settings, keeping your configuration simple and reliable.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Why Are Bluetooth Speakers Losing Their Built-In Microphones?</title>
+      <link>https://staging.deuts.org/p/bluetooth-speaker-built-in-mic/</link>
+      <pubDate>Mon, 09 Dec 2024 13:34:36 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/bluetooth-speaker-built-in-mic/</guid>
+      <description>Bluetooth speakers are increasingly losing built-in microphones, reducing their versatility for online meetings. Possible motivations for this change include cost-cutting and focusing on core features, which creates challenges for mobile users unable to separate mic and audio functions.</description>
+      <content:encoded><![CDATA[<p>Bluetooth speakers used to come with built-in microphones, like the JBL Go 1, making them perfect for online meetings and calls. But starting with newer models like the JBL Go 3, manufacturers have dropped this feature—and it’s frustrating. Why might this be happening?</p>
+<p>One reason could be cost-cutting. Adding a microphone requires extra hardware and software like noise cancellation, which might not be worth the expense for manufacturers if most users aren’t using it. It’s also possible that companies want to simplify their devices, focusing on sound quality and portability instead of trying to make them all-purpose tools.</p>
+<p>Another possibility is that manufacturers don’t want Bluetooth speakers to overlap with other products like smart speakers or earbuds, which are better suited for calls. Removing the mic helps clearly position Bluetooth speakers as music devices and avoids complaints about call quality or compatibility issues.</p>
+<p>But for people like me, this design shift creates a real problem. If you use a mobile device like an Android phone or tablet for online meetings, a Bluetooth speaker without a mic is practically useless. You can’t separate the audio and mic functions, meaning you’re forced to either use the phone’s built-in speaker or switch to headphones. This limitation doesn’t exist on laptops, where you can mix and match input and output devices more freely.</p>
+<p>The result? A once-convenient feature is gone, making Bluetooth speakers less versatile. While manufacturers might have their reasons, it feels like a step backward for users who relied on this functionality.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
+      <link>https://staging.deuts.org/p/switch-paperless-ngx-pdfding/</link>
+      <pubDate>Tue, 03 Dec 2024 11:16:34 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/switch-paperless-ngx-pdfding/</guid>
+      <description>A personal reflection on the features and limitations of Paperless NGX and PDFDing as I consider simplifying my document management system.</description>
+      <content:encoded><![CDATA[<p>I’ve been running <a class="applink" href="https://staging.deuts.org/a/paperless-ngx" target="_blank">Paperless NGX</a> as my document management tool for a while now, but lately, I’ve started wondering if a simpler solution like <a class="applink" href="https://staging.deuts.org/a/pdfding" target="_blank">PDFDing</a> might be better suited for my needs. Both tools have their strengths and weaknesses, so I’ve been testing them side by side to see how they compare.</p>
+<h3 id="paperless-ngx-great-features-but-too-much">Paperless NGX: Great Features, but Too Much?</h3>
+<p><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless NGX</a> has a lot going for it:</p>
+<ul>
+<li><strong>Organizes &amp; Tags Documents</strong>: Scan and categorize documents with custom tags, correspondents, types, and more for easy retrieval.</li>
+<li><strong>OCR &amp; Multi-Language Support</strong>: Performs OCR on scanned documents, making them searchable. Supports over 100 languages via the Tesseract engine.</li>
+<li><strong>Local Data Storage &amp; Security</strong>: Your data is stored securely on your own server, with no transmission or sharing of your files.</li>
+<li><strong>PDF/A Format for Long-Term Storage</strong>: Documents are saved in PDF/A format, designed for long-term storage, alongside the original files.</li>
+<li><strong>Machine Learning for Metadata</strong>: Automatically tags documents with correspondents and document types, streamlining organization.</li>
+<li><strong>Supports Multiple File Types</strong>: Supports PDFs, images, Office documents (Word, Excel, PowerPoint), and more.</li>
+<li><strong>Modern Web Interface</strong>: Features a customizable dashboard, filtering options, drag-and-drop uploads, and customizable views. It also supports custom fields and shareable public links.</li>
+<li><strong>Powerful Search &amp; Auto-Suggestions</strong>: Full-text search, autocomplete, relevance-based sorting, and document highlighting make finding files efficient.</li>
+<li><strong>Email Processing</strong>: Import and process documents directly from email accounts with customizable rules for actions such as marking as read or deleting.</li>
+<li><strong>Consume Folder</strong>: Automatically processes documents dropped into a designated folder, making it easy to quickly add documents to the system without manual uploads.</li>
+<li><strong>Multi-User Permissions &amp; Workflow</strong>: A robust permissions system, with global and per-document access control, and a powerful workflow system for advanced management.</li>
+<li><strong>Optimized for Performance</strong>: Utilizes multi-core systems for parallel document processing and includes an integrated sanity checker to ensure document archive health.</li>
+</ul>
+<p>However, these features come with some drawbacks:</p>
+<ol>
+<li><strong>High Memory Usage</strong>: Paperless NGX uses about 1.4 GB of memory even when it’s idle. On a system with 11 GB of RAM, this is noticeable.</li>
+<li><strong>Machine Learning Accuracy</strong>: Predictions are inconsistent. Correspondent and document type are about 50% accurate, and creation date predictions are wrong 80% of the time.</li>
+<li><strong>Custom Fields</strong>: While you can create custom fields, they don’t appear by default and need to be enabled manually for every new document.</li>
+<li><strong>Editing Limitations</strong>: Updating metadata for multiple documents is cumbersome since each document must be opened individually. A grid-style interface, similar to Airtable or spreadsheet apps, for faster and more efficient bulk editing would have been much better.</li>
+</ol>
+<h3 id="pdfding-simple-lightweight-and-efficient">PDFDing: Simple, Lightweight, and Efficient</h3>
+<p><a href="https://github.com/mrmn2/PdfDing">PDFDing</a> takes a minimalist approach, using tags instead of multiple metadata fields. Its design is sleek and straightforward, similar to tools like <a class="applink" href="https://staging.deuts.org/a/linkding" target="_blank">Linkding</a>, which I already use and appreciate.</p>
+<p>One of the biggest advantages of PDFDing is how light it is on system resources. It uses only about 156 MB of memory on average, a fraction of what Paperless NGX demands.</p>
+<p>Additionally, a standout feature of PDFDing is its ease of use on both desktop and mobile devices. When opening a document in the web app on a mobile browser, it’s displayed directly in the browser without triggering a download. This saves storage space and avoids cluttering your downloads folder with duplicate files if you repeatedly access the same document. In contrast, Paperless NGX downloads the file each time it’s viewed in full-page mode on mobile browsers, which can quickly become messy.</p>
+<h3 id="whats-missing-in-pdfding">What’s Missing in PDFDing</h3>
+<p>Despite its simplicity, PDFDing isn’t perfect. The biggest feature I miss is Paperless NGX’s <strong>consume folder</strong>, which makes it easy to add and organize documents automatically. If PDFDing could implement this, it would make the decision to switch much easier.</p>
+<h3 id="resource-usage-comparison">Resource Usage Comparison</h3>
+<p>To give some context, I’m running these tools on a system with 11 GB of RAM. Here’s how they compare in terms of system resource usage over the past week:</p>
+<h4 id="paperless-ngx">Paperless NGX</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Container Name</th>
+          <th>AveCPU</th>
+          <th>AveMem (MiB)</th>
+          <th>AveMem%</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>paperless-webserver</td>
+          <td>7.10%</td>
+          <td>1155.12</td>
+          <td>10.53%</td>
+      </tr>
+      <tr>
+          <td>paperless-tika</td>
+          <td>0.26%</td>
+          <td>277.51</td>
+          <td>2.53%</td>
+      </tr>
+      <tr>
+          <td>paperless-gotenberg</td>
+          <td>0.06%</td>
+          <td>6.63</td>
+          <td>0.06%</td>
+      </tr>
+      <tr>
+          <td>paperless-redis</td>
+          <td>0.39%</td>
+          <td>4.78</td>
+          <td>0.04%</td>
+      </tr>
+      <tr>
+          <td><strong>Total</strong></td>
+          <td><strong>7.81%</strong></td>
+          <td><strong>1444.05</strong></td>
+          <td><strong>13.17%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="pdfding">PDFDing</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Container Name</th>
+          <th>AveCPU</th>
+          <th>AveMem (MiB)</th>
+          <th>AveMem%</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>pdfding</td>
+          <td>0.02%</td>
+          <td>156.36</td>
+          <td>1.43%</td>
+      </tr>
+      <tr>
+          <td><strong>Total</strong></td>
+          <td><strong>0.02%</strong></td>
+          <td><strong>156.36</strong></td>
+          <td><strong>1.43%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>Right now, I’m undecided. Paperless NGX has powerful features but can feel over-engineered and resource-hungry. PDFDing is minimalist and efficient but lacks some key features I rely on.</p>
+<p>For now, I’ll keep running both systems and see how PDFDing fits into my workflow. If it can streamline document management without too many compromises, it might be worth switching.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Is the Philippine Condo Market Overheating?</title>
+      <link>https://staging.deuts.org/p/ph-condo-market/</link>
+      <pubDate>Sat, 30 Nov 2024 22:42:24 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/ph-condo-market/</guid>
+      <description>Shrinking rental yields and high vacancy rates raise questions about the Philippine condo market’s sustainability. Are we headed toward a correction, and could this spell opportunities for buyers?</description>
+      <content:encoded><![CDATA[<p>The Philippine condo market is under scrutiny as rising prices, shrinking rental yields, and climbing vacancy rates raise red flags. The video below delves into these issues, highlighting the risks and potential pitfalls of investing in this challenging market.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q0aYBUxW05s?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+<p>I fully agree with the creator’s observations. Based on my personal experience and internal calculations, rental yields for new developments more likely fall below 3%, making renting significantly more affordable than buying. In areas like BGC, walking around at night reveals that many buildings appear under 20% occupied—perhaps even closer to 10%—judging by how few units are lit. This supports concerns about overbuilding and waning foreign demand. The absence of official vacancy rate data only adds to the market&rsquo;s opacity.</p>
+<p>Despite these challenges, I see potential opportunities if a market correction occurs. Lower prices could present a chance to acquire properties at more reasonable values, whether for future living or long-term investment.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>The Frustrations of Online Shopping on Lazada</title>
+      <link>https://staging.deuts.org/p/online-shopping-lazada/</link>
+      <pubDate>Sat, 30 Nov 2024 15:36:15 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/online-shopping-lazada/</guid>
+      <description>Navigating online shopping platforms like Lazada for Mini PCs has become increasingly difficult, with vendors bundling various specs and models into a single listing, often misleading buyers during sale events. </description>
+      <content:encoded><![CDATA[<p>I used to enjoy window shopping on Lazada, particularly for Mini PCs. But lately, the experience has become tiresome, thanks to how vendors are allowed to list multiple specs—and even entirely different models—on a single product page.</p>
+<p>Take the Beelink SER5 Max Mini PC as an example. This model, powered by the AMD Ryzen 7 5800H processor, has been on my radar for a while. Typically, the 32GB RAM and 1TB NVMe storage variant sells for around Php22,000. But when you search for it on Lazada, you’ll encounter listings priced as low as Php7,995.</p>
+<p>Sounds like a steal, right? Not so fast.</p>
+<p>When you click on the listing, you’ll find that the advertised price isn’t for the SER5 Max. Instead, it applies to an entirely different product—the Beelink S12 Pro with an N100 CPU, no RAM, and no storage. To make matters worse, these listings lump together multiple models, including the Beelink S12, SER3 3750H, SER5 5560U, and SER5 Max, each in varying configurations of RAM and storage.</p>
+<p>By the time you navigate through the confusing options and finally select the SER5 Max with 32GB RAM and 1TB NVMe, the price is often much higher than expected—or the variant is not even available.</p>
+<p>This approach makes it nearly impossible to distinguish real deals from regular prices. For shoppers like me, it’s a frustrating way to ruin sale events like 11.11, 12.12, or Black Friday.</p>
+<h3 id="suggestions-for-lazada">Suggestions for Lazada:</h3>
+<ul>
+<li>Prohibit bundling completely different products/models under a single listing. It’s acceptable to group variants of the same model with differing RAM and storage, but combining entirely unrelated products should not be allowed.</li>
+<li>Introduce a mechanism that enables shoppers to report sellers who use deceptive listings to mislead customers and gain undue attention.</li>
+</ul>
+<p>By the way, this applies to Shopee as well. I&rsquo;m just a loyal Lazada shopper (first-mover advantage), so my focus has been on Lazada so far.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unlocking New Power Query Tricks</title>
+      <link>https://staging.deuts.org/p/new-power-query-tricks/</link>
+      <pubDate>Sat, 30 Nov 2024 15:00:52 +0800</pubDate>
+      <guid>https://staging.deuts.org/p/new-power-query-tricks/</guid>
+      <description>A quick reflection on my Power Query journey and a must-watch video showcasing the latest tricks to enhance workflows.  </description>
+      <content:encoded><![CDATA[<p>I consider myself somewhere between intermediate and advanced in Power Query, but there&rsquo;s always more to learn. One of the things I enjoy most is discovering new tricks to incorporate into my workflow.</p>
+<p>Recently, I watched the latest <strong>Power Query Tricks Battle</strong> video by Goodly on YouTube, featuring Melissa de Korte and Rick de Groot. It’s packed with creative techniques that can take your Power Query game to the next level.</p>
+<p>It’s a shame Melissa’s mic quality wasn’t the best (perhaps she used a built-in laptop mic), but I’m confident her tricks were outstanding.</p>
+<p>Watch the video below and tell me if you learned something new, what tricks are you most excited about to try out in your projects, and which of the tricks featured is your favorite?</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/iixGowsOUmE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
