@@ -1,7 +1,7 @@
 {{- define "main" }}
 {{ $asideType := .Page.Params.aside_type }}
 
-<article class="asides-post {{ $asideType }}-post {{ $asideType }}-single">
+<article class="asides-post {{ $asideType }}-post {{ $asideType }}-single asides-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="{{ $asideType }}-title">
@@ -10,19 +10,19 @@
       {{ else if eq $asideType "linkding" }}
         <a href="https://bm.deuts.org">bm.deuts.org</a>
       {{ else if eq $asideType "gotosocial" }}
-        <a href="https://your.gotosocial.url">Your GoToSocial Handle</a>
+        <a href="https://deuts.one/@deuts">@deuts@deuts.one</a>
       {{ end }}
     </h1>
   </header>
   
   <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
-  <div class="{{ $asideType }}-post-cont">
+  <div class="{{ $asideType }}-post-cont asides-post-cont">
     <div class="post-time">
       <span title="{{ .Date }}">{{ .Date.Format "15:04" }}</span>
     </div>
-    <div class="{{ $asideType }}-content">
+    <div class="{{ $asideType }}-content asides-content">
       {{ .Content }}
-      <div class="{{ $asideType }}-footer">
+      <div class="{{ $asideType }}-footer asides-footer">
         {{ if eq $asideType "bluesky" }}
           <a href="{{ .Params.link }}" aria-label="Link to bsky">{{ .Params.atpid }}</a>
         {{ else if eq $asideType "linkding" }}
@@ -34,7 +34,7 @@
             {{ end }}
           {{ end }}
         {{ else if eq $asideType "gotosocial" }}
-          <a href="https://your.gotosocial.url/details/{{ .Params.gts_id }}" class="gts-backlink">GTS{{ .Params.gts_id }}</a>
+          <a href="{{ .Params.link }}" aria-label="Link to gotosocial">{{ .Params.gtsid }}</a>
         {{ end }}
       </div>
     </div>

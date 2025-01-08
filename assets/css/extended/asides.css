@@ -1,5 +1,5 @@
 /* HEADER STYLES */
-.bsky-title {
+h1.bluesky-title {
     padding-left: 40px;
     background: url('/icons/bluesky.png') no-repeat left center;
     background-size: 32px 32px;
@@ -9,6 +9,12 @@ h1.linkding-title {
     padding-left: 40px;
     background: url('/icons/linkding.png') no-repeat left center;
     background-size: 32px 32px;
+}
+
+h1.gotosocial-title {
+    padding-left: 40px;
+    background: url('/icons/gotosocial.png') no-repeat left center;
+    background-size: 32px 32px; 
 }
 
 h3.linkding-title {
@@ -51,13 +57,12 @@ article.asides-post {
     margin: 1em auto;
 }
 
-.bsky-single .asides-post-date,
-.linkding-single .asides-post-date {
+article.asides-single .asides-post-date {
     font-size: 1.2em;
 }
 
 /* POST CONTENT AND TIME */
-.bsky-post-cont, .linkding-post-cont {
+.asides-post-cont {
     display: flex;
     align-items: flex-start;
     gap: 1rem; /* Space between time and content */
@@ -79,12 +84,18 @@ article.asides-post {
     color: #fff;
 }
 
-.bsky-content, .linkding-content {
+.asides-content {
     flex: 1; /* Occupies remaining space */
 }
 
-.bsky-content a, .linkding-content a {
+.asides-content a {
     text-decoration: underline;
+}
+
+.asides-content code {
+    background: #333;
+    padding: 2px 6px;
+    font-size: 0.85em;
 }
 
 .linkding-notes p {
@@ -92,7 +103,7 @@ article.asides-post {
 }
 
 /* FOOTER STYLES */
-.bsky-footer, .linkding-footer {
+.asides-footer {
     padding-left: 20px;
     margin-top: 1em;
     font-size: 0.7em;
@@ -100,7 +111,7 @@ article.asides-post {
     text-transform: uppercase;
 }
 
-.bsky-footer {
+.bluesky-footer {
     background: url('/icons/bluesky.png') no-repeat 0;
     background-size: 16px 16px;
 }
@@ -110,7 +121,12 @@ article.asides-post {
     background-size: 16px 16px;
 }
 
-.bsky-footer a, .linkding-footer a {
+.gotosocial-footer {
+    background: url('/icons/gotosocial.png') no-repeat 0 2px;
+    background-size: 16px 16px; 
+}
+
+.asides-footer a {
     text-decoration: none;
 }
 
