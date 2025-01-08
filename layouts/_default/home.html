@@ -1,0 +1,152 @@
+{{/* Edited the list.html file, original at 
+  https://github.com/adityatelange/hugo-PaperMod/blob/60984fd13658db175e8945467d3dd799f2fdcc32/layouts/_default/list.html
+*/}}
+
+{{- define "main" }}
+
+{{- if (and site.Params.profileMode.enabled .IsHome) }}
+{{- partial "index_profile.html" . }}
+{{- else }} {{/* if not profileMode */}}
+
+<header>
+  {{- if .Description }}
+    <div class="post-description">
+      {{ .Description | markdownify }}
+    </div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- /* Select the last 5 pages sorted by Date in descending order */ -}}
+{{- $pages = first 2 (sort $pages "Date" "desc") }}
+{{- end }}
+
+{{- $term := .Data.Term }}
+{{- range $index, $page := $pages }}
+
+{{- $class := "post-entry" }}
+
+{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
+{{- if (and $.IsHome (eq $index 0) (not $user_preferred)) }}
+{{- $class = "first-entry" }}
+{{- else if $term }}
+{{- $class = "post-entry tag-entry" }}
+{{- end }}
+
+<article class="{{ $class }}">
+  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      {{- .Title }}
+      {{- if .Draft }}
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+      {{- end }}
+    </h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+<div class="posts-footer">
+  <nav class="pagination">
+    <a class="next" href="/p/all/">
+      See all posts &nbsp;»
+    </a>
+  </nav>
+</div>
+
+{{/* Include the last 3 entries from the 'asides' section */}}
+{{- if .IsHome }}
+{{- $asides := where site.RegularPages "Type" "asides" }}
+{{- $lastAsides := first 8 (sort $asides "Date" "desc") }}
+
+<h2 class="asides-header">Asides</h2>
+
+{{- $lastDate := "" -}} {{/*Added by Deuts*/}}
+{{- range $aside := $lastAsides }}
+
+{{ $asideType := .Page.Params.aside_type }}
+{{ if eq $asideType "bluesky" }}
+  {{ $asideType = "bsky" }}
+{{ end }}
+
+{{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}} 
+
+<article class="asides-post">
+  {{- if ne $currentDate $lastDate }}
+    <div class="asides-post-date hapd">{{ .Date.Format "January 2, 2006" }}</div>
+    {{- $lastDate = $currentDate -}}
+  {{- end }}
+
+  <div class="{{ $asideType }}-post-cont">
+    {{- if not .Date.IsZero -}}
+    <div class="post-time">
+      <span title="{{ .Date }}">
+        <a href="{{ .Permalink }}" aria-label="Link to the post">{{ .Date.Format "15:04" }}</a>
+      </span>
+    </div>
+    {{- end }}
+
+    <div class="{{ $asideType }}-content">
+      {{ .Content }}
+      <div class="{{ $asideType }}-footer">
+        {{ if eq $asideType "bsky" }}
+          <a href="{{ .Params.link }}" aria-label="Link to bsky">
+            {{ .Params.atpid }}
+          </a>
+        {{ else if eq $asideType "linkding" }}
+          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a> 
+          {{ if .Params.ld_tags }}
+            {{ $tagsLength := len .Params.ld_tags }}
+            {{ range $index, $tag := .Params.ld_tags }}
+              <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>
+              {{ if ne $index (sub $tagsLength 1) }},{{ end }}
+            {{ end }} {{/* range $index */}}
+          {{ end }} {{/* if .Params.ld_tags */}}
+        {{ end }} {{/* if eq $asideType */}}
+      </div>
+    </div>
+  </div>
+</article>
+{{- end }}
+{{- end }}
+
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="/x/all/">
+      See all asides &nbsp;»
+    </a>
+  </nav>
+</footer>
+
+{{- end }}{{/* end profileMode */}}
+
+{{- end }}{{- /* end main */ -}}
