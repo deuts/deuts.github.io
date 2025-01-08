@@ -1,0 +1,146 @@
+/* HEADER STYLES */
+.bsky-title {
+    padding-left: 40px;
+    background: url('/icons/bluesky.png') no-repeat left center;
+    background-size: 32px 32px;
+}
+
+h1.linkding-title {
+    padding-left: 40px;
+    background: url('/icons/linkding.png') no-repeat left center;
+    background-size: 32px 32px;
+}
+
+h3.linkding-title {
+    font-size: 1em;
+    margin-top: 5px;
+    padding-left: 20px;
+    background-size: 16px 16px;
+}
+
+h3.linkding-title a {
+    color: #999;
+    text-decoration: none;
+    border-bottom: 1px dotted #555;
+}
+
+h3.linkding-title a:hover {
+    border: none;
+    color: #ccc;
+}
+
+/* POST CONTAINER */
+article.asides-post {
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+}
+
+/* POST DATE */
+.asides-post-date {
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: 700;
+    margin: 2em auto;
+    border-bottom: 1px solid #333;
+    padding-bottom: 1em;
+}
+
+.hapd { /* home-asides-post-date */
+    font-size: 1.2em;
+    border: none;
+    margin: 1em auto;
+}
+
+.bsky-single .asides-post-date,
+.linkding-single .asides-post-date {
+    font-size: 1.2em;
+}
+
+/* POST CONTENT AND TIME */
+.bsky-post-cont, .linkding-post-cont {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem; /* Space between time and content */
+}
+
+.post-time {
+    flex-shrink: 0;
+    margin-right: 1rem;
+    text-align: right;
+    white-space: nowrap; /* Prevents text wrapping */
+    color: #777;
+}
+
+.post-time a {
+    color: #777;
+}
+
+.post-time a:hover {
+    color: #fff;
+}
+
+.bsky-content, .linkding-content {
+    flex: 1; /* Occupies remaining space */
+}
+
+.bsky-content a, .linkding-content a {
+    text-decoration: underline;
+}
+
+.linkding-notes p {
+    margin-bottom: 1.2em;
+}
+
+/* FOOTER STYLES */
+.bsky-footer, .linkding-footer {
+    padding-left: 20px;
+    margin-top: 1em;
+    font-size: 0.7em;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.bsky-footer {
+    background: url('/icons/bluesky.png') no-repeat 0;
+    background-size: 16px 16px;
+}
+
+.linkding-footer {
+    background: url('/icons/linkding.png') no-repeat 0 2px;
+    background-size: 16px 16px;
+}
+
+.bsky-footer a, .linkding-footer a {
+    text-decoration: none;
+}
+
+/* BLOCKQUOTE STYLES */
+blockquote.linkding-description {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #ddd;
+    border-left: 4px solid #494871;
+    background-color: #222;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    border-radius: 5px;
+}
+
+blockquote.linkding-description p {
+    margin: 0.7em 0;
+}
+
+/* LINKDING BACKLINK */
+a.ld-backlink {
+    margin-right: 0.4em;
+}
+
+article.asides-post p {
+    margin-bottom: 1em;
+}
+
+.asides-post pre code {
+    padding: 10px;
+    display: grid
+;
+}

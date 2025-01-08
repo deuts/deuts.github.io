@@ -1,0 +1,120 @@
+/* this is used for papermod theme */
+
+.post-entry {
+    background-color: #222222;
+    border: none;
+}
+
+.post-footer {
+    margin: 56px auto;
+}
+
+h1.try-search {
+    text-align: center;
+}
+
+.yt-separator {
+    height: 2em;
+}
+
+.post-footer ul.post-tags {
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+.post-tags a {
+    padding: 0 8px;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.post-description {
+    color: #686868;
+    font-size: 0.9em;
+}
+
+.not-found {
+    position: unset;
+}
+
+.dl-404 {
+	text-align: center;
+	margin-top: 4em;
+}
+
+.dl-404 a {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.tag-entry .entry-cover {
+    display: block;
+}
+
+.pagination a {
+    color: rgb(216 217 220);
+    background: rgb(34 34 34);
+}
+.terms-tags li {
+    margin: unset;
+}
+
+.terms-tags li:hover {
+    background-color: #535353;
+}
+
+.terms-tags a {
+    background: unset;
+}
+
+h2.asides-header {
+    margin: 1em 0;
+    padding-bottom: 1em;
+    text-align: center;
+    border-bottom: 1px solid #343434;
+}
+a.applink {
+    background-color: #333;
+    font-size: 0.8em;
+    padding: 0.3em;
+    box-shadow: none;
+}
+
+a:hover {
+    box-shadow: none;
+    color: #aaa;
+}
+
+.share-buttons {
+    background: none;
+    border: none;
+}
+
+.topics-section h2 {
+    text-align: center;
+    border-bottom: 1px solid #777;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+.topics-section {
+    margin: 2em auto;
+}
+
+.topics-section ul.terms-tags {
+    text-align: center;
+}
+
+.topics-section h2 {
+    font-size: 2em;
+}
+
+span.topic-count {
+    color: #444;
+}
