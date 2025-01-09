@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 13:57:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 15:30:27 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH4ZHHCD3CYEZH5Y44CCGZYR</title>
+      <link>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</link>
+      <pubDate>Thu, 09 Jan 2025 15:30:27 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</guid>
+      <description>&lt;p&gt;I echo this sentiment: &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Memos&#34;&gt;#Memos&lt;/a&gt; should have &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub&#34;&gt;#ActivityPub&lt;/a&gt; support. But the issue kept tagged as &lt;code&gt;not planned&lt;/code&gt;. Hoping for someday this becoming a reality. &lt;a href=&#34;https://github.com/usememos/memos/issues/878&#34;&gt;github.com/∞&lt;/a&gt; &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos&#34;&gt;#UseMemos&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I echo this sentiment: <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Memos">#Memos</a> should have <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub">#ActivityPub</a> support. But the issue kept tagged as <code>not planned</code>. Hoping for someday this becoming a reality. <a href="https://github.com/usememos/memos/issues/878">github.com/∞</a> <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos">#UseMemos</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lfbync423k2e</title>
       <link>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</link>
@@ -16,6 +25,15 @@
       <guid>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</guid>
       <description>&lt;p&gt;I wonder if there are any limit to the number of posts that can be retrieved via API here at &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I wonder if there are any limit to the number of posts that can be retrieved via API here at <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JH4M3QPHQ1SDN485CGDABPRA</title>
+      <link>https://deuts.org/x/2025-01-09-12-10-41-01jh4m3qphq1sdn485cgdabpra/</link>
+      <pubDate>Thu, 09 Jan 2025 12:10:41 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-12-10-41-01jh4m3qphq1sdn485cgdabpra/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since I checked my &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Blinko&#34;&gt;#Blinko&lt;/a&gt; installation. A lot of improvements has been made thus far. Excited for the future of this project. Could this be my default note-taking app moving forward?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>It&rsquo;s been a while since I checked my <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Blinko">#Blinko</a> installation. A lot of improvements has been made thus far. Excited for the future of this project. Could this be my default note-taking app moving forward?</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -171,208 +189,49 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>@deuts@deuts.one 01JH4EQ8V1QFV385JFF6TP2GF2</title>
+      <link>https://deuts.org/x/2025-01-09-10-36-29-01jh4eq8v1qfv385jff6tp2gf2/</link>
+      <pubDate>Thu, 09 Jan 2025 10:36:29 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-10-36-29-01jh4eq8v1qfv385jff6tp2gf2/</guid>
+      <description>&lt;p&gt;Here are some of the great &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Gallery&#34;&gt;#Gallery&lt;/a&gt; themes for &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;%5Bgithub.com/%E2%88%9E%5D(https://github.com/nicokaiser/hugo-theme-gallery)&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;%5Bgithub.com/%E2%88%9E%5D(https://github.com/bep/galleriesdeluxe)&#34;&gt;Galleries Deluxe&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Leaving this here for my future reference.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Here are some of the great <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Gallery">#Gallery</a> themes for <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a>:</p>
+<ol>
+<li><a href="%5Bgithub.com/%E2%88%9E%5D(https://github.com/nicokaiser/hugo-theme-gallery)">Gallery</a></li>
+<li><a href="%5Bgithub.com/%E2%88%9E%5D(https://github.com/bep/galleriesdeluxe)">Galleries Deluxe</a></li>
+</ol>
+<p>Leaving this here for my future reference.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JH4BCXX4HGA5NVPSH899P24M</title>
+      <link>https://deuts.org/x/2025-01-09-09-38-25-01jh4bcxx4hga5nvpsh899p24m/</link>
+      <pubDate>Thu, 09 Jan 2025 09:38:25 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-09-38-25-01jh4bcxx4hga5nvpsh899p24m/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@geoff_eg&#34;&gt;@geoff_eg&lt;/a&gt; &lt;a href=&#34;https://cosocial.ca/@virtuous_sloth&#34;&gt;@virtuous_sloth&lt;/a&gt; oh I thought you were selling photos on &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Smugmug&#34;&gt;#Smugmug&lt;/a&gt;. For a photography portfolio and blog site, &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt; is a great choice. Rendering pages in Hugo only takes a zippy &amp;ndash; like 1000 pages inclusive of tags and pagination pages in less than 1 second. You just need to be brave enough to face the terminal.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@geoff_eg">@geoff_eg</a> <a href="https://cosocial.ca/@virtuous_sloth">@virtuous_sloth</a> oh I thought you were selling photos on <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Smugmug">#Smugmug</a>. For a photography portfolio and blog site, <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a> is a great choice. Rendering pages in Hugo only takes a zippy &ndash; like 1000 pages inclusive of tags and pagination pages in less than 1 second. You just need to be brave enough to face the terminal.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JH49W6MZ4Q13RRS7VRBRBJ87</title>
+      <link>https://deuts.org/x/2025-01-09-09-11-48-01jh49w6mz4q13rrs7vrbrbj87/</link>
+      <pubDate>Thu, 09 Jan 2025 09:11:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-09-11-48-01jh49w6mz4q13rrs7vrbrbj87/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@solicitor&#34;&gt;@solicitor&lt;/a&gt; &lt;a href=&#34;https://floss.social/@bart&#34;&gt;@bart&lt;/a&gt; If I make use of &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; to help with my python scripts, I don&amp;rsquo;t see a problem with it not being &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=opensource&#34;&gt;#opensource&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@solicitor">@solicitor</a> <a href="https://floss.social/@bart">@bart</a> If I make use of <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT">#ChatGPT</a> to help with my python scripts, I don&rsquo;t see a problem with it not being <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=opensource">#opensource</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>@deuts.hamili.net 3lfbghj5wzc2f</title>
       <link>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</link>
       <pubDate>Thu, 09 Jan 2025 08:31:00 +0800</pubDate>
       <guid>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; monitor. Is it really my &lt;a href=&#34;https://bsky.app/hashtag/vps&#34;&gt;#VPS&lt;/a&gt;? Or &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; related?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I&rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> monitor. Is it really my <a href="https://bsky.app/hashtag/vps">#VPS</a>? Or <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> related?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Installing Pixelfed with Docker Compose</title>
-      <link>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</link>
-      <pubDate>Wed, 08 Jan 2025 18:15:00 +0800</pubDate>
-      <guid>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-326&#34;&gt;&lt;a href=&#34;https://www.dasmirnov.net/blog/installing-pixelfed-with-docker-compose/&#34;&gt;Installing Pixelfed with Docker Compose&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-326 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_dasmirnov_net.jpg&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Quick notes on installing Pixelfed using Docker Compose
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I wish it were just so simple to selhost Pixelfed. This post actually refers to the &lt;a href=&#34;https://quay.io/repository/zknt/pixelfed&#34;&gt;zknt’s Docker image&lt;/a&gt;, which hope to make the process simpler. I still have to try this out, though.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-326"><a href="https://www.dasmirnov.net/blog/installing-pixelfed-with-docker-compose/">Installing Pixelfed with Docker Compose</a></h3>
-<style>
-.favicon-326 {
-    background: url('https://bm.deuts.org/static/https_www_dasmirnov_net.jpg') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Quick notes on installing Pixelfed using Docker Compose
-</blockquote>
-  
-<div class="linkding-notes">
-    I wish it were just so simple to selhost Pixelfed. This post actually refers to the <a href="https://quay.io/repository/zknt/pixelfed">zknt’s Docker image</a>, which hope to make the process simpler. I still have to try this out, though.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Elk: A nimble Mastodon web client</title>
-      <link>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</link>
-      <pubDate>Wed, 08 Jan 2025 00:23:32 +0800</pubDate>
-      <guid>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-325&#34;&gt;&lt;a href=&#34;https://github.com/elk-zone/elk&#34;&gt;Elk: A nimble Mastodon web client&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-325 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    In order to host Elk yourself you can use the provided Dockerfile to build a container with elk. Be aware, that Elk only loads properly if the connection is done via SSL/TLS. The Docker container itself does not provide any SSL/TLS handling. You&amp;rsquo;ll have to add this bit yourself. One could put Elk behind popular reverse proxies with SSL Handling like Traefik, NGINX etc.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;An alternative to Phanpy, which also works with GoToSocial instances. At least this looks more robust than Phanpy. Gotta deploy one soon.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-325"><a href="https://github.com/elk-zone/elk">Elk: A nimble Mastodon web client</a></h3>
-<style>
-.favicon-325 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    In order to host Elk yourself you can use the provided Dockerfile to build a container with elk. Be aware, that Elk only loads properly if the connection is done via SSL/TLS. The Docker container itself does not provide any SSL/TLS handling. You&rsquo;ll have to add this bit yourself. One could put Elk behind popular reverse proxies with SSL Handling like Traefik, NGINX etc.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>An alternative to Phanpy, which also works with GoToSocial instances. At least this looks more robust than Phanpy. Gotta deploy one soon.</p>
-<p>Edit: Wasn&rsquo;t able to deploy successfully. Sad.</p>
-
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Fediverse Explorer</title>
-      <link>https://deuts.org/x/324-fediverse-explorer/</link>
-      <pubDate>Tue, 07 Jan 2025 22:54:24 +0800</pubDate>
-      <guid>https://deuts.org/x/324-fediverse-explorer/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-324&#34;&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/&#34;&gt;Fediverse Explorer&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-324 {
-    background: url(&#39;https://bm.deuts.org/static/https_fediverse_explorer_stefanbohacek_dev.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Browse most recent public posts across the fediverse by hashtag.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;This is a great project. Lots of posts I&amp;rsquo;ve discovered from using this hashtag search. I know the source is on Github, but I wish this is easily selfhostable complete with Docker and compose documentation.&lt;/p&gt;
-&lt;p&gt;See &lt;a href=&#34;https://github.com/stefanbohacek/fediverse-explorer/&#34;&gt;Github page&lt;/a&gt; and &lt;a href=&#34;https://stefanbohacek.com/project/fediverse-explorer/&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-324"><a href="https://fediverse-explorer.stefanbohacek.dev/">Fediverse Explorer</a></h3>
-<style>
-.favicon-324 {
-    background: url('https://bm.deuts.org/static/https_fediverse_explorer_stefanbohacek_dev.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Browse most recent public posts across the fediverse by hashtag.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>This is a great project. Lots of posts I&rsquo;ve discovered from using this hashtag search. I know the source is on Github, but I wish this is easily selfhostable complete with Docker and compose documentation.</p>
-<p>See <a href="https://github.com/stefanbohacek/fediverse-explorer/">Github page</a> and <a href="https://stefanbohacek.com/project/fediverse-explorer/">blog post</a>.</p>
-
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Media Caching - GoToSocial Documentation</title>
-      <link>https://deuts.org/x/323-media-caching-gotosocial-documentation/</link>
-      <pubDate>Tue, 07 Jan 2025 22:34:29 +0800</pubDate>
-      <guid>https://deuts.org/x/323-media-caching-gotosocial-documentation/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-323&#34;&gt;&lt;a href=&#34;https://docs.gotosocial.org/en/latest/admin/media_caching/&#34;&gt;Media Caching - GoToSocial Documentation&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-323 {
-    background: url(&#39;https://bm.deuts.org/static/https_docs_gotosocial_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    GoToSocial uses the configured storage backend in order to store media (images, videos, etc) uploaded to the instance by local users, as well as to cache media attached to posts and profiles federated in from remote instances.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;GoToSocial total storage space usage currently stands at 3.9GB. If this gets out of hand, I may need to add in the &lt;code&gt;environment&lt;/code&gt; variable of the &lt;code&gt;compose.yml&lt;/code&gt; file:&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-323"><a href="https://docs.gotosocial.org/en/latest/admin/media_caching/">Media Caching - GoToSocial Documentation</a></h3>
-<style>
-.favicon-323 {
-    background: url('https://bm.deuts.org/static/https_docs_gotosocial_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    GoToSocial uses the configured storage backend in order to store media (images, videos, etc) uploaded to the instance by local users, as well as to cache media attached to posts and profiles federated in from remote instances.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>GoToSocial total storage space usage currently stands at 3.9GB. If this gets out of hand, I may need to add in the <code>environment</code> variable of the <code>compose.yml</code> file:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">GTS_MEDIA_REMOTE_CACHE_DAYS</span>: <span style="color:#ae81ff">2</span>  
-</span></span></code></pre></div>
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Fediscanner</title>
-      <link>https://deuts.org/x/322-fediscanner/</link>
-      <pubDate>Tue, 07 Jan 2025 15:13:15 +0800</pubDate>
-      <guid>https://deuts.org/x/322-fediscanner/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-322&#34;&gt;&lt;a href=&#34;https://github.com/chefblogger/FediScanner&#34;&gt;Fediscanner&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-322 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Scan and find hashtag outside your fediverse instance.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    A Simple PHP Script to crawl Hashtags in the Fediverse.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-322"><a href="https://github.com/chefblogger/FediScanner">Fediscanner</a></h3>
-<style>
-.favicon-322 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Scan and find hashtag outside your fediverse instance.
-</blockquote>
-  
-<div class="linkding-notes">
-    A Simple PHP Script to crawl Hashtags in the Fediverse.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
