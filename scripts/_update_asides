@@ -20,6 +20,11 @@ hugo
 
 # DO: Check `git status` if there are changes to be made. If there is any, then prompt if I want to proceed with below
 git status
+if [[ -z "$(git status --porcelain)" ]]; then
+  echo "No changes to commit. Exiting the script."
+  exit 0
+fi
+
 read -p "Do you want to proceed with staging, committing, and pushing changes? (y/n): " git_response
 if [[ "$git_response" != "y" ]]; then
   echo "Exiting the script."
