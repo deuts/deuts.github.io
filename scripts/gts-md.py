@@ -176,7 +176,7 @@ def main():
     while True:
         statuses, max_id = fetch_statuses(ACCOUNT_ID, max_id)
         if not statuses:
-            print("No more statuses to fetch.")
+            print("Gotosocial done.")
             break
 
         for status in statuses:
