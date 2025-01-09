@@ -5,7 +5,7 @@ python ./scripts/bluesky.py
 python ./scripts/linkding.py
 python ./scripts/gts-md.py
 
-# DO: Add a prompt "Do you want to proceed and rebuild the site?" If y then proceed to below, otherwise exit.
+# Prompt to rebuild Hugo
 read -p "Do you want to proceed and rebuild the site? (y/n): " response
 if [[ "$response" != "y" ]]; then
   echo "Exiting the script."
@@ -14,11 +14,9 @@ fi
 
 # Build the Hugo site in staging mode
 hugo -e staging
-
-# Build the Hugo site in default mode
 hugo
 
-# DO: Check `git status` if there are changes to be made. If there is any, then prompt if I want to proceed with below
+# Check git status and prompt commit changes
 git status
 if [[ -z "$(git status --porcelain)" ]]; then
   echo "No changes to commit. Exiting the script."
