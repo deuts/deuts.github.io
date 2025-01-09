@@ -176,7 +176,7 @@ def main():
     while True:
         statuses, max_id = fetch_statuses(ACCOUNT_ID, max_id)
         if not statuses:
-            print("Gotosocial done.")
+            print("Gotosocial retrieved.")
             break
 
         for status in statuses:
@@ -196,10 +196,10 @@ def main():
             break
 
     # Print the summary
-    print(f"\nGotosocial Summary:")
+    print(f"Gotosocial Summary:")
     print(f"Number of posts saved: {saved_count}")
     print(f"Number of posts skipped: {skipped_count}")
-    print(f"List of post IDs skipped: {', '.join(skipped_ids)}")
+    print(f"List of post IDs skipped: {', '.join(skipped_ids)}\n")
 
 if __name__ == "__main__":
     main()
