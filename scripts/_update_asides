@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Run the Python script (make sure the relative path is correct)
+python ./scripts/bluesky.py
+python ./scripts/linkding.py
+python ./scripts/gts-md.py
+
+# DO: Add a prompt "Do you want to proceed and rebuild the site?" If y then proceed to below, otherwise exit.
+
+# Build the Hugo site in staging mode
+hugo -e staging
+
+# Build the Hugo site in default mode
+hugo
+
+# DO: Check `git status` if there are changes to be made. If there is any, then prompt if I want to proceed with below
+
+# Stage all changes
+git add .
+
+# Commit the changes with a message
+git status
+git commit -m "updated asides"
+
+# Push the changes to the remote repository
+git push
