@@ -28,7 +28,7 @@
 
 {{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}}
 
-<article class="asides-post {{ $asideType }}-post {{ $asideType }}-single asides-list">
+<article class="asides-post {{ $asideType }}-post {{ $asideType }}-list asides-list">
   {{- if ne $currentDate $lastDate }}
     <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
     {{- $lastDate = $currentDate -}}

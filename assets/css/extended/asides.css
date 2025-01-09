@@ -131,7 +131,7 @@ article.asides-single .asides-post-date {
 }
 
 /* BLOCKQUOTE STYLES */
-blockquote.linkding-description {
+.asides-content blockquote {
     font-style: italic;
     font-size: 0.9em;
     color: #ddd;
@@ -142,7 +142,7 @@ blockquote.linkding-description {
     border-radius: 5px;
 }
 
-blockquote.linkding-description p {
+.asides-content blockquote p {
     margin: 0.7em 0;
 }
 
