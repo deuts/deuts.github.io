@@ -3,7 +3,7 @@ import requests
 import json
 import time
 import re
-import markdownify  # Importing markdownify for HTML to Markdown conversion
+import markdownify 
 from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
 import pytz  
@@ -171,6 +171,7 @@ def fetch_statuses(account_id, max_id=None):
 
 # Main Logic
 def main():
+    global saved_count, skipped_count, skipped_ids  # Declare as global
     max_id = None
     while True:
         statuses, max_id = fetch_statuses(ACCOUNT_ID, max_id)
