@@ -1,11 +1,16 @@
 #!/bin/bash
 
-# Run the Python script (make sure the relative path is correct)
+# Run the Python scripts
 python ./scripts/bluesky.py
 python ./scripts/linkding.py
 python ./scripts/gts-md.py
 
 # DO: Add a prompt "Do you want to proceed and rebuild the site?" If y then proceed to below, otherwise exit.
+read -p "Do you want to proceed and rebuild the site? (y/n): " response
+if [[ "$response" != "y" ]]; then
+  echo "Exiting the script."
+  exit 1
+fi
 
 # Build the Hugo site in staging mode
 hugo -e staging
@@ -14,12 +19,17 @@ hugo -e staging
 hugo
 
 # DO: Check `git status` if there are changes to be made. If there is any, then prompt if I want to proceed with below
+git status
+read -p "Do you want to proceed with staging, committing, and pushing changes? (y/n): " git_response
+if [[ "$git_response" != "y" ]]; then
+  echo "Exiting the script."
+  exit 1
+fi
 
 # Stage all changes
 git add .
 
 # Commit the changes with a message
-git status
 git commit -m "updated asides"
 
 # Push the changes to the remote repository
