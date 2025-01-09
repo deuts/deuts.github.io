@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 08 Jan 2025 18:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 08:31:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lfbghj5wzc2f</title>
+      <link>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</link>
+      <pubDate>Thu, 09 Jan 2025 08:31:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; monitor. Is it really my &lt;a href=&#34;https://bsky.app/hashtag/vps&#34;&gt;#VPS&lt;/a&gt;? Or &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; related?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> monitor. Is it really my <a href="https://bsky.app/hashtag/vps">#VPS</a>? Or <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> related?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Installing Pixelfed with Docker Compose</title>
       <link>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</link>
@@ -239,15 +248,6 @@
       <guid>https://deuts.org/x/2025-01-06-22-58-3lf3fiombq22e/</guid>
       <description>&lt;p&gt;Goodly now has a new book on Power Query M: &lt;a href=&#34;https://goodly.co.in/power-query-book/&#34;&gt;goodly.co.in/∞&lt;/a&gt; Looking at the sample content though, I think this book is geared towards intermediate level users. For more advanced applications, I think the Definitive Guide be Rick De Groot is still better: &lt;a href=&#34;https://www.packtpub.com/en-ph/product/the-definitive-guide-to-power-query-m-9781835086162&#34;&gt;www.packtpub.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Goodly now has a new book on Power Query M: <a href="https://goodly.co.in/power-query-book/">goodly.co.in/∞</a> Looking at the sample content though, I think this book is geared towards intermediate level users. For more advanced applications, I think the Definitive Guide be Rick De Groot is still better: <a href="https://www.packtpub.com/en-ph/product/the-definitive-guide-to-power-query-m-9781835086162">www.packtpub.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lf2umv5u2k2u</title>
-      <link>https://deuts.org/x/2025-01-06-17-56-3lf2umv5u2k2u/</link>
-      <pubDate>Mon, 06 Jan 2025 17:56:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-06-17-56-3lf2umv5u2k2u/</guid>
-      <description>&lt;p&gt;Major changes made to deuts.org My Linkding posts are now integrated to Asides together with my Bluesky posts.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Major changes made to deuts.org My Linkding posts are now integrated to Asides together with my Bluesky posts.</p>
 ]]></content:encoded>
     </item>
   </channel>
