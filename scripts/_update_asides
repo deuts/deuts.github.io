@@ -12,7 +12,7 @@ if [[ "$response" != "y" ]]; then
   exit 1
 fi
 
-# Build the Hugo site in staging mode
+# Build the Hugo site in staging mode and production
 echo -e "\n\nSTAGING:\n"
 hugo -e staging
 echo -e "\n\nPRODUCTION:\n"
