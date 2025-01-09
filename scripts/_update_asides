@@ -13,7 +13,9 @@ if [[ "$response" != "y" ]]; then
 fi
 
 # Build the Hugo site in staging mode
+echo -e "\n\nSTAGING:\n"
 hugo -e staging
+echo -e "\n\nPRODUCTION:\n"
 hugo
 
 # Check git status and prompt commit changes
