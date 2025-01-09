@@ -83,8 +83,15 @@ def ensure_valid_html(content):
     else:
         return content
 
-# Save status to markdown file
+# Add counters and a list to collect skipped post IDs
+saved_count = 0
+skipped_count = 0
+skipped_ids = []
+
+# Modified save_status_as_markdown function to update counters and collect skipped IDs
 def save_status_as_markdown(status):
+    global saved_count, skipped_count, skipped_ids
+    
     # Extract required fields
     id = status["id"]
     created_at = status["created_at"]
@@ -97,7 +104,8 @@ def save_status_as_markdown(status):
     # Use get to safely fetch text and handle missing cases
     status_text = status.get("text", "")
     if not status_text:
-        print(f"Skipping status {id} (created at {created_at}) - no text content.")
+        skipped_count += 1
+        skipped_ids.append(id)
         return
 
     # Keep the `\n` in the status_text as it is (single line for frontmatter)
@@ -127,7 +135,8 @@ status: "{status_text_frontmatter}"
     # Save to file
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(markdown_content)
-    print(f"Saved: {filepath}")
+    
+    saved_count += 1  # Increment saved posts count
 
 # Function to fetch statuses with pagination
 def fetch_statuses(account_id, max_id=None):
@@ -175,7 +184,8 @@ def main():
             created_at_datetime = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
 
             if created_at_datetime < earliest_datetime_utc:
-                print(f"Skipping status {status['id']} (created at {created_at}) - earlier than {EARLIEST_DATE}.")
+                skipped_count += 1
+                skipped_ids.append(status['id'])
                 continue
 
             save_status_as_markdown(status)
@@ -183,6 +193,12 @@ def main():
         if not max_id:
             print("Reached the end of available statuses.")
             break
+
+    # Print the summary
+    print(f"\nSummary:")
+    print(f"Number of posts saved: {saved_count}")
+    print(f"Number of posts skipped: {skipped_count}")
+    print(f"List of post IDs skipped: {', '.join(skipped_ids)}")
 
 if __name__ == "__main__":
     main()
