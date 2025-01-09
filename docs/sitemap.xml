@@ -21,13 +21,25 @@
   </url><url>
     <loc>https://deuts.org/search/</loc>
   </url><url>
-    <loc>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</loc>
-    <lastmod>2025-01-09T08:31:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-09T08:31:00+08:00</lastmod>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/327-how-to-create-a-hugo-theme-from-scratch/</loc>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hugo/</loc>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hugotheme/</loc>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</loc>
     <lastmod>2025-01-09T08:31:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/docker/</loc>
@@ -37,9 +49,6 @@
     <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/pixelfed/</loc>
-    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</loc>
@@ -127,12 +136,6 @@
     <lastmod>2025-01-05T12:45:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/313-how-to-set-a-fallback-opengraph-image-in-hugo-papermod/</loc>
-    <lastmod>2025-01-05T09:27:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/hugo/</loc>
-    <lastmod>2025-01-05T09:27:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/hugotheme/</loc>
     <lastmod>2025-01-05T09:27:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-05-09-19-3lexha4e7l22c/</loc>
