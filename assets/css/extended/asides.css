@@ -146,6 +146,14 @@ article.asides-single .asides-post-date {
     margin: 0.7em 0;
 }
 
+.asides-content blockquote ul {
+    margin-left: 2em;
+}
+
+.asides-content blockquote ul li {
+    margin-bottom: 0.5em;
+}
+
 /* LINKDING BACKLINK */
 a.ld-backlink {
     margin-right: 0.4em;
