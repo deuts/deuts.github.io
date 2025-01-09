@@ -7,8 +7,76 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 10:54:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 11:09:56 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi gallery Hugo theme</title>
+      <link>https://deuts.org/x/329-multi-gallery-hugo-theme/</link>
+      <pubDate>Thu, 09 Jan 2025 11:09:56 +0800</pubDate>
+      <guid>https://deuts.org/x/329-multi-gallery-hugo-theme/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-329&#34;&gt;&lt;a href=&#34;https://github.com/bep/galleriesdeluxe&#34;&gt;Multi gallery Hugo theme&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-329 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Multi gallery Hugo theme. This is built on top of and the plural version of &lt;a href=&#34;https://github.com/bep/gallerydeluxe&#34;&gt;gallerydeluxe&lt;/a&gt;.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    The more Gallery Hugo theme options, the merrier.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-329"><a href="https://github.com/bep/galleriesdeluxe">Multi gallery Hugo theme</a></h3>
+<style>
+.favicon-329 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Multi gallery Hugo theme. This is built on top of and the plural version of <a href="https://github.com/bep/gallerydeluxe">gallerydeluxe</a>.
+</blockquote>
+  
+<div class="linkding-notes">
+    The more Gallery Hugo theme options, the merrier.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hugo Gallery Theme</title>
+      <link>https://deuts.org/x/328-hugo-gallery-theme/</link>
+      <pubDate>Thu, 09 Jan 2025 11:09:43 +0800</pubDate>
+      <guid>https://deuts.org/x/328-hugo-gallery-theme/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-328&#34;&gt;&lt;a href=&#34;https://github.com/nicokaiser/hugo-theme-gallery&#34;&gt;Hugo Gallery Theme&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-328 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A very simple and opinionated photo gallery theme for Hugo.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-328"><a href="https://github.com/nicokaiser/hugo-theme-gallery">Hugo Gallery Theme</a></h3>
+<style>
+.favicon-328 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A very simple and opinionated photo gallery theme for Hugo.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>How to create a Hugo theme from scratch</title>
       <link>https://deuts.org/x/327-how-to-create-a-hugo-theme-from-scratch/</link>
@@ -305,24 +373,6 @@
       <guid>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</guid>
       <description>&lt;p&gt;I get why &lt;a href=&#34;https://bsky.app/hashtag/pdfding&#34;&gt;#PDFDing&lt;/a&gt; was inspired by &lt;a href=&#34;https://bsky.app/hashtag/linkding&#34;&gt;#LinkDing&lt;/a&gt;. Now I wish there were Linkding-style app for code snippets and note-taking. Just a simple dark-themed interface backed by just SQLite for the database. &lt;a href=&#34;https://bsky.app/hashtag/selfhosting&#34;&gt;#Selfhosting&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I get why <a href="https://bsky.app/hashtag/pdfding">#PDFDing</a> was inspired by <a href="https://bsky.app/hashtag/linkding">#LinkDing</a>. Now I wish there were Linkding-style app for code snippets and note-taking. Just a simple dark-themed interface backed by just SQLite for the database. <a href="https://bsky.app/hashtag/selfhosting">#Selfhosting</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lf4gbwd3ys2l</title>
-      <link>https://deuts.org/x/2025-01-07-08-45-3lf4gbwd3ys2l/</link>
-      <pubDate>Tue, 07 Jan 2025 08:45:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-07-08-45-3lf4gbwd3ys2l/</guid>
-      <description>&lt;p&gt;So, I&amp;rsquo;ve been running &lt;a href=&#34;https://bsky.app/hashtag/linkding&#34;&gt;#Linkding&lt;/a&gt; since March 2024 only? I always thought I&amp;rsquo;ve been running it for far too long already.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>So, I&rsquo;ve been running <a href="https://bsky.app/hashtag/linkding">#Linkding</a> since March 2024 only? I always thought I&rsquo;ve been running it for far too long already.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lf4bnq2upk26</title>
-      <link>https://deuts.org/x/2025-01-07-07-22-3lf4bnq2upk26/</link>
-      <pubDate>Tue, 07 Jan 2025 07:22:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-07-07-22-3lf4bnq2upk26/</guid>
-      <description>&lt;p&gt;Blu-ray 4K, at 94mbps bit rate? Really? I&amp;rsquo;m fine watching my movies and TV shows in 720p at YTS quality. No thank you. &lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/KIjauRogYI&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Blu-ray 4K, at 94mbps bit rate? Really? I&rsquo;m fine watching my movies and TV shows in 720p at YTS quality. No thank you. <a href="https://www.reddit.com/r/selfhosted/s/KIjauRogYI">www.reddit.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
