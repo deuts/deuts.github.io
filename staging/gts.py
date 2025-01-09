@@ -85,7 +85,7 @@ def save_status_as_markdown(status):
     manila_datetime = to_manila_time(created_at)
     converted_date = manila_datetime.isoformat()
     slug_date = manila_datetime.strftime("%Y-%m-%d-%H-%M-%S")
-    slug = f"{slug_date}-{id}"
+    slug = f"{slug_date}-{id.lower()}"
     link = status["url"]
 
     # Use get to safely fetch text and handle missing cases
