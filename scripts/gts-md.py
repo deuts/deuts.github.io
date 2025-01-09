@@ -196,7 +196,7 @@ def main():
             break
 
     # Print the summary
-    print(f"\nSummary:")
+    print(f"\nGotosocial Summary:")
     print(f"Number of posts saved: {saved_count}")
     print(f"Number of posts skipped: {skipped_count}")
     print(f"List of post IDs skipped: {', '.join(skipped_ids)}")
