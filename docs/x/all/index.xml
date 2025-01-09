@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 11:09:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 13:57:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lfbync423k2e</title>
+      <link>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</link>
+      <pubDate>Thu, 09 Jan 2025 13:57:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</guid>
+      <description>&lt;p&gt;I wonder if there are any limit to the number of posts that can be retrieved via API here at &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I wonder if there are any limit to the number of posts that can be retrieved via API here at <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Multi gallery Hugo theme</title>
       <link>https://deuts.org/x/329-multi-gallery-hugo-theme/</link>
@@ -364,15 +373,6 @@
     A Simple PHP Script to crawl Hashtags in the Fediverse.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lf4gnaqce22l</title>
-      <link>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</link>
-      <pubDate>Tue, 07 Jan 2025 08:51:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-07-08-51-3lf4gnaqce22l/</guid>
-      <description>&lt;p&gt;I get why &lt;a href=&#34;https://bsky.app/hashtag/pdfding&#34;&gt;#PDFDing&lt;/a&gt; was inspired by &lt;a href=&#34;https://bsky.app/hashtag/linkding&#34;&gt;#LinkDing&lt;/a&gt;. Now I wish there were Linkding-style app for code snippets and note-taking. Just a simple dark-themed interface backed by just SQLite for the database. &lt;a href=&#34;https://bsky.app/hashtag/selfhosting&#34;&gt;#Selfhosting&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I get why <a href="https://bsky.app/hashtag/pdfding">#PDFDing</a> was inspired by <a href="https://bsky.app/hashtag/linkding">#LinkDing</a>. Now I wish there were Linkding-style app for code snippets and note-taking. Just a simple dark-themed interface backed by just SQLite for the database. <a href="https://bsky.app/hashtag/selfhosting">#Selfhosting</a></p>
 ]]></content:encoded>
     </item>
   </channel>
