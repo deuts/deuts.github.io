@@ -89,7 +89,11 @@
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
     A very simple and opinionated photo gallery theme for Hugo.
-&lt;/blockquote&gt;</description>
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I don&amp;rsquo;t know what &amp;ldquo;opinionated&amp;rdquo; means, but it is indeed simple, sleek, and elegant.
+&lt;/div&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-328"><a href="https://github.com/nicokaiser/hugo-theme-gallery">Hugo Gallery Theme</a></h3>
 <style>
 .favicon-328 {
@@ -101,6 +105,10 @@
 <blockquote class="linkding-description">
     A very simple and opinionated photo gallery theme for Hugo.
 </blockquote>
+  
+<div class="linkding-notes">
+    I don&rsquo;t know what &ldquo;opinionated&rdquo; means, but it is indeed simple, sleek, and elegant.
+</div>
   
 ]]></content:encoded>
     </item>
