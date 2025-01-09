@@ -6,6 +6,7 @@ import re
 import markdownify  # Importing markdownify for HTML to Markdown conversion
 from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
+import pytz  # To handle time zone conversion
 
 # Load configuration
 with open("gts-config.json", "r") as config_file:
@@ -25,8 +26,13 @@ headers = {
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Convert EARLIEST_DATE to datetime object for comparison
-earliest_datetime = datetime.fromisoformat(EARLIEST_DATE.replace("Z", "+00:00"))
+# Convert EARLIEST_DATE to datetime object for comparison in Philippine Time (UTC+08:00)
+philippine_tz = pytz.timezone('Asia/Manila')
+earliest_datetime = datetime.strptime(EARLIEST_DATE, "%Y-%m-%d")
+earliest_datetime = philippine_tz.localize(earliest_datetime.replace(hour=0, minute=0, second=0, microsecond=0))
+
+# Convert to UTC (since `created_at` will be in UTC)
+earliest_datetime_utc = earliest_datetime.astimezone(pytz.utc)
 
 # Function to convert created_at to Manila time
 def to_manila_time(utc_time):
@@ -168,7 +174,7 @@ def main():
             created_at = status["created_at"]
             created_at_datetime = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
 
-            if created_at_datetime < earliest_datetime:
+            if created_at_datetime < earliest_datetime_utc:
                 print(f"Skipping status {status['id']} (created at {created_at}) - earlier than {EARLIEST_DATE}.")
                 continue
 
