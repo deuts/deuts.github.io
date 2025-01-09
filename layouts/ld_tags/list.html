@@ -23,48 +23,8 @@
 
 {{- $lastDate := "" -}} {{/*Added by Deuts*/}}
 {{- range $index, $page := $paginator.Pages }}
-
-{{ $asideType := .Page.Params.aside_type }}
-
-{{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}}
-
-<article class="asides-post {{ $asideType }}-post {{ $asideType }}-list asides-list">
-  {{- if ne $currentDate $lastDate }}
-    <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
-    {{- $lastDate = $currentDate -}}
-  {{- end }}
-
-  <div class="{{ $asideType }}-post-cont asides-post-cont">
-    {{- if not .Date.IsZero -}}
-    <div class="post-time">
-      <span title="{{ .Date }}">
-        <a href="{{ .Permalink }}" aria-label="Link to the post">{{ .Date.Format "15:04" }}</a>
-      </span>
-    </div>
-    {{- end }}
-    <div class="{{ $asideType }}-content asides-content">
-      {{ .Content }}
-
-      <div class="{{ $asideType }}-footer asides-footer">
-        {{ if eq $asideType "bluesky" }}
-          <a href="{{ .Params.link }}" aria-label="Link to bsky">{{ .Params.atpid }}</a>
-        {{ else if eq $asideType "linkding" }}
-          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a>
-          {{ if .Params.ld_tags }}
-            {{ $tagsLength := len .Params.ld_tags }}
-            {{ range $index, $tag := .Params.ld_tags }}
-              <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>{{ if ne $index (sub $tagsLength 1) }},{{ end }}
-            {{ end }}
-          {{ end }}
-        {{ else if eq $asideType "gotosocial" }}
-          <a href="{{ .Params.link }}" aria-label="Link to gotosocial">{{ .Params.gtsid }}</a>
-        {{ end }}
-      </div>
-
-    </div>
-  </div>
-</article>
-
+  {{ partial "asides-article.html" (dict "lastDate" $lastDate "page" .) }}
+  {{- $lastDate = .Date.Format "2006-01-02" }}
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
