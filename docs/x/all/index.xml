@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 23:05:03 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:01:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH8F577G2V5XXZ5MZY0D30GS</title>
+      <link>https://deuts.org/x/2025-01-11-00-01-04-01jh8f577g2v5xxz5mzy0d30gs/</link>
+      <pubDate>Sat, 11 Jan 2025 00:01:04 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-11-00-01-04-01jh8f577g2v5xxz5mzy0d30gs/</guid>
+      <description>&lt;p&gt;You mean there&amp;rsquo;s this lightweight alternative to &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Bitwarden&#34;&gt;#Bitwarden&lt;/a&gt; / &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Vaultwarden&#34;&gt;#Vaultwarden&lt;/a&gt;, an app called &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=AliasVault&#34;&gt;#AliasVault&lt;/a&gt;? &lt;a href=&#34;https://github.com/lanedirt/AliasVault&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>You mean there&rsquo;s this lightweight alternative to <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Bitwarden">#Bitwarden</a> / <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Vaultwarden">#Vaultwarden</a>, an app called <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=AliasVault">#AliasVault</a>? <a href="https://github.com/lanedirt/AliasVault">github.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH8BYN2KG45GHX8YVKTQXCJG</title>
       <link>https://deuts.org/x/2025-01-10-23-05-03-01jh8byn2kg45ghx8yvktqxcjg/</link>
@@ -117,15 +126,6 @@
       <guid>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</guid>
       <description>&lt;p&gt;I echo this sentiment: &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Memos&#34;&gt;#Memos&lt;/a&gt; should have &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub&#34;&gt;#ActivityPub&lt;/a&gt; support. But the issue kept tagged as &lt;code&gt;not planned&lt;/code&gt;. Hoping for someday this becoming a reality. &lt;a href=&#34;https://github.com/usememos/memos/issues/878&#34;&gt;github.com/∞&lt;/a&gt; &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos&#34;&gt;#UseMemos&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I echo this sentiment: <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Memos">#Memos</a> should have <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub">#ActivityPub</a> support. But the issue kept tagged as <code>not planned</code>. Hoping for someday this becoming a reality. <a href="https://github.com/usememos/memos/issues/878">github.com/∞</a> <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos">#UseMemos</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lfbync423k2e</title>
-      <link>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</link>
-      <pubDate>Thu, 09 Jan 2025 13:57:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</guid>
-      <description>&lt;p&gt;I wonder if there are any limit to the number of posts that can be retrieved via API here at &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I wonder if there are any limit to the number of posts that can be retrieved via API here at <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>?</p>
 ]]></content:encoded>
     </item>
   </channel>
