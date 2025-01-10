@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 22:11:32 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 23:05:03 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH8BYN2KG45GHX8YVKTQXCJG</title>
+      <link>https://deuts.org/x/2025-01-10-23-05-03-01jh8byn2kg45ghx8yvktqxcjg/</link>
+      <pubDate>Fri, 10 Jan 2025 23:05:03 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-10-23-05-03-01jh8byn2kg45ghx8yvktqxcjg/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://linuxserver.io/@linuxserver&#34;&gt;@linuxserver&lt;/a&gt; introduces &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=modcache&#34;&gt;#modcache&lt;/a&gt; and &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=modmanager&#34;&gt;#modmanager&lt;/a&gt; &lt;a href=&#34;https://www.linuxserver.io/blog/introducing-modcache-and-modmanager&#34;&gt;www.linuxserver.io/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I think I get the idea and the rationale. The big question is how to implement.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://linuxserver.io/@linuxserver">@linuxserver</a> introduces <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=modcache">#modcache</a> and <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=modmanager">#modmanager</a> <a href="https://www.linuxserver.io/blog/introducing-modcache-and-modmanager">www.linuxserver.io/∞</a></p>
+<p>I think I get the idea and the rationale. The big question is how to implement.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH88WN7G4XEA6RRF5KXT8VJX</title>
       <link>https://deuts.org/x/2025-01-10-22-11-32-01jh88wn7g4xea6rrf5kxt8vjx/</link>
@@ -115,15 +126,6 @@
       <guid>https://deuts.org/x/2025-01-09-13-57-3lfbync423k2e/</guid>
       <description>&lt;p&gt;I wonder if there are any limit to the number of posts that can be retrieved via API here at &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I wonder if there are any limit to the number of posts that can be retrieved via API here at <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH4M3QPHQ1SDN485CGDABPRA</title>
-      <link>https://deuts.org/x/2025-01-09-12-10-41-01jh4m3qphq1sdn485cgdabpra/</link>
-      <pubDate>Thu, 09 Jan 2025 12:10:41 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-12-10-41-01jh4m3qphq1sdn485cgdabpra/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a while since I checked my &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Blinko&#34;&gt;#Blinko&lt;/a&gt; installation. A lot of improvements has been made thus far. Excited for the future of this project. Could this be my default note-taking app moving forward?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>It&rsquo;s been a while since I checked my <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Blinko">#Blinko</a> installation. A lot of improvements has been made thus far. Excited for the future of this project. Could this be my default note-taking app moving forward?</p>
 ]]></content:encoded>
     </item>
   </channel>
