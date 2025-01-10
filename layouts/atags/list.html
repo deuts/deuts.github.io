@@ -3,7 +3,7 @@
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1 class="asides-head">
-    {{ .Title }}
+    #{{ .Title }}
   </h1>
   {{- if .Description }}
   <div class="post-description">
@@ -21,9 +21,9 @@
 {{- $pages := union .RegularPages .Sections }}
 {{- $paginator := .Paginate $pages }}
 
-{{- $lastDate := "" -}} {{/*Added by Deuts*/}}
+{{- $lastDate := "" -}}
 {{- range $index, $page := $paginator.Pages }}
-  {{ partial "asides-article.html" (dict "lastDate" $lastDate "page" .) }}
+  {{ partial "asides-article.html" (dict "lastDate" $lastDate "asidesClass" "list" "hapd" "nohapd" "asides" .) }}
   {{- $lastDate = .Date.Format "2006-01-02" }}
 {{- end }}
 
