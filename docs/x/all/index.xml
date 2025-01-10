@@ -7,8 +7,44 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 20:16:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 20:47:58 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pixelfed Auto Installer</title>
+      <link>https://deuts.org/x/331-pixelfed-auto-installer/</link>
+      <pubDate>Fri, 10 Jan 2025 20:47:58 +0800</pubDate>
+      <guid>https://deuts.org/x/331-pixelfed-auto-installer/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-331&#34;&gt;&lt;a href=&#34;https://github.com/Honeytree-Technologies/Pixelfed-Auto-Installer&#34;&gt;Pixelfed Auto Installer&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-331 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;This script is designed to automate the initial deployment of Pixelfed and its related components using Docker and bash scripting.&lt;/p&gt;
+&lt;p&gt;This is a free-to-use Bash script that allows you to easily install Pixelfed and enhance its security with a single command. You can utilize this script on a blank server or an existing server, making it suitable for both new and experienced Pixelfed server owners.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-331"><a href="https://github.com/Honeytree-Technologies/Pixelfed-Auto-Installer">Pixelfed Auto Installer</a></h3>
+<style>
+.favicon-331 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>This script is designed to automate the initial deployment of Pixelfed and its related components using Docker and bash scripting.</p>
+<p>This is a free-to-use Bash script that allows you to easily install Pixelfed and enhance its security with a single command. You can utilize this script on a blank server or an existing server, making it suitable for both new and experienced Pixelfed server owners.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    Not as seamless as a simple <code>compose.yml</code>, but I hope you can get one going in an instant.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH829EMQAW65Z59FA125N323</title>
       <link>https://deuts.org/x/2025-01-10-20-16-11-01jh829emqaw65z59fa125n323/</link>
@@ -115,44 +151,6 @@
   
 <div class="linkding-notes">
     The more Gallery Hugo theme options, the merrier.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugo Gallery Theme</title>
-      <link>https://deuts.org/x/328-hugo-gallery-theme/</link>
-      <pubDate>Thu, 09 Jan 2025 11:09:43 +0800</pubDate>
-      <guid>https://deuts.org/x/328-hugo-gallery-theme/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-328&#34;&gt;&lt;a href=&#34;https://github.com/nicokaiser/hugo-theme-gallery&#34;&gt;Hugo Gallery Theme&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-328 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A very simple and opinionated photo gallery theme for Hugo.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I don&amp;rsquo;t know what &amp;ldquo;opinionated&amp;rdquo; means, but it is indeed simple, sleek, and elegant.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-328"><a href="https://github.com/nicokaiser/hugo-theme-gallery">Hugo Gallery Theme</a></h3>
-<style>
-.favicon-328 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A very simple and opinionated photo gallery theme for Hugo.
-</blockquote>
-  
-<div class="linkding-notes">
-    I don&rsquo;t know what &ldquo;opinionated&rdquo; means, but it is indeed simple, sleek, and elegant.
 </div>
   
 ]]></content:encoded>

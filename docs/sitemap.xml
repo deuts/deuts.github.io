@@ -21,13 +21,28 @@
   </url><url>
     <loc>https://deuts.org/search/</loc>
   </url><url>
-    <loc>https://deuts.org/x/2025-01-10-20-16-11-01jh829emqaw65z59fa125n323/</loc>
-    <lastmod>2025-01-10T20:16:11+08:00</lastmod>
+    <loc>https://deuts.org/k/activitypub/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-10T20:16:11+08:00</lastmod>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pixelfed/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/331-pixelfed-auto-installer/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-01-10-20-16-11-01jh829emqaw65z59fa125n323/</loc>
     <lastmod>2025-01-10T20:16:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-10-20-12-29-01jh822n8ee0dyta3kh09hnfx4/</loc>
@@ -69,9 +84,6 @@
     <loc>https://deuts.org/x/327-how-to-create-a-hugo-theme-from-scratch/</loc>
     <lastmod>2025-01-09T10:54:09+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2025-01-09T10:54:09+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/2025-01-09-10-36-29-01jh4eq8v1qfv385jff6tp2gf2/</loc>
     <lastmod>2025-01-09T10:36:29+08:00</lastmod>
   </url><url>
@@ -93,9 +105,6 @@
     <loc>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</loc>
     <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/pixelfed/</loc>
-    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/2025-01-08-13-45-15-01jh27468ebpqd5r7qsd579dpd/</loc>
     <lastmod>2025-01-08T13:45:15+08:00</lastmod>
   </url><url>
@@ -115,9 +124,6 @@
     <lastmod>2025-01-08T10:33:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
