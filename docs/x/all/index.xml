@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 15:30:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 13:04:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH79KW73PD7R0G6RSX861P84</title>
+      <link>https://deuts.org/x/2025-01-10-13-04-59-01jh79kw73pd7r0g6rsx861p84/</link>
+      <pubDate>Fri, 10 Jan 2025 13:04:59 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-10-13-04-59-01jh79kw73pd7r0g6rsx861p84/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt; partials, context, and varialble scoping is tricky. At least I&amp;rsquo;m learning something new today. &lt;a href=&#34;https://gohugo.io/templates/partial/&#34;&gt;gohugo.io/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a> partials, context, and varialble scoping is tricky. At least I&rsquo;m learning something new today. <a href="https://gohugo.io/templates/partial/">gohugo.io/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH4ZHHCD3CYEZH5Y44CCGZYR</title>
       <link>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</link>
@@ -231,15 +240,6 @@
       <guid>https://deuts.org/x/2025-01-09-09-11-48-01jh49w6mz4q13rrs7vrbrbj87/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@solicitor&#34;&gt;@solicitor&lt;/a&gt; &lt;a href=&#34;https://floss.social/@bart&#34;&gt;@bart&lt;/a&gt; If I make use of &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; to help with my python scripts, I don&amp;rsquo;t see a problem with it not being &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=opensource&#34;&gt;#opensource&lt;/a&gt;.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://mastodon.social/@solicitor">@solicitor</a> <a href="https://floss.social/@bart">@bart</a> If I make use of <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT">#ChatGPT</a> to help with my python scripts, I don&rsquo;t see a problem with it not being <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=opensource">#opensource</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lfbghj5wzc2f</title>
-      <link>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</link>
-      <pubDate>Thu, 09 Jan 2025 08:31:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-08-31-3lfbghj5wzc2f/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; monitor. Is it really my &lt;a href=&#34;https://bsky.app/hashtag/vps&#34;&gt;#VPS&lt;/a&gt;? Or &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt; related?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;m seeing several, albeit short, downtimes on my PDS instance, based on my <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> monitor. Is it really my <a href="https://bsky.app/hashtag/vps">#VPS</a>? Or <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a> related?</p>
 ]]></content:encoded>
     </item>
   </channel>

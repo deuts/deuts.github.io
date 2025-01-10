@@ -1,21 +1,22 @@
-{{- $asideType := .Page.Params.aside_type }}
-{{- $lastDate := .lastDate | default "" -}}
-{{- $currentDate := .Date.Format "2006-01-02" -}}
+{{- $asides := .asides -}}
+{{- $asideType := $asides.Page.Params.aside_type -}}
+{{- $lastDate := .lastDate -}}
+{{- $currentDate := $asides.Date.Format "2006-01-02" -}}
 
 {{- $asidesClass := "list" -}}
-{{- if .IsPage -}}
+{{- if $asides.IsPage -}}
   {{- $asidesClass = "single" -}}
 {{- end -}}
 
 {{- $hapd := "" -}}
-{{- if .IsHome -}}
+{{- if $asides.IsHome -}}
   {{- $hapd = "hapd" -}}
 {{- end -}}
 
 <article class="asides-post {{ $asideType }}-post {{ $asideType }}-{{ $asidesClass }} asides-{{ $asidesClass }}">
-  {{- if .IsPage -}}
+  {{- if $asides.IsPage -}}
     <header class="post-header">
-      {{ partial "breadcrumbs.html" . }}
+      {{/* partial "breadcrumbs.html" . */}}
       <h1 class="{{ $asideType }}-title">
         {{ if eq $asideType "bluesky" }}
           <a href="https://bsky.app/profile/deuts.hamili.net">@deuts.hamili.net</a>
@@ -32,35 +33,36 @@
   
   {{- if ne $currentDate $lastDate }}
     <div class="asides-post-date {{ $hapd }}">
-      {{ .Date.Format "January 2, 2006" }}
+      {{ $asides.Date.Format "January 2, 2006" }}
+      {{- $lastDate = $currentDate -}}
     </div>
   {{- end }}
 
   <div class="{{ $asideType }}-post-cont asides-post-cont">
     <div class="post-time">
       <span title="{{ .Date }}">
-        {{ if .IsPage }}
-          {{ .Date.Format "15:04" }}
+        {{ if $asides.IsPage }}
+          {{ $asides.Date.Format "15:04" }}
         {{ else }}
-          <a href="{{ .Permalink }}" aria-label="Link to the post">{{ .Date.Format "15:04" }}</a>
+          <a href="{{ .Permalink }}" aria-label="Link to the post">{{ $asides.Date.Format "15:04" }}</a>
         {{ end }}
       </span>
     </div>
     <div class="{{ $asideType }}-content asides-content">
-      {{ .Content }}
+      {{ $asides.Content }}
       <div class="{{ $asideType }}-footer asides-footer">
         {{ if eq $asideType "bluesky" }}
-          <a href="{{ .Params.link }}" aria-label="Link to bsky">{{ .Params.atpid }}</a>
+          <a href="{{ $asides.Params.link }}" aria-label="Link to bsky">{{ $asides.Params.atpid }}</a>
         {{ else if eq $asideType "linkding" }}
-          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a>
-          {{ if .Params.ld_tags }}
-            {{ $tagsLength := len .Params.ld_tags }}
-            {{ range $index, $tag := .Params.ld_tags }}
+          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ $asides.Params.ld_id }}</a>
+          {{ if $asides.Params.ld_tags }}
+            {{ $tagsLength := len $asides.Params.ld_tags }}
+            {{ range $index, $tag := $asides.Params.ld_tags }}
               <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>{{ if ne $index (sub $tagsLength 1) }},{{ end }}
             {{ end }}
           {{ end }}
         {{ else if eq $asideType "gotosocial" }}
-          <a href="{{ .Params.link }}" aria-label="Link to gotosocial">{{ .Params.gtsid }}</a>
+          <a href="{{ $asides.Params.link }}" aria-label="Link to gotosocial">{{ $asides.Params.gtsid }}</a>
         {{ end }}
       </div>
     </div>

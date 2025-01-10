@@ -1,11 +1,12 @@
 {{- define "main" }}
 
-{{/* LEAVING THIS HERE FOR FUTURE REFERENCE
+{{/* LEAVING THIS HERE FOR FUTURE REFERENCE  (dict ("lastDate" $lastDate) . ) */}}
 {{- $lastDate := "" -}} 
-{{ partial "asides-article.html" (dict ".lastDate" $lastDate "page" .) }}
-*/}}
+{{ partial "asides-article.html" (dict "lastDate" $lastDate "asides" .) }}
 
-{{/* This is the old script before the partials was implemented */}}
+
+
+{{/* This is the old script before the partials was implemented 
   {{ $asideType := .Page.Params.aside_type }}
   <article class="asides-post {{ $asideType }}-post {{ $asideType }}-single asides-single">
     <header class="post-header">
@@ -45,4 +46,6 @@
       </div>
     </div>
   </article>
+*/}}
+
 {{- end }}
