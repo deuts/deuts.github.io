@@ -7,8 +7,59 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 00:01:04 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:21:20 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH8GAADG9ASZ59959T5Q7FR6</title>
+      <link>https://deuts.org/x/2025-01-11-00-21-20-01jh8gaadg9asz59959t5q7fr6/</link>
+      <pubDate>Sat, 11 Jan 2025 00:21:20 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-11-00-21-20-01jh8gaadg9asz59959t5q7fr6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=CaddyGen&#34;&gt;#CaddyGen&lt;/a&gt; is a user-friendly web interface for generating &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Caddy&#34;&gt;#Caddy&lt;/a&gt; server configurations. &lt;a href=&#34;https://github.com/DeanWard/CaddyGen&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I thought the UI makes you manage various caddy configurations for different domains/subdomains in your server. I thought I can retire now my little  &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=UpCaddy&#34;&gt;#UpCaddy&lt;/a&gt; project: &lt;a href=&#34;https://github.com/deuts/upcaddy&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;No, the UI is for generating caddy configurations based on presets.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=CaddyGen">#CaddyGen</a> is a user-friendly web interface for generating <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Caddy">#Caddy</a> server configurations. <a href="https://github.com/DeanWard/CaddyGen">github.com/∞</a></p>
+<p>I thought the UI makes you manage various caddy configurations for different domains/subdomains in your server. I thought I can retire now my little  <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UpCaddy">#UpCaddy</a> project: <a href="https://github.com/deuts/upcaddy">github.com/∞</a></p>
+<p>No, the UI is for generating caddy configurations based on presets.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>CaddyGen - Caddy Config Generator</title>
+      <link>https://deuts.org/x/332-caddygen-caddy-config-generator/</link>
+      <pubDate>Sat, 11 Jan 2025 00:15:52 +0800</pubDate>
+      <guid>https://deuts.org/x/332-caddygen-caddy-config-generator/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-332&#34;&gt;&lt;a href=&#34;https://github.com/DeanWard/CaddyGen&#34;&gt;CaddyGen - Caddy Config Generator&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-332 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    CaddyGen is a user-friendly web interface for generating Caddy server configurations. Easily create and manage reverse proxy and file server configurations with support for SSL, compression, security headers, and more.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is a Caddy config generator based on presets. No, the UI is not about managing your various Caddy configurations.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-332"><a href="https://github.com/DeanWard/CaddyGen">CaddyGen - Caddy Config Generator</a></h3>
+<style>
+.favicon-332 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    CaddyGen is a user-friendly web interface for generating Caddy server configurations. Easily create and manage reverse proxy and file server configurations with support for SSL, compression, security headers, and more.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is a Caddy config generator based on presets. No, the UI is not about managing your various Caddy configurations.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH8F577G2V5XXZ5MZY0D30GS</title>
       <link>https://deuts.org/x/2025-01-11-00-01-04-01jh8f577g2v5xxz5mzy0d30gs/</link>
@@ -108,24 +159,6 @@
       <guid>https://deuts.org/x/2025-01-10-14-15-42-01jh7dnbzvmk80nk0a9eyyccxz/</guid>
       <description>&lt;p&gt;The Fediverse Explorer appears to be behind a basic authentication now? Why? &lt;a href=&#34;https://stefanbohacek.online/@stefan&#34;&gt;@stefan&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The Fediverse Explorer appears to be behind a basic authentication now? Why? <a href="https://stefanbohacek.online/@stefan">@stefan</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH79KW73PD7R0G6RSX861P84</title>
-      <link>https://deuts.org/x/2025-01-10-13-04-59-01jh79kw73pd7r0g6rsx861p84/</link>
-      <pubDate>Fri, 10 Jan 2025 13:04:59 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-10-13-04-59-01jh79kw73pd7r0g6rsx861p84/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt; partials, context, and varialble scoping is tricky. At least I&amp;rsquo;m learning something new today. &lt;a href=&#34;https://gohugo.io/templates/partial/&#34;&gt;gohugo.io/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a> partials, context, and varialble scoping is tricky. At least I&rsquo;m learning something new today. <a href="https://gohugo.io/templates/partial/">gohugo.io/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH4ZHHCD3CYEZH5Y44CCGZYR</title>
-      <link>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</link>
-      <pubDate>Thu, 09 Jan 2025 15:30:27 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-15-30-27-01jh4zhhcd3cyezh5y44ccgzyr/</guid>
-      <description>&lt;p&gt;I echo this sentiment: &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Memos&#34;&gt;#Memos&lt;/a&gt; should have &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub&#34;&gt;#ActivityPub&lt;/a&gt; support. But the issue kept tagged as &lt;code&gt;not planned&lt;/code&gt;. Hoping for someday this becoming a reality. &lt;a href=&#34;https://github.com/usememos/memos/issues/878&#34;&gt;github.com/∞&lt;/a&gt; &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos&#34;&gt;#UseMemos&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I echo this sentiment: <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Memos">#Memos</a> should have <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ActivityPub">#ActivityPub</a> support. But the issue kept tagged as <code>not planned</code>. Hoping for someday this becoming a reality. <a href="https://github.com/usememos/memos/issues/878">github.com/∞</a> <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UseMemos">#UseMemos</a></p>
 ]]></content:encoded>
     </item>
   </channel>
