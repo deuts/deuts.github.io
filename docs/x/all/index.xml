@@ -7,8 +7,26 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 19:50:03 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 20:16:11 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH829EMQAW65Z59FA125N323</title>
+      <link>https://deuts.org/x/2025-01-10-20-16-11-01jh829emqaw65z59fa125n323/</link>
+      <pubDate>Fri, 10 Jan 2025 20:16:11 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-10-20-16-11-01jh829emqaw65z59fa125n323/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hachyderm.io/@train&#34;&gt;@train&lt;/a&gt; oh no! The number 1 rule of &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Selfhosting&#34;&gt;#Selfhosting&lt;/a&gt;: don&amp;rsquo;t slap the shit out of your baby! 😂🤣😅😭&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://hachyderm.io/@train">@train</a> oh no! The number 1 rule of <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Selfhosting">#Selfhosting</a>: don&rsquo;t slap the shit out of your baby! 😂🤣😅😭</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JH822N8EE0DYTA3KH09HNFX4</title>
+      <link>https://deuts.org/x/2025-01-10-20-12-29-01jh822n8ee0dyta3kh09hnfx4/</link>
+      <pubDate>Fri, 10 Jan 2025 20:12:29 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-10-20-12-29-01jh822n8ee0dyta3kh09hnfx4/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re looking for a good &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=MiniPC&#34;&gt;#MiniPC&lt;/a&gt; in the Philippines, you&amp;rsquo;ll likely find better deals at &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Datablitz&#34;&gt;#Datablitz&lt;/a&gt;: &lt;a href=&#34;https://ecommerce.datablitz.com.ph/collections/pc-mac?pf_t_categories=Mini-PC.&#34;&gt;ecommerce.datablitz.com.ph/∞&lt;/a&gt; They offer competitive prices and a trusted online merchant. While their selection may be limited, their prices are often more affordable compared to that from &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Lazada&#34;&gt;#Lazada&lt;/a&gt; or &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Shopee&#34;&gt;#Shopee&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>If you&rsquo;re looking for a good <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=MiniPC">#MiniPC</a> in the Philippines, you&rsquo;ll likely find better deals at <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Datablitz">#Datablitz</a>: <a href="https://ecommerce.datablitz.com.ph/collections/pc-mac?pf_t_categories=Mini-PC.">ecommerce.datablitz.com.ph/∞</a> They offer competitive prices and a trusted online merchant. While their selection may be limited, their prices are often more affordable compared to that from <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Lazada">#Lazada</a> or <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Shopee">#Shopee</a>.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH80SKA32FBT8GECNEA7R2S5</title>
       <link>https://deuts.org/x/2025-01-10-19-50-03-01jh80ska32fbt8gecnea7r2s5/</link>
@@ -137,109 +155,6 @@
     I don&rsquo;t know what &ldquo;opinionated&rdquo; means, but it is indeed simple, sleek, and elegant.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to create a Hugo theme from scratch</title>
-      <link>https://deuts.org/x/327-how-to-create-a-hugo-theme-from-scratch/</link>
-      <pubDate>Thu, 09 Jan 2025 10:54:09 +0800</pubDate>
-      <guid>https://deuts.org/x/327-how-to-create-a-hugo-theme-from-scratch/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-327&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=9894s&#34;&gt;How to create a Hugo theme from scratch&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-327 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Watch this 8 hour long stream of HugoConf in September 2023. Below are the timestamps:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=5425s&#34;&gt;1:30:25&lt;/a&gt; Welcome to HugoConf 2023! - Mike Neumegen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=6042s&#34;&gt;1:40:42&lt;/a&gt; Learn how to contribute effectively to the Hugo project (without code) (Interview) - Joe Mooring&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=7863s&#34;&gt;2:11:03&lt;/a&gt; Automated migration at cale: Migrate to Hugo from any existing site (Lightning Talk) - George Phillips&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=8780s&#34;&gt;2:26:20&lt;/a&gt; Hugobricks — stackable content blocks for Hugo (Lightning Talk) - Joost van der Schee&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=9363s&#34;&gt;2:36:03&lt;/a&gt; Manage your Hugo website with external content and assets (Lightning Talk) - Elio Struyf&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=9894s&#34;&gt;2:44:54&lt;/a&gt; How to create a Hugo theme from scratch (Workshop) - Berkay Çubuk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=11967s&#34;&gt;3:19:27&lt;/a&gt; (Intermission?) Chat: Food Question: Sunday Brunch&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=12561s&#34;&gt;3:29:21&lt;/a&gt; Portfolio Power-Up: Elevate Your Technical Brand with Hugo (Workshop) - Liz Miller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=15870s&#34;&gt;4:24:30&lt;/a&gt; (Intermission?) Chat: Culture&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=16194s&#34;&gt;4:29:54&lt;/a&gt; Improving Access to 4M U.S. Laws with Hugo (Tech Talk) - John Phamvan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=17661s&#34;&gt;4:54:21&lt;/a&gt; Enhancing Website Search: A Practical Journey with PaperCut, Algolia, &amp;amp; Hugo (Lightning Talk) - Grayson Campbell and Alysha Nolan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=18518s&#34;&gt;5:08:38&lt;/a&gt; From blog to small business with Hugo (Lightning Talk) - Kendra Little&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=19341s&#34;&gt;5:22:21&lt;/a&gt; Static Search on Hugo — The Journey to Pagefind v1.0 (Tech Talk) - Liam Bigelow&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=21306s&#34;&gt;5:55:06&lt;/a&gt; Using Markdown render hooks with Hugo (Lightning Talk) - Christian Oliff&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=22157s&#34;&gt;6:09:17&lt;/a&gt; How to Turn a Hugo Website into a PWA for better user engagement (Tech Talk) - Vishakha Sawra&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=23980s&#34;&gt;6:39:40&lt;/a&gt; Use of The Good Docs Project content Templates as Archetypes in Hugo (Lightning Talk) - Bryan Klein&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=24862s&#34;&gt;6:54:22&lt;/a&gt; Introducing HUGE, a Hugo framework (Tech Talk) - Régis Philibert&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=26558s&#34;&gt;7:22:38&lt;/a&gt; Chat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=26690s&#34;&gt;7:24:50&lt;/a&gt; Collaborative Web Building: PaperCut&amp;rsquo;s Experience with Hugo, CloudCannon, and Bookshop (Lightning Talk) - Rachel Uberti and Sanjay Jayaprakash&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=27089s&#34;&gt;7:31:29&lt;/a&gt; Building your portfolio with Hugo (Tech Talk) - Haimantika Mitra&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=28233s&#34;&gt;7:50:33&lt;/a&gt; Wrapping up HugoConf 2023 (Final Thoughts) - Mike Neumegen and David Large&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Creating the Hugo theme from scratch starts at &lt;a href=&#34;https://www.youtube.com/watch?v=OTclpTZq-S4&amp;amp;t=9894s&#34;&gt;2:44:54&lt;/a&gt;. Maybe if I have the time to spare, I&amp;rsquo;ll watch the whole thing.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-327"><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=9894s">How to create a Hugo theme from scratch</a></h3>
-<style>
-.favicon-327 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Watch this 8 hour long stream of HugoConf in September 2023. Below are the timestamps:</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=5425s">1:30:25</a> Welcome to HugoConf 2023! - Mike Neumegen</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=6042s">1:40:42</a> Learn how to contribute effectively to the Hugo project (without code) (Interview) - Joe Mooring</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=7863s">2:11:03</a> Automated migration at cale: Migrate to Hugo from any existing site (Lightning Talk) - George Phillips</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=8780s">2:26:20</a> Hugobricks — stackable content blocks for Hugo (Lightning Talk) - Joost van der Schee</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=9363s">2:36:03</a> Manage your Hugo website with external content and assets (Lightning Talk) - Elio Struyf</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=9894s">2:44:54</a> How to create a Hugo theme from scratch (Workshop) - Berkay Çubuk</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=11967s">3:19:27</a> (Intermission?) Chat: Food Question: Sunday Brunch</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=12561s">3:29:21</a> Portfolio Power-Up: Elevate Your Technical Brand with Hugo (Workshop) - Liz Miller</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=15870s">4:24:30</a> (Intermission?) Chat: Culture</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=16194s">4:29:54</a> Improving Access to 4M U.S. Laws with Hugo (Tech Talk) - John Phamvan</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=17661s">4:54:21</a> Enhancing Website Search: A Practical Journey with PaperCut, Algolia, &amp; Hugo (Lightning Talk) - Grayson Campbell and Alysha Nolan</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=18518s">5:08:38</a> From blog to small business with Hugo (Lightning Talk) - Kendra Little</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=19341s">5:22:21</a> Static Search on Hugo — The Journey to Pagefind v1.0 (Tech Talk) - Liam Bigelow</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=21306s">5:55:06</a> Using Markdown render hooks with Hugo (Lightning Talk) - Christian Oliff</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=22157s">6:09:17</a> How to Turn a Hugo Website into a PWA for better user engagement (Tech Talk) - Vishakha Sawra</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=23980s">6:39:40</a> Use of The Good Docs Project content Templates as Archetypes in Hugo (Lightning Talk) - Bryan Klein</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=24862s">6:54:22</a> Introducing HUGE, a Hugo framework (Tech Talk) - Régis Philibert</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=26558s">7:22:38</a> Chat</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=26690s">7:24:50</a> Collaborative Web Building: PaperCut&rsquo;s Experience with Hugo, CloudCannon, and Bookshop (Lightning Talk) - Rachel Uberti and Sanjay Jayaprakash</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=27089s">7:31:29</a> Building your portfolio with Hugo (Tech Talk) - Haimantika Mitra</li>
-<li><a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=28233s">7:50:33</a> Wrapping up HugoConf 2023 (Final Thoughts) - Mike Neumegen and David Large</li>
-</ul>
-</blockquote>
-  
-<div class="linkding-notes">
-    Creating the Hugo theme from scratch starts at <a href="https://www.youtube.com/watch?v=OTclpTZq-S4&amp;t=9894s">2:44:54</a>. Maybe if I have the time to spare, I&rsquo;ll watch the whole thing.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH4EQ8V1QFV385JFF6TP2GF2</title>
-      <link>https://deuts.org/x/2025-01-09-10-36-29-01jh4eq8v1qfv385jff6tp2gf2/</link>
-      <pubDate>Thu, 09 Jan 2025 10:36:29 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-10-36-29-01jh4eq8v1qfv385jff6tp2gf2/</guid>
-      <description>&lt;p&gt;Here are some of the great &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Gallery&#34;&gt;#Gallery&lt;/a&gt; themes for &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;%5Bgithub.com/%E2%88%9E%5D(https://github.com/nicokaiser/hugo-theme-gallery)&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;%5Bgithub.com/%E2%88%9E%5D(https://github.com/bep/galleriesdeluxe)&#34;&gt;Galleries Deluxe&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Leaving this here for my future reference.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Here are some of the great <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Gallery">#Gallery</a> themes for <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a>:</p>
-<ol>
-<li><a href="%5Bgithub.com/%E2%88%9E%5D(https://github.com/nicokaiser/hugo-theme-gallery)">Gallery</a></li>
-<li><a href="%5Bgithub.com/%E2%88%9E%5D(https://github.com/bep/galleriesdeluxe)">Galleries Deluxe</a></li>
-</ol>
-<p>Leaving this here for my future reference.</p>
 ]]></content:encoded>
     </item>
   </channel>
