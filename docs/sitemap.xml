@@ -19,8 +19,6 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/search/</loc>
-  </url><url>
     <loc>https://deuts.org/x/2025-01-10-23-05-03-01jh8byn2kg45ghx8yvktqxcjg/</loc>
     <lastmod>2025-01-10T23:05:03+08:00</lastmod>
   </url><url>
@@ -2323,5 +2321,7 @@
     <lastmod>2022-10-06T13:01:14+01:00</lastmod>
   </url><url>
     <loc>https://deuts.org/l/all/</loc>
+  </url><url>
+    <loc>https://deuts.org/search/</loc>
   </url>
 </urlset>
