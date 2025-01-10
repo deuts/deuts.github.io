@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 13:04:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 14:15:42 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JH7DNBZVMK80NK0A9EYYCCXZ</title>
+      <link>https://deuts.org/x/2025-01-10-14-15-42-01jh7dnbzvmk80nk0a9eyyccxz/</link>
+      <pubDate>Fri, 10 Jan 2025 14:15:42 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-10-14-15-42-01jh7dnbzvmk80nk0a9eyyccxz/</guid>
+      <description>&lt;p&gt;The Fediverse Explorer appears to be behind a basic authentication now? Why? &lt;a href=&#34;https://stefanbohacek.online/@stefan&#34;&gt;@stefan&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The Fediverse Explorer appears to be behind a basic authentication now? Why? <a href="https://stefanbohacek.online/@stefan">@stefan</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JH79KW73PD7R0G6RSX861P84</title>
       <link>https://deuts.org/x/2025-01-10-13-04-59-01jh79kw73pd7r0g6rsx861p84/</link>
@@ -231,15 +240,6 @@
       <guid>https://deuts.org/x/2025-01-09-09-38-25-01jh4bcxx4hga5nvpsh899p24m/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@geoff_eg&#34;&gt;@geoff_eg&lt;/a&gt; &lt;a href=&#34;https://cosocial.ca/@virtuous_sloth&#34;&gt;@virtuous_sloth&lt;/a&gt; oh I thought you were selling photos on &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Smugmug&#34;&gt;#Smugmug&lt;/a&gt;. For a photography portfolio and blog site, &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt; is a great choice. Rendering pages in Hugo only takes a zippy &amp;ndash; like 1000 pages inclusive of tags and pagination pages in less than 1 second. You just need to be brave enough to face the terminal.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://mastodon.social/@geoff_eg">@geoff_eg</a> <a href="https://cosocial.ca/@virtuous_sloth">@virtuous_sloth</a> oh I thought you were selling photos on <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Smugmug">#Smugmug</a>. For a photography portfolio and blog site, <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a> is a great choice. Rendering pages in Hugo only takes a zippy &ndash; like 1000 pages inclusive of tags and pagination pages in less than 1 second. You just need to be brave enough to face the terminal.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH49W6MZ4Q13RRS7VRBRBJ87</title>
-      <link>https://deuts.org/x/2025-01-09-09-11-48-01jh49w6mz4q13rrs7vrbrbj87/</link>
-      <pubDate>Thu, 09 Jan 2025 09:11:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-09-09-11-48-01jh49w6mz4q13rrs7vrbrbj87/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@solicitor&#34;&gt;@solicitor&lt;/a&gt; &lt;a href=&#34;https://floss.social/@bart&#34;&gt;@bart&lt;/a&gt; If I make use of &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; to help with my python scripts, I don&amp;rsquo;t see a problem with it not being &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=opensource&#34;&gt;#opensource&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@solicitor">@solicitor</a> <a href="https://floss.social/@bart">@bart</a> If I make use of <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT">#ChatGPT</a> to help with my python scripts, I don&rsquo;t see a problem with it not being <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=opensource">#opensource</a>.</p>
 ]]></content:encoded>
     </item>
   </channel>
