@@ -88,6 +88,10 @@ article.asides-single .asides-post-date {
     flex: 1; /* Occupies remaining space */
 }
 
+.asides-content p {
+    margin-bottom: 1.2em;
+}
+
 .asides-content a {
     text-decoration: underline;
 }
