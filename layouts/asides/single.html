@@ -1,6 +1,50 @@
 {{- define "main" }}
 
+{{/* LEAVING THIS HERE FOR FUTURE REFERENCE
 {{- $lastDate := "" -}} 
-{{ partial "asides-article.html" (dict "lastDate" $lastDate "page" .) }}
+{{ partial "asides-article.html" (dict ".lastDate" $lastDate "page" .) }}
+*/}}
+
+{{ $asideType := .Page.Params.aside_type }}
+
+<article class="asides-post {{ $asideType }}-post {{ $asideType }}-single asides-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="{{ $asideType }}-title">
+      {{ if eq $asideType "bluesky" }}
+        <a href="https://bsky.app/profile/deuts.hamili.net">@deuts.hamili.net</a>
+      {{ else if eq $asideType "linkding" }}
+        <a href="https://bm.deuts.org">bm.deuts.org</a>
+      {{ else if eq $asideType "gotosocial" }}
+        <a href="https://deuts.one/@deuts">@deuts@deuts.one</a>
+      {{ end }}
+    </h1>
+  </header>
+  
+  <div class="asides-post-date">{{ .Date.Format "January 2, 2006" }}</div>
+  <div class="{{ $asideType }}-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="{{ .Date }}">{{ .Date.Format "15:04" }}</span>
+    </div>
+    <div class="{{ $asideType }}-content asides-content">
+      {{ .Content }}
+      <div class="{{ $asideType }}-footer asides-footer">
+        {{ if eq $asideType "bluesky" }}
+          <a href="{{ .Params.link }}" aria-label="Link to bsky">{{ .Params.atpid }}</a>
+        {{ else if eq $asideType "linkding" }}
+          <a href="https://bm.deuts.org/bookmarks/shared?details={{ .Params.ld_id }}" class="ld-backlink">BM{{ .Params.ld_id }}</a>
+          {{ if .Params.ld_tags }}
+            {{ $tagsLength := len .Params.ld_tags }}
+            {{ range $index, $tag := .Params.ld_tags }}
+              <a href="/k/{{ lower $tag }}/">{{ $tag }}</a>{{ if ne $index (sub $tagsLength 1) }},{{ end }}
+            {{ end }}
+          {{ end }}
+        {{ else if eq $asideType "gotosocial" }}
+          <a href="{{ .Params.link }}" aria-label="Link to gotosocial">{{ .Params.gtsid }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</article>
 
 {{- end }}
