@@ -21,12 +21,12 @@
 {{- $pages := union .RegularPages .Sections }}
 {{- $paginator := .Paginate $pages }}
 
-{{- $lastDate := "" -}} {{/*Added by Deuts*/}}
+{{- $lastDate := "" -}} 
 {{- range $index, $page := $paginator.Pages }}
 
 {{ $asideType := .Page.Params.aside_type }}
 
-{{- $currentDate := .Date.Format "2006-01-02" -}} {{/*Added by Deuts*/}}
+{{- $currentDate := .Date.Format "2006-01-02" -}} 
 
 <article class="asides-post {{ $asideType }}-post {{ $asideType }}-list asides-list">
   {{- if ne $currentDate $lastDate }}
