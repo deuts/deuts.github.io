@@ -141,6 +141,44 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Monetr budgeting application</title>
+      <link>https://deuts.org/x/336-monetr-budgeting-application/</link>
+      <pubDate>Sat, 11 Jan 2025 01:01:10 +0800</pubDate>
+      <guid>https://deuts.org/x/336-monetr-budgeting-application/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-336&#34;&gt;&lt;a href=&#34;https://github.com/monetr/monetr&#34;&gt;Monetr budgeting application&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-336 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Monetr is a budgeting application that aims to make it easier for people to budget around recurring expenses. While making it absolutely clear how much you have left over to budget or use for other unplanned spending. It is based off of the now defunct Simple. It is also completely free to self-host.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I&amp;rsquo;m not sure if this is a direct competitor to Actual Budget, but looking at the sample compose file, you need to run 3 Docker images for this app, vs. Actual&amp;rsquo;s 1 only. So, I choose Actual.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-336"><a href="https://github.com/monetr/monetr">Monetr budgeting application</a></h3>
+<style>
+.favicon-336 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Monetr is a budgeting application that aims to make it easier for people to budget around recurring expenses. While making it absolutely clear how much you have left over to budget or use for other unplanned spending. It is based off of the now defunct Simple. It is also completely free to self-host.
+</blockquote>
+  
+<div class="linkding-notes">
+    I&rsquo;m not sure if this is a direct competitor to Actual Budget, but looking at the sample compose file, you need to run 3 Docker images for this app, vs. Actual&rsquo;s 1 only. So, I choose Actual.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Sink URL Shortener</title>
       <link>https://deuts.org/x/335-sink-url-shortener/</link>
       <pubDate>Sat, 11 Jan 2025 00:55:44 +0800</pubDate>
@@ -193,44 +231,6 @@
       <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=CaddyGen">#CaddyGen</a> is a user-friendly web interface for generating <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Caddy">#Caddy</a> server configurations. <a href="https://github.com/DeanWard/CaddyGen">github.com/∞</a></p>
 <p>I thought the UI makes you manage various caddy configurations for different domains/subdomains in your server. I thought I can retire now my little  <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UpCaddy">#UpCaddy</a> project: <a href="https://github.com/deuts/upcaddy">github.com/∞</a></p>
 <p>No, the UI is for generating caddy configurations based on presets.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>CaddyGen - Caddy Config Generator</title>
-      <link>https://deuts.org/x/332-caddygen-caddy-config-generator/</link>
-      <pubDate>Sat, 11 Jan 2025 00:15:52 +0800</pubDate>
-      <guid>https://deuts.org/x/332-caddygen-caddy-config-generator/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-332&#34;&gt;&lt;a href=&#34;https://github.com/DeanWard/CaddyGen&#34;&gt;CaddyGen - Caddy Config Generator&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-332 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    CaddyGen is a user-friendly web interface for generating Caddy server configurations. Easily create and manage reverse proxy and file server configurations with support for SSL, compression, security headers, and more.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is a Caddy config generator based on presets. No, the UI is not about managing your various Caddy configurations.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-332"><a href="https://github.com/DeanWard/CaddyGen">CaddyGen - Caddy Config Generator</a></h3>
-<style>
-.favicon-332 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    CaddyGen is a user-friendly web interface for generating Caddy server configurations. Easily create and manage reverse proxy and file server configurations with support for SSL, compression, security headers, and more.
-</blockquote>
-  
-<div class="linkding-notes">
-    This is a Caddy config generator based on presets. No, the UI is not about managing your various Caddy configurations.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
