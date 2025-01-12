@@ -16,22 +16,34 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/actual/</loc>
+    <lastmod>2025-01-12T23:55:04+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/341-actualpy/</loc>
     <lastmod>2025-01-12T23:55:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
     <lastmod>2025-01-12T23:55:04+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/budgeting/</loc>
+    <lastmod>2025-01-12T23:55:04+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-12T23:55:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-01-12T23:55:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2025-01-12T23:55:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-12T23:55:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-12-20-27-20-01jhd7q96smkjhcacaezvs1v8d/</loc>
     <lastmod>2025-01-12T20:27:20+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/monitor/</loc>
-    <lastmod>2025-01-12T00:37:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-12T00:37:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/337-using-beszel-to-monitor-windows/</loc>
@@ -707,9 +719,6 @@
     <lastmod>2024-12-15T15:20:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/293-markitdown/</loc>
-    <lastmod>2024-12-15T15:20:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/python/</loc>
     <lastmod>2024-12-15T15:20:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2024-12-15-15-10-3lddb2k5mas2r/</loc>
@@ -1501,14 +1510,8 @@
     <loc>https://deuts.org/x/197-github-ellite-wallos-wallos-open-source-personal-subscription-tracker/</loc>
     <lastmod>2024-09-28T21:49:44+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2024-09-28T21:49:44+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/196-github-ajb3932-simple-wishlist-a-simple-self-hosted-wishlist/</loc>
     <lastmod>2024-09-27T21:32:36+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/budgeting/</loc>
-    <lastmod>2024-09-27T21:24:05+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/195-github-cioraneanu-firefly-pico-a-delightful-firefly-iii-companion-web-app-for-effortless-transaction-tracking/</loc>
     <lastmod>2024-09-27T21:24:05+08:00</lastmod>
