@@ -7,8 +7,50 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 20:27:20 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 23:55:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ActualPy</title>
+      <link>https://deuts.org/x/341-actualpy/</link>
+      <pubDate>Sun, 12 Jan 2025 23:55:04 +0800</pubDate>
+      <guid>https://deuts.org/x/341-actualpy/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-341&#34;&gt;&lt;a href=&#34;https://github.com/bvanelli/actualpy&#34;&gt;ActualPy&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-341 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Python API implementation for Actual server.&lt;/p&gt;
+&lt;p&gt;Actual Budget is a superfast and privacy-focused app for managing your finances.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Now that I&amp;rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-341"><a href="https://github.com/bvanelli/actualpy">ActualPy</a></h3>
+<style>
+.favicon-341 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Python API implementation for Actual server.</p>
+<p>Actual Budget is a superfast and privacy-focused app for managing your finances.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    Now that I&rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JHD7Q96SMKJHCACAEZVS1V8D</title>
       <link>https://deuts.org/x/2025-01-12-20-27-20-01jhd7q96smkjhcacaezvs1v8d/</link>
@@ -218,19 +260,6 @@
 
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH8GAADG9ASZ59959T5Q7FR6</title>
-      <link>https://deuts.org/x/2025-01-11-00-21-20-01jh8gaadg9asz59959t5q7fr6/</link>
-      <pubDate>Sat, 11 Jan 2025 00:21:20 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-11-00-21-20-01jh8gaadg9asz59959t5q7fr6/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=CaddyGen&#34;&gt;#CaddyGen&lt;/a&gt; is a user-friendly web interface for generating &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Caddy&#34;&gt;#Caddy&lt;/a&gt; server configurations. &lt;a href=&#34;https://github.com/DeanWard/CaddyGen&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I thought the UI makes you manage various caddy configurations for different domains/subdomains in your server. I thought I can retire now my little  &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=UpCaddy&#34;&gt;#UpCaddy&lt;/a&gt; project: &lt;a href=&#34;https://github.com/deuts/upcaddy&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;No, the UI is for generating caddy configurations based on presets.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=CaddyGen">#CaddyGen</a> is a user-friendly web interface for generating <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Caddy">#Caddy</a> server configurations. <a href="https://github.com/DeanWard/CaddyGen">github.com/∞</a></p>
-<p>I thought the UI makes you manage various caddy configurations for different domains/subdomains in your server. I thought I can retire now my little  <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=UpCaddy">#UpCaddy</a> project: <a href="https://github.com/deuts/upcaddy">github.com/∞</a></p>
-<p>No, the UI is for generating caddy configurations based on presets.</p>
 ]]></content:encoded>
     </item>
   </channel>
