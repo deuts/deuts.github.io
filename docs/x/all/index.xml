@@ -7,8 +7,23 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 00:37:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 20:10:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JHD6QHQJ727MN3A8PPA8GKHX</title>
+      <link>https://deuts.org/x/2025-01-12-20-10-00-01jhd6qhqj727mn3a8ppa8gkhx/</link>
+      <pubDate>Sun, 12 Jan 2025 20:10:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-12-20-10-00-01jhd6qhqj727mn3a8ppa8gkhx/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessAI&#34;&gt;#PaperlessAI&lt;/a&gt; vs. &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessGPT&#34;&gt;#PaperlessGPT&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- paperless-ai&lt;/strong&gt; leans toward doc-based AI chat, letting you converse with your documents.
+&lt;strong&gt;- paperless-gpt&lt;/strong&gt; focuses on &lt;strong&gt;LLM-based OCR&lt;/strong&gt; (for more accurate scanning of messy or low-quality docs) and a robust pipeline for auto-generating titles/tags.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1hxediz/paperlessgpt_yet_another_paperlessngx_ai/&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessAI">#PaperlessAI</a> vs. <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessGPT">#PaperlessGPT</a>:</p>
+<p><strong>- paperless-ai</strong> leans toward doc-based AI chat, letting you converse with your documents.
+<strong>- paperless-gpt</strong> focuses on <strong>LLM-based OCR</strong> (for more accurate scanning of messy or low-quality docs) and a robust pipeline for auto-generating titles/tags.</p>
+<p><a href="https://www.reddit.com/r/selfhosted/comments/1hxediz/paperlessgpt_yet_another_paperlessngx_ai/">www.reddit.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Using Beszel to monitor Windows</title>
       <link>https://deuts.org/x/337-using-beszel-to-monitor-windows/</link>
@@ -210,15 +225,6 @@
     This is a Caddy config generator based on presets. No, the UI is not about managing your various Caddy configurations.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH8F577G2V5XXZ5MZY0D30GS</title>
-      <link>https://deuts.org/x/2025-01-11-00-01-04-01jh8f577g2v5xxz5mzy0d30gs/</link>
-      <pubDate>Sat, 11 Jan 2025 00:01:04 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-11-00-01-04-01jh8f577g2v5xxz5mzy0d30gs/</guid>
-      <description>&lt;p&gt;You mean there&amp;rsquo;s this lightweight alternative to &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Bitwarden&#34;&gt;#Bitwarden&lt;/a&gt; / &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Vaultwarden&#34;&gt;#Vaultwarden&lt;/a&gt;, an app called &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=AliasVault&#34;&gt;#AliasVault&lt;/a&gt;? &lt;a href=&#34;https://github.com/lanedirt/AliasVault&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>You mean there&rsquo;s this lightweight alternative to <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Bitwarden">#Bitwarden</a> / <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Vaultwarden">#Vaultwarden</a>, an app called <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=AliasVault">#AliasVault</a>? <a href="https://github.com/lanedirt/AliasVault">github.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
