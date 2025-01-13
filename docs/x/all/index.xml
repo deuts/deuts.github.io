@@ -14,8 +14,8 @@
       <link>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</link>
       <pubDate>Mon, 13 Jan 2025 20:34:34 +0800</pubDate>
       <guid>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Python&#34;&gt;#Python&lt;/a&gt; is truly incredible! While I&amp;rsquo;m not a programmer, &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; has empowered me to run scripts using various API endpoints—things I never thought were possible before.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Python">#Python</a> is truly incredible! While I&rsquo;m not a programmer, <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT">#ChatGPT</a> has empowered me to run scripts using various API endpoints—things I never thought were possible before.</p>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Python&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2Python&#34;&gt;#Python&lt;/a&gt; is truly incredible! While I&amp;rsquo;m not a programmer, &lt;a href=&#34;https://fediwall.social/?tags=ChatGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; has empowered me to run scripts using various API endpoints—things I never thought were possible before.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Python&amp;accounts=&amp;lang=en&amp;title=%2Python">#Python</a> is truly incredible! While I&rsquo;m not a programmer, <a href="https://fediwall.social/?tags=ChatGPT&amp;accounts=&amp;lang=en&amp;title=%2ChatGPT">#ChatGPT</a> has empowered me to run scripts using various API endpoints—things I never thought were possible before.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -183,20 +183,20 @@
       <link>https://deuts.org/x/2025-01-12-20-27-20-01jhd7q96smkjhcacaezvs1v8d/</link>
       <pubDate>Sun, 12 Jan 2025 20:27:20 +0800</pubDate>
       <guid>https://deuts.org/x/2025-01-12-20-27-20-01jhd7q96smkjhcacaezvs1v8d/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessAI&#34;&gt;#PaperlessAI&lt;/a&gt; vs. &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessGPT&#34;&gt;#PaperlessGPT&lt;/a&gt;:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=PaperlessAI&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2PaperlessAI&#34;&gt;#PaperlessAI&lt;/a&gt; vs. &lt;a href=&#34;https://fediwall.social/?tags=PaperlessGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2PaperlessGPT&#34;&gt;#PaperlessGPT&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Paperless-AI&lt;/strong&gt; leans toward doc-based AI chat, letting you converse with your documents.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Paperless-GPT&lt;/strong&gt; focuses on &lt;strong&gt;LLM-based OCR&lt;/strong&gt; (for more accurate scanning of messy or low-quality docs) and a robust pipeline for auto-generating titles/tags.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/1hxediz/paperlessgpt_yet_another_paperlessngx_ai/&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Paperless&#34;&gt;#Paperless&lt;/a&gt; &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessNGX&#34;&gt;#PaperlessNGX&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessAI">#PaperlessAI</a> vs. <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessGPT">#PaperlessGPT</a>:</p>
+&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Paperless&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2Paperless&#34;&gt;#Paperless&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=PaperlessNGX&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2PaperlessNGX&#34;&gt;#PaperlessNGX&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=PaperlessAI&amp;accounts=&amp;lang=en&amp;title=%2PaperlessAI">#PaperlessAI</a> vs. <a href="https://fediwall.social/?tags=PaperlessGPT&amp;accounts=&amp;lang=en&amp;title=%2PaperlessGPT">#PaperlessGPT</a>:</p>
 <ul>
 <li><strong>Paperless-AI</strong> leans toward doc-based AI chat, letting you converse with your documents.</li>
 <li><strong>Paperless-GPT</strong> focuses on <strong>LLM-based OCR</strong> (for more accurate scanning of messy or low-quality docs) and a robust pipeline for auto-generating titles/tags.</li>
 </ul>
 <p><a href="https://www.reddit.com/r/selfhosted/comments/1hxediz/paperlessgpt_yet_another_paperlessngx_ai/">www.reddit.com/∞</a></p>
-<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Paperless">#Paperless</a> <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=PaperlessNGX">#PaperlessNGX</a></p>
+<p><a href="https://fediwall.social/?tags=Paperless&amp;accounts=&amp;lang=en&amp;title=%2Paperless">#Paperless</a> <a href="https://fediwall.social/?tags=PaperlessNGX&amp;accounts=&amp;lang=en&amp;title=%2PaperlessNGX">#PaperlessNGX</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -251,8 +251,8 @@
       <link>https://deuts.org/x/2025-01-12-00-27-32-01jhb32d5m9e0nvv2wz9fhy3rh/</link>
       <pubDate>Sun, 12 Jan 2025 00:27:32 +0800</pubDate>
       <guid>https://deuts.org/x/2025-01-12-00-27-32-01jhb32d5m9e0nvv2wz9fhy3rh/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@aakashweb&#34;&gt;@aakashweb&lt;/a&gt; Whoa! This is interesting. Didn&amp;rsquo;t know this &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress&#34;&gt;#WordPress&lt;/a&gt; plugin exists before. Would have given it a spin had I learned sooner.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@aakashweb">@aakashweb</a> Whoa! This is interesting. Didn&rsquo;t know this <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress">#WordPress</a> plugin exists before. Would have given it a spin had I learned sooner.</p>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@aakashweb&#34;&gt;@aakashweb&lt;/a&gt; Whoa! This is interesting. Didn&amp;rsquo;t know this &lt;a href=&#34;https://fediwall.social/?tags=WordPress&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%2WordPress&#34;&gt;#WordPress&lt;/a&gt; plugin exists before. Would have given it a spin had I learned sooner.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@aakashweb">@aakashweb</a> Whoa! This is interesting. Didn&rsquo;t know this <a href="https://fediwall.social/?tags=WordPress&amp;accounts=&amp;lang=en&amp;title=%2WordPress">#WordPress</a> plugin exists before. Would have given it a spin had I learned sooner.</p>
 ]]></content:encoded>
     </item>
     <item>
