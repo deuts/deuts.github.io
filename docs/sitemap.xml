@@ -16,13 +16,22 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/activitypub/</loc>
+    <lastmod>2025-01-14T00:30:36+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
     <lastmod>2025-01-14T00:30:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
     <lastmod>2025-01-14T00:30:36+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-01-14T00:30:36+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/354-fediwall/</loc>
+    <lastmod>2025-01-14T00:30:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-14T00:30:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</loc>
@@ -41,9 +50,6 @@
     <lastmod>2025-01-13T10:35:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/caddy/</loc>
-    <lastmod>2025-01-13T07:40:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-13T07:40:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</loc>
@@ -123,12 +129,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-01-10-22-11-32-01jh88wn7g4xea6rrf5kxt8vjx/</loc>
     <lastmod>2025-01-10T22:11:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/activitypub/</loc>
-    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2025-01-10T20:47:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/pixelfed/</loc>
     <lastmod>2025-01-10T20:47:58+08:00</lastmod>
