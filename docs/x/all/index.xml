@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 13 Jan 2025 10:35:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 20:34:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JHFTH8TPFFX3A8SFVNFFNSXK</title>
+      <link>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</link>
+      <pubDate>Mon, 13 Jan 2025 20:34:34 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Python&#34;&gt;#Python&lt;/a&gt; is truly incredible! While I&amp;rsquo;m not a programmer, &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; has empowered me to run scripts using various API endpoints—things I never thought were possible before.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Python">#Python</a> is truly incredible! While I&rsquo;m not a programmer, <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=ChatGPT">#ChatGPT</a> has empowered me to run scripts using various API endpoints—things I never thought were possible before.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</title>
       <link>https://deuts.org/x/345-matt-mullenweg-deactivates-wordpress-contributor-accounts-over-alleged-fork-plans/</link>
@@ -280,15 +289,6 @@
     Interesting. I just discovered this today. Would have already taken it to a spin had I learned it sooner.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHAA0FNFDS9CV8SY8GDPV4BC</title>
-      <link>https://deuts.org/x/2025-01-11-17-09-35-01jhaa0fnfds9cv8sy8gdpv4bc/</link>
-      <pubDate>Sat, 11 Jan 2025 17:09:35 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-11-17-09-35-01jhaa0fnfds9cv8sy8gdpv4bc/</guid>
-      <description>&lt;p&gt;I think I&amp;rsquo;m done with &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress&#34;&gt;#WordPress&lt;/a&gt;. The drama never stops. Besides, I&amp;rsquo;m really starting to loving Hugo, and if coupled with &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Python&#34;&gt;#Python&lt;/a&gt; and some bash scripts, I think they are perfect &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I think I&rsquo;m done with <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress">#WordPress</a>. The drama never stops. Besides, I&rsquo;m really starting to loving Hugo, and if coupled with <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Python">#Python</a> and some bash scripts, I think they are perfect <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a></p>
 ]]></content:encoded>
     </item>
   </channel>
