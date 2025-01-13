@@ -54,7 +54,7 @@ def format_status_content(content):
     # Convert hashtags to markdown links without escaping the #
     content = re.sub(
         r"#(\w+)",  # Match hashtags
-        r"[#\1](https://fediwall.social/?tags=\1&accounts=&lang=en&title=%2\1)",  # Format as a markdown link
+        r"[#\1](https://fediwall.social/?tags=\1&accounts=&lang=en&title=%23\1)",  # Format as a markdown link
         #https://fediwall.social/?tags=python&accounts=&lang=en&title=%23python
         content,
     )
