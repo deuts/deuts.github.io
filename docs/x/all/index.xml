@@ -7,8 +7,84 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 23:55:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:35:09 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</title>
+      <link>https://deuts.org/x/345-matt-mullenweg-deactivates-wordpress-contributor-accounts-over-alleged-fork-plans/</link>
+      <pubDate>Mon, 13 Jan 2025 10:35:09 +0800</pubDate>
+      <guid>https://deuts.org/x/345-matt-mullenweg-deactivates-wordpress-contributor-accounts-over-alleged-fork-plans/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-345&#34;&gt;&lt;a href=&#34;https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/&#34;&gt;Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-345 {
+    background: url(&#39;https://bm.deuts.org/static/https_techcrunch_com.jpg&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Matt Mullenweg, CEO of Automattic, deactivated the accounts of several WordPress.org community members, including Joost de Valk and Karim Marucchi, amid ongoing tensions over WordPress governance. This followed public criticism of WP Engine and discussions on creating federated repositories, though de Valk and Marucchi denied plans to fork WordPress. Mullenweg&amp;rsquo;s actions were seen as targeting those questioning WordPress&amp;rsquo;s leadership, but the code remains accessible for forking via GitHub.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    The saga continues!
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-345"><a href="https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/">Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</a></h3>
+<style>
+.favicon-345 {
+    background: url('https://bm.deuts.org/static/https_techcrunch_com.jpg') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Matt Mullenweg, CEO of Automattic, deactivated the accounts of several WordPress.org community members, including Joost de Valk and Karim Marucchi, amid ongoing tensions over WordPress governance. This followed public criticism of WP Engine and discussions on creating federated repositories, though de Valk and Marucchi denied plans to fork WordPress. Mullenweg&rsquo;s actions were seen as targeting those questioning WordPress&rsquo;s leadership, but the code remains accessible for forking via GitHub.
+</blockquote>
+  
+<div class="linkding-notes">
+    The saga continues!
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>The Ultimate Guide to Setting Up Traefik</title>
+      <link>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</link>
+      <pubDate>Mon, 13 Jan 2025 07:40:41 +0800</pubDate>
+      <guid>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-343&#34;&gt;&lt;a href=&#34;https://svenvg93.github.io/posts/ultimate-treafik-guide/&#34;&gt;The Ultimate Guide to Setting Up Traefik&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-343 {
+    background: url(&#39;https://bm.deuts.org/static/https_svenvg93_github_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Master the art of deploying Traefik in your environment. This comprehensive guide covers everything from installation to advanced configuration for seamless traffic management in your homelab.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I&amp;rsquo;m a Caddy guy, but leaving this here for future reference. Maybe I&amp;rsquo;ll encounter a situation that I may need to deploy Traefik instead in the future.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-343"><a href="https://svenvg93.github.io/posts/ultimate-treafik-guide/">The Ultimate Guide to Setting Up Traefik</a></h3>
+<style>
+.favicon-343 {
+    background: url('https://bm.deuts.org/static/https_svenvg93_github_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Master the art of deploying Traefik in your environment. This comprehensive guide covers everything from installation to advanced configuration for seamless traffic management in your homelab.
+</blockquote>
+  
+<div class="linkding-notes">
+    I&rsquo;m a Caddy guy, but leaving this here for future reference. Maybe I&rsquo;ll encounter a situation that I may need to deploy Traefik instead in the future.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>ActualPy</title>
       <link>https://deuts.org/x/341-actualpy/</link>
@@ -30,7 +106,7 @@
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
     &lt;p&gt;Now that I&amp;rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.&lt;/p&gt;
-&lt;p&gt;Make sure to read ActualPy &lt;a href=&#34;https://actualpy.readthedocs.io/en/latest/command-line-interface/&#34;&gt;documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Make sure to read ActualPy &lt;a href=&#34;https://actualpy.readthedocs.io/en/latest/command-line-interface/&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 
 &lt;/div&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-341"><a href="https://github.com/bvanelli/actualpy">ActualPy</a></h3>
@@ -49,7 +125,7 @@
   
 <div class="linkding-notes">
     <p>Now that I&rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.</p>
-<p>Make sure to read ActualPy <a href="https://actualpy.readthedocs.io/en/latest/command-line-interface/">documentation</a></p>
+<p>Make sure to read ActualPy <a href="https://actualpy.readthedocs.io/en/latest/command-line-interface/">documentation</a>.</p>
 
 </div>
   
@@ -213,57 +289,6 @@
       <guid>https://deuts.org/x/2025-01-11-17-09-35-01jhaa0fnfds9cv8sy8gdpv4bc/</guid>
       <description>&lt;p&gt;I think I&amp;rsquo;m done with &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress&#34;&gt;#WordPress&lt;/a&gt;. The drama never stops. Besides, I&amp;rsquo;m really starting to loving Hugo, and if coupled with &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Python&#34;&gt;#Python&lt;/a&gt; and some bash scripts, I think they are perfect &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo&#34;&gt;#GoHugo&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I think I&rsquo;m done with <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=WordPress">#WordPress</a>. The drama never stops. Besides, I&rsquo;m really starting to loving Hugo, and if coupled with <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Python">#Python</a> and some bash scripts, I think they are perfect <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=GoHugo">#GoHugo</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JH9YJH27Q8TR3XQ47RGKFGQF</title>
-      <link>https://deuts.org/x/2025-01-11-13-49-43-01jh9yjh27q8tr3xq47rgkfgqf/</link>
-      <pubDate>Sat, 11 Jan 2025 13:49:43 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-11-13-49-43-01jh9yjh27q8tr3xq47rgkfgqf/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been passionate about photography for over 20 years now. Back in 2006, I invested in my first (and only) &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=DSLR&#34;&gt;#DSLR&lt;/a&gt;, the &lt;a href=&#34;https://fediverse-explorer.stefanbohacek.dev/?tag=Canon&#34;&gt;#Canon&lt;/a&gt; EOS 30D, and went all-in, eventually spending over half a million pesos on lenses and gear. Fast forward to today, and that once-prized collection is now gathering dust in my closet. The rise of smartphone photography and the flood of enthusiasts in the field have slowly pushed my DSLR into early retirement. Half a million pesos, just sitting there—talk about an expensive display of nostalgia!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;ve been passionate about photography for over 20 years now. Back in 2006, I invested in my first (and only) <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=DSLR">#DSLR</a>, the <a href="https://fediverse-explorer.stefanbohacek.dev/?tag=Canon">#Canon</a> EOS 30D, and went all-in, eventually spending over half a million pesos on lenses and gear. Fast forward to today, and that once-prized collection is now gathering dust in my closet. The rise of smartphone photography and the flood of enthusiasts in the field have slowly pushed my DSLR into early retirement. Half a million pesos, just sitting there—talk about an expensive display of nostalgia!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sink URL Shortener</title>
-      <link>https://deuts.org/x/335-sink-url-shortener/</link>
-      <pubDate>Sat, 11 Jan 2025 00:55:44 +0800</pubDate>
-      <guid>https://deuts.org/x/335-sink-url-shortener/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-335&#34;&gt;&lt;a href=&#34;https://github.com/ccbikai/sink&#34;&gt;Sink URL Shortener&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-335 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple, speedy, and secure link shortener with analytics, 100% run on Cloudflare.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;About 2 years ago, I&amp;rsquo;ve been looking for a good self-hosted URL shortener/Bitly alternative. YOURLS was the only one around. Nowadays, we&amp;rsquo;ll never run out of alternatives.&lt;/p&gt;
-&lt;p&gt;This one looks sleek though, and can be run on Cloudflare.&lt;/p&gt;
-
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-335"><a href="https://github.com/ccbikai/sink">Sink URL Shortener</a></h3>
-<style>
-.favicon-335 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simple, speedy, and secure link shortener with analytics, 100% run on Cloudflare.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>About 2 years ago, I&rsquo;ve been looking for a good self-hosted URL shortener/Bitly alternative. YOURLS was the only one around. Nowadays, we&rsquo;ll never run out of alternatives.</p>
-<p>This one looks sleek though, and can be run on Cloudflare.</p>
-
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
