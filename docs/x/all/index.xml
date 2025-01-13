@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 13 Jan 2025 20:34:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:08:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JHFWETV4P9G1XVK4R5N6EZQR</title>
+      <link>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</link>
+      <pubDate>Mon, 13 Jan 2025 21:08:12 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@mistersql&#34;&gt;@mistersql&lt;/a&gt; Honestly, this is the first time I heard about Claude AI. Thanks for the tip, though. I sure will check it out!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@mistersql">@mistersql</a> Honestly, this is the first time I heard about Claude AI. Thanks for the tip, though. I sure will check it out!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JHFTH8TPFFX3A8SFVNFFNSXK</title>
       <link>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</link>
@@ -253,42 +262,6 @@
       <guid>https://deuts.org/x/2025-01-12-00-27-32-01jhb32d5m9e0nvv2wz9fhy3rh/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@aakashweb&#34;&gt;@aakashweb&lt;/a&gt; Whoa! This is interesting. Didn&amp;rsquo;t know this &lt;a href=&#34;https://fediwall.social/?tags=WordPress&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23WordPress&#34;&gt;#WordPress&lt;/a&gt; plugin exists before. Would have given it a spin had I learned sooner.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://mastodon.social/@aakashweb">@aakashweb</a> Whoa! This is interesting. Didn&rsquo;t know this <a href="https://fediwall.social/?tags=WordPress&amp;accounts=&amp;lang=en&amp;title=%23WordPress">#WordPress</a> plugin exists before. Would have given it a spin had I learned sooner.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Git it Write – Write posts from GitHub – WordPress plugin</title>
-      <link>https://deuts.org/x/339-git-it-write-write-posts-from-github-wordpress-plugin/</link>
-      <pubDate>Sun, 12 Jan 2025 00:20:51 +0800</pubDate>
-      <guid>https://deuts.org/x/339-git-it-write-write-posts-from-github-wordpress-plugin/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-339&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/git-it-write/&#34;&gt;Git it Write – Write posts from GitHub – WordPress plugin&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-339 {
-    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Publish markdown files present in a GitHub repository as posts to WordPress automatically&lt;/p&gt;
-&lt;p&gt;Git it Write allows to publish the markdown files present in a GitHub repository to your WordPress site. So with this plugin, whenever the files are added, updated in the repository the WordPress post will be added, updated accordingly.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-339"><a href="https://wordpress.org/plugins/git-it-write/">Git it Write – Write posts from GitHub – WordPress plugin</a></h3>
-<style>
-.favicon-339 {
-    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Publish markdown files present in a GitHub repository as posts to WordPress automatically</p>
-<p>Git it Write allows to publish the markdown files present in a GitHub repository to your WordPress site. So with this plugin, whenever the files are added, updated in the repository the WordPress post will be added, updated accordingly.</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    Interesting. I just discovered this today. Would have already taken it to a spin had I learned it sooner.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
