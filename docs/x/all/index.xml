@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 13 Jan 2025 21:08:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:30:36 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fediwall</title>
+      <link>https://deuts.org/x/354-fediwall/</link>
+      <pubDate>Tue, 14 Jan 2025 00:30:36 +0800</pubDate>
+      <guid>https://deuts.org/x/354-fediwall/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-354&#34;&gt;&lt;a href=&#34;https://github.com/defnull/fediwall&#34;&gt;Fediwall&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-354 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Social media wall for the Fediverse.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We need to learn how to selfhost this thing.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-354"><a href="https://github.com/defnull/fediwall">Fediwall</a></h3>
+<style>
+.favicon-354 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Social media wall for the Fediverse.
+</blockquote>
+  
+<div class="linkding-notes">
+    We need to learn how to selfhost this thing.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JHFWETV4P9G1XVK4R5N6EZQR</title>
       <link>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</link>
@@ -253,15 +291,6 @@
       <guid>https://deuts.org/x/2025-01-12-00-32-32-01jhb3bj0xh8ggr63y4tr07v7n/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://stefanbohacek.online/@stefan&#34;&gt;@stefan&lt;/a&gt; Thanks! the fediwall.social looks interesting. Gotta try that out soon!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://stefanbohacek.online/@stefan">@stefan</a> Thanks! the fediwall.social looks interesting. Gotta try that out soon!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHB32D5M9E0NVV2WZ9FHY3RH</title>
-      <link>https://deuts.org/x/2025-01-12-00-27-32-01jhb32d5m9e0nvv2wz9fhy3rh/</link>
-      <pubDate>Sun, 12 Jan 2025 00:27:32 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-12-00-27-32-01jhb32d5m9e0nvv2wz9fhy3rh/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@aakashweb&#34;&gt;@aakashweb&lt;/a&gt; Whoa! This is interesting. Didn&amp;rsquo;t know this &lt;a href=&#34;https://fediwall.social/?tags=WordPress&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23WordPress&#34;&gt;#WordPress&lt;/a&gt; plugin exists before. Would have given it a spin had I learned sooner.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@aakashweb">@aakashweb</a> Whoa! This is interesting. Didn&rsquo;t know this <a href="https://fediwall.social/?tags=WordPress&amp;accounts=&amp;lang=en&amp;title=%23WordPress">#WordPress</a> plugin exists before. Would have given it a spin had I learned sooner.</p>
 ]]></content:encoded>
     </item>
   </channel>
