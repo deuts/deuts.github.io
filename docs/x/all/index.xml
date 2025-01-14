@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 14 Jan 2025 00:30:36 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 11:09:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lfobmaofqc2v</title>
+      <link>https://deuts.org/x/2025-01-14-11-09-3lfobmaofqc2v/</link>
+      <pubDate>Tue, 14 Jan 2025 11:09:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-14-11-09-3lfobmaofqc2v/</guid>
+      <description>&lt;p&gt;I have to block a few spam accounts here already on &lt;a href=&#34;https://bsky.app/hashtag/bluesky&#34;&gt;#Bluesky&lt;/a&gt;. Some are even crypto scammers.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I have to block a few spam accounts here already on <a href="https://bsky.app/hashtag/bluesky">#Bluesky</a>. Some are even crypto scammers.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Fediwall</title>
       <link>https://deuts.org/x/354-fediwall/</link>
@@ -282,15 +291,6 @@
     This is one app I really wanted to get up and running to monitor my systems. Unfortunately, my first attempt didn’t go as planned.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHB3BJ0XH8GGR63Y4TR07V7N</title>
-      <link>https://deuts.org/x/2025-01-12-00-32-32-01jhb3bj0xh8ggr63y4tr07v7n/</link>
-      <pubDate>Sun, 12 Jan 2025 00:32:32 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-12-00-32-32-01jhb3bj0xh8ggr63y4tr07v7n/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://stefanbohacek.online/@stefan&#34;&gt;@stefan&lt;/a&gt; Thanks! the fediwall.social looks interesting. Gotta try that out soon!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://stefanbohacek.online/@stefan">@stefan</a> Thanks! the fediwall.social looks interesting. Gotta try that out soon!</p>
 ]]></content:encoded>
     </item>
   </channel>
