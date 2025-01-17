@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 17 Jan 2025 22:53:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 01:07:30 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RTM Todoist Migration</title>
+      <link>https://deuts.org/x/356-rtm-todoist-migration/</link>
+      <pubDate>Sat, 18 Jan 2025 01:07:30 +0800</pubDate>
+      <guid>https://deuts.org/x/356-rtm-todoist-migration/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-356&#34;&gt;&lt;a href=&#34;https://github.com/radiant-tangent/rtm-todoist-migration&#34;&gt;RTM Todoist Migration&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-356 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A utility to help migrate tasks from RememberTheMilk (RTM) to Todoist.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I might have been halfway through there before I stumbled about this repo. Good to know for reference, though.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-356"><a href="https://github.com/radiant-tangent/rtm-todoist-migration">RTM Todoist Migration</a></h3>
+<style>
+.favicon-356 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A utility to help migrate tasks from RememberTheMilk (RTM) to Todoist.
+</blockquote>
+  
+<div class="linkding-notes">
+    I might have been halfway through there before I stumbled about this repo. Good to know for reference, though.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JHTC2BFB93ZR9GB0QBPEV7YF</title>
       <link>https://deuts.org/x/2025-01-17-22-53-24-01jhtc2bfb93zr9gb0qbpev7yf/</link>
@@ -210,52 +248,6 @@
   
 <div class="linkding-notes">
     I&rsquo;m a Caddy guy, but leaving this here for future reference. Maybe I&rsquo;ll encounter a situation that I may need to deploy Traefik instead in the future.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ActualPy</title>
-      <link>https://deuts.org/x/341-actualpy/</link>
-      <pubDate>Sun, 12 Jan 2025 23:55:04 +0800</pubDate>
-      <guid>https://deuts.org/x/341-actualpy/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-341&#34;&gt;&lt;a href=&#34;https://github.com/bvanelli/actualpy&#34;&gt;ActualPy&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-341 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Python API implementation for Actual server.&lt;/p&gt;
-&lt;p&gt;Actual Budget is a superfast and privacy-focused app for managing your finances.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;Now that I&amp;rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.&lt;/p&gt;
-&lt;p&gt;Make sure to read ActualPy &lt;a href=&#34;https://actualpy.readthedocs.io/en/latest/command-line-interface/&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-341"><a href="https://github.com/bvanelli/actualpy">ActualPy</a></h3>
-<style>
-.favicon-341 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Python API implementation for Actual server.</p>
-<p>Actual Budget is a superfast and privacy-focused app for managing your finances.</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>Now that I&rsquo;m learning python, and actually utilizing to deploy posts here, I think I should start learning this as well to get my data from Actual server and try to analyze them.</p>
-<p>Make sure to read ActualPy <a href="https://actualpy.readthedocs.io/en/latest/command-line-interface/">documentation</a>.</p>
-
 </div>
   
 ]]></content:encoded>
