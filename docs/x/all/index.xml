@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 01:07:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 15:23:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EvosHosting Discussion on LowEndTalk</title>
+      <link>https://deuts.org/x/358-evoshosting-discussion-on-lowendtalk/</link>
+      <pubDate>Sat, 18 Jan 2025 15:23:50 +0800</pubDate>
+      <guid>https://deuts.org/x/358-evoshosting-discussion-on-lowendtalk/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-358&#34;&gt;&lt;a href=&#34;https://lowendtalk.com/discussion/197958/evoshosting-review&#34;&gt;EvosHosting Discussion on LowEndTalk&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-358 {
+    background: url(&#39;https://bm.deuts.org/static/https_lowendtalk_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Purchased two storage VPS from EvosHosting at a discounted rate, but the experience has been frustrating, with delays in provisioning, price increases, downtime, and lack of support. While they offer cheap deals, reliability and customer service leave much to be desired.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Unfortunately, experienced downtime with my VPS with EvosHosting today as well. It has been several months. No response from the customer support.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-358"><a href="https://lowendtalk.com/discussion/197958/evoshosting-review">EvosHosting Discussion on LowEndTalk</a></h3>
+<style>
+.favicon-358 {
+    background: url('https://bm.deuts.org/static/https_lowendtalk_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Purchased two storage VPS from EvosHosting at a discounted rate, but the experience has been frustrating, with delays in provisioning, price increases, downtime, and lack of support. While they offer cheap deals, reliability and customer service leave much to be desired.
+</blockquote>
+  
+<div class="linkding-notes">
+    Unfortunately, experienced downtime with my VPS with EvosHosting today as well. It has been several months. No response from the customer support.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>RTM Todoist Migration</title>
       <link>https://deuts.org/x/356-rtm-todoist-migration/</link>
@@ -210,44 +248,6 @@
   
 <div class="linkding-notes">
     The WordPress saga continues!
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>The Ultimate Guide to Setting Up Traefik</title>
-      <link>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</link>
-      <pubDate>Mon, 13 Jan 2025 07:40:41 +0800</pubDate>
-      <guid>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-343&#34;&gt;&lt;a href=&#34;https://svenvg93.github.io/posts/ultimate-treafik-guide/&#34;&gt;The Ultimate Guide to Setting Up Traefik&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-343 {
-    background: url(&#39;https://bm.deuts.org/static/https_svenvg93_github_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Master the art of deploying Traefik in your environment. This comprehensive guide covers everything from installation to advanced configuration for seamless traffic management in your homelab.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I&amp;rsquo;m a Caddy guy, but leaving this here for future reference. Maybe I&amp;rsquo;ll encounter a situation that I may need to deploy Traefik instead in the future.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-343"><a href="https://svenvg93.github.io/posts/ultimate-treafik-guide/">The Ultimate Guide to Setting Up Traefik</a></h3>
-<style>
-.favicon-343 {
-    background: url('https://bm.deuts.org/static/https_svenvg93_github_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Master the art of deploying Traefik in your environment. This comprehensive guide covers everything from installation to advanced configuration for seamless traffic management in your homelab.
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;m a Caddy guy, but leaving this here for future reference. Maybe I&rsquo;ll encounter a situation that I may need to deploy Traefik instead in the future.
 </div>
   
 ]]></content:encoded>
