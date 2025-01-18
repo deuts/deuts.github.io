@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 15:23:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 21:10:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JHWRJPRQ0G1S0YY8H2FM0S0X</title>
+      <link>https://deuts.org/x/2025-01-18-21-10-32-01jhwrjprq0g1s0yy8h2fm0s0x/</link>
+      <pubDate>Sat, 18 Jan 2025 21:10:32 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-18-21-10-32-01jhwrjprq0g1s0yy8h2fm0s0x/</guid>
+      <description>&lt;p&gt;Today I learned that in &lt;a href=&#34;https://fediwall.social/?tags=Todoist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Todoist&#34;&gt;#Todoist&lt;/a&gt; you can create a note that you can&amp;rsquo;t accidentally tick as complete by startingthe task name with &amp;ldquo;*&amp;rdquo; &lt;a href=&#34;https://www.reddit.com/r/todoist/comments/7fxlu6/comment/dqf22so/&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can further include notes in the filters with the query term &amp;ldquo;uncompletable&amp;rdquo;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Today I learned that in <a href="https://fediwall.social/?tags=Todoist&amp;accounts=&amp;lang=en&amp;title=%23Todoist">#Todoist</a> you can create a note that you can&rsquo;t accidentally tick as complete by startingthe task name with &ldquo;*&rdquo; <a href="https://www.reddit.com/r/todoist/comments/7fxlu6/comment/dqf22so/">www.reddit.com/∞</a></p>
+<p>You can further include notes in the filters with the query term &ldquo;uncompletable&rdquo;.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>EvosHosting Discussion on LowEndTalk</title>
       <link>https://deuts.org/x/358-evoshosting-discussion-on-lowendtalk/</link>
@@ -212,44 +223,6 @@
       <guid>https://deuts.org/x/2025-01-13-20-34-34-01jhfth8tpffx3a8sfvnffnsxk/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Python&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Python&#34;&gt;#Python&lt;/a&gt; is truly incredible! While I&amp;rsquo;m not a programmer, &lt;a href=&#34;https://fediwall.social/?tags=ChatGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; has empowered me to run scripts using various API endpoints—things I never thought were possible before.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Python&amp;accounts=&amp;lang=en&amp;title=%23Python">#Python</a> is truly incredible! While I&rsquo;m not a programmer, <a href="https://fediwall.social/?tags=ChatGPT&amp;accounts=&amp;lang=en&amp;title=%23ChatGPT">#ChatGPT</a> has empowered me to run scripts using various API endpoints—things I never thought were possible before.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</title>
-      <link>https://deuts.org/x/345-matt-mullenweg-deactivates-wordpress-contributor-accounts-over-alleged-fork-plans/</link>
-      <pubDate>Mon, 13 Jan 2025 10:35:09 +0800</pubDate>
-      <guid>https://deuts.org/x/345-matt-mullenweg-deactivates-wordpress-contributor-accounts-over-alleged-fork-plans/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-345&#34;&gt;&lt;a href=&#34;https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/&#34;&gt;Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-345 {
-    background: url(&#39;https://bm.deuts.org/static/https_techcrunch_com.jpg&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Matt Mullenweg, CEO of Automattic, deactivated the accounts of several WordPress.org community members, including Joost de Valk and Karim Marucchi, amid ongoing tensions over WordPress governance. This followed public criticism of WP Engine and discussions on creating federated repositories, though de Valk and Marucchi denied plans to fork WordPress. Mullenweg&amp;rsquo;s actions were seen as targeting those questioning WordPress&amp;rsquo;s leadership, but the code remains accessible for forking via GitHub.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    The WordPress saga continues!
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-345"><a href="https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/">Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</a></h3>
-<style>
-.favicon-345 {
-    background: url('https://bm.deuts.org/static/https_techcrunch_com.jpg') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Matt Mullenweg, CEO of Automattic, deactivated the accounts of several WordPress.org community members, including Joost de Valk and Karim Marucchi, amid ongoing tensions over WordPress governance. This followed public criticism of WP Engine and discussions on creating federated repositories, though de Valk and Marucchi denied plans to fork WordPress. Mullenweg&rsquo;s actions were seen as targeting those questioning WordPress&rsquo;s leadership, but the code remains accessible for forking via GitHub.
-</blockquote>
-  
-<div class="linkding-notes">
-    The WordPress saga continues!
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
