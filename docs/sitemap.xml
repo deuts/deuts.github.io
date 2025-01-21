@@ -16,22 +16,31 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2025-01-21-09-19-23-01jj372q75rhy7gwtm475xj2ca/</loc>
-    <lastmod>2025-01-21T09:19:23+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-01-21T09:19:23+08:00</lastmod>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/linuxserver/</loc>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/360-linuxserver-healthchecks/</loc>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-01-21-09-19-23-01jj372q75rhy7gwtm475xj2ca/</loc>
     <lastmod>2025-01-21T09:19:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-18-21-10-32-01jhwrjprq0g1s0yy8h2fm0s0x/</loc>
     <lastmod>2025-01-18T21:10:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/358-evoshosting-discussion-on-lowendtalk/</loc>
-    <lastmod>2025-01-18T15:23:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-01-18T15:23:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/vps/</loc>
@@ -246,9 +255,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-01-08-21-49-26-01jh32trdycafqmrxy290vwcxb/</loc>
     <lastmod>2025-01-08T21:49:26+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-01-08T18:15:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/326-installing-pixelfed-with-docker-compose/</loc>
     <lastmod>2025-01-08T18:15:00+08:00</lastmod>
@@ -1475,9 +1481,6 @@
     <lastmod>2024-10-16T17:27:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/219-docker-hedgedoc/</loc>
-    <lastmod>2024-10-15T17:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/linuxserver/</loc>
     <lastmod>2024-10-15T17:55:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/wiki/</loc>

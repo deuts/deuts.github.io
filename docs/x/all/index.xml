@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 21 Jan 2025 09:19:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 14:08:26 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linuxserver Healthchecks</title>
+      <link>https://deuts.org/x/360-linuxserver-healthchecks/</link>
+      <pubDate>Tue, 21 Jan 2025 14:08:26 +0800</pubDate>
+      <guid>https://deuts.org/x/360-linuxserver-healthchecks/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-360&#34;&gt;&lt;a href=&#34;https://docs.linuxserver.io/images/docker-healthchecks/&#34;&gt;Linuxserver Healthchecks&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-360 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_linuxserver_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Healthchecks is a watchdog for your cron jobs. It&amp;rsquo;s a web server that listens for pings from your cron jobs, plus a web interface.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wonder how much resources does this take. If not so much I need to run this.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-360"><a href="https://docs.linuxserver.io/images/docker-healthchecks/">Linuxserver Healthchecks</a></h3>
+<style>
+.favicon-360 {
+    background: url('https://bm.deuts.org/static/https_docs_linuxserver_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Healthchecks is a watchdog for your cron jobs. It&rsquo;s a web server that listens for pings from your cron jobs, plus a web interface.
+</blockquote>
+  
+<div class="linkding-notes">
+    I wonder how much resources does this take. If not so much I need to run this.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JJ372Q75RHY7GWTM475XJ2CA</title>
       <link>https://deuts.org/x/2025-01-21-09-19-23-01jj372q75rhy7gwtm475xj2ca/</link>
@@ -214,15 +252,6 @@
     We need to learn how to selfhost this thing, so we don&rsquo;t have to rely on third-party services.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHFWETV4P9G1XVK4R5N6EZQR</title>
-      <link>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</link>
-      <pubDate>Mon, 13 Jan 2025 21:08:12 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-13-21-08-12-01jhfwetv4p9g1xvk4r5n6ezqr/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@mistersql&#34;&gt;@mistersql&lt;/a&gt; Honestly, this is the first time I heard about Claude AI. Thanks for the tip, though. I sure will check it out!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@mistersql">@mistersql</a> Honestly, this is the first time I heard about Claude AI. Thanks for the tip, though. I sure will check it out!</p>
 ]]></content:encoded>
     </item>
   </channel>
