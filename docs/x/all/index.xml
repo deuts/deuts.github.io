@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 15:49:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 16:08:53 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tinyfeed</title>
+      <link>https://deuts.org/x/363-tinyfeed/</link>
+      <pubDate>Wed, 22 Jan 2025 16:08:53 +0800</pubDate>
+      <guid>https://deuts.org/x/363-tinyfeed/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-363&#34;&gt;&lt;a href=&#34;https://github.com/TheBigRoomXXL/tinyfeed?ref=selfh.st&#34;&gt;Tinyfeed&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-363 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Generate a static HTML page from a collection of feeds wtih a simple CLI tool
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    A very simple RSS reader from a very simple static site generator.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-363"><a href="https://github.com/TheBigRoomXXL/tinyfeed?ref=selfh.st">Tinyfeed</a></h3>
+<style>
+.favicon-363 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Generate a static HTML page from a collection of feeds wtih a simple CLI tool
+</blockquote>
+  
+<div class="linkding-notes">
+    A very simple RSS reader from a very simple static site generator.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Everything You Need To Know About PandasGUI</title>
       <link>https://deuts.org/x/362-everything-you-need-to-know-about-pandasgui/</link>
@@ -204,44 +242,6 @@
   
 <div class="linkding-notes">
     Unfortunately, experienced downtime with my VPS with EvosHosting today as well. It has been several months. No response from the customer support.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>RTM Todoist Migration</title>
-      <link>https://deuts.org/x/356-rtm-todoist-migration/</link>
-      <pubDate>Sat, 18 Jan 2025 01:07:30 +0800</pubDate>
-      <guid>https://deuts.org/x/356-rtm-todoist-migration/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-356&#34;&gt;&lt;a href=&#34;https://github.com/radiant-tangent/rtm-todoist-migration&#34;&gt;RTM Todoist Migration&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-356 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A utility to help migrate tasks from RememberTheMilk (RTM) to Todoist.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I might have been halfway through there before I stumbled upon this repo. Good to know for reference, though.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-356"><a href="https://github.com/radiant-tangent/rtm-todoist-migration">RTM Todoist Migration</a></h3>
-<style>
-.favicon-356 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A utility to help migrate tasks from RememberTheMilk (RTM) to Todoist.
-</blockquote>
-  
-<div class="linkding-notes">
-    I might have been halfway through there before I stumbled upon this repo. Good to know for reference, though.
 </div>
   
 ]]></content:encoded>
