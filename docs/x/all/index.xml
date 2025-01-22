@@ -7,8 +7,55 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 22 Jan 2025 07:42:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:49:44 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything You Need To Know About PandasGUI</title>
+      <link>https://deuts.org/x/362-everything-you-need-to-know-about-pandasgui/</link>
+      <pubDate>Wed, 22 Jan 2025 15:49:44 +0800</pubDate>
+      <guid>https://deuts.org/x/362-everything-you-need-to-know-about-pandasgui/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-362&#34;&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/&#34;&gt;Everything You Need To Know About PandasGUI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-362 {
+    background: url(&#39;None&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    PandasGUI is a Python-based library that facilitates data manipulation and summary statistics to be applied on the dataset using GUI.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is probably a great tool as we&amp;rsquo;re learning more about Python and Pandas.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-362"><a href="https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/">Everything You Need To Know About PandasGUI</a></h3>
+<style>
+.favicon-362 {
+    background: url('None') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    PandasGUI is a Python-based library that facilitates data manipulation and summary statistics to be applied on the dataset using GUI.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is probably a great tool as we&rsquo;re learning more about Python and Pandas.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts.hamili.net 3lgc7hselec2l</title>
+      <link>https://deuts.org/x/2025-01-22-09-24-3lgc7hselec2l/</link>
+      <pubDate>Wed, 22 Jan 2025 09:24:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-22-09-24-3lgc7hselec2l/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/pushover.net&#34;&gt;@pushover.net&lt;/a&gt; how to disable ttl? Set it to 0?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://bsky.app/profile/pushover.net">@pushover.net</a> how to disable ttl? Set it to 0?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JJ5KXEZH8CRXVQ225F8ZW48Y</title>
       <link>https://deuts.org/x/2025-01-22-07-42-11-01jj5kxezh8crxvq225f8zw48y/</link>
@@ -197,28 +244,6 @@
     I might have been halfway through there before I stumbled upon this repo. Good to know for reference, though.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHTC2BFB93ZR9GB0QBPEV7YF</title>
-      <link>https://deuts.org/x/2025-01-17-22-53-24-01jhtc2bfb93zr9gb0qbpev7yf/</link>
-      <pubDate>Fri, 17 Jan 2025 22:53:24 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-17-22-53-24-01jhtc2bfb93zr9gb0qbpev7yf/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m not even sure if it&amp;rsquo;s a good decision to stick with &lt;a href=&#34;https://fediwall.social/?tags=RememberTheMilk&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RememberTheMilk&#34;&gt;#RememberTheMilk&lt;/a&gt;. It&amp;rsquo;s an old system, with hardly any improvements introduced in the recent years. Just look at their forums, a lot of feature requests that remained open, for quite a number of years even. &lt;a href=&#34;https://fediwall.social/?tags=RTM&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RTM&#34;&gt;#RTM&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Productivity&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Productivity&#34;&gt;#Productivity&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;m not even sure if it&rsquo;s a good decision to stick with <a href="https://fediwall.social/?tags=RememberTheMilk&amp;accounts=&amp;lang=en&amp;title=%23RememberTheMilk">#RememberTheMilk</a>. It&rsquo;s an old system, with hardly any improvements introduced in the recent years. Just look at their forums, a lot of feature requests that remained open, for quite a number of years even. <a href="https://fediwall.social/?tags=RTM&amp;accounts=&amp;lang=en&amp;title=%23RTM">#RTM</a> <a href="https://fediwall.social/?tags=Productivity&amp;accounts=&amp;lang=en&amp;title=%23Productivity">#Productivity</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JHQ2VBR3E078169GF45KBFNJ</title>
-      <link>https://deuts.org/x/2025-01-16-16-14-35-01jhq2vbr3e078169gf45kbfnj/</link>
-      <pubDate>Thu, 16 Jan 2025 16:14:35 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-16-16-14-35-01jhq2vbr3e078169gf45kbfnj/</guid>
-      <description>&lt;p&gt;I filed a dispute on &lt;a href=&#34;https://fediwall.social/?tags=PayPal&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PayPal&#34;&gt;#PayPal&lt;/a&gt;, requesting a $10 refund due to my poor experience with the &lt;a href=&#34;https://fediwall.social/?tags=SliceHosting&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23SliceHosting&#34;&gt;#SliceHosting&lt;/a&gt; VPS hosting company. More details here: &lt;a href=&#34;https://deuts.org/p/slicehosting-fly-by-night/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;To my surprise, the refund was credited almost instantly to my PayPal balance.&lt;/p&gt;
-&lt;p&gt;Big thanks to LowEndBox for guiding me in the right direction: &lt;a href=&#34;https://lowendbox.com/blog/get-quickly-banned-from-any-provider-with-this-one-weird-trick/&#34;&gt;lowendbox.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I filed a dispute on <a href="https://fediwall.social/?tags=PayPal&amp;accounts=&amp;lang=en&amp;title=%23PayPal">#PayPal</a>, requesting a $10 refund due to my poor experience with the <a href="https://fediwall.social/?tags=SliceHosting&amp;accounts=&amp;lang=en&amp;title=%23SliceHosting">#SliceHosting</a> VPS hosting company. More details here: <a href="https://deuts.org/p/slicehosting-fly-by-night/">deuts.org/∞</a></p>
-<p>To my surprise, the refund was credited almost instantly to my PayPal balance.</p>
-<p>Big thanks to LowEndBox for guiding me in the right direction: <a href="https://lowendbox.com/blog/get-quickly-banned-from-any-provider-with-this-one-weird-trick/">lowendbox.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
