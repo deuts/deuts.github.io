@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 23 Jan 2025 13:06:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 13:37:52 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JJ8TNEPYQ71ZFKY57TAHM61P</title>
+      <link>https://deuts.org/x/2025-01-23-13-37-52-01jj8tnepyq71zfky57tahm61p/</link>
+      <pubDate>Thu, 23 Jan 2025 13:37:52 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-23-13-37-52-01jj8tnepyq71zfky57tahm61p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noc.social/@jleverenz&#34;&gt;@jleverenz&lt;/a&gt; I used to keep coming back to &lt;a href=&#34;https://fediwall.social/?tags=RememberTheMilk&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RememberTheMilk&#34;&gt;#RememberTheMilk&lt;/a&gt; for a very long time. But I think now I&amp;rsquo;m ready to move on to &lt;a href=&#34;https://fediwall.social/?tags=Todoist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Todoist&#34;&gt;#Todoist&lt;/a&gt;. Their API is more robust, and the documentation is aplenty.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://noc.social/@jleverenz">@jleverenz</a> I used to keep coming back to <a href="https://fediwall.social/?tags=RememberTheMilk&amp;accounts=&amp;lang=en&amp;title=%23RememberTheMilk">#RememberTheMilk</a> for a very long time. But I think now I&rsquo;m ready to move on to <a href="https://fediwall.social/?tags=Todoist&amp;accounts=&amp;lang=en&amp;title=%23Todoist">#Todoist</a>. Their API is more robust, and the documentation is aplenty.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Every ChatGPT GUI</title>
       <link>https://deuts.org/x/368-every-chatgpt-gui/</link>
@@ -237,15 +246,6 @@
       <guid>https://deuts.org/x/2025-01-22-07-42-11-01jj5kxezh8crxvq225f8zw48y/</guid>
       <description>&lt;p&gt;Wait, so, &lt;a href=&#34;https://fediwall.social/?tags=Todoist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Todoist&#34;&gt;#Todoist&lt;/a&gt; has a limit of 300 active tasks per project? &lt;a href=&#34;https://www.reddit.com/r/todoist/s/DxSx14UTuh&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Wait, so, <a href="https://fediwall.social/?tags=Todoist&amp;accounts=&amp;lang=en&amp;title=%23Todoist">#Todoist</a> has a limit of 300 active tasks per project? <a href="https://www.reddit.com/r/todoist/s/DxSx14UTuh">www.reddit.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JJ4TH1V5NY0HR34GM8KGHVZP</title>
-      <link>https://deuts.org/x/2025-01-22-00-18-30-01jj4th1v5ny0hr34gm8kghvzp/</link>
-      <pubDate>Wed, 22 Jan 2025 00:18:30 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-22-00-18-30-01jj4th1v5ny0hr34gm8kghvzp/</guid>
-      <description>&lt;p&gt;Now my Remember the Milk tasks list is clear. Hope I enjoy my stay with &lt;a href=&#34;https://fediwall.social/?tags=Todoist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Todoist&#34;&gt;#Todoist&lt;/a&gt;. &lt;a href=&#34;https://fediwall.social/?tags=RTM&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RTM&#34;&gt;#RTM&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=RememberTheMilk&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RememberTheMilk&#34;&gt;#RememberTheMilk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Now my Remember the Milk tasks list is clear. Hope I enjoy my stay with <a href="https://fediwall.social/?tags=Todoist&amp;accounts=&amp;lang=en&amp;title=%23Todoist">#Todoist</a>. <a href="https://fediwall.social/?tags=RTM&amp;accounts=&amp;lang=en&amp;title=%23RTM">#RTM</a> <a href="https://fediwall.social/?tags=RememberTheMilk&amp;accounts=&amp;lang=en&amp;title=%23RememberTheMilk">#RememberTheMilk</a></p>
 ]]></content:encoded>
     </item>
   </channel>
