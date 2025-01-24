@@ -7,8 +7,107 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 09:03:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 08:48:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RTM vs. Todoist: A Free</title>
+      <link>https://deuts.org/p/rtm-vs-todoist-free/</link>
+      <pubDate>Fri, 24 Jan 2025 08:48:23 +0800</pubDate>
+      <guid>https://deuts.org/p/rtm-vs-todoist-free/</guid>
+      <description>A practical comparison between the free versions of Remember The Milk (RTM) and Todoist, exploring key features like recurring tasks, task limits, smart lists, and integrations to help users choose the best productivity tool.</description>
+      <content:encoded><![CDATA[<p>These days, staying organized and productive often comes down to finding the right tools. There are plenty of task management apps out there, but since I haven’t yet found a good reason to pay for premium features, I’ve been sticking to the free versions. Here, I’ll compare two popular options: <strong>Remember The Milk (RTM)</strong> and <strong>Todoist</strong>.</p>
+<h2 id="why-the-free-versions">Why the Free Versions?</h2>
+<p>I’m not against paying for apps. I just haven’t seen enough value to justify the price yet. However, if I find an app truly compelling and invest significant time into it, I might upgrade in the future. For now, here&rsquo;s my take on how RTM and Todoist stack up.</p>
+<h2 id="feature-comparison">Feature Comparison</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>RTM</th>
+          <th>Todoist</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Permalink to Task</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Subtasks</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Natural Language Parsing</strong></td>
+          <td>✅</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Keyboard Shortcuts</strong></td>
+          <td>✅</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>File Uploads</strong></td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td><strong>Filters/Smart Lists</strong></td>
+          <td>✅ <em>(No limit)</em></td>
+          <td>❌ <em>(3 max)</em></td>
+      </tr>
+      <tr>
+          <td><strong>Projects/Lists</strong></td>
+          <td>✅ <em>(No limit)</em></td>
+          <td>❌ <em>(5 max)</em></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="key-observations">Key Observations</h3>
+<ul>
+<li>
+<p><strong>Permalink to Tasks</strong>:<br>
+Todoist excels here, offering deep links to tasks. On mobile, it even opens directly in the app. This is great for quick access. RTM lacks this feature, which is a missed opportunity for seamless interaction.</p>
+</li>
+<li>
+<p><strong>Subtasks</strong>:<br>
+Todoist supports subtasks even in its free version. RTM, unfortunately, does not.</p>
+</li>
+<li>
+<p><strong>Community Support</strong>:<br>
+Todoist boasts a thriving Reddit community with 67K members, compared to RTM&rsquo;s modest 477. This disparity reflects RTM&rsquo;s slower development pace in recent years.</p>
+</li>
+<li>
+<p><strong>API and Documentation</strong>:<br>
+Both apps have API rate limits that are quite similar. However, Todoist’s API documentation feels more polished and beginner-friendly.</p>
+</li>
+<li>
+<p><strong>Recurring Tasks</strong>:<br>
+Both RTM and Todoist handle recurring tasks correctly, treating each recurrence as a separate instance. This means that even if you postpone the current task or adjust its due date, the recurrence schedule remains unaffected—a behavior that some other task apps fail to implement properly.</p>
+</li>
+<li>
+<p><strong>Free Limits</strong>:</p>
+<ul>
+<li>Todoist caps free users at <strong>3 filters</strong>, while RTM allows unlimited smart lists.</li>
+<li>Todoist also limits projects to 5, whereas RTM has no such restrictions.</li>
+</ul>
+</li>
+<li>
+<p><strong>Workflow Adjustments</strong>:<br>
+Switching from RTM to Todoist would mean adjusting my entire workflow. For example, RTM’s <strong>lists</strong> are Todoist’s <strong>projects</strong>, and tags differ in behavior. Todoist uses <code>#</code> for projects, while RTM uses <code>#</code> for tags. Keyboard shortcuts are also quite different.</p>
+</li>
+<li>
+<p><strong>Task Limits</strong>:<br>
+Todoist has a 300 active tasks per project limit, which may not be an issue for most users, but it’s worth noting for larger-scale planning.</p>
+</li>
+</ul>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Both apps have strengths and weaknesses, depending on your needs. Todoist feels more polished overall, especially with its integration features and user-friendly design. However, RTM shines for its flexibility, unlimited lists, and smart lists without a paywall.</p>
+<p>While I’m still testing Todoist, RTM has been my go-to for years. Will I make the switch? Time will tell, but for now, I’ll keep experimenting.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Additional Documentation for Hugo PaperMod Post Cover Image</title>
       <link>https://deuts.org/p/add-docs-hugo-papermod-cover-image/</link>
@@ -453,27 +552,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
 <li>Introduce a mechanism that enables shoppers to report sellers who use deceptive listings to mislead customers and gain undue attention.</li>
 </ul>
 <p>By the way, this applies to Shopee as well. I&rsquo;m just a loyal Lazada shopper (first-mover advantage), so my focus has been on Lazada so far.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Unlocking New Power Query Tricks</title>
-      <link>https://deuts.org/p/new-power-query-tricks/</link>
-      <pubDate>Sat, 30 Nov 2024 15:00:52 +0800</pubDate>
-      <guid>https://deuts.org/p/new-power-query-tricks/</guid>
-      <description>A quick reflection on my Power Query journey and a must-watch video showcasing the latest tricks to enhance workflows.  </description>
-      <content:encoded><![CDATA[<p>I consider myself somewhere between intermediate and advanced in Power Query, but there&rsquo;s always more to learn. One of the things I enjoy most is discovering new tricks to incorporate into my workflow.</p>
-<p>Recently, I watched the latest <strong>Power Query Tricks Battle</strong> video by Goodly on YouTube, featuring Melissa de Korte and Rick de Groot. It’s packed with creative techniques that can take your Power Query game to the next level.</p>
-<p>It’s a shame Melissa’s mic quality wasn’t the best (perhaps she used a built-in laptop mic), but I’m confident her tricks were outstanding.</p>
-<p>Watch the video below and tell me if you learned something new, what tricks are you most excited about to try out in your projects, and which of the tricks featured is your favorite?</p>
-
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/iixGowsOUmE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-    <div class="yt-separator">&nbsp;</div>
-
 ]]></content:encoded>
     </item>
   </channel>
