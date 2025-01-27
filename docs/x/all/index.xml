@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 27 Jan 2025 08:34:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 08:38:20 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JJJK3VB2V6QS80SMTK61PKCK</title>
+      <link>https://deuts.org/x/2025-01-27-08-38-20-01jjjk3vb2v6qs80smtk61pkck/</link>
+      <pubDate>Mon, 27 Jan 2025 08:38:20 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-01-27-08-38-20-01jjjk3vb2v6qs80smtk61pkck/</guid>
+      <description>&lt;p&gt;An effective comparison of the free versions of &lt;a href=&#34;https://fediwall.social/?tags=RememberTheMilk&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RememberTheMilk&#34;&gt;#RememberTheMilk&lt;/a&gt; and &lt;a href=&#34;https://fediwall.social/?tags=Todoist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Todoist&#34;&gt;#Todoist&lt;/a&gt;, examining essential features such as recurring tasks, task limits, smart lists, and integrations to assist users in selecting the most suitable productivity tool. &lt;a href=&#34;https://fediwall.social/?tags=RTM&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23RTM&#34;&gt;#RTM&lt;/a&gt; &lt;a href=&#34;https://deuts.org/p/rtm-vs-todoist-free/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>An effective comparison of the free versions of <a href="https://fediwall.social/?tags=RememberTheMilk&amp;accounts=&amp;lang=en&amp;title=%23RememberTheMilk">#RememberTheMilk</a> and <a href="https://fediwall.social/?tags=Todoist&amp;accounts=&amp;lang=en&amp;title=%23Todoist">#Todoist</a>, examining essential features such as recurring tasks, task limits, smart lists, and integrations to assist users in selecting the most suitable productivity tool. <a href="https://fediwall.social/?tags=RTM&amp;accounts=&amp;lang=en&amp;title=%23RTM">#RTM</a> <a href="https://deuts.org/p/rtm-vs-todoist-free/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JJJJXDB3HFJNRXD35RBVE3DT</title>
       <link>https://deuts.org/x/2025-01-27-08-34-49-01jjjjxdb3hfjnrxd35rbve3dt/</link>
@@ -239,44 +248,6 @@
 &lt;p&gt;It is high time that someone point this out. Keep your liquidity high people. We&amp;rsquo;re watching out!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The Philippine real estate sector, once a key economic driver, is now struggling with rising vacancies, excess inventory, and weakening demand, suggesting it is in the hyper-supply phase. Developers face financial pressure from slower sales and cash inflows, increasing reliance on debt. A potential recession looms, but it may also present opportunities for investors to acquire undervalued assets. <a href="https://business.inquirer.net/502452/why-the-real-estate-market-may-be-heading-to-a-recession">business.inquirer.net/∞</a></p>
 <p>It is high time that someone point this out. Keep your liquidity high people. We&rsquo;re watching out!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Big AGI</title>
-      <link>https://deuts.org/x/366-big-agi/</link>
-      <pubDate>Thu, 23 Jan 2025 12:49:05 +0800</pubDate>
-      <guid>https://deuts.org/x/366-big-agi/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-366&#34;&gt;&lt;a href=&#34;https://github.com/enricoros/big-AGI&#34;&gt;Big AGI&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-366 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This could be the front end we need for Claude AI API.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-366"><a href="https://github.com/enricoros/big-AGI">Big AGI</a></h3>
-<style>
-.favicon-366 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
-</blockquote>
-  
-<div class="linkding-notes">
-    This could be the front end we need for Claude AI API.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
