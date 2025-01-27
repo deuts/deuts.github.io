@@ -7,8 +7,76 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 27 Jan 2025 08:38:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 07:00:54 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLook - SQLite Database Viewer and Generator</title>
+      <link>https://deuts.org/x/373-sqlook-sqlite-database-viewer-and-generator/</link>
+      <pubDate>Tue, 28 Jan 2025 07:00:54 +0800</pubDate>
+      <guid>https://deuts.org/x/373-sqlook-sqlite-database-viewer-and-generator/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-373&#34;&gt;&lt;a href=&#34;https://sqlook.com/&#34;&gt;SQLook - SQLite Database Viewer and Generator&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-373 {
+    background: url(&#39;https://bm.deuts.org/static/https_sqlook_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    SQLook - A free online SQLite database manager with visual query builder. Create, view, and query SQLite databases directly in your browser. Features include visual table generation, sample data population, query assistance, and database visualization.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    SQLook is a powerful web-based SQLite database manager that runs entirely in your browser. No installation or server required - just open your SQLite databases and start working with them immediately.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-373"><a href="https://sqlook.com/">SQLook - SQLite Database Viewer and Generator</a></h3>
+<style>
+.favicon-373 {
+    background: url('https://bm.deuts.org/static/https_sqlook_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    SQLook - A free online SQLite database manager with visual query builder. Create, view, and query SQLite databases directly in your browser. Features include visual table generation, sample data population, query assistance, and database visualization.
+</blockquote>
+  
+<div class="linkding-notes">
+    SQLook is a powerful web-based SQLite database manager that runs entirely in your browser. No installation or server required - just open your SQLite databases and start working with them immediately.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.</title>
+      <link>https://deuts.org/x/372-github-patx-micropie-micropie-is-an-ultra-micro-python-web-framework-that-gets-out-of-your-way/</link>
+      <pubDate>Tue, 28 Jan 2025 06:42:46 +0800</pubDate>
+      <guid>https://deuts.org/x/372-github-patx-micropie-micropie-is-an-ultra-micro-python-web-framework-that-gets-out-of-your-way/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-372&#34;&gt;&lt;a href=&#34;https://github.com/patx/micropie&#34;&gt;GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-372 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    MicroPie is an ultra-micro Python web framework that gets out of your way. - patx/micropie
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-372"><a href="https://github.com/patx/micropie">GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.</a></h3>
+<style>
+.favicon-372 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    MicroPie is an ultra-micro Python web framework that gets out of your way. - patx/micropie
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JJJK3VB2V6QS80SMTK61PKCK</title>
       <link>https://deuts.org/x/2025-01-27-08-38-20-01jjjk3vb2v6qs80smtk61pkck/</link>
@@ -199,55 +267,6 @@
     Take your pick for which GUI you want to use.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>LibreChat: Enhanced ChatGPT Clone</title>
-      <link>https://deuts.org/x/367-librechat-enhanced-chatgpt-clone/</link>
-      <pubDate>Thu, 23 Jan 2025 13:06:14 +0800</pubDate>
-      <guid>https://deuts.org/x/367-librechat-enhanced-chatgpt-clone/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-367&#34;&gt;&lt;a href=&#34;https://github.com/danny-avila/LibreChat&#34;&gt;LibreChat: Enhanced ChatGPT Clone&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-367 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another alternative that&amp;rsquo;ll work with Claude AI API.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-367"><a href="https://github.com/danny-avila/LibreChat">LibreChat: Enhanced ChatGPT Clone</a></h3>
-<style>
-.favicon-367 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
-</blockquote>
-  
-<div class="linkding-notes">
-    Another alternative that&rsquo;ll work with Claude AI API.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JJ8RJ32X92JW5K6WNKDTT1D0</title>
-      <link>https://deuts.org/x/2025-01-23-13-01-05-01jj8rj32x92jw5k6wnkdtt1d0/</link>
-      <pubDate>Thu, 23 Jan 2025 13:01:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-23-13-01-05-01jj8rj32x92jw5k6wnkdtt1d0/</guid>
-      <description>&lt;p&gt;The Philippine real estate sector, once a key economic driver, is now struggling with rising vacancies, excess inventory, and weakening demand, suggesting it is in the hyper-supply phase. Developers face financial pressure from slower sales and cash inflows, increasing reliance on debt. A potential recession looms, but it may also present opportunities for investors to acquire undervalued assets. &lt;a href=&#34;https://business.inquirer.net/502452/why-the-real-estate-market-may-be-heading-to-a-recession&#34;&gt;business.inquirer.net/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;It is high time that someone point this out. Keep your liquidity high people. We&amp;rsquo;re watching out!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The Philippine real estate sector, once a key economic driver, is now struggling with rising vacancies, excess inventory, and weakening demand, suggesting it is in the hyper-supply phase. Developers face financial pressure from slower sales and cash inflows, increasing reliance on debt. A potential recession looms, but it may also present opportunities for investors to acquire undervalued assets. <a href="https://business.inquirer.net/502452/why-the-real-estate-market-may-be-heading-to-a-recession">business.inquirer.net/∞</a></p>
-<p>It is high time that someone point this out. Keep your liquidity high people. We&rsquo;re watching out!</p>
 ]]></content:encoded>
     </item>
   </channel>
