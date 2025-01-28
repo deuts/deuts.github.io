@@ -57,11 +57,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.</title>
-      <link>https://deuts.org/x/372-github-patx-micropie-micropie-is-an-ultra-micro-python-web-framework-that-gets-out-of-your-way/</link>
+      <title>MicroPie</title>
+      <link>https://deuts.org/x/372-micropie/</link>
       <pubDate>Tue, 28 Jan 2025 06:42:46 +0800</pubDate>
-      <guid>https://deuts.org/x/372-github-patx-micropie-micropie-is-an-ultra-micro-python-web-framework-that-gets-out-of-your-way/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-372&#34;&gt;&lt;a href=&#34;https://github.com/patx/micropie&#34;&gt;GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.&lt;/a&gt;&lt;/h3&gt;
+      <guid>https://deuts.org/x/372-micropie/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-372&#34;&gt;&lt;a href=&#34;https://github.com/patx/micropie&#34;&gt;MicroPie&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-372 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
@@ -70,9 +70,13 @@
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    MicroPie is an ultra-micro Python web framework that gets out of your way. - patx/micropie
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-372"><a href="https://github.com/patx/micropie">GitHub - patx/micropie: MicroPie is an ultra-micro Python web framework that gets out of your way.</a></h3>
+    MicroPie is a lightweight Python web framework that makes building web applications simple and efficient. It includes features such as routing, session management, WSGI support, and Jinja2 template rendering.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Not a single idea how this works yet, as I&amp;rsquo;m still in the journey of learning all about Python, but leaving it here for future reference.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-372"><a href="https://github.com/patx/micropie">MicroPie</a></h3>
 <style>
 .favicon-372 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
@@ -81,8 +85,12 @@
 </style>
 
 <blockquote class="linkding-description">
-    MicroPie is an ultra-micro Python web framework that gets out of your way. - patx/micropie
+    MicroPie is a lightweight Python web framework that makes building web applications simple and efficient. It includes features such as routing, session management, WSGI support, and Jinja2 template rendering.
 </blockquote>
+  
+<div class="linkding-notes">
+    Not a single idea how this works yet, as I&rsquo;m still in the journey of learning all about Python, but leaving it here for future reference.
+</div>
   
 ]]></content:encoded>
     </item>
