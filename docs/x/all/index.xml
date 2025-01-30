@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 30 Jan 2025 11:30:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:14:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pocket ID</title>
+      <link>https://deuts.org/x/376-pocket-id/</link>
+      <pubDate>Thu, 30 Jan 2025 21:14:00 +0800</pubDate>
+      <guid>https://deuts.org/x/376-pocket-id/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-376&#34;&gt;&lt;a href=&#34;https://stonith404.github.io/pocket-id/introduction&#34;&gt;Pocket ID&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-376 {
+    background: url(&#39;https://bm.deuts.org/static/https_stonith404_github_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Pocket ID is a simple OIDC provider that allows users to authenticate with their passkeys to your services.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Authentik and authelia alternative.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-376"><a href="https://stonith404.github.io/pocket-id/introduction">Pocket ID</a></h3>
+<style>
+.favicon-376 {
+    background: url('https://bm.deuts.org/static/https_stonith404_github_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Pocket ID is a simple OIDC provider that allows users to authenticate with their passkeys to your services.
+</blockquote>
+  
+<div class="linkding-notes">
+    Authentik and authelia alternative.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>DumbWare.io - Stupid Simple Software</title>
       <link>https://deuts.org/x/375-dumbware-io-stupid-simple-software/</link>
@@ -208,44 +246,6 @@
 &lt;p&gt;&lt;a href=&#34;https://deuts.org/p/rtm-vs-todoist-free/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>A practical comparison between the free versions of <a href="https://bsky.app/hashtag/rememberthemilk">#RememberTheMilk</a> and <a href="https://bsky.app/hashtag/todoist">#Todoist</a>, exploring key features like recurring tasks, task limits, smart lists, and integrations to help users choose the best productivity tool. <a href="https://bsky.app/hashtag/rtm">#RTM</a></p>
 <p><a href="https://deuts.org/p/rtm-vs-todoist-free/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Usage limits in Todoist</title>
-      <link>https://deuts.org/x/371-usage-limits-in-todoist/</link>
-      <pubDate>Thu, 23 Jan 2025 15:04:20 +0800</pubDate>
-      <guid>https://deuts.org/x/371-usage-limits-in-todoist/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-371&#34;&gt;&lt;a href=&#34;https://todoist.com/help/articles/usage-limits-in-todoist-e5rcSY&#34;&gt;Usage limits in Todoist&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-371 {
-    background: url(&#39;https://bm.deuts.org/static/https_todoist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Some usage limits depend on your plan, while others apply to everyone. In this article, you can find everything about your general account limits, and the limits that are increased when you upgrade to Todoist Pro or Todoist Business.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    These are the Todoist limits, for free and pro plans, for your consideration.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-371"><a href="https://todoist.com/help/articles/usage-limits-in-todoist-e5rcSY">Usage limits in Todoist</a></h3>
-<style>
-.favicon-371 {
-    background: url('https://bm.deuts.org/static/https_todoist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Some usage limits depend on your plan, while others apply to everyone. In this article, you can find everything about your general account limits, and the limits that are increased when you upgrade to Todoist Pro or Todoist Business.
-</blockquote>
-  
-<div class="linkding-notes">
-    These are the Todoist limits, for free and pro plans, for your consideration.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
