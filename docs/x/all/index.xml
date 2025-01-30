@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 29 Jan 2025 20:47:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 11:30:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DumbWare.io - Stupid Simple Software</title>
+      <link>https://deuts.org/x/375-dumbware-io-stupid-simple-software/</link>
+      <pubDate>Thu, 30 Jan 2025 11:30:04 +0800</pubDate>
+      <guid>https://deuts.org/x/375-dumbware-io-stupid-simple-software/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-375&#34;&gt;&lt;a href=&#34;https://www.dumbware.io/?ref=noted.lol&#34;&gt;DumbWare.io - Stupid Simple Software&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-375 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_dumbware_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    We make sophisticated problems stupid simple. Our software is like a michelin star restaurant serving chicken nuggets - sophisticatedly Simple.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Stupidly simple selfhosted apps we can explore and deploy anytime.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-375"><a href="https://www.dumbware.io/?ref=noted.lol">DumbWare.io - Stupid Simple Software</a></h3>
+<style>
+.favicon-375 {
+    background: url('https://bm.deuts.org/static/https_www_dumbware_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    We make sophisticated problems stupid simple. Our software is like a michelin star restaurant serving chicken nuggets - sophisticatedly Simple.
+</blockquote>
+  
+<div class="linkding-notes">
+    Stupidly simple selfhosted apps we can explore and deploy anytime.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JJS1KT38Z8S637HV3T2T6AGR</title>
       <link>https://deuts.org/x/2025-01-29-20-47-09-01jjs1kt38z8s637hv3t2t6agr/</link>
@@ -206,44 +244,6 @@
   
 <div class="linkding-notes">
     These are the Todoist limits, for free and pro plans, for your consideration.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code</title>
-      <link>https://deuts.org/x/370-d-tale-the-best-library-to-perform-exploratory-data-analysis-using-single-line-of-code/</link>
-      <pubDate>Thu, 23 Jan 2025 13:53:31 +0800</pubDate>
-      <guid>https://deuts.org/x/370-d-tale-the-best-library-to-perform-exploratory-data-analysis-using-single-line-of-code/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-370&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xSXGcuiEzUc&#34;&gt;D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-370 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    In this video I am going to discuss about pandas visual analysis where we will perform EDA in a single line of code.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    More study materials about Python, data analysis, and D-Tale.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-370"><a href="https://www.youtube.com/watch?v=xSXGcuiEzUc">D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code</a></h3>
-<style>
-.favicon-370 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    In this video I am going to discuss about pandas visual analysis where we will perform EDA in a single line of code.
-</blockquote>
-  
-<div class="linkding-notes">
-    More study materials about Python, data analysis, and D-Tale.
 </div>
   
 ]]></content:encoded>
