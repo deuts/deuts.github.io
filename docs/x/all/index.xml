@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 30 Jan 2025 21:14:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:16:53 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinyAuth</title>
+      <link>https://deuts.org/x/377-tinyauth/</link>
+      <pubDate>Thu, 30 Jan 2025 21:16:53 +0800</pubDate>
+      <guid>https://deuts.org/x/377-tinyauth/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-377&#34;&gt;&lt;a href=&#34;https://github.com/steveiliop56/tinyauth&#34;&gt;TinyAuth&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-377 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The simplest way to protect your apps with a login screen. - steveiliop56/tinyauth
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another authentik and authelia alternative. Hopefully it lives up to its name - - tiny!
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-377"><a href="https://github.com/steveiliop56/tinyauth">TinyAuth</a></h3>
+<style>
+.favicon-377 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The simplest way to protect your apps with a login screen. - steveiliop56/tinyauth
+</blockquote>
+  
+<div class="linkding-notes">
+    Another authentik and authelia alternative. Hopefully it lives up to its name - - tiny!
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Pocket ID</title>
       <link>https://deuts.org/x/376-pocket-id/</link>
@@ -235,17 +273,6 @@
 &lt;p&gt;This might persuade me to upgrade to more powerful hardware in the future. However, I&amp;rsquo;m not a fan of the bulkiness and the amount of space it takes up on my desk (or in my house in general).&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>ComfyUI running in Docker is an ideal self-hosted AI image generator: <a href="https://noted.lol/comfyui/?ref=self-hosted-app-reviews-newsletter">noted.lol/∞</a></p>
 <p>This might persuade me to upgrade to more powerful hardware in the future. However, I&rsquo;m not a fan of the bulkiness and the amount of space it takes up on my desk (or in my house in general).</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lgh7s7p7kc2j</title>
-      <link>https://deuts.org/x/2025-01-24-09-13-3lgh7s7p7kc2j/</link>
-      <pubDate>Fri, 24 Jan 2025 09:13:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-24-09-13-3lgh7s7p7kc2j/</guid>
-      <description>&lt;p&gt;A practical comparison between the free versions of &lt;a href=&#34;https://bsky.app/hashtag/rememberthemilk&#34;&gt;#RememberTheMilk&lt;/a&gt; and &lt;a href=&#34;https://bsky.app/hashtag/todoist&#34;&gt;#Todoist&lt;/a&gt;, exploring key features like recurring tasks, task limits, smart lists, and integrations to help users choose the best productivity tool. &lt;a href=&#34;https://bsky.app/hashtag/rtm&#34;&gt;#RTM&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://deuts.org/p/rtm-vs-todoist-free/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A practical comparison between the free versions of <a href="https://bsky.app/hashtag/rememberthemilk">#RememberTheMilk</a> and <a href="https://bsky.app/hashtag/todoist">#Todoist</a>, exploring key features like recurring tasks, task limits, smart lists, and integrations to help users choose the best productivity tool. <a href="https://bsky.app/hashtag/rtm">#RTM</a></p>
-<p><a href="https://deuts.org/p/rtm-vs-todoist-free/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
