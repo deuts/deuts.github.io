@@ -166,8 +166,7 @@
 <h2 id="service-discovery">Service Discovery<a hidden class="anchor" aria-hidden="true" href="#service-discovery">#</a></h2>
 <blockquote>
 <p>Your web server is not properly set up to resolve &ldquo;/.well-known/caldav&rdquo;.
-Your web server is not properly set up to resolve &ldquo;/.well-known/carddav&rdquo;.</p>
-</blockquote>
+Your web server is not properly set up to resolve &ldquo;/.well-known/carddav&rdquo;.</p></blockquote>
 <p>Go to the <code>app/</code> directory where you&rsquo;ll find the <code>.htaccess</code> file, and change the following lines:</p>
 <pre tabindex="0"><code>  RewriteRule ^\.well-known/carddav /remote.php/dav/ [R=301,L]
   RewriteRule ^\.well-known/caldav /remote.php/dav/ [R=301,L]
