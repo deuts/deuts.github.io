@@ -7,8 +7,27 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 18:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:58:57 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JKAW6PMRHHG8VB5QA06ZAJMX</title>
+      <link>https://deuts.org/x/2025-02-05-18-58-57-01jkaw6pmrhhg8vb5qa06zajmx/</link>
+      <pubDate>Wed, 05 Feb 2025 18:58:57 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-05-18-58-57-01jkaw6pmrhhg8vb5qa06zajmx/</guid>
+      <description>&lt;p&gt;💰 Ever tried processing payments on a holiday? Yeah, banks just laugh at you. 🤡 I wrote a Power Query function that skips weekends and holidays to get the next banking day—because money waits for no one (except financial institutions).&lt;/p&gt;
+&lt;p&gt;Check it out: &lt;a href=&#34;https://deuts.org/p/power-query-next-banking-day/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=PowerQuery&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerQuery&#34;&gt;#PowerQuery&lt;/a&gt;
+&lt;a href=&#34;https://fediwall.social/?tags=Mlanguage&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mlanguage&#34;&gt;#Mlanguage&lt;/a&gt;
+&lt;a href=&#34;https://fediwall.social/?tags=FinancialTech&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23FinancialTech&#34;&gt;#FinancialTech&lt;/a&gt;
+&lt;a href=&#34;https://fediwall.social/?tags=DataScience&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23DataScience&#34;&gt;#DataScience&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>💰 Ever tried processing payments on a holiday? Yeah, banks just laugh at you. 🤡 I wrote a Power Query function that skips weekends and holidays to get the next banking day—because money waits for no one (except financial institutions).</p>
+<p>Check it out: <a href="https://deuts.org/p/power-query-next-banking-day/">deuts.org/∞</a></p>
+<p><a href="https://fediwall.social/?tags=PowerQuery&amp;accounts=&amp;lang=en&amp;title=%23PowerQuery">#PowerQuery</a>
+<a href="https://fediwall.social/?tags=Mlanguage&amp;accounts=&amp;lang=en&amp;title=%23Mlanguage">#Mlanguage</a>
+<a href="https://fediwall.social/?tags=FinancialTech&amp;accounts=&amp;lang=en&amp;title=%23FinancialTech">#FinancialTech</a>
+<a href="https://fediwall.social/?tags=DataScience&amp;accounts=&amp;lang=en&amp;title=%23DataScience">#DataScience</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lhgfuz6n3k2v</title>
       <link>https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/</link>
@@ -238,44 +257,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
       <guid>https://deuts.org/x/2025-01-29-20-47-09-01jjs1kt38z8s637hv3t2t6agr/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://superseriousbusiness.org/@dumpsterqueer&#34;&gt;@dumpsterqueer&lt;/a&gt; &lt;a href=&#34;https://social.seedoubleyou.me/@cw&#34;&gt;@cw&lt;/a&gt; Looking forward to the next release of &lt;a href=&#34;https://fediwall.social/?tags=GotoSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GotoSocial&#34;&gt;#GotoSocial&lt;/a&gt; implementing post editing function!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://superseriousbusiness.org/@dumpsterqueer">@dumpsterqueer</a> <a href="https://social.seedoubleyou.me/@cw">@cw</a> Looking forward to the next release of <a href="https://fediwall.social/?tags=GotoSocial&amp;accounts=&amp;lang=en&amp;title=%23GotoSocial">#GotoSocial</a> implementing post editing function!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>DumbWareio/DumbBudget: A stupid simple budget app!</title>
-      <link>https://deuts.org/x/374-dumbwareio-dumbbudget-a-stupid-simple-budget-app/</link>
-      <pubDate>Wed, 29 Jan 2025 10:30:01 +0800</pubDate>
-      <guid>https://deuts.org/x/374-dumbwareio-dumbbudget-a-stupid-simple-budget-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-374&#34;&gt;&lt;a href=&#34;https://github.com/DumbWareio/DumbBudget&#34;&gt;DumbWareio/DumbBudget: A stupid simple budget app!&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-374 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A stupid simple budget app!
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another YNAB/Actual alternative. The list now keeps getting longer for this kind of app.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-374"><a href="https://github.com/DumbWareio/DumbBudget">DumbWareio/DumbBudget: A stupid simple budget app!</a></h3>
-<style>
-.favicon-374 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A stupid simple budget app!
-</blockquote>
-  
-<div class="linkding-notes">
-    Another YNAB/Actual alternative. The list now keeps getting longer for this kind of app.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
