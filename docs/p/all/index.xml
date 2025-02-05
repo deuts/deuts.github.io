@@ -16,7 +16,7 @@
       <guid>https://deuts.org/p/power-query-next-banking-day/</guid>
       <description>This Power Query function determines the next banking day by skipping weekends and predefined holidays. It ensures accurate date calculations for financial transactions, reporting, and scheduling tasks that rely on valid banking days.</description>
       <content:encoded><![CDATA[<p>In financial analysis and reporting, it&rsquo;s crucial to account for non-banking days when processing dates. This Power Query function helps determine the next available banking day when given a date input. It skips weekends and holidays, ensuring that the returned date is a valid working day.</p>
-<h3 id="how-the-function-works">How the Function Works</h3>
+<h2 id="how-the-function-works">How the Function Works</h2>
 <ol>
 <li>
 <p><strong>Check for Non-Banking Days</strong></p>
@@ -37,7 +37,7 @@
 </ul>
 </li>
 </ol>
-<h3 id="power-query-code">Power Query Code</h3>
+<h2 id="power-query-code">Power Query Code</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span>(inputDate <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">let</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Helper function to check if a date is a non-banking day
@@ -65,7 +65,7 @@
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
 </span></span><span style="display:flex;"><span>    outputDate
 </span></span></code></pre></div><p>Note: it is important that you have a query called <code>Holidays</code> which is a list of all holidays for the date range that covers your <code>inputDate</code>.</p>
-<h4 id="recursive-function-call">Recursive Function Call</h4>
+<h3 id="recursive-function-call">Recursive Function Call</h3>
 <p>In Power Query M language, the <code>@</code> symbol is used for recursive function calls. It&rsquo;s a self-reference operator that allows a function to call itself.</p>
 <p>When you use <code>@GetNextBankingDay</code>, you&rsquo;re explicitly telling Power Query that you want to call the same function recursively. It&rsquo;s similar to how you might use <code>this</code> in other programming languages to refer to the current instance.</p>
 <p>Here&rsquo;s a breakdown:</p>
@@ -80,14 +80,14 @@
 </span></span><span style="display:flex;"><span>            NextDay
 </span></span></code></pre></div><p>Without the <code>@</code>, Power Query wouldn&rsquo;t know you&rsquo;re trying to make a recursive call to the same function you&rsquo;re currently defining. The <code>@</code> symbol makes this explicit and helps avoid any ambiguity, especially in cases where you might have functions with the same name in different scopes.</p>
 <p>It&rsquo;s worth noting that while recursion is powerful, you should be careful with it as Power Query has limitations on recursion depth to prevent infinite loops.</p>
-<h3 id="example-usage">Example Usage</h3>
+<h2 id="example-usage">Example Usage</h2>
 <p>If <code>Holidays = {#date(2024, 1, 1), #date(2024, 12, 25)}</code> and you input:</p>
 <ul>
 <li><code>#date(2024, 1, 1) (New Year's Day - a holiday)</code> → Returns <code>#date(2024, 1, 2)</code></li>
 <li><code>#date(2024, 6, 15) (Saturday)</code> → Returns <code>#date(2024, 6, 17)</code></li>
 <li><code>#date(2024, 6, 18) (Tuesday)</code> → Returns <code>#date(2024, 6, 18)</code> (already a banking day)</li>
 </ul>
-<h3 id="why-use-this-function">Why Use This Function?</h3>
+<h2 id="why-use-this-function">Why Use This Function?</h2>
 <ul>
 <li><strong>Automates Banking Date Calculations</strong> – No need to manually adjust dates for non-working days.</li>
 <li><strong>Ensures Accuracy in Financial Reports</strong> – Prevents transactions from being scheduled on closed banking days.</li>
