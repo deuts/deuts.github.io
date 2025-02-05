@@ -65,6 +65,21 @@
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
 </span></span><span style="display:flex;"><span>    outputDate
 </span></span></code></pre></div><p>Note: it is important that you have a query called <code>Holidays</code> which is a list of all holidays for the date range that covers your <code>inputDate</code>.</p>
+<h4 id="recursive-function-call">Recursive Function Call</h4>
+<p>In Power Query M language, the <code>@</code> symbol is used for recursive function calls. It&rsquo;s a self-reference operator that allows a function to call itself.</p>
+<p>When you use <code>@GetNextBankingDay</code>, you&rsquo;re explicitly telling Power Query that you want to call the same function recursively. It&rsquo;s similar to how you might use <code>this</code> in other programming languages to refer to the current instance.</p>
+<p>Here&rsquo;s a breakdown:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span>GetNextBankingDay <span style="color:#f92672">=</span> (dateToCheck <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span>
+</span></span><span style="display:flex;"><span>        NextDay <span style="color:#f92672">=</span> Date.AddDays(dateToCheck<span style="color:#f92672">,</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">in</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> IsNonBankingDay(NextDay) <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">@</span>GetNextBankingDay(NextDay)  <span style="color:#75715e">// Recursive call to the same function
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#75715e">//^ The @ here means &#34;this same function&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>            NextDay
+</span></span></code></pre></div><p>Without the <code>@</code>, Power Query wouldn&rsquo;t know you&rsquo;re trying to make a recursive call to the same function you&rsquo;re currently defining. The <code>@</code> symbol makes this explicit and helps avoid any ambiguity, especially in cases where you might have functions with the same name in different scopes.</p>
+<p>It&rsquo;s worth noting that while recursion is powerful, you should be careful with it as Power Query has limitations on recursion depth to prevent infinite loops.</p>
 <h3 id="example-usage">Example Usage</h3>
 <p>If <code>Holidays = {#date(2024, 1, 1), #date(2024, 12, 25)}</code> and you input:</p>
 <ul>
