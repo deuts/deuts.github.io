@@ -7,8 +7,21 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 10:09:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:55:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lhgfuz6n3k2v</title>
+      <link>https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/</link>
+      <pubDate>Wed, 05 Feb 2025 18:55:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/</guid>
+      <description>&lt;p&gt;🚀 Need to make sure your financial reports don’t land on a weekend? I just wrote about a Power Query function that finds the next banking day—because banks don’t care about your deadlines, but your spreadsheets should. 💸📊&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&#34;https://deuts.org/p/power-query-next-banking-day/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bsky.app/hashtag/powerquery&#34;&gt;#PowerQuery&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/finance&#34;&gt;#Finance&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/datanerd&#34;&gt;#DataNerd&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>🚀 Need to make sure your financial reports don’t land on a weekend? I just wrote about a Power Query function that finds the next banking day—because banks don’t care about your deadlines, but your spreadsheets should. 💸📊</p>
+<p>Read more: <a href="https://deuts.org/p/power-query-next-banking-day/">deuts.org/∞</a></p>
+<p><a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> <a href="https://bsky.app/hashtag/finance">#Finance</a> <a href="https://bsky.app/hashtag/datanerd">#DataNerd</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JK9XWEWNKPQNPM322XSCXJZA</title>
       <link>https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/</link>
@@ -263,15 +276,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
     Another YNAB/Actual alternative. The list now keeps getting longer for this kind of app.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JJNFVHDWH3T01PGJVR7TG0GQ</title>
-      <link>https://deuts.org/x/2025-01-28-11-39-05-01jjnfvhdwh3t01pgjvr7tg0gq/</link>
-      <pubDate>Tue, 28 Jan 2025 11:39:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-28-11-39-05-01jjnfvhdwh3t01pgjvr7tg0gq/</guid>
-      <description>&lt;p&gt;Trying to install &lt;a href=&#34;https://fediwall.social/?tags=PaperlessAI&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessAI&#34;&gt;#PaperlessAI&lt;/a&gt; and &lt;a href=&#34;https://fediwall.social/?tags=PaperlessGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessGPT&#34;&gt;#PaperlessGPT&lt;/a&gt;. Both not working!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Trying to install <a href="https://fediwall.social/?tags=PaperlessAI&amp;accounts=&amp;lang=en&amp;title=%23PaperlessAI">#PaperlessAI</a> and <a href="https://fediwall.social/?tags=PaperlessGPT&amp;accounts=&amp;lang=en&amp;title=%23PaperlessGPT">#PaperlessGPT</a>. Both not working!</p>
 ]]></content:encoded>
     </item>
   </channel>
