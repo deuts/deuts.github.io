@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 18:58:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 22:19:16 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JKB7NFRYS1E7AM98S78ME8M4</title>
+      <link>https://deuts.org/x/2025-02-05-22-19-16-01jkb7nfrys1e7am98s78me8m4/</link>
+      <pubDate>Wed, 05 Feb 2025 22:19:16 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-05-22-19-16-01jkb7nfrys1e7am98s78me8m4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Memos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Memos&#34;&gt;#Memos&lt;/a&gt; now has Shortcuts where you can have custom filters set up. Close to one of my wishlists for Memos, but I would have preferred a permalink for these shortcuts so I can bookmark them and easily get back to them later: &lt;a href=&#34;https://www.usememos.com/docs/getting-started/shortcuts&#34;&gt;www.usememos.com/∞&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=UseMemos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23UseMemos&#34;&gt;#UseMemos&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Memos&amp;accounts=&amp;lang=en&amp;title=%23Memos">#Memos</a> now has Shortcuts where you can have custom filters set up. Close to one of my wishlists for Memos, but I would have preferred a permalink for these shortcuts so I can bookmark them and easily get back to them later: <a href="https://www.usememos.com/docs/getting-started/shortcuts">www.usememos.com/∞</a> <a href="https://fediwall.social/?tags=UseMemos&amp;accounts=&amp;lang=en&amp;title=%23UseMemos">#UseMemos</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JKAW6PMRHHG8VB5QA06ZAJMX</title>
       <link>https://deuts.org/x/2025-02-05-18-58-57-01jkaw6pmrhhg8vb5qa06zajmx/</link>
@@ -248,15 +257,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
     Stupidly simple selfhosted apps we can explore and deploy anytime.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JJS1KT38Z8S637HV3T2T6AGR</title>
-      <link>https://deuts.org/x/2025-01-29-20-47-09-01jjs1kt38z8s637hv3t2t6agr/</link>
-      <pubDate>Wed, 29 Jan 2025 20:47:09 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-01-29-20-47-09-01jjs1kt38z8s637hv3t2t6agr/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://superseriousbusiness.org/@dumpsterqueer&#34;&gt;@dumpsterqueer&lt;/a&gt; &lt;a href=&#34;https://social.seedoubleyou.me/@cw&#34;&gt;@cw&lt;/a&gt; Looking forward to the next release of &lt;a href=&#34;https://fediwall.social/?tags=GotoSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GotoSocial&#34;&gt;#GotoSocial&lt;/a&gt; implementing post editing function!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://superseriousbusiness.org/@dumpsterqueer">@dumpsterqueer</a> <a href="https://social.seedoubleyou.me/@cw">@cw</a> Looking forward to the next release of <a href="https://fediwall.social/?tags=GotoSocial&amp;accounts=&amp;lang=en&amp;title=%23GotoSocial">#GotoSocial</a> implementing post editing function!</p>
 ]]></content:encoded>
     </item>
   </channel>
