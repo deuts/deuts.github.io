@@ -4,11 +4,110 @@
     <title>All Posts on Deuts Log</title>
     <link>https://deuts.org/p/all/</link>
     <description>Recent content in All Posts on Deuts Log</description>
-    <generator>Hugo -- 0.143.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 24 Jan 2025 08:48:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:42:15 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python vs Power Query: Understanding Lists and Dictionaries/Records</title>
+      <link>https://deuts.org/p/python-power-query-lists-dictionaries-records/</link>
+      <pubDate>Wed, 05 Feb 2025 09:42:15 +0800</pubDate>
+      <guid>https://deuts.org/p/python-power-query-lists-dictionaries-records/</guid>
+      <description>Python and Power Query are both powerful tools for data manipulation, but their syntax and data structures differ. Let&amp;#39;s explore the key similarities and differences between Python lists and dictionaries and Power Query lists and records, with examples and explanations to help you understand these fundamental concepts.</description>
+      <content:encoded><![CDATA[<h3 id="introduction">Introduction</h3>
+<p>When working with data in both Python and Power Query, you&rsquo;ll encounter several essential data structures—<strong>lists</strong> and <strong>dictionaries</strong> (or <strong>records</strong> in Power Query). While both languages share similar concepts for organizing data, their syntax and the way they handle data structures differ significantly.</p>
+<p>Let&rsquo;s compare the basic data structures of lists and dictionaries in Python with their counterparts in Power Query: lists and records.</p>
+<h3 id="what-is-a-list">What is a List?</h3>
+<p>A <strong>list</strong> is an ordered collection of items. Both Python and Power Query support lists, but they are defined differently in each language.</p>
+<h4 id="python-list">Python List</h4>
+<p>In Python, a list is defined using <strong>square brackets <code>[]</code></strong>. It can contain any type of data—integers, strings, or even other lists.</p>
+<h5 id="example">Example:</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>my_list <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#e6db74">&#34;apple&#34;</span>]
+</span></span><span style="display:flex;"><span>print(my_list)
+</span></span></code></pre></div><p>Output:</p>
+<pre tabindex="0"><code>[1, 2, 3, &#39;apple&#39;]
+</code></pre><ul>
+<li>Lists in Python are <strong>ordered</strong> and <strong>mutable</strong>, meaning you can change their contents after creation.</li>
+<li>Lists are useful for storing collections of items in a specific order.</li>
+</ul>
+<h4 id="power-query-list">Power Query List</h4>
+<p>In Power Query, a <strong>list</strong> is defined using <strong>curly braces <code>{}</code></strong>. Like Python lists, Power Query lists can store items of different types.</p>
+<h5 id="example-1">Example:</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-m" data-lang="m"><span style="display:flex;"><span>myList <span style="color:#f92672">=</span> {<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#e6db74">&#34;apple&#34;</span>}
+</span></span></code></pre></div><ul>
+<li>Power Query lists are <strong>ordered</strong> and can contain various data types.</li>
+<li>Lists in Power Query are often used for operations like filtering, combining, or applying functions to the list&rsquo;s items.</li>
+</ul>
+<h3 id="what-is-a-dictionaryrecord">What is a Dictionary/Record?</h3>
+<p>A <strong>dictionary</strong> (in Python) or a <strong>record</strong> (in Power Query) is a collection of <strong>key-value pairs</strong>. They allow you to store data in a way that you can easily look up a value by its corresponding key.</p>
+<h4 id="python-dictionary">Python Dictionary</h4>
+<p>In Python, a <strong>dictionary</strong> is defined using <strong>curly braces <code>{}</code></strong>, with <strong>key-value pairs</strong> separated by a colon <code>:</code>.</p>
+<h5 id="example-2">Example:</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>my_dict <span style="color:#f92672">=</span> {<span style="color:#e6db74">&#34;title&#34;</span>: <span style="color:#e6db74">&#34;Task 1&#34;</span>, <span style="color:#e6db74">&#34;slug&#34;</span>: <span style="color:#e6db74">&#34;task-1&#34;</span>}
+</span></span><span style="display:flex;"><span>print(my_dict)
+</span></span></code></pre></div><p>Output:</p>
+<pre tabindex="0"><code>{&#39;title&#39;: &#39;Task 1&#39;, &#39;slug&#39;: &#39;task-1&#39;}
+</code></pre><ul>
+<li>Dictionaries in Python are <strong>unordered</strong> (before Python 3.7) and <strong>mutable</strong>.</li>
+<li>You can access a value using its key:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(my_dict[<span style="color:#e6db74">&#34;title&#34;</span>])  <span style="color:#75715e"># Outputs: Task 1</span>
+</span></span></code></pre></div></li>
+</ul>
+<h4 id="power-query-record">Power Query Record</h4>
+<p>In Power Query, a <strong>record</strong> is similar to a dictionary, but it&rsquo;s defined using <strong>square brackets <code>[]</code></strong> and <strong>field-value pairs</strong>.</p>
+<h5 id="example-3">Example:</h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-m" data-lang="m"><span style="display:flex;"><span>myRecord <span style="color:#f92672">=</span> [title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Task 1&#34;</span>, slug <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;task-1&#34;</span>]
+</span></span></code></pre></div><ul>
+<li>Power Query <strong>records</strong> store <strong>field-value pairs</strong>, similar to Python&rsquo;s dictionaries.</li>
+<li>Records are commonly used when you need to structure data with labels, such as metadata or configuration settings.</li>
+</ul>
+<h3 id="key-differences">Key Differences</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Concept</th>
+          <th>Python</th>
+          <th>Power Query</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>List</strong></td>
+          <td>Defined with <strong><code>[]</code></strong>. Stores ordered data.</td>
+          <td>Defined with <strong><code>{}</code></strong>. Stores ordered data.</td>
+      </tr>
+      <tr>
+          <td><strong>Dictionary/Record</strong></td>
+          <td>Defined with <strong><code>{}</code></strong>. Stores key-value pairs.</td>
+          <td>Defined with <strong><code>[]</code></strong>. Stores field-value pairs.</td>
+      </tr>
+      <tr>
+          <td><strong>Mutability</strong></td>
+          <td>Both lists and dictionaries are <strong>mutable</strong>.</td>
+          <td>Both lists and records are <strong>mutable</strong>.</td>
+      </tr>
+      <tr>
+          <td><strong>Ordering</strong></td>
+          <td>Lists are ordered. Dictionaries are unordered (before Python 3.7).</td>
+          <td>Lists are ordered. Records don&rsquo;t have inherent order.</td>
+      </tr>
+      <tr>
+          <td><strong>Accessing Values</strong></td>
+          <td>Use index for lists, and key for dictionaries.</td>
+          <td>Use index for lists, and field names for records.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="conclusion">Conclusion</h3>
+<p>While Python and Power Query use different syntax to define their data structures, the concepts of <strong>lists</strong> and <strong>dictionaries/records</strong> are quite similar. Lists are used for ordered collections of data, and dictionaries (or records in Power Query) are used for storing key-value pairs.</p>
+<ul>
+<li><strong>In Python</strong>, use <code>[]</code> for lists and <code>{}</code> for dictionaries.</li>
+<li><strong>In Power Query</strong>, use <code>{}</code> for lists and <code>[]</code> for records.</li>
+</ul>
+<p>Understanding the similarities and differences between these data structures is crucial for working efficiently in both environments. I hope this comparison has helped clarify how to work with lists and dictionaries (or records) in Python and Power Query!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>RTM vs. Todoist: A Free User&#39;s Perspective</title>
       <link>https://deuts.org/p/rtm-vs-todoist-free/</link>
@@ -531,26 +630,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
 
 <p>I fully agree with the creator’s observations. Based on my personal experience and internal calculations, rental yields for new developments more likely fall below 3%, making renting significantly more affordable than buying. In areas like BGC, walking around at night reveals that many buildings appear under 20% occupied—perhaps even closer to 10%—judging by how few units are lit. This supports concerns about overbuilding and waning foreign demand. The absence of official vacancy rate data only adds to the market&rsquo;s opacity.</p>
 <p>Despite these challenges, I see potential opportunities if a market correction occurs. Lower prices could present a chance to acquire properties at more reasonable values, whether for future living or long-term investment.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>The Frustrations of Online Shopping on Lazada</title>
-      <link>https://deuts.org/p/online-shopping-lazada/</link>
-      <pubDate>Sat, 30 Nov 2024 15:36:15 +0800</pubDate>
-      <guid>https://deuts.org/p/online-shopping-lazada/</guid>
-      <description>Navigating online shopping platforms like Lazada for Mini PCs has become increasingly difficult, with vendors bundling various specs and models into a single listing, often misleading buyers during sale events. </description>
-      <content:encoded><![CDATA[<p>I used to enjoy window shopping on Lazada, particularly for Mini PCs. But lately, the experience has become tiresome, thanks to how vendors are allowed to list multiple specs—and even entirely different models—on a single product page.</p>
-<p>Take the Beelink SER5 Max Mini PC as an example. This model, powered by the AMD Ryzen 7 5800H processor, has been on my radar for a while. Typically, the 32GB RAM and 1TB NVMe storage variant sells for around Php22,000. But when you search for it on Lazada, you’ll encounter listings priced as low as Php7,995.</p>
-<p>Sounds like a steal, right? Not so fast.</p>
-<p>When you click on the listing, you’ll find that the advertised price isn’t for the SER5 Max. Instead, it applies to an entirely different product—the Beelink S12 Pro with an N100 CPU, no RAM, and no storage. To make matters worse, these listings lump together multiple models, including the Beelink S12, SER3 3750H, SER5 5560U, and SER5 Max, each in varying configurations of RAM and storage.</p>
-<p>By the time you navigate through the confusing options and finally select the SER5 Max with 32GB RAM and 1TB NVMe, the price is often much higher than expected—or the variant is not even available.</p>
-<p>This approach makes it nearly impossible to distinguish real deals from regular prices. For shoppers like me, it’s a frustrating way to ruin sale events like 11.11, 12.12, or Black Friday.</p>
-<h3 id="suggestions-for-lazada">Suggestions for Lazada:</h3>
-<ul>
-<li>Prohibit bundling completely different products/models under a single listing. It’s acceptable to group variants of the same model with differing RAM and storage, but combining entirely unrelated products should not be allowed.</li>
-<li>Introduce a mechanism that enables shoppers to report sellers who use deceptive listings to mislead customers and gain undue attention.</li>
-</ul>
-<p>By the way, this applies to Shopee as well. I&rsquo;m just a loyal Lazada shopper (first-mover advantage), so my focus has been on Lazada so far.</p>
 ]]></content:encoded>
     </item>
   </channel>
