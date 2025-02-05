@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 15:43:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 10:09:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JK9XWEWNKPQNPM322XSCXJZA</title>
+      <link>https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/</link>
+      <pubDate>Wed, 05 Feb 2025 10:09:04 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/</guid>
+      <description>&lt;p&gt;🚀 Python and Power Query both love data, but they speak &lt;em&gt;very&lt;/em&gt; different dialects.&lt;br&gt;
+🔹 Python: Lists &amp;amp; Dicts&lt;br&gt;
+🔸 Power Query: Lists &amp;amp; Records&lt;br&gt;
+Mix them up, and you might end up debugging all day. 🫠&lt;br&gt;
+Let’s dissect the differences before they dissect your workflow! 🧵👇&lt;br&gt;
+&lt;a href=&#34;https://deuts.org/p/python-power-query-lists-dictionaries-records/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>🚀 Python and Power Query both love data, but they speak <em>very</em> different dialects.<br>
+🔹 Python: Lists &amp; Dicts<br>
+🔸 Power Query: Lists &amp; Records<br>
+Mix them up, and you might end up debugging all day. 🫠<br>
+Let’s dissect the differences before they dissect your workflow! 🧵👇<br>
+<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts.hamili.net 3lhfigy37ak2m</title>
+      <link>https://deuts.org/x/2025-02-05-10-08-3lhfigy37ak2m/</link>
+      <pubDate>Wed, 05 Feb 2025 10:08:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-05-10-08-3lhfigy37ak2m/</guid>
+      <description>&lt;p&gt;💡 Python vs. Power Query: The ultimate data duel! 🥊
+Lists vs. Lists? ✅&lt;br&gt;
+Dictionaries vs. Records? ✅&lt;br&gt;
+Same thing, right? Well&amp;hellip; not quite. 👀&lt;br&gt;
+Let’s break it down so you don’t get caught mixing apples and data frames! 🍏📊&lt;br&gt;
+&lt;a href=&#34;https://deuts.org/p/python-power-query-lists-dictionaries-records/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>💡 Python vs. Power Query: The ultimate data duel! 🥊
+Lists vs. Lists? ✅<br>
+Dictionaries vs. Records? ✅<br>
+Same thing, right? Well&hellip; not quite. 👀<br>
+Let’s break it down so you don’t get caught mixing apples and data frames! 🍏📊<br>
+<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JK07EJ3C68Y1R2E4CKDH43H7</title>
       <link>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</link>
@@ -234,82 +272,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
       <guid>https://deuts.org/x/2025-01-28-11-39-05-01jjnfvhdwh3t01pgjvr7tg0gq/</guid>
       <description>&lt;p&gt;Trying to install &lt;a href=&#34;https://fediwall.social/?tags=PaperlessAI&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessAI&#34;&gt;#PaperlessAI&lt;/a&gt; and &lt;a href=&#34;https://fediwall.social/?tags=PaperlessGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessGPT&#34;&gt;#PaperlessGPT&lt;/a&gt;. Both not working!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Trying to install <a href="https://fediwall.social/?tags=PaperlessAI&amp;accounts=&amp;lang=en&amp;title=%23PaperlessAI">#PaperlessAI</a> and <a href="https://fediwall.social/?tags=PaperlessGPT&amp;accounts=&amp;lang=en&amp;title=%23PaperlessGPT">#PaperlessGPT</a>. Both not working!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>SQLook - SQLite Database Viewer and Generator</title>
-      <link>https://deuts.org/x/373-sqlook-sqlite-database-viewer-and-generator/</link>
-      <pubDate>Tue, 28 Jan 2025 07:00:54 +0800</pubDate>
-      <guid>https://deuts.org/x/373-sqlook-sqlite-database-viewer-and-generator/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-373&#34;&gt;&lt;a href=&#34;https://sqlook.com/&#34;&gt;SQLook - SQLite Database Viewer and Generator&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-373 {
-    background: url(&#39;https://bm.deuts.org/static/https_sqlook_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    SQLook - A free online SQLite database manager with visual query builder. Create, view, and query SQLite databases directly in your browser. Features include visual table generation, sample data population, query assistance, and database visualization.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    SQLook is a powerful web-based SQLite database manager that runs entirely in your browser. No installation or server required - just open your SQLite databases and start working with them immediately.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-373"><a href="https://sqlook.com/">SQLook - SQLite Database Viewer and Generator</a></h3>
-<style>
-.favicon-373 {
-    background: url('https://bm.deuts.org/static/https_sqlook_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    SQLook - A free online SQLite database manager with visual query builder. Create, view, and query SQLite databases directly in your browser. Features include visual table generation, sample data population, query assistance, and database visualization.
-</blockquote>
-  
-<div class="linkding-notes">
-    SQLook is a powerful web-based SQLite database manager that runs entirely in your browser. No installation or server required - just open your SQLite databases and start working with them immediately.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MicroPie</title>
-      <link>https://deuts.org/x/372-micropie/</link>
-      <pubDate>Tue, 28 Jan 2025 06:42:46 +0800</pubDate>
-      <guid>https://deuts.org/x/372-micropie/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-372&#34;&gt;&lt;a href=&#34;https://github.com/patx/micropie&#34;&gt;MicroPie&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-372 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    MicroPie is a lightweight Python web framework that makes building web applications simple and efficient. It includes features such as routing, session management, WSGI support, and Jinja2 template rendering.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Not a single idea how this works yet, as I&amp;rsquo;m still in the journey of learning all about Python, but leaving it here for future reference.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-372"><a href="https://github.com/patx/micropie">MicroPie</a></h3>
-<style>
-.favicon-372 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    MicroPie is a lightweight Python web framework that makes building web applications simple and efficient. It includes features such as routing, session management, WSGI support, and Jinja2 template rendering.
-</blockquote>
-  
-<div class="linkding-notes">
-    Not a single idea how this works yet, as I&rsquo;m still in the journey of learning all about Python, but leaving it here for future reference.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
