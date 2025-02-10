@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 22:19:16 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 09:22:38 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JKPQ710DF3HEJY7NRSJCHQSW</title>
+      <link>https://deuts.org/x/2025-02-10-09-22-38-01jkpq710df3hejy7nrsjchqsw/</link>
+      <pubDate>Mon, 10 Feb 2025 09:22:38 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-10-09-22-38-01jkpq710df3hejy7nrsjchqsw/</guid>
+      <description>&lt;p&gt;Finished set up of dedicated Python container to house my various Python scripts. Now I don&amp;rsquo;t have to rely to Code Server container being up in order to execute them on schedule.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Finished set up of dedicated Python container to house my various Python scripts. Now I don&rsquo;t have to rely to Code Server container being up in order to execute them on schedule.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JKB7NFRYS1E7AM98S78ME8M4</title>
       <link>https://deuts.org/x/2025-02-05-22-19-16-01jkb7nfrys1e7am98s78me8m4/</link>
@@ -217,44 +226,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
 <blockquote>
 <p>Tinyauth is intended for homelab use and it is not made for production use cases. If you are looking for something production ready please use authentik.</p></blockquote>
 
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pocket ID</title>
-      <link>https://deuts.org/x/376-pocket-id/</link>
-      <pubDate>Thu, 30 Jan 2025 21:14:00 +0800</pubDate>
-      <guid>https://deuts.org/x/376-pocket-id/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-376&#34;&gt;&lt;a href=&#34;https://stonith404.github.io/pocket-id/introduction&#34;&gt;Pocket ID&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-376 {
-    background: url(&#39;https://bm.deuts.org/static/https_stonith404_github_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Pocket ID is a simple OIDC provider that allows users to authenticate with their passkeys to your services.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Authentik and authelia alternative.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-376"><a href="https://stonith404.github.io/pocket-id/introduction">Pocket ID</a></h3>
-<style>
-.favicon-376 {
-    background: url('https://bm.deuts.org/static/https_stonith404_github_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Pocket ID is a simple OIDC provider that allows users to authenticate with their passkeys to your services.
-</blockquote>
-  
-<div class="linkding-notes">
-    Authentik and authelia alternative.
 </div>
   
 ]]></content:encoded>
