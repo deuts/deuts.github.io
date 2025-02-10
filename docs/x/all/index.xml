@@ -89,6 +89,44 @@ Let’s break it down so you don’t get caught mixing apples and data frames! �
 ]]></content:encoded>
     </item>
     <item>
+      <title>Mastodon/Bluesky to Memos</title>
+      <link>https://deuts.org/x/379-mastodon-bluesky-to-memos/</link>
+      <pubDate>Sat, 01 Feb 2025 17:58:19 +0800</pubDate>
+      <guid>https://deuts.org/x/379-mastodon-bluesky-to-memos/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-379&#34;&gt;&lt;a href=&#34;https://github.com/dandelionmood/mastodon2memos&#34;&gt;Mastodon/Bluesky to Memos&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-379 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Python script that listens to your Bluesky/Mastodon posts and captures them in your Memos instance.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I&amp;rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-379"><a href="https://github.com/dandelionmood/mastodon2memos">Mastodon/Bluesky to Memos</a></h3>
+<style>
+.favicon-379 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Python script that listens to your Bluesky/Mastodon posts and captures them in your Memos instance.
+</blockquote>
+  
+<div class="linkding-notes">
+    I&rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>@deuts@deuts.one 01JK07EJ3C68Y1R2E4CKDH43H7</title>
       <link>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</link>
       <pubDate>Sat, 01 Feb 2025 15:43:50 +0800</pubDate>
@@ -217,44 +255,6 @@ mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
   
 <div class="linkding-notes">
     Authentik and authelia alternative.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>DumbWare.io - Stupid Simple Software</title>
-      <link>https://deuts.org/x/375-dumbware-io-stupid-simple-software/</link>
-      <pubDate>Thu, 30 Jan 2025 11:30:04 +0800</pubDate>
-      <guid>https://deuts.org/x/375-dumbware-io-stupid-simple-software/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-375&#34;&gt;&lt;a href=&#34;https://www.dumbware.io/?ref=noted.lol&#34;&gt;DumbWare.io - Stupid Simple Software&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-375 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_dumbware_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    We make sophisticated problems stupid simple. Our software is like a michelin star restaurant serving chicken nuggets - sophisticatedly Simple.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Stupidly simple selfhosted apps we can explore and deploy anytime.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-375"><a href="https://www.dumbware.io/?ref=noted.lol">DumbWare.io - Stupid Simple Software</a></h3>
-<style>
-.favicon-375 {
-    background: url('https://bm.deuts.org/static/https_www_dumbware_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    We make sophisticated problems stupid simple. Our software is like a michelin star restaurant serving chicken nuggets - sophisticatedly Simple.
-</blockquote>
-  
-<div class="linkding-notes">
-    Stupidly simple selfhosted apps we can explore and deploy anytime.
 </div>
   
 ]]></content:encoded>

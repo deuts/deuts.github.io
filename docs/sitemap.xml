@@ -64,6 +64,24 @@
     <loc>https://deuts.org/t/records/</loc>
     <lastmod>2025-02-05T09:42:15+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/bluesky/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/mastodon/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/379-mastodon-bluesky-to-memos/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/memos/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</loc>
     <lastmod>2025-02-01T15:43:50+08:00</lastmod>
   </url><url>
@@ -119,9 +137,6 @@
     <lastmod>2025-01-28T07:00:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/372-micropie/</loc>
-    <lastmod>2025-01-28T06:42:46+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/python/</loc>
     <lastmod>2025-01-28T06:42:46+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-27-08-38-20-01jjjk3vb2v6qs80smtk61pkck/</loc>
@@ -275,9 +290,6 @@
     <lastmod>2025-01-14T11:09:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/activitypub/</loc>
-    <lastmod>2025-01-14T00:30:36+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
     <lastmod>2025-01-14T00:30:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/354-fediwall/</loc>
@@ -467,9 +479,6 @@
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/mastodon/</loc>
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-08-00-00-33-01jh0qy3mxccxn4kqh5eewdp1q/</loc>
@@ -707,9 +716,6 @@
     <lastmod>2024-12-27T17:30:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/atproto/</loc>
-    <lastmod>2024-12-27T17:25:45+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bluesky/</loc>
     <lastmod>2024-12-27T17:25:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/305-introduction-to-atproto-1-what-is-pds-what-features-does-it-have/</loc>
