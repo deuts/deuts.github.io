@@ -7,8 +7,122 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 09:22:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:08:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movary</title>
+      <link>https://deuts.org/x/382-movary/</link>
+      <pubDate>Wed, 12 Feb 2025 00:08:51 +0800</pubDate>
+      <guid>https://deuts.org/x/382-movary/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-382&#34;&gt;&lt;a href=&#34;https://github.com/leepeuker/movary&#34;&gt;Movary&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-382 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self hosted web app to track and rate your watched movies
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wish one of these could prove a better alternative to Trakt.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-382"><a href="https://github.com/leepeuker/movary">Movary</a></h3>
+<style>
+.favicon-382 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self hosted web app to track and rate your watched movies
+</blockquote>
+  
+<div class="linkding-notes">
+    I wish one of these could prove a better alternative to Trakt.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MediaTracker</title>
+      <link>https://deuts.org/x/381-mediatracker/</link>
+      <pubDate>Wed, 12 Feb 2025 00:05:14 +0800</pubDate>
+      <guid>https://deuts.org/x/381-mediatracker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-381&#34;&gt;&lt;a href=&#34;https://github.com/bonukai/MediaTracker&#34;&gt;MediaTracker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-381 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another Trakt alternative. Why expand to video games, books, and audiobooks, though?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-381"><a href="https://github.com/bonukai/MediaTracker">MediaTracker</a></h3>
+<style>
+.favicon-381 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
+</blockquote>
+  
+<div class="linkding-notes">
+    Another Trakt alternative. Why expand to video games, books, and audiobooks, though?
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Watcharr</title>
+      <link>https://deuts.org/x/380-watcharr/</link>
+      <pubDate>Tue, 11 Feb 2025 23:50:59 +0800</pubDate>
+      <guid>https://deuts.org/x/380-watcharr/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-380&#34;&gt;&lt;a href=&#34;https://github.com/sbondCo/Watcharr&#34;&gt;Watcharr&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-380 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Now that Trakt.tv started implementing &lt;a href=&#34;https://forums.trakt.tv/t/freemium-experience-more-features-for-all-with-usage-limits/41641/97&#34;&gt;stricter limits&lt;/a&gt; to free users, time to look for alternatives.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-380"><a href="https://github.com/sbondCo/Watcharr">Watcharr</a></h3>
+<style>
+.favicon-380 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+</blockquote>
+  
+<div class="linkding-notes">
+    Now that Trakt.tv started implementing <a href="https://forums.trakt.tv/t/freemium-experience-more-features-for-all-with-usage-limits/41641/97">stricter limits</a> to free users, time to look for alternatives.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JKPQ710DF3HEJY7NRSJCHQSW</title>
       <link>https://deuts.org/x/2025-02-10-09-22-38-01jkpq710df3hejy7nrsjchqsw/</link>
@@ -131,101 +245,6 @@ Let’s break it down so you don’t get caught mixing apples and data frames! �
   
 <div class="linkding-notes">
     I&rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JK07EJ3C68Y1R2E4CKDH43H7</title>
-      <link>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</link>
-      <pubDate>Sat, 01 Feb 2025 15:43:50 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</guid>
-      <description>&lt;p&gt;Didn&amp;rsquo;t know that &lt;a href=&#34;https://fediwall.social/?tags=Memos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Memos&#34;&gt;#Memos&lt;/a&gt; by &lt;a href=&#34;https://fediwall.social/?tags=UseMemos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23UseMemos&#34;&gt;#UseMemos&lt;/a&gt; have a third party Android app! Now more reason for me to use it for my notes. Wish it had AI supported search, though, ala &lt;a href=&#34;https://fediwall.social/?tags=Blinko&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Blinko&#34;&gt;#Blinko&lt;/a&gt;
-mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
-&lt;a href=&#34;https://github.com/mudkipme/MoeMemosAndroid&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Didn&rsquo;t know that <a href="https://fediwall.social/?tags=Memos&amp;accounts=&amp;lang=en&amp;title=%23Memos">#Memos</a> by <a href="https://fediwall.social/?tags=UseMemos&amp;accounts=&amp;lang=en&amp;title=%23UseMemos">#UseMemos</a> have a third party Android app! Now more reason for me to use it for my notes. Wish it had AI supported search, though, ala <a href="https://fediwall.social/?tags=Blinko&amp;accounts=&amp;lang=en&amp;title=%23Blinko">#Blinko</a>
-mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
-<a href="https://github.com/mudkipme/MoeMemosAndroid">github.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>DumbWareio - DumbDrop: dumb file dropper</title>
-      <link>https://deuts.org/x/378-dumbwareio-dumbdrop-dumb-file-dropper/</link>
-      <pubDate>Fri, 31 Jan 2025 08:41:50 +0800</pubDate>
-      <guid>https://deuts.org/x/378-dumbwareio-dumbdrop-dumb-file-dropper/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-378&#34;&gt;&lt;a href=&#34;https://github.com/DumbWareio/DumbDrop&#34;&gt;DumbWareio - DumbDrop: dumb file dropper&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-378 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A stupid simple file upload application that provides a clean, modern interface for dragging and dropping files. Built with Node.js and vanilla JavaScript.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This could be useful for our Python app, to process CSV/Excel files and send out the output probably via email. I just wish there was a way to change the name &lt;code&gt;DumbDrop&lt;/code&gt; right at the dead center.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-378"><a href="https://github.com/DumbWareio/DumbDrop">DumbWareio - DumbDrop: dumb file dropper</a></h3>
-<style>
-.favicon-378 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A stupid simple file upload application that provides a clean, modern interface for dragging and dropping files. Built with Node.js and vanilla JavaScript.
-</blockquote>
-  
-<div class="linkding-notes">
-    This could be useful for our Python app, to process CSV/Excel files and send out the output probably via email. I just wish there was a way to change the name <code>DumbDrop</code> right at the dead center.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>TinyAuth</title>
-      <link>https://deuts.org/x/377-tinyauth/</link>
-      <pubDate>Thu, 30 Jan 2025 21:16:53 +0800</pubDate>
-      <guid>https://deuts.org/x/377-tinyauth/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-377&#34;&gt;&lt;a href=&#34;https://github.com/steveiliop56/tinyauth&#34;&gt;TinyAuth&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-377 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The simplest way to protect your apps with a login screen. - steveiliop56/tinyauth
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;Another authentik and authelia alternative. Hopefully it lives up to its name - - tiny!&lt;/p&gt;
-&lt;p&gt;Update: I&amp;rsquo;ll wait for this app to mature before implementing to my services. As the note in their Github page goes:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tinyauth is intended for homelab use and it is not made for production use cases. If you are looking for something production ready please use authentik.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-377"><a href="https://github.com/steveiliop56/tinyauth">TinyAuth</a></h3>
-<style>
-.favicon-377 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The simplest way to protect your apps with a login screen. - steveiliop56/tinyauth
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>Another authentik and authelia alternative. Hopefully it lives up to its name - - tiny!</p>
-<p>Update: I&rsquo;ll wait for this app to mature before implementing to my services. As the note in their Github page goes:</p>
-<blockquote>
-<p>Tinyauth is intended for homelab use and it is not made for production use cases. If you are looking for something production ready please use authentik.</p></blockquote>
-
 </div>
   
 ]]></content:encoded>
