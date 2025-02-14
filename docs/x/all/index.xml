@@ -7,8 +7,85 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 12 Feb 2025 00:08:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 13:43:16 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JM1FQ4QZAA1E56EMSEB43KWA</title>
+      <link>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</link>
+      <pubDate>Fri, 14 Feb 2025 13:43:16 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@reiver&#34;&gt;@reiver&lt;/a&gt; &lt;a href=&#34;https://fosstodon.org/@deuts&#34;&gt;@deuts&lt;/a&gt; No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@reiver">@reiver</a> <a href="https://fosstodon.org/@deuts">@deuts</a> No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JM1FEZPSMH8AT0FVYNYE91BY</title>
+      <link>https://deuts.org/x/2025-02-14-13-38-49-01jm1fezpsmh8at0fvynye91by/</link>
+      <pubDate>Fri, 14 Feb 2025 13:38:49 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-14-13-38-49-01jm1fezpsmh8at0fvynye91by/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@notnorm&#34;&gt;@notnorm&lt;/a&gt; I use &lt;a href=&#34;https://fediwall.social/?tags=Pushover&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Pushover&#34;&gt;#Pushover&lt;/a&gt; for notification, and I have this in the URL:
+&lt;code&gt;WATCHTOWER_NOTIFICATION_URL: pushover://shoutrrr:apptoken@userkey/?title=Green&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I also have SKIP_TITLE set to true: &lt;code&gt;WATCHTOWER_NOTIFICATION_SKIP_TITLE: true&lt;/code&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@notnorm">@notnorm</a> I use <a href="https://fediwall.social/?tags=Pushover&amp;accounts=&amp;lang=en&amp;title=%23Pushover">#Pushover</a> for notification, and I have this in the URL:
+<code>WATCHTOWER_NOTIFICATION_URL: pushover://shoutrrr:apptoken@userkey/?title=Green</code></p>
+<p>I also have SKIP_TITLE set to true: <code>WATCHTOWER_NOTIFICATION_SKIP_TITLE: true</code></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JM1F3RHDNHSX7FYHS4JWT86K</title>
+      <link>https://deuts.org/x/2025-02-14-13-32-41-01jm1f3rhdnhsx7fyhs4jwt86k/</link>
+      <pubDate>Fri, 14 Feb 2025 13:32:41 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-14-13-32-41-01jm1f3rhdnhsx7fyhs4jwt86k/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; instance is now online. Pulled the image 0.18.0-rc2 and now everything seems back to normal:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;services&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;gotosocial&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;superseriousbusiness/gotosocial:0.18.0-rc2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here&amp;rsquo;s the Github issues that explained what happened: &lt;a href=&#34;https://github.com/superseriousbusiness/gotosocial/issues/3787&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I now got the status back up notification from &lt;a href=&#34;https://fediwall.social/?tags=UptimeRobot&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23UptimeRobot&#34;&gt;#UptimeRobot&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Monitor is UP: Deuts One ( &lt;a href=&#34;https://deuts.one&#34;&gt;deuts.one/∞&lt;/a&gt; ). It was down for 31 hours and 14 minutes.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;what-did-we-learn-from-this-experience&#34;&gt;What did we learn from this experience?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Exclude GoToSocial in &lt;a href=&#34;https://fediwall.social/?tags=Watchtower&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Watchtower&#34;&gt;#Watchtower&lt;/a&gt; automatic updates.&lt;/li&gt;
+&lt;li&gt;Stick to explicit version number in your &lt;code&gt;compose.yml&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;Time to re-think self-hosting your own Fediverse instance.&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>My <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> instance is now online. Pulled the image 0.18.0-rc2 and now everything seems back to normal:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">gotosocial</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">superseriousbusiness/gotosocial:0.18.0-rc2</span>
+</span></span></code></pre></div><p>Here&rsquo;s the Github issues that explained what happened: <a href="https://github.com/superseriousbusiness/gotosocial/issues/3787">github.com/∞</a></p>
+<p>I now got the status back up notification from <a href="https://fediwall.social/?tags=UptimeRobot&amp;accounts=&amp;lang=en&amp;title=%23UptimeRobot">#UptimeRobot</a>:</p>
+<blockquote>
+<p>Monitor is UP: Deuts One ( <a href="https://deuts.one">deuts.one/∞</a> ). It was down for 31 hours and 14 minutes.</p></blockquote>
+<h3 id="what-did-we-learn-from-this-experience">What did we learn from this experience?</h3>
+<ol>
+<li>Exclude GoToSocial in <a href="https://fediwall.social/?tags=Watchtower&amp;accounts=&amp;lang=en&amp;title=%23Watchtower">#Watchtower</a> automatic updates.</li>
+<li>Stick to explicit version number in your <code>compose.yml</code> file.</li>
+<li>Time to re-think self-hosting your own Fediverse instance.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JM1EK8F9Z42CYB57ZPR4TA8J</title>
+      <link>https://deuts.org/x/2025-02-14-13-23-40-01jm1ek8f9z42cyb57zpr4ta8j/</link>
+      <pubDate>Fri, 14 Feb 2025 13:23:40 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-14-13-23-40-01jm1ek8f9z42cyb57zpr4ta8j/</guid>
+      <description>&lt;p&gt;How to make sure that you&amp;rsquo;re getting the updated file in &lt;a href=&#34;https://fediwall.social/?tags=PowerQuery&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerQuery&#34;&gt;#PowerQuery&lt;/a&gt;, without the browser&amp;rsquo;s or server&amp;rsquo;s caching conflict:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powerquery&#34; data-lang=&#34;powerquery&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;let&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     Source &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Csv.Document(Web.Contents(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;[example.domain.com/&amp;amp;infin;](https://example.domain.com/file.csv?&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt;) Number.ToText(Number.RoundDown(Number.RandomBetween(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1000000&lt;/span&gt;))))&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;[Delimiter&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;,&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; Encoding&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;65001&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; QuoteStyle&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;QuoteStyle.None])&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     #&amp;#34;Promoted Headers&amp;#34; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Table.PromoteHeaders(Source&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; [PromoteAllScalars&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;]) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     #&amp;#34;Promoted Headers&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<p>How to make sure that you&rsquo;re getting the updated file in <a href="https://fediwall.social/?tags=PowerQuery&amp;accounts=&amp;lang=en&amp;title=%23PowerQuery">#PowerQuery</a>, without the browser&rsquo;s or server&rsquo;s caching conflict:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#66d9ef">let</span>
+</span></span><span style="display:flex;"><span>     Source <span style="color:#f92672">=</span> Csv.Document(Web.Contents(<span style="color:#e6db74">&#34;[example.domain.com/&amp;infin;](https://example.domain.com/file.csv?&#34;</span><span style="color:#f92672">&amp;</span>) Number.ToText(Number.RoundDown(Number.RandomBetween(<span style="color:#ae81ff">1</span><span style="color:#f92672">,</span> <span style="color:#ae81ff">1000000</span>))))<span style="color:#f92672">,</span>[Delimiter<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;,&#34;</span><span style="color:#f92672">,</span> Encoding<span style="color:#f92672">=</span><span style="color:#ae81ff">65001</span><span style="color:#f92672">,</span> QuoteStyle<span style="color:#f92672">=</span>QuoteStyle.None])<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>     #&#34;Promoted Headers&#34; <span style="color:#f92672">=</span> Table.PromoteHeaders(Source<span style="color:#f92672">,</span> [PromoteAllScalars<span style="color:#f92672">=</span><span style="color:#66d9ef">true</span>]) 
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
+</span></span><span style="display:flex;"><span>     #&#34;Promoted Headers&#34;
+</span></span></code></pre></div>]]></content:encoded>
+    </item>
     <item>
       <title>Movary</title>
       <link>https://deuts.org/x/382-movary/</link>
@@ -158,95 +235,6 @@
 <a href="https://fediwall.social/?tags=Mlanguage&amp;accounts=&amp;lang=en&amp;title=%23Mlanguage">#Mlanguage</a>
 <a href="https://fediwall.social/?tags=FinancialTech&amp;accounts=&amp;lang=en&amp;title=%23FinancialTech">#FinancialTech</a>
 <a href="https://fediwall.social/?tags=DataScience&amp;accounts=&amp;lang=en&amp;title=%23DataScience">#DataScience</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lhgfuz6n3k2v</title>
-      <link>https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/</link>
-      <pubDate>Wed, 05 Feb 2025 18:55:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/</guid>
-      <description>&lt;p&gt;🚀 Need to make sure your financial reports don’t land on a weekend? I just wrote about a Power Query function that finds the next banking day—because banks don’t care about your deadlines, but your spreadsheets should. 💸📊&lt;/p&gt;
-&lt;p&gt;Read more: &lt;a href=&#34;https://deuts.org/p/power-query-next-banking-day/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://bsky.app/hashtag/powerquery&#34;&gt;#PowerQuery&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/finance&#34;&gt;#Finance&lt;/a&gt; &lt;a href=&#34;https://bsky.app/hashtag/datanerd&#34;&gt;#DataNerd&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>🚀 Need to make sure your financial reports don’t land on a weekend? I just wrote about a Power Query function that finds the next banking day—because banks don’t care about your deadlines, but your spreadsheets should. 💸📊</p>
-<p>Read more: <a href="https://deuts.org/p/power-query-next-banking-day/">deuts.org/∞</a></p>
-<p><a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> <a href="https://bsky.app/hashtag/finance">#Finance</a> <a href="https://bsky.app/hashtag/datanerd">#DataNerd</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JK9XWEWNKPQNPM322XSCXJZA</title>
-      <link>https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/</link>
-      <pubDate>Wed, 05 Feb 2025 10:09:04 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/</guid>
-      <description>&lt;p&gt;🚀 Python and Power Query both love data, but they speak &lt;em&gt;very&lt;/em&gt; different dialects.&lt;br&gt;
-🔹 Python: Lists &amp;amp; Dicts&lt;br&gt;
-🔸 Power Query: Lists &amp;amp; Records&lt;br&gt;
-Mix them up, and you might end up debugging all day. 🫠&lt;br&gt;
-Let’s dissect the differences before they dissect your workflow! 🧵👇&lt;br&gt;
-&lt;a href=&#34;https://deuts.org/p/python-power-query-lists-dictionaries-records/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>🚀 Python and Power Query both love data, but they speak <em>very</em> different dialects.<br>
-🔹 Python: Lists &amp; Dicts<br>
-🔸 Power Query: Lists &amp; Records<br>
-Mix them up, and you might end up debugging all day. 🫠<br>
-Let’s dissect the differences before they dissect your workflow! 🧵👇<br>
-<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lhfigy37ak2m</title>
-      <link>https://deuts.org/x/2025-02-05-10-08-3lhfigy37ak2m/</link>
-      <pubDate>Wed, 05 Feb 2025 10:08:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-05-10-08-3lhfigy37ak2m/</guid>
-      <description>&lt;p&gt;💡 Python vs. Power Query: The ultimate data duel! 🥊
-Lists vs. Lists? ✅&lt;br&gt;
-Dictionaries vs. Records? ✅&lt;br&gt;
-Same thing, right? Well&amp;hellip; not quite. 👀&lt;br&gt;
-Let’s break it down so you don’t get caught mixing apples and data frames! 🍏📊&lt;br&gt;
-&lt;a href=&#34;https://deuts.org/p/python-power-query-lists-dictionaries-records/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>💡 Python vs. Power Query: The ultimate data duel! 🥊
-Lists vs. Lists? ✅<br>
-Dictionaries vs. Records? ✅<br>
-Same thing, right? Well&hellip; not quite. 👀<br>
-Let’s break it down so you don’t get caught mixing apples and data frames! 🍏📊<br>
-<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Mastodon/Bluesky to Memos</title>
-      <link>https://deuts.org/x/379-mastodon-bluesky-to-memos/</link>
-      <pubDate>Sat, 01 Feb 2025 17:58:19 +0800</pubDate>
-      <guid>https://deuts.org/x/379-mastodon-bluesky-to-memos/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-379&#34;&gt;&lt;a href=&#34;https://github.com/dandelionmood/mastodon2memos&#34;&gt;Mastodon/Bluesky to Memos&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-379 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Python script that listens to your Bluesky/Mastodon posts and captures them in your Memos instance.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I&amp;rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-379"><a href="https://github.com/dandelionmood/mastodon2memos">Mastodon/Bluesky to Memos</a></h3>
-<style>
-.favicon-379 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Python script that listens to your Bluesky/Mastodon posts and captures them in your Memos instance.
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
