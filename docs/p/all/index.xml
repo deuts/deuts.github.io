@@ -7,8 +7,35 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 17:46:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 23:52:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Handy Power Query Tricks for Custom Sorting and Error Handling</title>
+      <link>https://deuts.org/p/pq-tricks-custom-sorting-error-handling/</link>
+      <pubDate>Sat, 15 Feb 2025 23:52:12 +0800</pubDate>
+      <guid>https://deuts.org/p/pq-tricks-custom-sorting-error-handling/</guid>
+      <description>Learn two powerful Power Query tricks: custom sorting using `List.PositionOf` and filtering non-date values with the try and `[HasError]` functions.</description>
+      <content:encoded><![CDATA[
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/fQFVVpFyOlo?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+    <div class="yt-separator">&nbsp;</div>
+
+<h2 id="useful-power-query-tricks">Useful Power Query Tricks</h2>
+<p>Power Query is a powerful tool for data transformation, and knowing a few advanced tricks can help you work more efficiently. Here are two techniques I learned from the above video.</p>
+<h3 id="1-custom-sorting-in-power-query">1. Custom Sorting in Power Query</h3>
+<p>By default, Power Query sorts data in ascending or descending order, but what if you need a custom order? For example, let’s say you have ratings labeled as <strong>E, A, B</strong>, and you want them sorted in that specific sequence. You can achieve this using the <code>List.PositionOf</code> function:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#f92672">=</span> Table.Sort(Source<span style="color:#f92672">,</span> {<span style="color:#66d9ef">each</span> List.PositionOf({<span style="color:#e6db74">&#34;E&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;A&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;B&#34;</span>}<span style="color:#f92672">,</span> [Ratings])})
+</span></span></code></pre></div><p>This method allows you to define an arbitrary order and sort the table accordingly. It’s especially useful when dealing with categorical data that doesn’t follow a standard numerical or alphabetical order.</p>
+<h3 id="2-the-error-trick--filtering-non-date-values">2. The Error Trick – Filtering Non-Date Values</h3>
+<p>Sometimes, a dataset contains values that cannot be converted into a date. Instead of manually checking for errors, you can use the <code>try</code> function to filter out non-date values:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#f92672">=</span> List.Select(Source<span style="color:#f92672">,</span> <span style="color:#66d9ef">each</span> (<span style="color:#66d9ef">try</span> Date.From(<span style="color:#e6db74">&#34;1&#34;</span> <span style="color:#f92672">&amp;</span> _))[HasError])
+</span></span></code></pre></div><p>This formula attempts to convert each value into a date by prefixing it with &ldquo;1&rdquo; (to ensure a valid month-day format). If the conversion fails, the <code>[HasError]</code> property will be <code>true</code>, meaning the value is <strong>not</strong> a valid date. This trick helps you quickly identify and isolate (or keep, depending on your use case) problematic data.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Power Query Function to Find the Next Banking Day</title>
       <link>https://deuts.org/p/power-query-next-banking-day/</link>
@@ -586,117 +613,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
 <p>Another possibility is that manufacturers don’t want Bluetooth speakers to overlap with other products like smart speakers or earbuds, which are better suited for calls. Removing the mic helps clearly position Bluetooth speakers as music devices and avoids complaints about call quality or compatibility issues.</p>
 <p>But for people like me, this design shift creates a real problem. If you use a mobile device like an Android phone or tablet for online meetings, a Bluetooth speaker without a mic is practically useless. You can’t separate the audio and mic functions, meaning you’re forced to either use the phone’s built-in speaker or switch to headphones. This limitation doesn’t exist on laptops, where you can mix and match input and output devices more freely.</p>
 <p>The result? A once-convenient feature is gone, making Bluetooth speakers less versatile. While manufacturers might have their reasons, it feels like a step backward for users who relied on this functionality.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Contemplating a Switch from Paperless NGX to PDFDing</title>
-      <link>https://deuts.org/p/switch-paperless-ngx-pdfding/</link>
-      <pubDate>Tue, 03 Dec 2024 11:16:34 +0800</pubDate>
-      <guid>https://deuts.org/p/switch-paperless-ngx-pdfding/</guid>
-      <description>A personal reflection on the features and limitations of Paperless NGX and PDFDing as I consider simplifying my document management system.</description>
-      <content:encoded><![CDATA[<p>I’ve been running <a class="applink" href="https://deuts.org/a/paperless-ngx" target="_blank">Paperless NGX</a> as my document management tool for a while now, but lately, I’ve started wondering if a simpler solution like <a class="applink" href="https://deuts.org/a/pdfding" target="_blank">PDFDing</a> might be better suited for my needs. Both tools have their strengths and weaknesses, so I’ve been testing them side by side to see how they compare.</p>
-<h3 id="paperless-ngx-great-features-but-too-much">Paperless NGX: Great Features, but Too Much?</h3>
-<p><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless NGX</a> has a lot going for it:</p>
-<ul>
-<li><strong>Organizes &amp; Tags Documents</strong>: Scan and categorize documents with custom tags, correspondents, types, and more for easy retrieval.</li>
-<li><strong>OCR &amp; Multi-Language Support</strong>: Performs OCR on scanned documents, making them searchable. Supports over 100 languages via the Tesseract engine.</li>
-<li><strong>Local Data Storage &amp; Security</strong>: Your data is stored securely on your own server, with no transmission or sharing of your files.</li>
-<li><strong>PDF/A Format for Long-Term Storage</strong>: Documents are saved in PDF/A format, designed for long-term storage, alongside the original files.</li>
-<li><strong>Machine Learning for Metadata</strong>: Automatically tags documents with correspondents and document types, streamlining organization.</li>
-<li><strong>Supports Multiple File Types</strong>: Supports PDFs, images, Office documents (Word, Excel, PowerPoint), and more.</li>
-<li><strong>Modern Web Interface</strong>: Features a customizable dashboard, filtering options, drag-and-drop uploads, and customizable views. It also supports custom fields and shareable public links.</li>
-<li><strong>Powerful Search &amp; Auto-Suggestions</strong>: Full-text search, autocomplete, relevance-based sorting, and document highlighting make finding files efficient.</li>
-<li><strong>Email Processing</strong>: Import and process documents directly from email accounts with customizable rules for actions such as marking as read or deleting.</li>
-<li><strong>Consume Folder</strong>: Automatically processes documents dropped into a designated folder, making it easy to quickly add documents to the system without manual uploads.</li>
-<li><strong>Multi-User Permissions &amp; Workflow</strong>: A robust permissions system, with global and per-document access control, and a powerful workflow system for advanced management.</li>
-<li><strong>Optimized for Performance</strong>: Utilizes multi-core systems for parallel document processing and includes an integrated sanity checker to ensure document archive health.</li>
-</ul>
-<p>However, these features come with some drawbacks:</p>
-<ol>
-<li><strong>High Memory Usage</strong>: Paperless NGX uses about 1.4 GB of memory even when it’s idle. On a system with 11 GB of RAM, this is noticeable.</li>
-<li><strong>Machine Learning Accuracy</strong>: Predictions are inconsistent. Correspondent and document type are about 50% accurate, and creation date predictions are wrong 80% of the time.</li>
-<li><strong>Custom Fields</strong>: While you can create custom fields, they don’t appear by default and need to be enabled manually for every new document.</li>
-<li><strong>Editing Limitations</strong>: Updating metadata for multiple documents is cumbersome since each document must be opened individually. A grid-style interface, similar to Airtable or spreadsheet apps, for faster and more efficient bulk editing would have been much better.</li>
-</ol>
-<h3 id="pdfding-simple-lightweight-and-efficient">PDFDing: Simple, Lightweight, and Efficient</h3>
-<p><a href="https://github.com/mrmn2/PdfDing">PDFDing</a> takes a minimalist approach, using tags instead of multiple metadata fields. Its design is sleek and straightforward, similar to tools like <a class="applink" href="https://deuts.org/a/linkding" target="_blank">Linkding</a>, which I already use and appreciate.</p>
-<p>One of the biggest advantages of PDFDing is how light it is on system resources. It uses only about 156 MB of memory on average, a fraction of what Paperless NGX demands.</p>
-<p>Additionally, a standout feature of PDFDing is its ease of use on both desktop and mobile devices. When opening a document in the web app on a mobile browser, it’s displayed directly in the browser without triggering a download. This saves storage space and avoids cluttering your downloads folder with duplicate files if you repeatedly access the same document. In contrast, Paperless NGX downloads the file each time it’s viewed in full-page mode on mobile browsers, which can quickly become messy.</p>
-<h3 id="whats-missing-in-pdfding">What’s Missing in PDFDing</h3>
-<p>Despite its simplicity, PDFDing isn’t perfect. The biggest feature I miss is Paperless NGX’s <strong>consume folder</strong>, which makes it easy to add and organize documents automatically. If PDFDing could implement this, it would make the decision to switch much easier.</p>
-<h3 id="resource-usage-comparison">Resource Usage Comparison</h3>
-<p>To give some context, I’m running these tools on a system with 11 GB of RAM. Here’s how they compare in terms of system resource usage over the past week:</p>
-<h4 id="paperless-ngx">Paperless NGX</h4>
-<table>
-  <thead>
-      <tr>
-          <th>Container Name</th>
-          <th>AveCPU</th>
-          <th>AveMem (MiB)</th>
-          <th>AveMem%</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>paperless-webserver</td>
-          <td>7.10%</td>
-          <td>1155.12</td>
-          <td>10.53%</td>
-      </tr>
-      <tr>
-          <td>paperless-tika</td>
-          <td>0.26%</td>
-          <td>277.51</td>
-          <td>2.53%</td>
-      </tr>
-      <tr>
-          <td>paperless-gotenberg</td>
-          <td>0.06%</td>
-          <td>6.63</td>
-          <td>0.06%</td>
-      </tr>
-      <tr>
-          <td>paperless-redis</td>
-          <td>0.39%</td>
-          <td>4.78</td>
-          <td>0.04%</td>
-      </tr>
-      <tr>
-          <td><strong>Total</strong></td>
-          <td><strong>7.81%</strong></td>
-          <td><strong>1444.05</strong></td>
-          <td><strong>13.17%</strong></td>
-      </tr>
-  </tbody>
-</table>
-<h4 id="pdfding">PDFDing</h4>
-<table>
-  <thead>
-      <tr>
-          <th>Container Name</th>
-          <th>AveCPU</th>
-          <th>AveMem (MiB)</th>
-          <th>AveMem%</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>pdfding</td>
-          <td>0.02%</td>
-          <td>156.36</td>
-          <td>1.43%</td>
-      </tr>
-      <tr>
-          <td><strong>Total</strong></td>
-          <td><strong>0.02%</strong></td>
-          <td><strong>156.36</strong></td>
-          <td><strong>1.43%</strong></td>
-      </tr>
-  </tbody>
-</table>
-<h3 id="final-thoughts">Final Thoughts</h3>
-<p>Right now, I’m undecided. Paperless NGX has powerful features but can feel over-engineered and resource-hungry. PDFDing is minimalist and efficient but lacks some key features I rely on.</p>
-<p>For now, I’ll keep running both systems and see how PDFDing fits into my workflow. If it can streamline document management without too many compromises, it might be worth switching.</p>
 ]]></content:encoded>
     </item>
   </channel>
