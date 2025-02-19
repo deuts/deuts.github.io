@@ -208,39 +208,39 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Movary</title>
-      <link>https://deuts.org/x/382-movary/</link>
-      <pubDate>Wed, 12 Feb 2025 00:08:51 +0800</pubDate>
-      <guid>https://deuts.org/x/382-movary/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-382&#34;&gt;&lt;a href=&#34;https://github.com/leepeuker/movary&#34;&gt;Movary&lt;/a&gt;&lt;/h3&gt;
+      <title>Reddit discussion on web scraping options</title>
+      <link>https://deuts.org/x/385-reddit-discussion-on-web-scraping-options/</link>
+      <pubDate>Fri, 14 Feb 2025 07:23:27 +0800</pubDate>
+      <guid>https://deuts.org/x/385-reddit-discussion-on-web-scraping-options/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-385&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/5sERnYlZ4k&#34;&gt;Reddit discussion on web scraping options&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-382 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+.favicon-385 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self hosted web app to track and rate your watched movies
+    Scrapes URLs given as input and saves them regardless of JS and other BS
 &lt;/blockquote&gt;
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
-    I wish one of these could prove a better alternative to Trakt.
+    Checked out the alternatives. I think I&amp;rsquo;ll settle with Wallabag as I already have one already running. This is especially useful in scraping Philippine Lotto Results.
 &lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-382"><a href="https://github.com/leepeuker/movary">Movary</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-385"><a href="https://www.reddit.com/r/selfhosted/s/5sERnYlZ4k">Reddit discussion on web scraping options</a></h3>
 <style>
-.favicon-382 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+.favicon-385 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    Self hosted web app to track and rate your watched movies
+    Scrapes URLs given as input and saves them regardless of JS and other BS
 </blockquote>
   
 <div class="linkding-notes">
-    I wish one of these could prove a better alternative to Trakt.
+    Checked out the alternatives. I think I&rsquo;ll settle with Wallabag as I already have one already running. This is especially useful in scraping Philippine Lotto Results.
 </div>
   
 ]]></content:encoded>

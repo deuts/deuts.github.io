@@ -79,6 +79,24 @@
     <loc>https://deuts.org/x/2025-02-14-13-32-41-01jm1f3rhdnhsx7fyhs4jwt86k/</loc>
     <lastmod>2025-02-14T13:32:41+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/385-reddit-discussion-on-web-scraping-options/</loc>
+    <lastmod>2025-02-14T07:23:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-02-13T23:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/gotosocial/</loc>
+    <lastmod>2025-02-13T23:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/384-what-actually-happened-in-the-gotosocial-update-issue/</loc>
+    <lastmod>2025-02-13T23:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/authentication/</loc>
+    <lastmod>2025-02-13T00:07:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/383-oauth2-proxy/</loc>
+    <lastmod>2025-02-13T00:07:02+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/382-movary/</loc>
     <lastmod>2025-02-12T00:08:51+08:00</lastmod>
   </url><url>
@@ -142,9 +160,6 @@
     <loc>https://deuts.org/k/bluesky/</loc>
     <lastmod>2025-02-01T17:58:19+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/mastodon/</loc>
     <lastmod>2025-02-01T17:58:19+08:00</lastmod>
   </url><url>
@@ -168,9 +183,6 @@
   </url><url>
     <loc>https://deuts.org/k/filesharing/</loc>
     <lastmod>2025-01-31T08:41:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/authentication/</loc>
-    <lastmod>2025-01-30T21:16:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/377-tinyauth/</loc>
     <lastmod>2025-01-30T21:16:53+08:00</lastmod>
@@ -548,9 +560,6 @@
     <lastmod>2025-01-08T10:33:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/325-elk-a-nimble-mastodon-web-client/</loc>
-    <lastmod>2025-01-08T00:23:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/gotosocial/</loc>
     <lastmod>2025-01-08T00:23:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-01-08-00-00-33-01jh0qy3mxccxn4kqh5eewdp1q/</loc>
