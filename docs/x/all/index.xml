@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.144.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 21:36:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 22:37:15 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tree</title>
+      <link>https://deuts.org/x/388-tree/</link>
+      <pubDate>Wed, 19 Feb 2025 22:37:15 +0800</pubDate>
+      <guid>https://deuts.org/x/388-tree/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-388&#34;&gt;&lt;a href=&#34;https://tree.nathanfriend.com/&#34;&gt;Tree&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-388 {
+    background: url(&#39;https://bm.deuts.org/static/https_tree_nathanfriend_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Here&amp;rsquo;s an alternative to the &lt;code&gt;tree&lt;/code&gt; app and command in Linux.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-388"><a href="https://tree.nathanfriend.com/">Tree</a></h3>
+<style>
+.favicon-388 {
+    background: url('https://bm.deuts.org/static/https_tree_nathanfriend_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
+</blockquote>
+  
+<div class="linkding-notes">
+    Here&rsquo;s an alternative to the <code>tree</code> app and command in Linux.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMF6SMSMDV8125FDKFHMCCYM</title>
       <link>https://deuts.org/x/2025-02-19-21-36-43-01jmf6smsmdv8125fdkfhmccym/</link>
@@ -205,15 +243,6 @@
     Now that Trakt.tv started implementing <a href="https://forums.trakt.tv/t/freemium-experience-more-features-for-all-with-usage-limits/41641/97">stricter limits</a> to free users, time to look for alternatives.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JKPQ710DF3HEJY7NRSJCHQSW</title>
-      <link>https://deuts.org/x/2025-02-10-09-22-38-01jkpq710df3hejy7nrsjchqsw/</link>
-      <pubDate>Mon, 10 Feb 2025 09:22:38 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-10-09-22-38-01jkpq710df3hejy7nrsjchqsw/</guid>
-      <description>&lt;p&gt;Finished set up of dedicated Python container to house my various Python scripts. Now I don&amp;rsquo;t have to rely to Code Server container being up in order to execute them on schedule.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Finished set up of dedicated Python container to house my various Python scripts. Now I don&rsquo;t have to rely to Code Server container being up in order to execute them on schedule.</p>
 ]]></content:encoded>
     </item>
   </channel>
