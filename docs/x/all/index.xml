@@ -75,6 +75,82 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Nanote - lightweight, selfhosted note-taking app</title>
+      <link>https://deuts.org/x/387-nanote-lightweight-selfhosted-note-taking-app/</link>
+      <pubDate>Sat, 15 Feb 2025 00:20:11 +0800</pubDate>
+      <guid>https://deuts.org/x/387-nanote-lightweight-selfhosted-note-taking-app/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-387&#34;&gt;&lt;a href=&#34;https://github.com/omarmir/nanote&#34;&gt;Nanote - lightweight, selfhosted note-taking app&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-387 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight, self-hosted note-taking application with filesystem-based storage so you maintain 100% portability of your notes.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Already tested this. Yes it&amp;rsquo;s simple. I think too simple. No frontmatter support whatsoever.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-387"><a href="https://github.com/omarmir/nanote">Nanote - lightweight, selfhosted note-taking app</a></h3>
+<style>
+.favicon-387 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight, self-hosted note-taking application with filesystem-based storage so you maintain 100% portability of your notes.
+</blockquote>
+  
+<div class="linkding-notes">
+    Already tested this. Yes it&rsquo;s simple. I think too simple. No frontmatter support whatsoever.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Memory notetaking app</title>
+      <link>https://deuts.org/x/386-memory-notetaking-app/</link>
+      <pubDate>Fri, 14 Feb 2025 22:52:25 +0800</pubDate>
+      <guid>https://deuts.org/x/386-memory-notetaking-app/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-386&#34;&gt;&lt;a href=&#34;https://github.com/yousboot/Memory&#34;&gt;Memory notetaking app&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-386 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted editor and note taking app.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another one of those note-taking apps.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-386"><a href="https://github.com/yousboot/Memory">Memory notetaking app</a></h3>
+<style>
+.favicon-386 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted editor and note taking app.
+</blockquote>
+  
+<div class="linkding-notes">
+    Another one of those note-taking apps.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>@deuts@deuts.one 01JM1FQ4QZAA1E56EMSEB43KWA</title>
       <link>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</link>
       <pubDate>Fri, 14 Feb 2025 13:43:16 +0800</pubDate>
@@ -165,82 +241,6 @@
   
 <div class="linkding-notes">
     I wish one of these could prove a better alternative to Trakt.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MediaTracker</title>
-      <link>https://deuts.org/x/381-mediatracker/</link>
-      <pubDate>Wed, 12 Feb 2025 00:05:14 +0800</pubDate>
-      <guid>https://deuts.org/x/381-mediatracker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-381&#34;&gt;&lt;a href=&#34;https://github.com/bonukai/MediaTracker&#34;&gt;MediaTracker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-381 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another Trakt alternative. Why expand to video games, books, and audiobooks, though?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-381"><a href="https://github.com/bonukai/MediaTracker">MediaTracker</a></h3>
-<style>
-.favicon-381 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
-</blockquote>
-  
-<div class="linkding-notes">
-    Another Trakt alternative. Why expand to video games, books, and audiobooks, though?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Watcharr</title>
-      <link>https://deuts.org/x/380-watcharr/</link>
-      <pubDate>Tue, 11 Feb 2025 23:50:59 +0800</pubDate>
-      <guid>https://deuts.org/x/380-watcharr/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-380&#34;&gt;&lt;a href=&#34;https://github.com/sbondCo/Watcharr&#34;&gt;Watcharr&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-380 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Now that Trakt.tv started implementing &lt;a href=&#34;https://forums.trakt.tv/t/freemium-experience-more-features-for-all-with-usage-limits/41641/97&#34;&gt;stricter limits&lt;/a&gt; to free users, time to look for alternatives.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-380"><a href="https://github.com/sbondCo/Watcharr">Watcharr</a></h3>
-<style>
-.favicon-380 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-</blockquote>
-  
-<div class="linkding-notes">
-    Now that Trakt.tv started implementing <a href="https://forums.trakt.tv/t/freemium-experience-more-features-for-all-with-usage-limits/41641/97">stricter limits</a> to free users, time to look for alternatives.
 </div>
   
 ]]></content:encoded>
