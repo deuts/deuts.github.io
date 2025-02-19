@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 13:43:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 08:42:39 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMDTG987PNJX8M80QRJXW3HE</title>
+      <link>https://deuts.org/x/2025-02-19-08-42-39-01jmdtg987pnjx8m80qrjxw3he/</link>
+      <pubDate>Wed, 19 Feb 2025 08:42:39 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-19-08-42-39-01jmdtg987pnjx8m80qrjxw3he/</guid>
+      <description>&lt;p&gt;BDO now has a new online online banking website, the functionality of which is pretty much like its mobile app &amp;ndash;&amp;gt; No Trust Accounts view or transactions (yet?). At least now it seems to accept auto-fill from my favorite password manager.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>BDO now has a new online online banking website, the functionality of which is pretty much like its mobile app &ndash;&gt; No Trust Accounts view or transactions (yet?). At least now it seems to accept auto-fill from my favorite password manager.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JM1FQ4QZAA1E56EMSEB43KWA</title>
       <link>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</link>
@@ -216,25 +225,6 @@
       <guid>https://deuts.org/x/2025-02-05-22-19-16-01jkb7nfrys1e7am98s78me8m4/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Memos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Memos&#34;&gt;#Memos&lt;/a&gt; now has Shortcuts where you can have custom filters set up. Close to one of my wishlists for Memos, but I would have preferred a permalink for these shortcuts so I can bookmark them and easily get back to them later: &lt;a href=&#34;https://www.usememos.com/docs/getting-started/shortcuts&#34;&gt;www.usememos.com/∞&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=UseMemos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23UseMemos&#34;&gt;#UseMemos&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Memos&amp;accounts=&amp;lang=en&amp;title=%23Memos">#Memos</a> now has Shortcuts where you can have custom filters set up. Close to one of my wishlists for Memos, but I would have preferred a permalink for these shortcuts so I can bookmark them and easily get back to them later: <a href="https://www.usememos.com/docs/getting-started/shortcuts">www.usememos.com/∞</a> <a href="https://fediwall.social/?tags=UseMemos&amp;accounts=&amp;lang=en&amp;title=%23UseMemos">#UseMemos</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JKAW6PMRHHG8VB5QA06ZAJMX</title>
-      <link>https://deuts.org/x/2025-02-05-18-58-57-01jkaw6pmrhhg8vb5qa06zajmx/</link>
-      <pubDate>Wed, 05 Feb 2025 18:58:57 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-05-18-58-57-01jkaw6pmrhhg8vb5qa06zajmx/</guid>
-      <description>&lt;p&gt;💰 Ever tried processing payments on a holiday? Yeah, banks just laugh at you. 🤡 I wrote a Power Query function that skips weekends and holidays to get the next banking day—because money waits for no one (except financial institutions).&lt;/p&gt;
-&lt;p&gt;Check it out: &lt;a href=&#34;https://deuts.org/p/power-query-next-banking-day/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=PowerQuery&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerQuery&#34;&gt;#PowerQuery&lt;/a&gt;
-&lt;a href=&#34;https://fediwall.social/?tags=Mlanguage&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mlanguage&#34;&gt;#Mlanguage&lt;/a&gt;
-&lt;a href=&#34;https://fediwall.social/?tags=FinancialTech&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23FinancialTech&#34;&gt;#FinancialTech&lt;/a&gt;
-&lt;a href=&#34;https://fediwall.social/?tags=DataScience&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23DataScience&#34;&gt;#DataScience&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>💰 Ever tried processing payments on a holiday? Yeah, banks just laugh at you. 🤡 I wrote a Power Query function that skips weekends and holidays to get the next banking day—because money waits for no one (except financial institutions).</p>
-<p>Check it out: <a href="https://deuts.org/p/power-query-next-banking-day/">deuts.org/∞</a></p>
-<p><a href="https://fediwall.social/?tags=PowerQuery&amp;accounts=&amp;lang=en&amp;title=%23PowerQuery">#PowerQuery</a>
-<a href="https://fediwall.social/?tags=Mlanguage&amp;accounts=&amp;lang=en&amp;title=%23Mlanguage">#Mlanguage</a>
-<a href="https://fediwall.social/?tags=FinancialTech&amp;accounts=&amp;lang=en&amp;title=%23FinancialTech">#FinancialTech</a>
-<a href="https://fediwall.social/?tags=DataScience&amp;accounts=&amp;lang=en&amp;title=%23DataScience">#DataScience</a></p>
 ]]></content:encoded>
     </item>
   </channel>
