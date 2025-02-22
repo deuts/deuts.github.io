@@ -4,11 +4,20 @@
     <title>Asides on Deuts Log</title>
     <link>https://deuts.org/x/all/</link>
     <description>Recent content in Asides on Deuts Log</description>
-    <generator>Hugo -- 0.144.1</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 20 Feb 2025 09:37:40 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:07:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts.hamili.net 3lirpbmgtgc2e</title>
+      <link>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</link>
+      <pubDate>Sun, 23 Feb 2025 00:07:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</guid>
+      <description>&lt;p&gt;Finished transferring &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; to one of my trusted VPS. Now, I&amp;rsquo;m free to play around with the old VPS.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Finished transferring <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> to one of my trusted VPS. Now, I&rsquo;m free to play around with the old VPS.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMGG1QY9YDA58EETKNTE7AFF</title>
       <link>https://deuts.org/x/2025-02-20-09-37-40-01jmgg1qy9yda58eetknte7aff/</link>
@@ -204,19 +213,6 @@
       <guid>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@reiver&#34;&gt;@reiver&lt;/a&gt; &lt;a href=&#34;https://fosstodon.org/@deuts&#34;&gt;@deuts&lt;/a&gt; No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://mastodon.social/@reiver">@reiver</a> <a href="https://fosstodon.org/@deuts">@deuts</a> No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JM1FEZPSMH8AT0FVYNYE91BY</title>
-      <link>https://deuts.org/x/2025-02-14-13-38-49-01jm1fezpsmh8at0fvynye91by/</link>
-      <pubDate>Fri, 14 Feb 2025 13:38:49 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-14-13-38-49-01jm1fezpsmh8at0fvynye91by/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@notnorm&#34;&gt;@notnorm&lt;/a&gt; I use &lt;a href=&#34;https://fediwall.social/?tags=Pushover&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Pushover&#34;&gt;#Pushover&lt;/a&gt; for notification, and I have this in the URL:
-&lt;code&gt;WATCHTOWER_NOTIFICATION_URL: pushover://shoutrrr:apptoken@userkey/?title=Green&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I also have SKIP_TITLE set to true: &lt;code&gt;WATCHTOWER_NOTIFICATION_SKIP_TITLE: true&lt;/code&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@notnorm">@notnorm</a> I use <a href="https://fediwall.social/?tags=Pushover&amp;accounts=&amp;lang=en&amp;title=%23Pushover">#Pushover</a> for notification, and I have this in the URL:
-<code>WATCHTOWER_NOTIFICATION_URL: pushover://shoutrrr:apptoken@userkey/?title=Green</code></p>
-<p>I also have SKIP_TITLE set to true: <code>WATCHTOWER_NOTIFICATION_SKIP_TITLE: true</code></p>
 ]]></content:encoded>
     </item>
   </channel>
