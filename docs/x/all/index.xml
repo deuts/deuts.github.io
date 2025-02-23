@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 00:07:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 16:03:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMRXB8NCVPK1TC2DCY38BWGS</title>
+      <link>https://deuts.org/x/2025-02-23-16-03-59-01jmrxb8ncvpk1tc2dcy38bwgs/</link>
+      <pubDate>Sun, 23 Feb 2025 16:03:59 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-23-16-03-59-01jmrxb8ncvpk1tc2dcy38bwgs/</guid>
+      <description>&lt;p&gt;Running now &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; 0.18.0. Number 1 improvement is the ability to edit posts. No. 2 is push notification, via &lt;a href=&#34;https://fediwall.social/?tags=Ntfy&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Ntfy&#34;&gt;#Ntfy&lt;/a&gt; though, not &lt;a href=&#34;https://fediwall.social/?tags=Pushover&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Pushover&#34;&gt;#Pushover&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Testing Edit now. &amp;ndash;&amp;gt; Hey it worked!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Running now <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> 0.18.0. Number 1 improvement is the ability to edit posts. No. 2 is push notification, via <a href="https://fediwall.social/?tags=Ntfy&amp;accounts=&amp;lang=en&amp;title=%23Ntfy">#Ntfy</a> though, not <a href="https://fediwall.social/?tags=Pushover&amp;accounts=&amp;lang=en&amp;title=%23Pushover">#Pushover</a>?</p>
+<p>Testing Edit now. &ndash;&gt; Hey it worked!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts.hamili.net 3lirpbmgtgc2e</title>
       <link>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</link>
@@ -204,15 +215,6 @@
     Another one of those note-taking apps.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JM1FQ4QZAA1E56EMSEB43KWA</title>
-      <link>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</link>
-      <pubDate>Fri, 14 Feb 2025 13:43:16 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-14-13-43-16-01jm1fq4qzaa1e56emseb43kwa/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@reiver&#34;&gt;@reiver&lt;/a&gt; &lt;a href=&#34;https://fosstodon.org/@deuts&#34;&gt;@deuts&lt;/a&gt; No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@reiver">@reiver</a> <a href="https://fosstodon.org/@deuts">@deuts</a> No, I suppose the 5GB are mostly the cached media from my timeline. They actually expire, 7 days I think by default.</p>
 ]]></content:encoded>
     </item>
   </channel>
