@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 16:28:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 20:44:58 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian Age Encrypt</title>
+      <link>https://deuts.org/x/391-obsidian-age-encrypt/</link>
+      <pubDate>Sun, 23 Feb 2025 20:44:58 +0800</pubDate>
+      <guid>https://deuts.org/x/391-obsidian-age-encrypt/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-391&#34;&gt;&lt;a href=&#34;https://github.com/Mr-1311/obsidian-age-encrypt&#34;&gt;Obsidian Age Encrypt&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-391 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A plugin for Obsidian that provides age-based encryption for your notes. - Mr-1311/obsidian-age-encrypt
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another one of those notes encryption plugin for Obsidian.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-391"><a href="https://github.com/Mr-1311/obsidian-age-encrypt">Obsidian Age Encrypt</a></h3>
+<style>
+.favicon-391 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A plugin for Obsidian that provides age-based encryption for your notes. - Mr-1311/obsidian-age-encrypt
+</blockquote>
+  
+<div class="linkding-notes">
+    Another one of those notes encryption plugin for Obsidian.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMRYRKX4TQWZ76W664TP0E6Z</title>
       <link>https://deuts.org/x/2025-02-23-16-28-45-01jmryrkx4tqwz76w664tp0e6z/</link>
@@ -160,15 +198,6 @@
       <guid>https://deuts.org/x/2025-02-19-21-36-43-01jmf6smsmdv8125fdkfhmccym/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@gohugoio&#34;&gt;@gohugoio&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GoHugo&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoHugo&#34;&gt;#GoHugo&lt;/a&gt; appears to be releasing updates at a rapid pace lately.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@gohugoio">@gohugoio</a> <a href="https://fediwall.social/?tags=GoHugo&amp;accounts=&amp;lang=en&amp;title=%23GoHugo">#GoHugo</a> appears to be releasing updates at a rapid pace lately.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JMDVJ3SPQR9N6MCJ9V3Z50R9</title>
-      <link>https://deuts.org/x/2025-02-19-09-01-07-01jmdvj3spqr9n6mcj9v3z50r9/</link>
-      <pubDate>Wed, 19 Feb 2025 09:01:07 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-19-09-01-07-01jmdvj3spqr9n6mcj9v3z50r9/</guid>
-      <description>&lt;p&gt;How to make sure that you&amp;rsquo;re getting the updated file in &lt;a href=&#34;https://fediwall.social/?tags=PowerQuery&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerQuery&#34;&gt;#PowerQuery&lt;/a&gt;, without the browser&amp;rsquo;s or server&amp;rsquo;s caching conflict: &lt;a href=&#34;https://deuts.org/p/powerquery-bypass-cache/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>How to make sure that you&rsquo;re getting the updated file in <a href="https://fediwall.social/?tags=PowerQuery&amp;accounts=&amp;lang=en&amp;title=%23PowerQuery">#PowerQuery</a>, without the browser&rsquo;s or server&rsquo;s caching conflict: <a href="https://deuts.org/p/powerquery-bypass-cache/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
