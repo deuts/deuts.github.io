@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 20:44:58 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 22:25:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMSK5X0WXKJ5TKJWA4S5TWRZ</title>
+      <link>https://deuts.org/x/2025-02-23-22-25-32-01jmsk5x0wxkj5tkjwa4s5twrz/</link>
+      <pubDate>Sun, 23 Feb 2025 22:25:32 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-23-22-25-32-01jmsk5x0wxkj5tkjwa4s5twrz/</guid>
+      <description>&lt;p&gt;I think the only thing keeping from going full on &lt;a href=&#34;https://fediwall.social/?tags=Blinko&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Blinko&#34;&gt;#Blinko&lt;/a&gt; is its absence of permalink for your notes, where I can easily go back to them easily using permalink link. Why do I always have to search for my notes when I should have known already where to find them?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I think the only thing keeping from going full on <a href="https://fediwall.social/?tags=Blinko&amp;accounts=&amp;lang=en&amp;title=%23Blinko">#Blinko</a> is its absence of permalink for your notes, where I can easily go back to them easily using permalink link. Why do I always have to search for my notes when I should have known already where to find them?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Obsidian Age Encrypt</title>
       <link>https://deuts.org/x/391-obsidian-age-encrypt/</link>
@@ -189,15 +198,6 @@
     Here&rsquo;s an alternative to the <code>tree</code> app and command in Linux.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JMF6SMSMDV8125FDKFHMCCYM</title>
-      <link>https://deuts.org/x/2025-02-19-21-36-43-01jmf6smsmdv8125fdkfhmccym/</link>
-      <pubDate>Wed, 19 Feb 2025 21:36:43 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-19-21-36-43-01jmf6smsmdv8125fdkfhmccym/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@gohugoio&#34;&gt;@gohugoio&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GoHugo&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoHugo&#34;&gt;#GoHugo&lt;/a&gt; appears to be releasing updates at a rapid pace lately.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@gohugoio">@gohugoio</a> <a href="https://fediwall.social/?tags=GoHugo&amp;accounts=&amp;lang=en&amp;title=%23GoHugo">#GoHugo</a> appears to be releasing updates at a rapid pace lately.</p>
 ]]></content:encoded>
     </item>
   </channel>
