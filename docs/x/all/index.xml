@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 16:03:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 16:22:05 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMRYCDV681CGV0WDYVWVNT3X</title>
+      <link>https://deuts.org/x/2025-02-23-16-22-05-01jmrycdv681cgv0wdyvwvnt3x/</link>
+      <pubDate>Sun, 23 Feb 2025 16:22:05 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-23-16-22-05-01jmrycdv681cgv0wdyvwvnt3x/</guid>
+      <description>&lt;p&gt;Will people in the &lt;a href=&#34;https://fediwall.social/?tags=Fediverse&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Fediverse&#34;&gt;#Fediverse&lt;/a&gt; take you more seriously if you&amp;rsquo;re running your own Fediverse instance, may it be &lt;a href=&#34;https://fediwall.social/?tags=Mastodon&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mastodon&#34;&gt;#Mastodon&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt;?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Will people in the <a href="https://fediwall.social/?tags=Fediverse&amp;accounts=&amp;lang=en&amp;title=%23Fediverse">#Fediverse</a> take you more seriously if you&rsquo;re running your own Fediverse instance, may it be <a href="https://fediwall.social/?tags=Mastodon&amp;accounts=&amp;lang=en&amp;title=%23Mastodon">#Mastodon</a> or <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a>?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMRXB8NCVPK1TC2DCY38BWGS</title>
       <link>https://deuts.org/x/2025-02-23-16-03-59-01jmrxb8ncvpk1tc2dcy38bwgs/</link>
@@ -175,44 +184,6 @@
   
 <div class="linkding-notes">
     Already tested this. Yes it&rsquo;s simple. I think too simple. No frontmatter support whatsoever.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Memory notetaking app</title>
-      <link>https://deuts.org/x/386-memory-notetaking-app/</link>
-      <pubDate>Fri, 14 Feb 2025 22:52:25 +0800</pubDate>
-      <guid>https://deuts.org/x/386-memory-notetaking-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-386&#34;&gt;&lt;a href=&#34;https://github.com/yousboot/Memory&#34;&gt;Memory notetaking app&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-386 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A self-hosted editor and note taking app.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another one of those note-taking apps.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-386"><a href="https://github.com/yousboot/Memory">Memory notetaking app</a></h3>
-<style>
-.favicon-386 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A self-hosted editor and note taking app.
-</blockquote>
-  
-<div class="linkding-notes">
-    Another one of those note-taking apps.
 </div>
   
 ]]></content:encoded>
