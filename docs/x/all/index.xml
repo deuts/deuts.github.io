@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 22:25:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:44:47 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker WordPress in SQLite</title>
+      <link>https://deuts.org/x/392-docker-wordpress-in-sqlite/</link>
+      <pubDate>Sun, 23 Feb 2025 23:44:47 +0800</pubDate>
+      <guid>https://deuts.org/x/392-docker-wordpress-in-sqlite/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-392&#34;&gt;&lt;a href=&#34;https://github.com/yunussandikci/docker-wordpress-sqlite&#34;&gt;Docker WordPress in SQLite&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-392 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This repository provides always up-to-date WordPress Docker images with SQLite support, making it the best choice for quick development, testing, and small-scale deployments.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is a good alternative indeed, especially if you&amp;rsquo;re the only user in your WordPress blog anyway.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-392"><a href="https://github.com/yunussandikci/docker-wordpress-sqlite">Docker WordPress in SQLite</a></h3>
+<style>
+.favicon-392 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This repository provides always up-to-date WordPress Docker images with SQLite support, making it the best choice for quick development, testing, and small-scale deployments.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is a good alternative indeed, especially if you&rsquo;re the only user in your WordPress blog anyway.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMSK5X0WXKJ5TKJWA4S5TWRZ</title>
       <link>https://deuts.org/x/2025-02-23-22-25-32-01jmsk5x0wxkj5tkjwa4s5twrz/</link>
@@ -158,44 +196,6 @@
   
 <div class="linkding-notes">
     Another option for my future Hugo projects.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tree</title>
-      <link>https://deuts.org/x/388-tree/</link>
-      <pubDate>Wed, 19 Feb 2025 22:37:15 +0800</pubDate>
-      <guid>https://deuts.org/x/388-tree/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-388&#34;&gt;&lt;a href=&#34;https://tree.nathanfriend.com/&#34;&gt;Tree&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-388 {
-    background: url(&#39;https://bm.deuts.org/static/https_tree_nathanfriend_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Here&amp;rsquo;s an alternative to the &lt;code&gt;tree&lt;/code&gt; app and command in Linux.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-388"><a href="https://tree.nathanfriend.com/">Tree</a></h3>
-<style>
-.favicon-388 {
-    background: url('https://bm.deuts.org/static/https_tree_nathanfriend_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
-</blockquote>
-  
-<div class="linkding-notes">
-    Here&rsquo;s an alternative to the <code>tree</code> app and command in Linux.
 </div>
   
 ]]></content:encoded>
