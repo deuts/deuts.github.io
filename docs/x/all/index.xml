@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 09:08:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 11:13:44 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMTZ4H9NMKZEKZCGBVT74FHK</title>
+      <link>https://deuts.org/x/2025-02-24-11-13-44-01jmtz4h9nmkzekzcgbvt74fhk/</link>
+      <pubDate>Mon, 24 Feb 2025 11:13:44 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-24-11-13-44-01jmtz4h9nmkzekzcgbvt74fhk/</guid>
+      <description>&lt;p&gt;It keeps me wondering, if I&amp;rsquo;m gonna install &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;, why not go directly with &lt;a href=&#34;https://fediwall.social/?tags=CloudflareTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CloudflareTunnel&#34;&gt;#CloudflareTunnel&lt;/a&gt;?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>It keeps me wondering, if I&rsquo;m gonna install <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>, why not go directly with <a href="https://fediwall.social/?tags=CloudflareTunnel&amp;accounts=&amp;lang=en&amp;title=%23CloudflareTunnel">#CloudflareTunnel</a>?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMTQZ33AJZZ7ZCCWX9NZR0XM</title>
       <link>https://deuts.org/x/2025-02-24-09-08-26-01jmtqz33ajzz7zccwx9nzr0xm/</link>
@@ -160,15 +169,6 @@
       <guid>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</guid>
       <description>&lt;p&gt;Finished transferring &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; to one of my trusted VPS. Now, I&amp;rsquo;m free to play around with the old VPS.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Finished transferring <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> to one of my trusted VPS. Now, I&rsquo;m free to play around with the old VPS.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JMGG1QY9YDA58EETKNTE7AFF</title>
-      <link>https://deuts.org/x/2025-02-20-09-37-40-01jmgg1qy9yda58eetknte7aff/</link>
-      <pubDate>Thu, 20 Feb 2025 09:37:40 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-20-09-37-40-01jmgg1qy9yda58eetknte7aff/</guid>
-      <description>&lt;p&gt;I give up on &lt;a href=&#34;https://fediwall.social/?tags=Authelia&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Authelia&#34;&gt;#Authelia&lt;/a&gt;. Why can&amp;rsquo;t it just come up with a very basic configuration for a very basic purpose like if you just want a simple username and password security for some of your services? Why complicate everything from the start? Any suggestion for alternatives please?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I give up on <a href="https://fediwall.social/?tags=Authelia&amp;accounts=&amp;lang=en&amp;title=%23Authelia">#Authelia</a>. Why can&rsquo;t it just come up with a very basic configuration for a very basic purpose like if you just want a simple username and password security for some of your services? Why complicate everything from the start? Any suggestion for alternatives please?</p>
 ]]></content:encoded>
     </item>
   </channel>
