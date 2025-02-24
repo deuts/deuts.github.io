@@ -7,8 +7,25 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 11:13:44 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 15:51:29 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMVF13H2NYQ4J0J7H0Q9Q6P1</title>
+      <link>https://deuts.org/x/2025-02-24-15-51-29-01jmvf13h2nyq4j0j7h0q9q6p1/</link>
+      <pubDate>Mon, 24 Feb 2025 15:51:29 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-24-15-51-29-01jmvf13h2nyq4j0j7h0q9q6p1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Kopia&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Kopia&#34;&gt;#Kopia&lt;/a&gt; is great. At least it didn&amp;rsquo;t fail me so far. However, here are my gripes about it:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You need to run separate instances if you want to use multiple repositories&lt;/li&gt;
+&lt;li&gt;The cache and logs folders can bloat that they sometimes occupy significant server storage.&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Kopia&amp;accounts=&amp;lang=en&amp;title=%23Kopia">#Kopia</a> is great. At least it didn&rsquo;t fail me so far. However, here are my gripes about it:</p>
+<ol>
+<li>You need to run separate instances if you want to use multiple repositories</li>
+<li>The cache and logs folders can bloat that they sometimes occupy significant server storage.</li>
+</ol>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMTZ4H9NMKZEKZCGBVT74FHK</title>
       <link>https://deuts.org/x/2025-02-24-11-13-44-01jmtz4h9nmkzekzcgbvt74fhk/</link>
@@ -160,15 +177,6 @@
 &lt;p&gt;Testing Edit now. &amp;ndash;&amp;gt; Hey it worked!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Running now <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> 0.18.0. Number 1 improvement is the ability to edit posts. No. 2 is push notification, via <a href="https://fediwall.social/?tags=Ntfy&amp;accounts=&amp;lang=en&amp;title=%23Ntfy">#Ntfy</a> though, not <a href="https://fediwall.social/?tags=Pushover&amp;accounts=&amp;lang=en&amp;title=%23Pushover">#Pushover</a>?</p>
 <p>Testing Edit now. &ndash;&gt; Hey it worked!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lirpbmgtgc2e</title>
-      <link>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</link>
-      <pubDate>Sun, 23 Feb 2025 00:07:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-23-00-07-3lirpbmgtgc2e/</guid>
-      <description>&lt;p&gt;Finished transferring &lt;a href=&#34;https://bsky.app/hashtag/uptimekuma&#34;&gt;#UptimeKuma&lt;/a&gt; to one of my trusted VPS. Now, I&amp;rsquo;m free to play around with the old VPS.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Finished transferring <a href="https://bsky.app/hashtag/uptimekuma">#UptimeKuma</a> to one of my trusted VPS. Now, I&rsquo;m free to play around with the old VPS.</p>
 ]]></content:encoded>
     </item>
   </channel>
