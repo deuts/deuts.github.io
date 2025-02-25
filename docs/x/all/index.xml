@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 15:51:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 08:45:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JMX92C9JR2Q1RN97Z0NX1VQB</title>
+      <link>https://deuts.org/x/2025-02-25-08-45-48-01jmx92c9jr2q1rn97z0nx1vqb/</link>
+      <pubDate>Tue, 25 Feb 2025 08:45:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-02-25-08-45-48-01jmx92c9jr2q1rn97z0nx1vqb/</guid>
+      <description>&lt;p&gt;Support for multiple domain names is in the roadmap for &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;. Hopefully it&amp;rsquo;ll be implemented soon. &lt;a href=&#34;https://docs.fossorial.io/roadmap%5B#organization%5D(https://fediwall.social/?tags=organization&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23organization)--domain-management&#34;&gt;docs.fossorial.io/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Support for multiple domain names is in the roadmap for <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>. Hopefully it&rsquo;ll be implemented soon. <a href="https://docs.fossorial.io/roadmap%5B#organization%5D(https://fediwall.social/?tags=organization&amp;accounts=&amp;lang=en&amp;title=%23organization)--domain-management">docs.fossorial.io/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JMVF13H2NYQ4J0J7H0Q9Q6P1</title>
       <link>https://deuts.org/x/2025-02-24-15-51-29-01jmvf13h2nyq4j0j7h0q9q6p1/</link>
@@ -166,17 +175,6 @@
       <guid>https://deuts.org/x/2025-02-23-16-22-05-01jmrycdv681cgv0wdyvwvnt3x/</guid>
       <description>&lt;p&gt;Will people in the &lt;a href=&#34;https://fediwall.social/?tags=Fediverse&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Fediverse&#34;&gt;#Fediverse&lt;/a&gt; take you more seriously if you&amp;rsquo;re running your own Fediverse instance, may it be &lt;a href=&#34;https://fediwall.social/?tags=Mastodon&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mastodon&#34;&gt;#Mastodon&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt;?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Will people in the <a href="https://fediwall.social/?tags=Fediverse&amp;accounts=&amp;lang=en&amp;title=%23Fediverse">#Fediverse</a> take you more seriously if you&rsquo;re running your own Fediverse instance, may it be <a href="https://fediwall.social/?tags=Mastodon&amp;accounts=&amp;lang=en&amp;title=%23Mastodon">#Mastodon</a> or <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a>?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JMRXB8NCVPK1TC2DCY38BWGS</title>
-      <link>https://deuts.org/x/2025-02-23-16-03-59-01jmrxb8ncvpk1tc2dcy38bwgs/</link>
-      <pubDate>Sun, 23 Feb 2025 16:03:59 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-23-16-03-59-01jmrxb8ncvpk1tc2dcy38bwgs/</guid>
-      <description>&lt;p&gt;Running now &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; 0.18.0. Number 1 improvement is the ability to edit posts. No. 2 is push notification, via &lt;a href=&#34;https://fediwall.social/?tags=Ntfy&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Ntfy&#34;&gt;#Ntfy&lt;/a&gt; though, not &lt;a href=&#34;https://fediwall.social/?tags=Pushover&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Pushover&#34;&gt;#Pushover&lt;/a&gt;?&lt;/p&gt;
-&lt;p&gt;Testing Edit now. &amp;ndash;&amp;gt; Hey it worked!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Running now <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> 0.18.0. Number 1 improvement is the ability to edit posts. No. 2 is push notification, via <a href="https://fediwall.social/?tags=Ntfy&amp;accounts=&amp;lang=en&amp;title=%23Ntfy">#Ntfy</a> though, not <a href="https://fediwall.social/?tags=Pushover&amp;accounts=&amp;lang=en&amp;title=%23Pushover">#Pushover</a>?</p>
-<p>Testing Edit now. &ndash;&gt; Hey it worked!</p>
 ]]></content:encoded>
     </item>
   </channel>
