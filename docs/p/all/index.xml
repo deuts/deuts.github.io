@@ -7,8 +7,94 @@
     <generator>Hugo -- 0.144.2</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 19 Feb 2025 08:54:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 16:08:02 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SharePoint Folder vs. SharePoint List as a Power Apps Data Source</title>
+      <link>https://deuts.org/p/sharepoint-folder-vs-list-power-apps/</link>
+      <pubDate>Tue, 25 Feb 2025 16:08:02 +0800</pubDate>
+      <guid>https://deuts.org/p/sharepoint-folder-vs-list-power-apps/</guid>
+      <description>Explore the differences between using a SharePoint folder and a SharePoint list as a data source in Power Apps. Understand key limitations, such as delegation, filtering, patching, and metadata handling, to make the right choice for your app.</description>
+      <content:encoded><![CDATA[<p>When building apps with <strong>Power Apps</strong>, many users like me who don&rsquo;t have premium licenses choose <strong>SharePoint</strong> as a data source. However, selecting between a <strong>SharePoint folder (document library)</strong> and a <strong>SharePoint list</strong> can significantly impact performance and functionality. This post explores the key differences and limitations when using a <strong>SharePoint folder</strong> compared to a <strong>SharePoint list</strong> in Power Apps.</p>
+<h2 id="1-delegation-limits"><strong>1. Delegation Limits</strong></h2>
+<p>Power Apps supports <strong>delegation</strong> for SharePoint <strong>lists</strong>, allowing queries to be processed on the backend rather than locally on the device. However, <strong>SharePoint folders (document libraries) do not support delegation</strong>, meaning:</p>
+<ul>
+<li>Power Apps retrieves only a limited number of files (default: <strong>500</strong>, max: <strong>2,000</strong>).</li>
+<li>Queries on large document libraries can lead to <strong>performance issues</strong>.</li>
+</ul>
+<p>If you need to work with thousands of records, a SharePoint <strong>list</strong> is the better choice.</p>
+<h2 id="2-filtering--sorting"><strong>2. Filtering &amp; Sorting</strong></h2>
+<ul>
+<li>In <strong>SharePoint lists</strong>, filtering and sorting are handled on the backend, making them efficient.</li>
+<li>In <strong>SharePoint folders</strong>, Power Apps processes filtering and sorting <strong>client-side</strong>, which slows down performance if the library contains many files.</li>
+</ul>
+<h2 id="3-no-patch-support"><strong>3. No Patch() Support</strong></h2>
+<p>The <code>Patch()</code> function in Power Apps allows direct updates to <strong>SharePoint lists</strong>, making it easy to modify data without additional automation. Unfortunately, <strong>SharePoint folders do not support <code>Patch()</code></strong>, meaning:</p>
+<ul>
+<li>You <strong>cannot update metadata</strong> (e.g., file status, category) directly from Power Apps.</li>
+<li>Workarounds require <strong>Power Automate</strong> to handle updates via flows.</li>
+</ul>
+<h2 id="4-limited-file-handling"><strong>4. Limited File Handling</strong></h2>
+<p>Power Apps can <strong>list files</strong> from a SharePoint folder but has no built-in file management capabilities. You <strong>cannot</strong>:</p>
+<ul>
+<li>Move files between folders.</li>
+<li>Rename or delete files within Power Apps.</li>
+</ul>
+<p>Instead, you need <strong>Power Automate</strong> for these actions.</p>
+<h2 id="5-performance-issues-with-large-libraries"><strong>5. Performance Issues with Large Libraries</strong></h2>
+<p>SharePoint has a <strong>list view threshold</strong> of <strong>5,000 items</strong>, affecting document libraries with thousands of files. While SharePoint lists allow indexed columns and views to optimize performance, document libraries often require workarounds, such as filtering by folders or using indexed metadata columns.</p>
+<h2 id="6-metadata-handling"><strong>6. Metadata Handling</strong></h2>
+<ul>
+<li><strong>SharePoint lists</strong> have structured columns, relationships, and lookups, making data manipulation easier.</li>
+<li><strong>SharePoint folders</strong> store metadata, but accessing and modifying it from Power Apps requires additional effort.</li>
+</ul>
+<h2 id="when-to-use-sharepoint-lists-vs-folders-in-power-apps"><strong>When to Use SharePoint Lists vs. Folders in Power Apps</strong></h2>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>SharePoint List</th>
+          <th>SharePoint Folder (Document Library)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Delegation</td>
+          <td>✅ Yes</td>
+          <td>❌ No</td>
+      </tr>
+      <tr>
+          <td>Filtering &amp; Sorting</td>
+          <td>✅ Efficient</td>
+          <td>❌ Slower (Client-side)</td>
+      </tr>
+      <tr>
+          <td>Supports <code>Patch()</code></td>
+          <td>✅ Yes</td>
+          <td>❌ No</td>
+      </tr>
+      <tr>
+          <td>File Management</td>
+          <td>❌ No files, only data</td>
+          <td>❌ Limited (No move/rename/delete)</td>
+      </tr>
+      <tr>
+          <td>Large Data Support</td>
+          <td>✅ Optimized with indexes</td>
+          <td>❌ Performance issues with &gt;5,000 files</td>
+      </tr>
+      <tr>
+          <td>Metadata Handling</td>
+          <td>✅ Structured &amp; easy to update</td>
+          <td>❌ Requires Power Automate for updates</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="final-thoughts"><strong>Final Thoughts</strong></h3>
+<p>If your Power Apps solution requires <strong>structured data</strong>, complex filtering, and efficient data management, a <strong>SharePoint list</strong> is the best choice. However, if you need to work with <strong>files</strong>, be prepared for <strong>limitations in filtering, sorting, and metadata updates</strong> when using a SharePoint folder.</p>
+<p>For advanced file handling, consider integrating <strong>Power Automate</strong> to manage document library operations while using Power Apps for display and interaction.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Ensuring Updated Files in Power Query Without Cache Conflicts</title>
       <link>https://deuts.org/p/powerquery-bypass-cache/</link>
@@ -612,25 +698,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
       </tr>
   </tbody>
 </table>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tailscale Accept DNS Settings</title>
-      <link>https://deuts.org/p/tailscale-accept-dns-settings/</link>
-      <pubDate>Wed, 11 Dec 2024 13:02:41 +0800</pubDate>
-      <guid>https://deuts.org/p/tailscale-accept-dns-settings/</guid>
-      <description>Tailscale automatically manages DNS settings, but you may prefer to use local DNS servers. Find out how to disable Tailscale DNS on Linux and how the process differs on Windows.</description>
-      <content:encoded><![CDATA[<p>When you install Tailscale on a Linux server and run the <code>sudo tailscale up</code> command, it automatically enables DNS management with the setting <code>--accept-dns=true</code>. This forces Tailscale to handle DNS resolution, which may not always be what you want.</p>
-<p>By default, when you enable <strong>MagicDNS</strong> in the Tailscale admin panel, it overwrites your <code>/etc/resolv.conf</code> file with its DNS server <code>100.100.100.100</code>. If you add a custom nameserver and enable <strong>Override local DNS</strong>, Tailscale will apply that DNS server across all devices in your Tailnet. This is useful if you’re using services like Pi-Hole or NextDNS.</p>
-<p>But what if you want to disable Tailscale DNS on certain devices and revert to local DNS settings?</p>
-<h2 id="disabling-tailscale-dns-on-linux">Disabling Tailscale DNS on Linux</h2>
-<p>To disable Tailscale&rsquo;s DNS management on Linux, run:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo tailscale set --accept-dns<span style="color:#f92672">=</span>false
-</span></span></code></pre></div><p>This command will revert your <code>/etc/resolv.conf</code> to the DNS values it had before Tailscale was installed, like <code>1.1.1.1</code> or <code>8.8.8.8</code>. Your Linux server will no longer be affected by Tailscale&rsquo;s DNS settings, which is useful if you prefer to manage DNS locally, particularly on a VPS where misconfigurations, either in the DNS settings or the ACL, can be problematic.</p>
-<h2 id="tailscale-dns-on-windows">Tailscale DNS on Windows</h2>
-<p>On Windows, this process is easier, as there&rsquo;s a simple checkbox to disable Tailscale DNS in the system tray preferences. This GUI option offers a more straightforward way to adjust DNS settings without needing terminal commands.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>Tailscale’s DNS management is convenient, but sometimes you may need to regain control over DNS settings. Disabling Tailscale DNS on Linux is a quick way to ensure your server uses local DNS settings, keeping your configuration simple and reliable.</p>
 ]]></content:encoded>
     </item>
   </channel>
