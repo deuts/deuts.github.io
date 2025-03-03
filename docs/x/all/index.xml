@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 02 Mar 2025 13:50:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 10:29:51 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNCXD6S5CEWWZ079XY1NWHZ2</title>
+      <link>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</link>
+      <pubDate>Mon, 03 Mar 2025 10:29:51 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</guid>
+      <description>&lt;p&gt;I think I need to revisit &lt;a href=&#34;https://fediwall.social/?tags=BookStack&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BookStack&#34;&gt;#BookStack&lt;/a&gt; as a documentation platform. One thing good it has going is its granular access control capability.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I think I need to revisit <a href="https://fediwall.social/?tags=BookStack&amp;accounts=&amp;lang=en&amp;title=%23BookStack">#BookStack</a> as a documentation platform. One thing good it has going is its granular access control capability.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Guide: Obsidian with free, self-hosted, instant sync</title>
       <link>https://deuts.org/x/397-guide-obsidian-with-free-self-hosted-instant-sync/</link>
@@ -175,22 +184,6 @@
       <guid>https://deuts.org/x/2025-02-27-12-00-30-01jn2s09yr7ge3rtywaybqpe24/</guid>
       <description>&lt;p&gt;One good advantage of &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; is it accepts up to 5,000 characters toots/statuses/messages, compared to just 500 in &lt;a href=&#34;https://fediwall.social/?tags=Mastodon&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mastodon&#34;&gt;#Mastodon&lt;/a&gt; (at least in my &lt;a href=&#34;https://fediwall.social/?tags=FossTodon&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23FossTodon&#34;&gt;#FossTodon&lt;/a&gt; instance). I can post blog-like contents in here.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>One good advantage of <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> is it accepts up to 5,000 characters toots/statuses/messages, compared to just 500 in <a href="https://fediwall.social/?tags=Mastodon&amp;accounts=&amp;lang=en&amp;title=%23Mastodon">#Mastodon</a> (at least in my <a href="https://fediwall.social/?tags=FossTodon&amp;accounts=&amp;lang=en&amp;title=%23FossTodon">#FossTodon</a> instance). I can post blog-like contents in here.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN2RVW84HNMAR1620KS3G97H</title>
-      <link>https://deuts.org/x/2025-02-27-11-58-05-01jn2rvw84hnmar1620ks3g97h/</link>
-      <pubDate>Thu, 27 Feb 2025 11:58:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-27-11-58-05-01jn2rvw84hnmar1620ks3g97h/</guid>
-      <description>&lt;p&gt;Received this email from &lt;a href=&#34;https://fediwall.social/?tags=GreenCloudVPS&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GreenCloudVPS&#34;&gt;#GreenCloudVPS&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;We would like to inform you about an upcoming data center migration for our SG DC1. As of April 2025, our current SG DC1 upstream provider, Datacamp/CDN77, will cease operations at Digital Realty (formerly known as Cyxtera), the facility where our rack is currently located. As a result, we will be relocating our rack to a new upstream provider, xTom, at Global Switch Tai Seng.&lt;/p&gt;
-&lt;p&gt;The migration is scheduled to take place in mid-March 2025. During this process, we anticipate a service outage lasting approximately 12–24 hours. No data or IP addresses will be affected. We will provide the exact date and time in a follow-up email once confirmed.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Received this email from <a href="https://fediwall.social/?tags=GreenCloudVPS&amp;accounts=&amp;lang=en&amp;title=%23GreenCloudVPS">#GreenCloudVPS</a>:</p>
-<blockquote>
-<p>We would like to inform you about an upcoming data center migration for our SG DC1. As of April 2025, our current SG DC1 upstream provider, Datacamp/CDN77, will cease operations at Digital Realty (formerly known as Cyxtera), the facility where our rack is currently located. As a result, we will be relocating our rack to a new upstream provider, xTom, at Global Switch Tai Seng.</p>
-<p>The migration is scheduled to take place in mid-March 2025. During this process, we anticipate a service outage lasting approximately 12–24 hours. No data or IP addresses will be affected. We will provide the exact date and time in a follow-up email once confirmed.</p></blockquote>
-<p>I just hope this happens at night. This server is so important to me it runs several important scripts. And hopefully, the outage won&rsquo;t take that long.</p>
 ]]></content:encoded>
     </item>
   </channel>
