@@ -7,8 +7,25 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 18:05:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 19:41:19 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNDWYYWNN1JHT45E5XGDC8PJ</title>
+      <link>https://deuts.org/x/2025-03-03-19-41-19-01jndwyywnn1jht45e5xgdc8pj/</link>
+      <pubDate>Mon, 03 Mar 2025 19:41:19 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-03-19-41-19-01jndwyywnn1jht45e5xgdc8pj/</guid>
+      <description>&lt;p&gt;Markdown in &lt;a href=&#34;https://fediwall.social/?tags=BookStackApp&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BookStackApp&#34;&gt;#BookStackApp&lt;/a&gt; is too limited, I think I should stick to WYSIWYG instead moving forward. Some features I&amp;rsquo;m missing with just Markdown:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Callouts&lt;/li&gt;
+&lt;li&gt;Footnotes&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>Markdown in <a href="https://fediwall.social/?tags=BookStackApp&amp;accounts=&amp;lang=en&amp;title=%23BookStackApp">#BookStackApp</a> is too limited, I think I should stick to WYSIWYG instead moving forward. Some features I&rsquo;m missing with just Markdown:</p>
+<ol>
+<li>Callouts</li>
+<li>Footnotes</li>
+</ol>
+]]></content:encoded>
+    </item>
     <item>
       <title>Bookstack API Scripts</title>
       <link>https://deuts.org/x/398-bookstack-api-scripts/</link>
@@ -204,15 +221,6 @@
       <guid>https://deuts.org/x/2025-02-27-15-16-45-01jn347nehwgr8d9rmesezp4vj/</guid>
       <description>&lt;p&gt;A lot of banks in the Philippines still rely on SMS for &lt;a href=&#34;https://fediwall.social/?tags=2FA&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%232FA&#34;&gt;#2FA&lt;/a&gt;, despite how insecure it is—easily spoofed, intercepted, and unreliable. Some use in-app confirmations via their mobile app, but if you lose access to your phone, you&amp;rsquo;re probably locked out. Why not support standard authentication apps like &lt;a href=&#34;https://fediwall.social/?tags=2FAS&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%232FAS&#34;&gt;#2FAS&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Aegis&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Aegis&#34;&gt;#Aegis&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Bitwarden&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bitwarden&#34;&gt;#Bitwarden&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Vaultwarden&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Vaultwarden&#34;&gt;#Vaultwarden&lt;/a&gt;, or &lt;a href=&#34;https://fediwall.social/?tags=KeePassXC&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23KeePassXC&#34;&gt;#KeePassXC&lt;/a&gt;, which have TOTP support and easy backups? That way, I wouldn’t have to worry about losing access. &lt;a href=&#34;https://fediwall.social/?tags=MFA&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23MFA&#34;&gt;#MFA&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=MultiFactorAuthentication&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23MultiFactorAuthentication&#34;&gt;#MultiFactorAuthentication&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Security&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Security&#34;&gt;#Security&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>A lot of banks in the Philippines still rely on SMS for <a href="https://fediwall.social/?tags=2FA&amp;accounts=&amp;lang=en&amp;title=%232FA">#2FA</a>, despite how insecure it is—easily spoofed, intercepted, and unreliable. Some use in-app confirmations via their mobile app, but if you lose access to your phone, you&rsquo;re probably locked out. Why not support standard authentication apps like <a href="https://fediwall.social/?tags=2FAS&amp;accounts=&amp;lang=en&amp;title=%232FAS">#2FAS</a>, <a href="https://fediwall.social/?tags=Aegis&amp;accounts=&amp;lang=en&amp;title=%23Aegis">#Aegis</a>, <a href="https://fediwall.social/?tags=Bitwarden&amp;accounts=&amp;lang=en&amp;title=%23Bitwarden">#Bitwarden</a>, <a href="https://fediwall.social/?tags=Vaultwarden&amp;accounts=&amp;lang=en&amp;title=%23Vaultwarden">#Vaultwarden</a>, or <a href="https://fediwall.social/?tags=KeePassXC&amp;accounts=&amp;lang=en&amp;title=%23KeePassXC">#KeePassXC</a>, which have TOTP support and easy backups? That way, I wouldn’t have to worry about losing access. <a href="https://fediwall.social/?tags=MFA&amp;accounts=&amp;lang=en&amp;title=%23MFA">#MFA</a> <a href="https://fediwall.social/?tags=MultiFactorAuthentication&amp;accounts=&amp;lang=en&amp;title=%23MultiFactorAuthentication">#MultiFactorAuthentication</a> <a href="https://fediwall.social/?tags=Security&amp;accounts=&amp;lang=en&amp;title=%23Security">#Security</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN30AH41PJN423J80EDKBN8Y</title>
-      <link>https://deuts.org/x/2025-02-27-14-08-25-01jn30ah41pjn423j80edkbn8y/</link>
-      <pubDate>Thu, 27 Feb 2025 14:08:25 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-27-14-08-25-01jn30ah41pjn423j80edkbn8y/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://polymaths.social/@kudzu&#34;&gt;@kudzu&lt;/a&gt; &lt;a href=&#34;https://polymaths.social/@amin&#34;&gt;@amin&lt;/a&gt; &lt;a href=&#34;https://polymaths.social/@rl_dane&#34;&gt;@rl_dane&lt;/a&gt; Edits are already available in the latest release of &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://polymaths.social/@kudzu">@kudzu</a> <a href="https://polymaths.social/@amin">@amin</a> <a href="https://polymaths.social/@rl_dane">@rl_dane</a> Edits are already available in the latest release of <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a></p>
 ]]></content:encoded>
     </item>
   </channel>
