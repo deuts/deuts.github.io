@@ -16,13 +16,25 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</loc>
-    <lastmod>2025-03-03T10:29:51+08:00</lastmod>
+    <loc>https://deuts.org/k/api/</loc>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-03-03T10:29:51+08:00</lastmod>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/bookstack/</loc>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/398-bookstack-api-scripts/</loc>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-03-03T18:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</loc>
     <lastmod>2025-03-03T10:29:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/couchdb/</loc>
@@ -32,9 +44,6 @@
     <lastmod>2025-03-02T13:50:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/obsidian/</loc>
-    <lastmod>2025-03-02T13:50:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-03-02T13:50:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/cms/</loc>
@@ -2040,9 +2049,6 @@
   </url><url>
     <loc>https://deuts.org/x/171-markopolis-app-installation/</loc>
     <lastmod>2024-09-04T21:18:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bookstack/</loc>
-    <lastmod>2024-09-04T21:13:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/170-github-jaypyles-obsidian-to-bookstack-download-and-upload-changes-between-an-obsidian-vault-and-a-bookstack-instance/</loc>
     <lastmod>2024-09-04T21:13:11+08:00</lastmod>
