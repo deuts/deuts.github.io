@@ -7,8 +7,118 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 16:08:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 23:28:25 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Logseq can be a better choice over Obsidian</title>
+      <link>https://deuts.org/p/logsec-vs-obsidian/</link>
+      <pubDate>Tue, 04 Mar 2025 23:28:25 +0800</pubDate>
+      <guid>https://deuts.org/p/logsec-vs-obsidian/</guid>
+      <description>Logseq provides an intuitive outliner-first experience, seamless bidirectional linking, and powerful task management—all in an open-source package. This post explores why Logseq might be a better alternative to Obsidian for organizing your notes and ideas.</description>
+      <content:encoded><![CDATA[<p>While both Logseq and Obsidian are excellent knowledge management tools, Logseq offers some distinct advantages that might make it more suitable for your workflow:</p>
+<h3 id="why-logseq-might-be-a-better-choice">Why Logseq might be a better choice</h3>
+<ul>
+<li>
+<p><strong>Outliner-First Approach</strong> - Logseq&rsquo;s hierarchical bullet-point structure makes organizing thoughts more intuitive. You can easily nest ideas and create structured content without worrying about formatting.</p>
+</li>
+<li>
+<p><strong>Bidirectional Linking by Default</strong> - While Obsidian has backlinks, Logseq treats every reference as truly bidirectional, making connections between ideas more seamless.</p>
+</li>
+<li>
+<p><strong>Daily Notes as Standard</strong> - Logseq automatically creates daily journals, encouraging regular documentation and making it easier to track thoughts chronologically.</p>
+</li>
+<li>
+<p><strong>Open Source Philosophy</strong> - Logseq is fully open-source, which means greater transparency and community involvement in its development.</p>
+</li>
+<li>
+<p><strong>Graph Database Backend</strong> - The underlying architecture makes complex queries and connections between your notes more powerful.</p>
+</li>
+<li>
+<p><strong>Block References</strong> - You can reference and embed specific blocks (not just pages) throughout your notes, creating more granular connections.</p>
+</li>
+<li>
+<p><strong>Task Management Built-In</strong> - Logseq has robust task management features with TODO states, priorities, and deadlines integrated directly into your notes.</p>
+</li>
+<li>
+<p><strong>Whiteboarding Capabilities</strong> - Recent updates have added excellent whiteboarding features that combine well with the outliner approach.</p>
+</li>
+</ul>
+<h3 id="summary-comparison">Summary Comparison</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Logseq</th>
+          <th>Obsidian</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Core Structure</td>
+          <td>Outliner-based (bullet points)</td>
+          <td>Document-based (markdown files)</td>
+      </tr>
+      <tr>
+          <td>Linking</td>
+          <td>Bidirectional by default</td>
+          <td>Backlinks as a feature</td>
+      </tr>
+      <tr>
+          <td>Daily Notes</td>
+          <td>Automatically created and integrated</td>
+          <td>Available as a plugin</td>
+      </tr>
+      <tr>
+          <td>Source Code</td>
+          <td>Fully open-source</td>
+          <td>Closed source with open plugin API</td>
+      </tr>
+      <tr>
+          <td>Backend</td>
+          <td>Graph database</td>
+          <td>File-based system</td>
+      </tr>
+      <tr>
+          <td>Referencing</td>
+          <td>Block-level references</td>
+          <td>Page-level references primarily</td>
+      </tr>
+      <tr>
+          <td>Task Management</td>
+          <td>Built-in TODO system with states</td>
+          <td>Requires plugins for robust task management</td>
+      </tr>
+      <tr>
+          <td>Whiteboarding</td>
+          <td>Integrated whiteboard capabilities</td>
+          <td>Available through plugins</td>
+      </tr>
+      <tr>
+          <td>Data Storage</td>
+          <td>Local plain text files (.md/.org)</td>
+          <td>Local plain text files (.md)</td>
+      </tr>
+      <tr>
+          <td>Pricing</td>
+          <td>Free, open-source</td>
+          <td>Free core, paid sync service</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="where-obsidian-still-shines">Where Obsidian Still Shines</h3>
+<p>It&rsquo;s important to acknowledge Obsidian&rsquo;s strengths that make this decision difficult:</p>
+<ul>
+<li><strong>Mature plugin ecosystem:</strong> Thousands of community plugins for customization</li>
+<li><strong>Document-centric approach:</strong> Better for long-form writing and publishing</li>
+<li><strong>Performance with large vaults:</strong> Generally handles massive collections better</li>
+<li><strong>Polished UI/UX:</strong> More refined interface and smoother experience</li>
+<li><strong>Themes and customization:</strong> More options for personalizing appearance</li>
+<li><strong>Mobile experience:</strong> Generally considered more mature on mobile devices</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>For now, my priority is mature ecosystem, document-centric approach, and polished experienced. Thus, Obsidian it is.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>SharePoint Folder vs. SharePoint List as a Power Apps Data Source</title>
       <link>https://deuts.org/p/sharepoint-folder-vs-list-power-apps/</link>
@@ -597,107 +707,6 @@ Most likely, a new IP address will be assigned, forcing customers to update DNS 
 </ol>
 <p><strong>Conclusion</strong></p>
 <p>GreenCloud’s approach to migration highlights the real cost of cheap VPS hosting: when the price is low, customers are often left to deal with the burdens and frustrations that providers should be handling, disrupting services and causing unnecessary hassle.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Linkding vs. Hoarder</title>
-      <link>https://deuts.org/p/linkding-vs-hoarder/</link>
-      <pubDate>Mon, 16 Dec 2024 15:54:21 +0800</pubDate>
-      <guid>https://deuts.org/p/linkding-vs-hoarder/</guid>
-      <description>Explore the differences between Linkding and Hoarder, two popular bookmark management tools. Learn about their features, resource usage, and unique offerings to find the best fit for your needs.</description>
-      <content:encoded><![CDATA[<p>Linkding and Hoarder are two bookmark management tools with distinct strengths. Here&rsquo;s a comparison of their features, resource usage, and other key details to help you choose the one that best meets your needs.</p>
-<h2 id="container-images-and-resource-usages">Container Images and Resource Usages</h2>
-<table>
-  <thead>
-      <tr>
-          <th>Metric</th>
-          <th>Linkding</th>
-          <th>Hoarder-web</th>
-          <th>Hoarder-chrome</th>
-          <th>Hoarder-meilisearch</th>
-          <th>Total for Hoarder</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Image Size</strong></td>
-          <td>473 MB</td>
-          <td>823 MB</td>
-          <td>673 MB</td>
-          <td>147 MB</td>
-          <td><strong>1.6 GB</strong></td>
-      </tr>
-      <tr>
-          <td><strong>CPU Usage</strong></td>
-          <td>0.11%</td>
-          <td>0.37%</td>
-          <td>0.03%</td>
-          <td>0.10%</td>
-          <td><strong>0.50%</strong></td>
-      </tr>
-      <tr>
-          <td><strong>Memory Usage</strong></td>
-          <td>248.3 MiB</td>
-          <td>272.2 MiB</td>
-          <td>74.6 MiB</td>
-          <td>212.1 MiB</td>
-          <td><strong>558.9 MiB</strong></td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="key-feature-differences">Key Feature Differences</h2>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>Linkding</th>
-          <th>Hoarder</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>AI Capabilities</strong></td>
-          <td>None available</td>
-          <td>Can generate summaries and tags for bookmarks.</td>
-      </tr>
-      <tr>
-          <td><strong>Interface Design</strong></td>
-          <td>Sleek, with a blog-like feel for organizing bookmarks.</td>
-          <td>Straightforward and functional.</td>
-      </tr>
-      <tr>
-          <td><strong>Public Bookmark Sharing</strong></td>
-          <td>Shared bookmarks can be made public, but the process could be smoother.</td>
-          <td>No way to share bookmarks publicly.</td>
-      </tr>
-      <tr>
-          <td>Subscribe to RSS feed</td>
-          <td>None</td>
-          <td>I can set up Hoarder to actually subscribe to the RSS feed of my Linkding instance</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="conclusion">Conclusion</h2>
-<p>Linkding is a lightweight and efficient option with a minimalist design, while Hoarder offers advanced features like AI-generated tags but requires more system resources. The choice between the two comes down to whether you value simplicity and lower resource usage or extra functionality.</p>
-<h3 id="wishlist-for-linkding">Wishlist for Linkding</h3>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>Details</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Enhanced Public Bookmark Sharing</strong></td>
-          <td>Allow shared bookmarks to appear directly at the base URL. Adding an option to mark bookmarks as &ldquo;public&rdquo; instead of &ldquo;shared&rdquo;.</td>
-      </tr>
-      <tr>
-          <td><strong>Customization Options</strong></td>
-          <td>Enable users to change the site title and icon for a more personalized experience.</td>
-      </tr>
-  </tbody>
-</table>
 ]]></content:encoded>
     </item>
   </channel>
