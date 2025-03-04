@@ -7,8 +7,25 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 13:09:46 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:15:19 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNGR5N9PGM9QSSEFDFYTEXKF</title>
+      <link>https://deuts.org/x/2025-03-04-22-15-19-01jngr5n9pgm9qssefdfytexkf/</link>
+      <pubDate>Tue, 04 Mar 2025 22:15:19 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-04-22-15-19-01jngr5n9pgm9qssefdfytexkf/</guid>
+      <description>&lt;p&gt;Why Obsidian integrates better with &lt;a href=&#34;https://fediwall.social/?tags=MkDocs&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23MkDocs&#34;&gt;#MkDocs&lt;/a&gt; than &lt;a href=&#34;https://fediwall.social/?tags=GoHugo&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoHugo&#34;&gt;#GoHugo&lt;/a&gt;?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;MkDocs is really built for documentation (and notes), whereas Hugo are primarily for blogs&lt;/li&gt;
+&lt;li&gt;Linking your notes in Obsidian translate into correct link in the output html files in MkDocs, whereas in Hugo you need to use &lt;code&gt;rel&lt;/code&gt; or &lt;code&gt;relref&lt;/code&gt; shortcodes.&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>Why Obsidian integrates better with <a href="https://fediwall.social/?tags=MkDocs&amp;accounts=&amp;lang=en&amp;title=%23MkDocs">#MkDocs</a> than <a href="https://fediwall.social/?tags=GoHugo&amp;accounts=&amp;lang=en&amp;title=%23GoHugo">#GoHugo</a>?</p>
+<ol>
+<li>MkDocs is really built for documentation (and notes), whereas Hugo are primarily for blogs</li>
+<li>Linking your notes in Obsidian translate into correct link in the output html files in MkDocs, whereas in Hugo you need to use <code>rel</code> or <code>relref</code> shortcodes.</li>
+</ol>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNFRYQCFD2J26QK8F5PXARPN</title>
       <link>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</link>
@@ -241,15 +258,6 @@
       <guid>https://deuts.org/x/2025-03-01-17-04-45-01jn8f6vspe0h72p6xndd4psf2/</guid>
       <description>&lt;p&gt;This Php500 repair deposit that &lt;a href=&#34;https://fediwall.social/?tags=Globe&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Globe&#34;&gt;#Globe&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GFiber&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GFiber&#34;&gt;#GFiber&lt;/a&gt; asks before they send an underpaid technician to your place is so stupid. It would make sense if they pay me another P500 on top of the refund instead if they find out the issue is from their side.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This Php500 repair deposit that <a href="https://fediwall.social/?tags=Globe&amp;accounts=&amp;lang=en&amp;title=%23Globe">#Globe</a> <a href="https://fediwall.social/?tags=GFiber&amp;accounts=&amp;lang=en&amp;title=%23GFiber">#GFiber</a> asks before they send an underpaid technician to your place is so stupid. It would make sense if they pay me another P500 on top of the refund instead if they find out the issue is from their side.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN8E4ZC4M8V9H1CQVPKMV3VA</title>
-      <link>https://deuts.org/x/2025-03-01-16-46-15-01jn8e4zc4m8v9h1cqvpkmv3va/</link>
-      <pubDate>Sat, 01 Mar 2025 16:46:15 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-01-16-46-15-01jn8e4zc4m8v9h1cqvpkmv3va/</guid>
-      <description>&lt;p&gt;Paid Php 199 good for 1 week of 50Mbps &lt;a href=&#34;https://fediwall.social/?tags=Globe&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Globe&#34;&gt;#Globe&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GFiber&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GFiber&#34;&gt;#GFiber&lt;/a&gt; Prepaid internet. I need to use the internet only for this 2-day weekend and came home to this blinking red LOS in the router. P199 down the drain including that P999 I paid a few months ago for the installation.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Paid Php 199 good for 1 week of 50Mbps <a href="https://fediwall.social/?tags=Globe&amp;accounts=&amp;lang=en&amp;title=%23Globe">#Globe</a> <a href="https://fediwall.social/?tags=GFiber&amp;accounts=&amp;lang=en&amp;title=%23GFiber">#GFiber</a> Prepaid internet. I need to use the internet only for this 2-day weekend and came home to this blinking red LOS in the router. P199 down the drain including that P999 I paid a few months ago for the installation.</p>
 ]]></content:encoded>
     </item>
   </channel>
