@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 22:15:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:25:11 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNGRQQJTC8N2BB9NYD2M10RE</title>
+      <link>https://deuts.org/x/2025-03-04-22-25-11-01jngrqqjtc8n2bb9nyd2m10re/</link>
+      <pubDate>Tue, 04 Mar 2025 22:25:11 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-04-22-25-11-01jngrqqjtc8n2bb9nyd2m10re/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@magnus919&#34;&gt;@magnus919&lt;/a&gt; or you can use Mastodon API to retrieve your toots and save them as markdown files in the &lt;a href=&#34;https://fediwall.social/?tags=GoHugo&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoHugo&#34;&gt;#GoHugo&lt;/a&gt; content folder. See: &lt;a href=&#34;https://deuts.org/x/all/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@magnus919">@magnus919</a> or you can use Mastodon API to retrieve your toots and save them as markdown files in the <a href="https://fediwall.social/?tags=GoHugo&amp;accounts=&amp;lang=en&amp;title=%23GoHugo">#GoHugo</a> content folder. See: <a href="https://deuts.org/x/all/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNGR5N9PGM9QSSEFDFYTEXKF</title>
       <link>https://deuts.org/x/2025-03-04-22-15-19-01jngr5n9pgm9qssefdfytexkf/</link>
@@ -249,15 +258,6 @@
     This is not self-hosted, and actually involves a price tag, but looks interesting nonetheless.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN8F6VSPE0H72P6XNDD4PSF2</title>
-      <link>https://deuts.org/x/2025-03-01-17-04-45-01jn8f6vspe0h72p6xndd4psf2/</link>
-      <pubDate>Sat, 01 Mar 2025 17:04:45 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-01-17-04-45-01jn8f6vspe0h72p6xndd4psf2/</guid>
-      <description>&lt;p&gt;This Php500 repair deposit that &lt;a href=&#34;https://fediwall.social/?tags=Globe&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Globe&#34;&gt;#Globe&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GFiber&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GFiber&#34;&gt;#GFiber&lt;/a&gt; asks before they send an underpaid technician to your place is so stupid. It would make sense if they pay me another P500 on top of the refund instead if they find out the issue is from their side.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This Php500 repair deposit that <a href="https://fediwall.social/?tags=Globe&amp;accounts=&amp;lang=en&amp;title=%23Globe">#Globe</a> <a href="https://fediwall.social/?tags=GFiber&amp;accounts=&amp;lang=en&amp;title=%23GFiber">#GFiber</a> asks before they send an underpaid technician to your place is so stupid. It would make sense if they pay me another P500 on top of the refund instead if they find out the issue is from their side.</p>
 ]]></content:encoded>
     </item>
   </channel>
