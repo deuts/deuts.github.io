@@ -7,8 +7,84 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 19:41:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:35:47 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker DB Backup</title>
+      <link>https://deuts.org/x/400-docker-db-backup/</link>
+      <pubDate>Mon, 03 Mar 2025 21:35:47 +0800</pubDate>
+      <guid>https://deuts.org/x/400-docker-db-backup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-400&#34;&gt;&lt;a href=&#34;https://github.com/tiredofit/docker-db-backup&#34;&gt;Docker DB Backup&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-400 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Backup multiple database types on a scheduled basis with many customizable options.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Stumbled upon this when checking out Flarum. Perhaps I can use this to several of my MySQL/MariaDB and Postgres containers.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-400"><a href="https://github.com/tiredofit/docker-db-backup">Docker DB Backup</a></h3>
+<style>
+.favicon-400 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Backup multiple database types on a scheduled basis with many customizable options.
+</blockquote>
+  
+<div class="linkding-notes">
+    Stumbled upon this when checking out Flarum. Perhaps I can use this to several of my MySQL/MariaDB and Postgres containers.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Install Flarum Forum</title>
+      <link>https://deuts.org/x/399-install-flarum-forum/</link>
+      <pubDate>Mon, 03 Mar 2025 21:28:48 +0800</pubDate>
+      <guid>https://deuts.org/x/399-install-flarum-forum/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-399&#34;&gt;&lt;a href=&#34;https://wiki.opensourceisawesome.com/books/flarum-forum/page/install-flarum-forum&#34;&gt;Install Flarum Forum&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-399 {
+    background: url(&#39;https://bm.deuts.org/static/https_wiki_opensourceisawesome_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Flarum is a brilliantly built, light-weight, powerful forum software that may just be perfect for your community.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I&amp;rsquo;ve always wanted a forum for my several communities. The problem &amp;ndash; no one wants to use it. But leaving it here in case I need to install one.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-399"><a href="https://wiki.opensourceisawesome.com/books/flarum-forum/page/install-flarum-forum">Install Flarum Forum</a></h3>
+<style>
+.favicon-399 {
+    background: url('https://bm.deuts.org/static/https_wiki_opensourceisawesome_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Flarum is a brilliantly built, light-weight, powerful forum software that may just be perfect for your community.
+</blockquote>
+  
+<div class="linkding-notes">
+    I&rsquo;ve always wanted a forum for my several communities. The problem &ndash; no one wants to use it. But leaving it here in case I need to install one.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNDWYYWNN1JHT45E5XGDC8PJ</title>
       <link>https://deuts.org/x/2025-03-03-19-41-19-01jndwyywnn1jht45e5xgdc8pj/</link>
@@ -203,24 +279,6 @@
     This looks interesting. I may have deployed an instance, but looking at the compose file: 3 services to run? That&rsquo;s too many.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN4X2BVA2CFA0V76TV4VGHP8</title>
-      <link>https://deuts.org/x/2025-02-28-07-50-00-01jn4x2bva2cfa0v76tv4vghp8/</link>
-      <pubDate>Fri, 28 Feb 2025 07:50:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-28-07-50-00-01jn4x2bva2cfa0v76tv4vghp8/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://goto.sour.red/@jenkins&#34;&gt;@jenkins&lt;/a&gt; well, I don&amp;rsquo;t think I&amp;rsquo;ll get past the 5000 default character limit, but it sure helps to know that can still be tweaked in the settings.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://goto.sour.red/@jenkins">@jenkins</a> well, I don&rsquo;t think I&rsquo;ll get past the 5000 default character limit, but it sure helps to know that can still be tweaked in the settings.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JN347NEHWGR8D9RMESEZP4VJ</title>
-      <link>https://deuts.org/x/2025-02-27-15-16-45-01jn347nehwgr8d9rmesezp4vj/</link>
-      <pubDate>Thu, 27 Feb 2025 15:16:45 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-02-27-15-16-45-01jn347nehwgr8d9rmesezp4vj/</guid>
-      <description>&lt;p&gt;A lot of banks in the Philippines still rely on SMS for &lt;a href=&#34;https://fediwall.social/?tags=2FA&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%232FA&#34;&gt;#2FA&lt;/a&gt;, despite how insecure it is—easily spoofed, intercepted, and unreliable. Some use in-app confirmations via their mobile app, but if you lose access to your phone, you&amp;rsquo;re probably locked out. Why not support standard authentication apps like &lt;a href=&#34;https://fediwall.social/?tags=2FAS&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%232FAS&#34;&gt;#2FAS&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Aegis&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Aegis&#34;&gt;#Aegis&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Bitwarden&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bitwarden&#34;&gt;#Bitwarden&lt;/a&gt;, &lt;a href=&#34;https://fediwall.social/?tags=Vaultwarden&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Vaultwarden&#34;&gt;#Vaultwarden&lt;/a&gt;, or &lt;a href=&#34;https://fediwall.social/?tags=KeePassXC&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23KeePassXC&#34;&gt;#KeePassXC&lt;/a&gt;, which have TOTP support and easy backups? That way, I wouldn’t have to worry about losing access. &lt;a href=&#34;https://fediwall.social/?tags=MFA&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23MFA&#34;&gt;#MFA&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=MultiFactorAuthentication&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23MultiFactorAuthentication&#34;&gt;#MultiFactorAuthentication&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Security&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Security&#34;&gt;#Security&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A lot of banks in the Philippines still rely on SMS for <a href="https://fediwall.social/?tags=2FA&amp;accounts=&amp;lang=en&amp;title=%232FA">#2FA</a>, despite how insecure it is—easily spoofed, intercepted, and unreliable. Some use in-app confirmations via their mobile app, but if you lose access to your phone, you&rsquo;re probably locked out. Why not support standard authentication apps like <a href="https://fediwall.social/?tags=2FAS&amp;accounts=&amp;lang=en&amp;title=%232FAS">#2FAS</a>, <a href="https://fediwall.social/?tags=Aegis&amp;accounts=&amp;lang=en&amp;title=%23Aegis">#Aegis</a>, <a href="https://fediwall.social/?tags=Bitwarden&amp;accounts=&amp;lang=en&amp;title=%23Bitwarden">#Bitwarden</a>, <a href="https://fediwall.social/?tags=Vaultwarden&amp;accounts=&amp;lang=en&amp;title=%23Vaultwarden">#Vaultwarden</a>, or <a href="https://fediwall.social/?tags=KeePassXC&amp;accounts=&amp;lang=en&amp;title=%23KeePassXC">#KeePassXC</a>, which have TOTP support and easy backups? That way, I wouldn’t have to worry about losing access. <a href="https://fediwall.social/?tags=MFA&amp;accounts=&amp;lang=en&amp;title=%23MFA">#MFA</a> <a href="https://fediwall.social/?tags=MultiFactorAuthentication&amp;accounts=&amp;lang=en&amp;title=%23MultiFactorAuthentication">#MultiFactorAuthentication</a> <a href="https://fediwall.social/?tags=Security&amp;accounts=&amp;lang=en&amp;title=%23Security">#Security</a></p>
 ]]></content:encoded>
     </item>
   </channel>
