@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 21:35:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 13:09:46 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNFRYQCFD2J26QK8F5PXARPN</title>
+      <link>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</link>
+      <pubDate>Tue, 04 Mar 2025 13:09:46 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</guid>
+      <description>&lt;p&gt;I give up trying to install &lt;a href=&#34;https://fediwall.social/?tags=GetOutline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetOutline&#34;&gt;#GetOutline&lt;/a&gt;. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I give up trying to install <a href="https://fediwall.social/?tags=GetOutline&amp;accounts=&amp;lang=en&amp;title=%23GetOutline">#GetOutline</a>. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Docker DB Backup</title>
       <link>https://deuts.org/x/400-docker-db-backup/</link>
@@ -241,44 +250,6 @@
       <guid>https://deuts.org/x/2025-03-01-16-46-15-01jn8e4zc4m8v9h1cqvpkmv3va/</guid>
       <description>&lt;p&gt;Paid Php 199 good for 1 week of 50Mbps &lt;a href=&#34;https://fediwall.social/?tags=Globe&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Globe&#34;&gt;#Globe&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GFiber&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GFiber&#34;&gt;#GFiber&lt;/a&gt; Prepaid internet. I need to use the internet only for this 2-day weekend and came home to this blinking red LOS in the router. P199 down the drain including that P999 I paid a few months ago for the installation.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Paid Php 199 good for 1 week of 50Mbps <a href="https://fediwall.social/?tags=Globe&amp;accounts=&amp;lang=en&amp;title=%23Globe">#Globe</a> <a href="https://fediwall.social/?tags=GFiber&amp;accounts=&amp;lang=en&amp;title=%23GFiber">#GFiber</a> Prepaid internet. I need to use the internet only for this 2-day weekend and came home to this blinking red LOS in the router. P199 down the drain including that P999 I paid a few months ago for the installation.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Kaneo (Kanban) app</title>
-      <link>https://deuts.org/x/395-kaneo-kanban-app/</link>
-      <pubDate>Sat, 01 Mar 2025 00:59:29 +0800</pubDate>
-      <guid>https://deuts.org/x/395-kaneo-kanban-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-395&#34;&gt;&lt;a href=&#34;https://github.com/kaneo-app/app&#34;&gt;Kaneo (Kanban) app&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-395 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This looks interesting. I may have deployed an instance, but looking at the compose file: 3 services to run? That&amp;rsquo;s too many.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-395"><a href="https://github.com/kaneo-app/app">Kaneo (Kanban) app</a></h3>
-<style>
-.favicon-395 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
-</blockquote>
-  
-<div class="linkding-notes">
-    This looks interesting. I may have deployed an instance, but looking at the compose file: 3 services to run? That&rsquo;s too many.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
