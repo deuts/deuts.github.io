@@ -89,6 +89,61 @@
 </header>
   <article class="asides-post linkding-post linkding-list asides-list">
     <div class="asides-post-date nohapd">
+      March 5, 2025
+    </div>
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/403-relative-markdown-links-in-hugo/" aria-label="Link to the post">14:14</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-403"><a href="https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674">Relative Markdown Links in Hugo</a></h3>
+<style>
+.favicon-403 {
+    background: url('https://bm.deuts.org/static/https_discourse_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>The minimal example for relative markdown links:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>[<span style="color:#f92672">My Article</span>](<span style="color:#a6e22e">../my-article/index.md</span>)  
+</span></span></code></pre></div><p>Template: <code>/layouts/_default/_markup/render-link.html</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&#34;</span>&gt;  
+</span></span><span style="display:flex;"><span>  {{ .Text | safeHTML }}  
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">a</span>&gt;  
+</span></span></code></pre></div>
+</blockquote>
+  
+<div class="linkding-notes">
+    This solves the problem of relative markdown links to other pages in Hugo.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=403" class="ld-backlink">BM403</a>
+          
+            
+            
+              <a href="/k/documentation/">Documentation</a>,
+            
+              <a href="/k/hugo/">Hugo</a>,
+            
+              <a href="/k/markdown/">Markdown</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+  <article class="asides-post linkding-post linkding-list asides-list">
+    <div class="asides-post-date nohapd">
       December 6, 2024
     </div>
 

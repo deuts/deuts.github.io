@@ -22,7 +22,13 @@
     <loc>https://deuts.org/</loc>
     <lastmod>2025-03-05T14:14:31+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/documentation/</loc>
+    <lastmod>2025-03-05T14:14:31+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/k/hugo/</loc>
+    <lastmod>2025-03-05T14:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/markdown/</loc>
     <lastmod>2025-03-05T14:14:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/403-relative-markdown-links-in-hugo/</loc>
@@ -1435,9 +1441,6 @@
     <loc>https://deuts.org/x/274-many-notes/</loc>
     <lastmod>2024-12-06T22:23:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/markdown/</loc>
-    <lastmod>2024-12-06T22:23:50+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/273-mini-serve/</loc>
     <lastmod>2024-12-05T22:17:10+08:00</lastmod>
   </url><url>
@@ -2073,9 +2076,6 @@
   </url><url>
     <loc>https://deuts.org/k/intermittentfasting/</loc>
     <lastmod>2024-09-05T16:00:28+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/documentation/</loc>
-    <lastmod>2024-09-05T00:35:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/172-open-source-collaborative-wiki-and-documentation-software-docmost/</loc>
     <lastmod>2024-09-05T00:35:21+08:00</lastmod>
