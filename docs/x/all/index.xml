@@ -7,8 +7,65 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 22:25:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 14:14:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relative Markdown Links in Hugo</title>
+      <link>https://deuts.org/x/403-relative-markdown-links-in-hugo/</link>
+      <pubDate>Wed, 05 Mar 2025 14:14:31 +0800</pubDate>
+      <guid>https://deuts.org/x/403-relative-markdown-links-in-hugo/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-403&#34;&gt;&lt;a href=&#34;https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674&#34;&gt;Relative Markdown Links in Hugo&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-403 {
+    background: url(&#39;https://bm.deuts.org/static/https_discourse_gohugo_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;The minimal example for relative markdown links:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;My Article&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;../my-article/index.md&lt;/span&gt;)  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Template: &lt;code&gt;/layouts/_default/_markup/render-link.html&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&amp;#34;&lt;/span&gt;&amp;gt;{{ .Text | safeHTML }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This solves the problem of relative markdown links to other pages in Hugo.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-403"><a href="https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674">Relative Markdown Links in Hugo</a></h3>
+<style>
+.favicon-403 {
+    background: url('https://bm.deuts.org/static/https_discourse_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>The minimal example for relative markdown links:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>[<span style="color:#f92672">My Article</span>](<span style="color:#a6e22e">../my-article/index.md</span>)  
+</span></span></code></pre></div><p>Template: <code>/layouts/_default/_markup/render-link.html</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&#34;</span>&gt;{{ .Text | safeHTML }}&lt;/<span style="color:#f92672">a</span>&gt;  
+</span></span></code></pre></div>
+</blockquote>
+  
+<div class="linkding-notes">
+    This solves the problem of relative markdown links to other pages in Hugo.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JNHNT3YPWR7NB89DE2CVX55G</title>
+      <link>https://deuts.org/x/2025-03-05-06-53-18-01jnhnt3ypwr7nb89de2cvx55g/</link>
+      <pubDate>Wed, 05 Mar 2025 06:53:18 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-05-06-53-18-01jnhnt3ypwr7nb89de2cvx55g/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Pangolin&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Pangolin&#34;&gt;#Pangolin&lt;/a&gt; 1.0.0 is out and now supports multiple base domains. How cool is that?
+&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/tcpqOI4ame&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Pangolin&amp;accounts=&amp;lang=en&amp;title=%23Pangolin">#Pangolin</a> 1.0.0 is out and now supports multiple base domains. How cool is that?
+<a href="https://www.reddit.com/r/selfhosted/s/tcpqOI4ame">www.reddit.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNGRQQJTC8N2BB9NYD2M10RE</title>
       <link>https://deuts.org/x/2025-03-04-22-25-11-01jngrqqjtc8n2bb9nyd2m10re/</link>
@@ -182,82 +239,6 @@
       <guid>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</guid>
       <description>&lt;p&gt;I think I need to revisit &lt;a href=&#34;https://fediwall.social/?tags=BookStack&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BookStack&#34;&gt;#BookStack&lt;/a&gt; as a documentation platform. One thing good it has going is its granular access control capability. &lt;a href=&#34;https://fediwall.social/?tags=BookStackApp&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BookStackApp&#34;&gt;#BookStackApp&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I think I need to revisit <a href="https://fediwall.social/?tags=BookStack&amp;accounts=&amp;lang=en&amp;title=%23BookStack">#BookStack</a> as a documentation platform. One thing good it has going is its granular access control capability. <a href="https://fediwall.social/?tags=BookStackApp&amp;accounts=&amp;lang=en&amp;title=%23BookStackApp">#BookStackApp</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Guide: Obsidian with free, self-hosted, instant sync</title>
-      <link>https://deuts.org/x/397-guide-obsidian-with-free-self-hosted-instant-sync/</link>
-      <pubDate>Sun, 02 Mar 2025 13:50:07 +0800</pubDate>
-      <guid>https://deuts.org/x/397-guide-obsidian-with-free-self-hosted-instant-sync/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-397&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/oZGYsBtl2E&#34;&gt;Guide: Obsidian with free, self-hosted, instant sync&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-397 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I&amp;rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&amp;rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&amp;rsquo;m doing, so take my guide with a pinch of salt.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I&amp;rsquo;m still over the edge if I should go this route or continue with my current setup: syncing everything via Resilio Sync across my different VPS and my mobile apps.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-397"><a href="https://www.reddit.com/r/selfhosted/s/oZGYsBtl2E">Guide: Obsidian with free, self-hosted, instant sync</a></h3>
-<style>
-.favicon-397 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I&rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&rsquo;m doing, so take my guide with a pinch of salt.
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;m still over the edge if I should go this route or continue with my current setup: syncing everything via Resilio Sync across my different VPS and my mobile apps.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitCMS</title>
-      <link>https://deuts.org/x/396-gitcms/</link>
-      <pubDate>Sun, 02 Mar 2025 07:17:00 +0800</pubDate>
-      <guid>https://deuts.org/x/396-gitcms/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-396&#34;&gt;&lt;a href=&#34;https://gitcms.blog/&#34;&gt;GitCMS&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-396 {
-    background: url(&#39;https://bm.deuts.org/static/https_gitcms_blog.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Git-based and headless CMS for Astro, Next.js, Hugo, Jekyll, Eleventy, Gatsby, etc.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is not self-hosted, and actually involves a price tag, but looks interesting nonetheless.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-396"><a href="https://gitcms.blog/">GitCMS</a></h3>
-<style>
-.favicon-396 {
-    background: url('https://bm.deuts.org/static/https_gitcms_blog.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Git-based and headless CMS for Astro, Next.js, Hugo, Jekyll, Eleventy, Gatsby, etc.
-</blockquote>
-  
-<div class="linkding-notes">
-    This is not self-hosted, and actually involves a price tag, but looks interesting nonetheless.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>

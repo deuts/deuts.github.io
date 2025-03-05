@@ -154,6 +154,77 @@
 
 
 <h2 class="asides-header">Asides</h2>
+  <article class="asides-post linkding-post linkding-list asides-list">
+    <div class="asides-post-date hapd">
+      March 5, 2025
+    </div>
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/403-relative-markdown-links-in-hugo/" aria-label="Link to the post">14:14</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-403"><a href="https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674">Relative Markdown Links in Hugo</a></h3>
+<style>
+.favicon-403 {
+    background: url('https://bm.deuts.org/static/https_discourse_gohugo_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>The minimal example for relative markdown links:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>[<span style="color:#f92672">My Article</span>](<span style="color:#a6e22e">../my-article/index.md</span>)  
+</span></span></code></pre></div><p>Template: <code>/layouts/_default/_markup/render-link.html</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&#34;</span>&gt;{{ .Text | safeHTML }}&lt;/<span style="color:#f92672">a</span>&gt;  
+</span></span></code></pre></div>
+</blockquote>
+  
+<div class="linkding-notes">
+    This solves the problem of relative markdown links to other pages in Hugo.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=403" class="ld-backlink">BM403</a>
+          
+            
+            
+              <a href="/k/hugo/">Hugo</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-03-05-06-53-18-01jnhnt3ypwr7nb89de2cvx55g/" aria-label="Link to the post">06:53</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p><a href="https://fediwall.social/?tags=Pangolin&amp;accounts=&amp;lang=en&amp;title=%23Pangolin">#Pangolin</a> 1.0.0 is out and now supports multiple base domains. How cool is that?
+<a href="https://www.reddit.com/r/selfhosted/s/tcpqOI4ame">www.reddit.com/∞</a></p>
+
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JNHNT3YPWR7NB89DE2CVX55G" aria-label="Link to gotosocial">01JNHNT3YPWR7NB89DE2CVX55G</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
   <article class="asides-post gotosocial-post gotosocial-list asides-list">
     <div class="asides-post-date hapd">
       March 4, 2025
@@ -337,73 +408,6 @@
       <div class="gotosocial-footer asides-footer">
         
           <a href="https://deuts.one/@deuts/statuses/01JNDWYYWNN1JHT45E5XGDC8PJ" aria-label="Link to gotosocial">01JNDWYYWNN1JHT45E5XGDC8PJ</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-  <article class="asides-post linkding-post linkding-list asides-list">
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/398-bookstack-api-scripts/" aria-label="Link to the post">18:05</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-398"><a href="https://codeberg.org/bookstack/api-scripts">Bookstack API Scripts</a></h3>
-<style>
-.favicon-398 {
-    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Examples of BookStack API scripts on Codeberg
-</blockquote>
-  
-<div class="linkding-notes">
-    Our reference material for all the other scripts we can use to interact with Bookstack API.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=398" class="ld-backlink">BM398</a>
-          
-            
-            
-              <a href="/k/api/">API</a>,
-            
-              <a href="/k/bookstack/">Bookstack</a>,
-            
-              <a href="/k/selfhosting/">Selfhosting</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
-  <article class="asides-post gotosocial-post gotosocial-list asides-list">
-
-  <div class="gotosocial-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/" aria-label="Link to the post">10:29</a>
-        
-      </span>
-    </div>
-    <div class="gotosocial-content asides-content">
-      <p>I think I need to revisit <a href="https://fediwall.social/?tags=BookStack&amp;accounts=&amp;lang=en&amp;title=%23BookStack">#BookStack</a> as a documentation platform. One thing good it has going is its granular access control capability. <a href="https://fediwall.social/?tags=BookStackApp&amp;accounts=&amp;lang=en&amp;title=%23BookStackApp">#BookStackApp</a></p>
-
-      <div class="gotosocial-footer asides-footer">
-        
-          <a href="https://deuts.one/@deuts/statuses/01JNCXD6S5CEWWZ079XY1NWHZ2" aria-label="Link to gotosocial">01JNCXD6S5CEWWZ079XY1NWHZ2</a>
         
       </div>
     </div>
