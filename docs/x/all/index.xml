@@ -7,8 +7,29 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 08 Mar 2025 09:32:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 09:46:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JNSPY9HX9WXG5NATXY2KDKEX</title>
+      <link>https://deuts.org/x/2025-03-08-09-46-59-01jnspy9hx9wxg5natxy2kdkex/</link>
+      <pubDate>Sat, 08 Mar 2025 09:46:59 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-08-09-46-59-01jnspy9hx9wxg5natxy2kdkex/</guid>
+      <description>&lt;p&gt;Some new personal finance &lt;a href=&#34;https://fediwall.social/?tags=Selfhosted&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Selfhosted&#34;&gt;#Selfhosted&lt;/a&gt; apps to check out:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;dollardollar: &lt;a href=&#34;https://github.com/harung1993/dollardollar&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;envelofy: &lt;a href=&#34;https://github.com/nicholasjemblow/envelofy&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;personal-accountant: &lt;a href=&#34;https://github.com/vchychuzhko/personal-accountant&#34;&gt;github.com/∞&lt;/a&gt;
+Credit for the discovery: &lt;a href=&#34;https://selfh.st/newsletter/2025-03-07/&#34;&gt;selfh.st/∞&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>Some new personal finance <a href="https://fediwall.social/?tags=Selfhosted&amp;accounts=&amp;lang=en&amp;title=%23Selfhosted">#Selfhosted</a> apps to check out:</p>
+<ol>
+<li>dollardollar: <a href="https://github.com/harung1993/dollardollar">github.com/∞</a></li>
+<li>envelofy: <a href="https://github.com/nicholasjemblow/envelofy">github.com/∞</a></li>
+<li>personal-accountant: <a href="https://github.com/vchychuzhko/personal-accountant">github.com/∞</a>
+Credit for the discovery: <a href="https://selfh.st/newsletter/2025-03-07/">selfh.st/∞</a></li>
+</ol>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNSP3K8C3FTVXF5GJ4ACYK0H</title>
       <link>https://deuts.org/x/2025-03-08-09-32-24-01jnsp3k8c3ftvxf5gj4acyk0h/</link>
@@ -224,44 +245,6 @@
   
 <div class="linkding-notes">
     Stumbled upon this when checking out Flarum. Perhaps I can use this to several of my MySQL/MariaDB and Postgres containers.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Install Flarum Forum</title>
-      <link>https://deuts.org/x/399-install-flarum-forum/</link>
-      <pubDate>Mon, 03 Mar 2025 21:28:48 +0800</pubDate>
-      <guid>https://deuts.org/x/399-install-flarum-forum/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-399&#34;&gt;&lt;a href=&#34;https://wiki.opensourceisawesome.com/books/flarum-forum/page/install-flarum-forum&#34;&gt;Install Flarum Forum&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-399 {
-    background: url(&#39;https://bm.deuts.org/static/https_wiki_opensourceisawesome_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Flarum is a brilliantly built, light-weight, powerful forum software that may just be perfect for your community.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I&amp;rsquo;ve always wanted a forum for my several communities. The problem &amp;ndash; no one wants to use it. But leaving it here in case I need to install one.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-399"><a href="https://wiki.opensourceisawesome.com/books/flarum-forum/page/install-flarum-forum">Install Flarum Forum</a></h3>
-<style>
-.favicon-399 {
-    background: url('https://bm.deuts.org/static/https_wiki_opensourceisawesome_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Flarum is a brilliantly built, light-weight, powerful forum software that may just be perfect for your community.
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;ve always wanted a forum for my several communities. The problem &ndash; no one wants to use it. But leaving it here in case I need to install one.
 </div>
   
 ]]></content:encoded>
