@@ -48,6 +48,44 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Docker | Quadratic Docs</title>
+      <link>https://deuts.org/x/405-docker-quadratic-docs/</link>
+      <pubDate>Thu, 06 Mar 2025 20:51:58 +0800</pubDate>
+      <guid>https://deuts.org/x/405-docker-quadratic-docs/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-405&#34;&gt;&lt;a href=&#34;https://docs.quadratichq.com/self-hosting/docker&#34;&gt;Docker | Quadratic Docs&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-405 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_quadratichq_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Deploy Quadratic with Docker to almost any hardware.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This could be a great way to test my coding skills.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-405"><a href="https://docs.quadratichq.com/self-hosting/docker">Docker | Quadratic Docs</a></h3>
+<style>
+.favicon-405 {
+    background: url('https://bm.deuts.org/static/https_docs_quadratichq_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Deploy Quadratic with Docker to almost any hardware.
+</blockquote>
+  
+<div class="linkding-notes">
+    This could be a great way to test my coding skills.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Relative Markdown Links in Hugo</title>
       <link>https://deuts.org/x/403-relative-markdown-links-in-hugo/</link>
       <pubDate>Wed, 05 Mar 2025 14:14:31 +0800</pubDate>
@@ -234,44 +272,6 @@
 <li>Callouts</li>
 <li>Footnotes</li>
 </ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bookstack API Scripts</title>
-      <link>https://deuts.org/x/398-bookstack-api-scripts/</link>
-      <pubDate>Mon, 03 Mar 2025 18:05:54 +0800</pubDate>
-      <guid>https://deuts.org/x/398-bookstack-api-scripts/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-398&#34;&gt;&lt;a href=&#34;https://codeberg.org/bookstack/api-scripts&#34;&gt;Bookstack API Scripts&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-398 {
-    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Examples of BookStack API scripts on Codeberg
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Our reference material for all the other scripts we can use to interact with Bookstack API.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-398"><a href="https://codeberg.org/bookstack/api-scripts">Bookstack API Scripts</a></h3>
-<style>
-.favicon-398 {
-    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Examples of BookStack API scripts on Codeberg
-</blockquote>
-  
-<div class="linkding-notes">
-    Our reference material for all the other scripts we can use to interact with Bookstack API.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>

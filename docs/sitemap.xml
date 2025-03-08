@@ -52,6 +52,15 @@
     <loc>https://deuts.org/t/ssg/</loc>
     <lastmod>2025-03-07T09:05:12+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-03-06T20:51:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/405-docker-quadratic-docs/</loc>
+    <lastmod>2025-03-06T20:51:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-03-06T20:51:58+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/k/documentation/</loc>
     <lastmod>2025-03-05T14:14:31+08:00</lastmod>
   </url><url>
@@ -95,9 +104,6 @@
     <lastmod>2025-03-03T21:35:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/400-docker-db-backup/</loc>
-    <lastmod>2025-03-03T21:35:47+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-03-03T21:35:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/forums/</loc>
@@ -531,9 +537,6 @@
   </url><url>
     <loc>https://deuts.org/x/361-carboneio-carbone/</loc>
     <lastmod>2025-01-21T23:34:49+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-01-21T14:08:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/linuxserver/</loc>
     <lastmod>2025-01-21T14:08:26+08:00</lastmod>
