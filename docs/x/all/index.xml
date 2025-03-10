@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 08 Mar 2025 09:46:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 21:47:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendarr - recommends movies and tv shows</title>
+      <link>https://deuts.org/x/407-recommendarr-recommends-movies-and-tv-shows/</link>
+      <pubDate>Mon, 10 Mar 2025 21:47:34 +0800</pubDate>
+      <guid>https://deuts.org/x/407-recommendarr-recommends-movies-and-tv-shows/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-407&#34;&gt;&lt;a href=&#34;https://github.com/fingerthief/recommendarr&#34;&gt;Recommendarr - recommends movies and tv shows&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-407 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An AI driven recommendation system based on Radarr and Sonarr library information
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Gotta implement try this out later. My wish is for it to be integrated into a Plex collection, so I can easily browse through the Plex interface.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-407"><a href="https://github.com/fingerthief/recommendarr">Recommendarr - recommends movies and tv shows</a></h3>
+<style>
+.favicon-407 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An AI driven recommendation system based on Radarr and Sonarr library information
+</blockquote>
+  
+<div class="linkding-notes">
+    Gotta implement try this out later. My wish is for it to be integrated into a Plex collection, so I can easily browse through the Plex interface.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JNSPY9HX9WXG5NATXY2KDKEX</title>
       <link>https://deuts.org/x/2025-03-08-09-46-59-01jnspy9hx9wxg5natxy2kdkex/</link>
@@ -209,44 +247,6 @@
       <guid>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</guid>
       <description>&lt;p&gt;I give up trying to install &lt;a href=&#34;https://fediwall.social/?tags=GetOutline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetOutline&#34;&gt;#GetOutline&lt;/a&gt;. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I give up trying to install <a href="https://fediwall.social/?tags=GetOutline&amp;accounts=&amp;lang=en&amp;title=%23GetOutline">#GetOutline</a>. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Docker DB Backup</title>
-      <link>https://deuts.org/x/400-docker-db-backup/</link>
-      <pubDate>Mon, 03 Mar 2025 21:35:47 +0800</pubDate>
-      <guid>https://deuts.org/x/400-docker-db-backup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-400&#34;&gt;&lt;a href=&#34;https://github.com/tiredofit/docker-db-backup&#34;&gt;Docker DB Backup&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-400 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Backup multiple database types on a scheduled basis with many customizable options.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Stumbled upon this when checking out Flarum. Perhaps I can use this to several of my MySQL/MariaDB and Postgres containers.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-400"><a href="https://github.com/tiredofit/docker-db-backup">Docker DB Backup</a></h3>
-<style>
-.favicon-400 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Backup multiple database types on a scheduled basis with many customizable options.
-</blockquote>
-  
-<div class="linkding-notes">
-    Stumbled upon this when checking out Flarum. Perhaps I can use this to several of my MySQL/MariaDB and Postgres containers.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
