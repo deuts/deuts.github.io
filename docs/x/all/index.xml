@@ -7,8 +7,24 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 21:47:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 15:55:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JP236E2BERF899XCZEEZAC1J</title>
+      <link>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</link>
+      <pubDate>Tue, 11 Mar 2025 15:55:04 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</guid>
+      <description>&lt;p&gt;The new &lt;a href=&#34;https://fediwall.social/?tags=BDO&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BDO&#34;&gt;#BDO&lt;/a&gt; online banking platform at &lt;a href=&#34;https://www.onlinebanking.bdo.com.ph/&#34;&gt;www.onlinebanking.bdo.com.ph/∞&lt;/a&gt; has no Trust accounts view for my UITF/Investments accounts, so I&amp;rsquo;m stuck with the old website at &lt;a href=&#34;https://online.bdo.com.ph/&#34;&gt;online.bdo.com.ph/∞&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The new <a href="https://fediwall.social/?tags=BDO&amp;accounts=&amp;lang=en&amp;title=%23BDO">#BDO</a> online banking platform at <a href="https://www.onlinebanking.bdo.com.ph/">www.onlinebanking.bdo.com.ph/∞</a> has no Trust accounts view for my UITF/Investments accounts, so I&rsquo;m stuck with the old website at <a href="https://online.bdo.com.ph/">online.bdo.com.ph/∞</a></p>
+<p>Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:</p>
+<blockquote>
+<p>You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.</p></blockquote>
+<p>Indeed, BDO find ways!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Recommendarr - recommends movies and tv shows</title>
       <link>https://deuts.org/x/407-recommendarr-recommends-movies-and-tv-shows/</link>
@@ -238,15 +254,6 @@
 <li>MkDocs is really built for documentation (and notes), whereas Hugo are primarily for blogs</li>
 <li>Linking your notes in Obsidian translate into correct link in the output html files in MkDocs, whereas in Hugo you need to use <code>rel</code> or <code>relref</code> shortcodes.</li>
 </ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JNFRYQCFD2J26QK8F5PXARPN</title>
-      <link>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</link>
-      <pubDate>Tue, 04 Mar 2025 13:09:46 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</guid>
-      <description>&lt;p&gt;I give up trying to install &lt;a href=&#34;https://fediwall.social/?tags=GetOutline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetOutline&#34;&gt;#GetOutline&lt;/a&gt;. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I give up trying to install <a href="https://fediwall.social/?tags=GetOutline&amp;accounts=&amp;lang=en&amp;title=%23GetOutline">#GetOutline</a>. Between the database, Redis, environment variables, OAuth setup, and file permissions, there are just too many dependencies at play. Even when it seems like everything is configured correctly, something always refuses to work. Self-hosting shouldn’t be this complicated. 😩</p>
 ]]></content:encoded>
     </item>
   </channel>
