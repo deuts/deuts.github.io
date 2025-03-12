@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 11 Mar 2025 22:38:02 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 17:04:17 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MkDocs Table Reader Plugin</title>
+      <link>https://deuts.org/x/408-mkdocs-table-reader-plugin/</link>
+      <pubDate>Wed, 12 Mar 2025 17:04:17 +0800</pubDate>
+      <guid>https://deuts.org/x/408-mkdocs-table-reader-plugin/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-408&#34;&gt;&lt;a href=&#34;https://timvink.github.io/mkdocs-table-reader-plugin/&#34;&gt;MkDocs Table Reader Plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-408 {
+    background: url(&#39;https://bm.deuts.org/static/https_timvink_github_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    MkDocs plugin to directly insert tables from files into markdown.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is the power of MkDocs being backed by Python. There are so many plugins to choose from.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-408"><a href="https://timvink.github.io/mkdocs-table-reader-plugin/">MkDocs Table Reader Plugin</a></h3>
+<style>
+.favicon-408 {
+    background: url('https://bm.deuts.org/static/https_timvink_github_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    MkDocs plugin to directly insert tables from files into markdown.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is the power of MkDocs being backed by Python. There are so many plugins to choose from.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JP2T89K3VT01SMD7CBK7FE6M</title>
       <link>https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/</link>
@@ -268,15 +306,6 @@
 &lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/tcpqOI4ame&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Pangolin&amp;accounts=&amp;lang=en&amp;title=%23Pangolin">#Pangolin</a> 1.0.0 is out and now supports multiple base domains. How cool is that?
 <a href="https://www.reddit.com/r/selfhosted/s/tcpqOI4ame">www.reddit.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JNGRQQJTC8N2BB9NYD2M10RE</title>
-      <link>https://deuts.org/x/2025-03-04-22-25-11-01jngrqqjtc8n2bb9nyd2m10re/</link>
-      <pubDate>Tue, 04 Mar 2025 22:25:11 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-04-22-25-11-01jngrqqjtc8n2bb9nyd2m10re/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@magnus919&#34;&gt;@magnus919&lt;/a&gt; or you can use Mastodon API to retrieve your toots and save them as markdown files in the &lt;a href=&#34;https://fediwall.social/?tags=GoHugo&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoHugo&#34;&gt;#GoHugo&lt;/a&gt; content folder. See: &lt;a href=&#34;https://deuts.org/x/all/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@magnus919">@magnus919</a> or you can use Mastodon API to retrieve your toots and save them as markdown files in the <a href="https://fediwall.social/?tags=GoHugo&amp;accounts=&amp;lang=en&amp;title=%23GoHugo">#GoHugo</a> content folder. See: <a href="https://deuts.org/x/all/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
