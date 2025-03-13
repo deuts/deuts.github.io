@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 12 Mar 2025 20:58:17 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 08:53:58 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BookLore - eBook Manager</title>
+      <link>https://deuts.org/x/410-booklore-ebook-manager/</link>
+      <pubDate>Thu, 13 Mar 2025 08:53:58 +0800</pubDate>
+      <guid>https://deuts.org/x/410-booklore-ebook-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-410&#34;&gt;&lt;a href=&#34;https://github.com/adityachandelgit/BookLore&#34;&gt;BookLore - eBook Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-410 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    BookLore is a web app for hosting and managing books on a home server. It allows users to view PDFs, eBooks, and track reading progress. With features like metadata management and reading stats, BookLore provides an easy way to organize and explore your personal library.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another eBook management app, alternatives to Kavita and Calibre-Web.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-410"><a href="https://github.com/adityachandelgit/BookLore">BookLore - eBook Manager</a></h3>
+<style>
+.favicon-410 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    BookLore is a web app for hosting and managing books on a home server. It allows users to view PDFs, eBooks, and track reading progress. With features like metadata management and reading stats, BookLore provides an easy way to organize and explore your personal library.
+</blockquote>
+  
+<div class="linkding-notes">
+    Another eBook management app, alternatives to Kavita and Calibre-Web.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>MkDocs Charts Plugin</title>
       <link>https://deuts.org/x/409-mkdocs-charts-plugin/</link>
@@ -281,56 +319,6 @@
   
 <div class="linkding-notes">
     This could be a great way to test my coding skills.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Relative Markdown Links in Hugo</title>
-      <link>https://deuts.org/x/403-relative-markdown-links-in-hugo/</link>
-      <pubDate>Wed, 05 Mar 2025 14:14:31 +0800</pubDate>
-      <guid>https://deuts.org/x/403-relative-markdown-links-in-hugo/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-403&#34;&gt;&lt;a href=&#34;https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674&#34;&gt;Relative Markdown Links in Hugo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-403 {
-    background: url(&#39;https://bm.deuts.org/static/https_discourse_gohugo_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;The minimal example for relative markdown links:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;My Article&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;../my-article/index.md&lt;/span&gt;)  
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Template: &lt;code&gt;/layouts/_default/_markup/render-link.html&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&amp;#34;&lt;/span&gt;&amp;gt;  
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {{ .Text | safeHTML }}  
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;  
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This solves the problem of relative markdown links to other pages in Hugo.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-403"><a href="https://discourse.gohugo.io/t/relative-markdown-links-markdown-render-hooks/22674">Relative Markdown Links in Hugo</a></h3>
-<style>
-.favicon-403 {
-    background: url('https://bm.deuts.org/static/https_discourse_gohugo_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>The minimal example for relative markdown links:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>[<span style="color:#f92672">My Article</span>](<span style="color:#a6e22e">../my-article/index.md</span>)  
-</span></span></code></pre></div><p>Template: <code>/layouts/_default/_markup/render-link.html</code>:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}&#34;</span>&gt;  
-</span></span><span style="display:flex;"><span>  {{ .Text | safeHTML }}  
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">a</span>&gt;  
-</span></span></code></pre></div>
-</blockquote>
-  
-<div class="linkding-notes">
-    This solves the problem of relative markdown links to other pages in Hugo.
 </div>
   
 ]]></content:encoded>
