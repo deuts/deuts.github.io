@@ -7,8 +7,160 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 14:29:08 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 15:05:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warranty Tracker</title>
+      <link>https://deuts.org/x/416-warranty-tracker/</link>
+      <pubDate>Sat, 15 Mar 2025 15:05:01 +0800</pubDate>
+      <guid>https://deuts.org/x/416-warranty-tracker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-416&#34;&gt;&lt;a href=&#34;https://github.com/sassanix/Warracker&#34;&gt;Warranty Tracker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-416 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An open-source web application to manage product warranties, track expiration dates, and store related documents.  - GitHub - sassanix/Warracker: An open-source web application to manage product warranties, track expiration dates, and store related documents.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Good if you&amp;rsquo;re in the business of tracking warranty expiration dates.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-416"><a href="https://github.com/sassanix/Warracker">Warranty Tracker</a></h3>
+<style>
+.favicon-416 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An open-source web application to manage product warranties, track expiration dates, and store related documents.  - GitHub - sassanix/Warracker: An open-source web application to manage product warranties, track expiration dates, and store related documents.
+</blockquote>
+  
+<div class="linkding-notes">
+    Good if you&rsquo;re in the business of tracking warranty expiration dates.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bitwarden portal - backup solution</title>
+      <link>https://deuts.org/x/415-bitwarden-portal-backup-solution/</link>
+      <pubDate>Sat, 15 Mar 2025 14:51:44 +0800</pubDate>
+      <guid>https://deuts.org/x/415-bitwarden-portal-backup-solution/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-415&#34;&gt;&lt;a href=&#34;https://github.com/Reaper0x1/bitwarden-portal&#34;&gt;Bitwarden portal - backup solution&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-415 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Automate backup and restore between Bitwarden and/or Vaultwarden vault.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I want. Can I remove my reminders to backup my Bitwarden vault already after this? Hope so.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-415"><a href="https://github.com/Reaper0x1/bitwarden-portal">Bitwarden portal - backup solution</a></h3>
+<style>
+.favicon-415 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Automate backup and restore between Bitwarden and/or Vaultwarden vault.
+</blockquote>
+  
+<div class="linkding-notes">
+    I want. Can I remove my reminders to backup my Bitwarden vault already after this? Hope so.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>UCI Linkding Bookmarks</title>
+      <link>https://deuts.org/x/414-uci-linkding-bookmarks/</link>
+      <pubDate>Sat, 15 Mar 2025 14:48:00 +0800</pubDate>
+      <guid>https://deuts.org/x/414-uci-linkding-bookmarks/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-414&#34;&gt;&lt;a href=&#34;https://github.com/uCOMmandIt/uci-linkding-bookmarks&#34;&gt;UCI Linkding Bookmarks&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-414 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Docker container management script for running multiple instances of the linkding bookmark manager. Includes customizable title, logo and color theme.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I have always wondered how to customize Linkding logo and favicon. Now this is an option. The multi instance setup option is a plus!
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-414"><a href="https://github.com/uCOMmandIt/uci-linkding-bookmarks">UCI Linkding Bookmarks</a></h3>
+<style>
+.favicon-414 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Docker container management script for running multiple instances of the linkding bookmark manager. Includes customizable title, logo and color theme.
+</blockquote>
+  
+<div class="linkding-notes">
+    I have always wondered how to customize Linkding logo and favicon. Now this is an option. The multi instance setup option is a plus!
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Resto POS</title>
+      <link>https://deuts.org/x/413-resto-pos/</link>
+      <pubDate>Sat, 15 Mar 2025 14:39:56 +0800</pubDate>
+      <guid>https://deuts.org/x/413-resto-pos/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-413&#34;&gt;&lt;a href=&#34;https://github.com/faizaldevs/RestoPOS&#34;&gt;Resto POS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-413 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    RestoPOS is a cloud-based SaaS solution designed for restaurants, cafés, and food businesses to streamline billing, order management, inventory tracking, and more. Built with Laravel and Vue.js, it supports multi-tenancy, allowing multiple restaurants to operate independently on a single platform. - faizaldevs/RestoPOS
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This should have been around when Chabee was here. It won&amp;rsquo;t boost our sales but at least we would have better insights into the operation.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-413"><a href="https://github.com/faizaldevs/RestoPOS">Resto POS</a></h3>
+<style>
+.favicon-413 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    RestoPOS is a cloud-based SaaS solution designed for restaurants, cafés, and food businesses to streamline billing, order management, inventory tracking, and more. Built with Laravel and Vue.js, it supports multi-tenancy, allowing multiple restaurants to operate independently on a single platform. - faizaldevs/RestoPOS
+</blockquote>
+  
+<div class="linkding-notes">
+    This should have been around when Chabee was here. It won&rsquo;t boost our sales but at least we would have better insights into the operation.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>LibreSail</title>
       <link>https://deuts.org/x/412-libresail/</link>
@@ -167,138 +319,6 @@
   
 <div class="linkding-notes">
     Another one of those great MkDocs plugin we need to check out and install.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MkDocs Table Reader Plugin</title>
-      <link>https://deuts.org/x/408-mkdocs-table-reader-plugin/</link>
-      <pubDate>Wed, 12 Mar 2025 17:04:17 +0800</pubDate>
-      <guid>https://deuts.org/x/408-mkdocs-table-reader-plugin/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-408&#34;&gt;&lt;a href=&#34;https://timvink.github.io/mkdocs-table-reader-plugin/&#34;&gt;MkDocs Table Reader Plugin&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-408 {
-    background: url(&#39;https://bm.deuts.org/static/https_timvink_github_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    MkDocs plugin to directly insert tables from files into markdown.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is the power of MkDocs being backed by Python. There are so many plugins to choose from.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-408"><a href="https://timvink.github.io/mkdocs-table-reader-plugin/">MkDocs Table Reader Plugin</a></h3>
-<style>
-.favicon-408 {
-    background: url('https://bm.deuts.org/static/https_timvink_github_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    MkDocs plugin to directly insert tables from files into markdown.
-</blockquote>
-  
-<div class="linkding-notes">
-    This is the power of MkDocs being backed by Python. There are so many plugins to choose from.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JP2T89K3VT01SMD7CBK7FE6M</title>
-      <link>https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/</link>
-      <pubDate>Tue, 11 Mar 2025 22:38:02 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/</guid>
-      <description>&lt;p&gt;Read this list Go&amp;rsquo;s and No Go&amp;rsquo;s in real estate developments in the Philippines, for my future reference:&lt;/p&gt;
-&lt;h1 id=&#34;gos&#34;&gt;Go&amp;rsquo;s:&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Alveo Land is good being Ayala&amp;rsquo;s upscale&lt;/li&gt;
-&lt;li&gt;Avida is also okay being Ayala&amp;rsquo;s mid. Nuvali is a great community centered development.&lt;/li&gt;
-&lt;li&gt;DMCI, good design and consistent in terms of quality. I&amp;rsquo;ve been to several of their developments and they&amp;rsquo;re one of the most decent ones.&lt;/li&gt;
-&lt;li&gt;Filinvest is somewhat on Avida&amp;rsquo;s level.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;no-gos&#34;&gt;No Go&amp;rsquo;s:&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;SMDC. Well, cockroach farm. Imagine that scene from Snowpiercer.&lt;/li&gt;
-&lt;li&gt;Empire East developments. Imagine Avida but wayy worse in quality.&lt;/li&gt;
-&lt;li&gt;Vista Land developments, anything by Villar. Dont even think about it.&lt;/li&gt;
-&lt;li&gt;Megaworld. Lack of maintenance, issues of substandard materials, flooding, falling ceilings, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/phinvest/s/uM1fzBffFU&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Read this list Go&rsquo;s and No Go&rsquo;s in real estate developments in the Philippines, for my future reference:</p>
-<h1 id="gos">Go&rsquo;s:</h1>
-<ul>
-<li>Alveo Land is good being Ayala&rsquo;s upscale</li>
-<li>Avida is also okay being Ayala&rsquo;s mid. Nuvali is a great community centered development.</li>
-<li>DMCI, good design and consistent in terms of quality. I&rsquo;ve been to several of their developments and they&rsquo;re one of the most decent ones.</li>
-<li>Filinvest is somewhat on Avida&rsquo;s level.</li>
-</ul>
-<h1 id="no-gos">No Go&rsquo;s:</h1>
-<ul>
-<li>SMDC. Well, cockroach farm. Imagine that scene from Snowpiercer.</li>
-<li>Empire East developments. Imagine Avida but wayy worse in quality.</li>
-<li>Vista Land developments, anything by Villar. Dont even think about it.</li>
-<li>Megaworld. Lack of maintenance, issues of substandard materials, flooding, falling ceilings, etc.</li>
-</ul>
-<p><a href="https://www.reddit.com/r/phinvest/s/uM1fzBffFU">www.reddit.com/∞</a></p>
-<p><a href="https://fediwall.social/?tags=RealEstatePH&amp;accounts=&amp;lang=en&amp;title=%23RealEstatePH">#RealEstatePH</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JP236E2BERF899XCZEEZAC1J</title>
-      <link>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</link>
-      <pubDate>Tue, 11 Mar 2025 15:55:04 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</guid>
-      <description>&lt;p&gt;The new &lt;a href=&#34;https://fediwall.social/?tags=BDO&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BDO&#34;&gt;#BDO&lt;/a&gt; online banking platform at &lt;a href=&#34;https://www.onlinebanking.bdo.com.ph/&#34;&gt;www.onlinebanking.bdo.com.ph/∞&lt;/a&gt; has no Trust accounts view for my UITF/Investments accounts, so I&amp;rsquo;m stuck with the old website at &lt;a href=&#34;https://online.bdo.com.ph/&#34;&gt;online.bdo.com.ph/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The new <a href="https://fediwall.social/?tags=BDO&amp;accounts=&amp;lang=en&amp;title=%23BDO">#BDO</a> online banking platform at <a href="https://www.onlinebanking.bdo.com.ph/">www.onlinebanking.bdo.com.ph/∞</a> has no Trust accounts view for my UITF/Investments accounts, so I&rsquo;m stuck with the old website at <a href="https://online.bdo.com.ph/">online.bdo.com.ph/∞</a></p>
-<p>Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:</p>
-<blockquote>
-<p>You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.</p></blockquote>
-<p>Indeed, BDO finds ways!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Recommendarr - recommends movies and tv shows</title>
-      <link>https://deuts.org/x/407-recommendarr-recommends-movies-and-tv-shows/</link>
-      <pubDate>Mon, 10 Mar 2025 21:47:34 +0800</pubDate>
-      <guid>https://deuts.org/x/407-recommendarr-recommends-movies-and-tv-shows/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-407&#34;&gt;&lt;a href=&#34;https://github.com/fingerthief/recommendarr&#34;&gt;Recommendarr - recommends movies and tv shows&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-407 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An AI driven recommendation system based on Radarr and Sonarr library information
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Gotta implement try this out later. My wish is for it to be integrated into a Plex collection, so I can easily browse through the Plex interface.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-407"><a href="https://github.com/fingerthief/recommendarr">Recommendarr - recommends movies and tv shows</a></h3>
-<style>
-.favicon-407 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An AI driven recommendation system based on Radarr and Sonarr library information
-</blockquote>
-  
-<div class="linkding-notes">
-    Gotta implement try this out later. My wish is for it to be integrated into a Plex collection, so I can easily browse through the Plex interface.
 </div>
   
 ]]></content:encoded>

@@ -17,18 +17,45 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-03-15T14:29:08+08:00</lastmod>
+    <lastmod>2025-03-15T15:05:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-03-15T14:29:08+08:00</lastmod>
+    <lastmod>2025-03-15T15:05:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-03-15T15:05:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/416-warranty-tracker/</loc>
+    <lastmod>2025-03-15T15:05:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2025-03-15T14:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/bitwarden/</loc>
+    <lastmod>2025-03-15T14:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/415-bitwarden-portal-backup-solution/</loc>
+    <lastmod>2025-03-15T14:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/passwords/</loc>
+    <lastmod>2025-03-15T14:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/bookmarks/</loc>
+    <lastmod>2025-03-15T14:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/414-uci-linkding-bookmarks/</loc>
+    <lastmod>2025-03-15T14:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pos/</loc>
+    <lastmod>2025-03-15T14:39:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/413-resto-pos/</loc>
+    <lastmod>2025-03-15T14:39:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/412-libresail/</loc>
     <lastmod>2025-03-15T14:29:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/search/</loc>
-    <lastmod>2025-03-15T14:29:08+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-03-15T14:29:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/</loc>
@@ -171,9 +198,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-03-04-13-09-46-01jnfryqcfd2j26qk8f5pxarpn/</loc>
     <lastmod>2025-03-04T13:09:46+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-03-03T21:35:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/database/</loc>
     <lastmod>2025-03-03T21:35:47+08:00</lastmod>
@@ -865,9 +889,6 @@
     <loc>https://deuts.org/x/317-keepassxc-to-easily-and-securely-manage-your-ssh-keys/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/passwords/</loc>
-    <lastmod>2025-01-06T10:28:26+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/ssh/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
   </url><url>
@@ -879,9 +900,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-01-06-10-13-3lf22r2q3uc2u/</loc>
     <lastmod>2025-01-06T10:13:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bitwarden/</loc>
-    <lastmod>2025-01-06T10:08:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/315-bitwarden-vaultwarden-finally-with-ssh-keys-and-agent/</loc>
     <lastmod>2025-01-06T10:08:56+08:00</lastmod>
@@ -2043,9 +2061,6 @@
   </url><url>
     <loc>https://deuts.org/x/199-selfhosted-gateway/</loc>
     <lastmod>2024-10-07T23:21:42+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bookmarks/</loc>
-    <lastmod>2024-10-07T16:28:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/198-github-hoarder-app-hoarder-a-self-hostable-bookmark-everything-app-links-notes-and-images-with-ai-based-automatic-tagging-and-full-text-search/</loc>
     <lastmod>2024-10-07T16:28:34+08:00</lastmod>
