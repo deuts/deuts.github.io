@@ -60,14 +60,12 @@
 }
 &lt;/style&gt;
 
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
+&lt;/blockquote&gt;
+  
 &lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;I checked out Peppermint, and here are my initial impressions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;There&amp;rsquo;s no search function&lt;/li&gt;
-&lt;li&gt;No way to edit issue types&lt;/li&gt;
-&lt;li&gt;I liked the simple and sleek design&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
+    &lt;p&gt;I checked out Peppermint, and here are my initial impressions:&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-417"><a href="https://youtube.com/watch?v=VJB34lLGEyA&amp;si=jR30yTT7_nzoRmxF">Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!</a></h3>
 <style>
 .favicon-417 {
@@ -76,6 +74,10 @@
 }
 </style>
 
+<blockquote class="linkding-description">
+    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
+</blockquote>
+  
 <div class="linkding-notes">
     <p>I checked out Peppermint, and here are my initial impressions:</p>
 <ul>
