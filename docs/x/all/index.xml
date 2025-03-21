@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 15:14:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 00:11:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notemod: Note-Taking App Free &amp; Open Source</title>
+      <link>https://deuts.org/x/419-notemod-note-taking-app-free-open-source/</link>
+      <pubDate>Sat, 22 Mar 2025 00:11:34 +0800</pubDate>
+      <guid>https://deuts.org/x/419-notemod-note-taking-app-free-open-source/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-419&#34;&gt;&lt;a href=&#34;https://github.com/orayemre/Notemod?tab=readme-ov-file&#34;&gt;Notemod: Note-Taking App Free &amp;amp; Open Source&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-419 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    At Notemod, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you&amp;rsquo;re a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We&amp;rsquo;ll never run out of options.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-419"><a href="https://github.com/orayemre/Notemod?tab=readme-ov-file">Notemod: Note-Taking App Free &amp; Open Source</a></h3>
+<style>
+.favicon-419 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    At Notemod, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you&rsquo;re a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
+</blockquote>
+  
+<div class="linkding-notes">
+    We&rsquo;ll never run out of options.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>How to Install UVdesk on Your Synology NAS</title>
       <link>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</link>
@@ -316,15 +354,6 @@
     Another YNAB and Actual alternative.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JP9YBNAVDREQK84F4R8S8Z7R</title>
-      <link>https://deuts.org/x/2025-03-14-17-04-28-01jp9ybnavdreqk84f4r8s8z7r/</link>
-      <pubDate>Fri, 14 Mar 2025 17:04:28 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-14-17-04-28-01jp9ybnavdreqk84f4r8s8z7r/</guid>
-      <description>&lt;p&gt;Deployed &lt;a href=&#34;https://fediwall.social/?tags=webhook&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23webhook&#34;&gt;#webhook&lt;/a&gt; server into production. Now I can set up webhooks that run several of my &lt;a href=&#34;https://fediwall.social/?tags=Python&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Python&#34;&gt;#Python&lt;/a&gt; scripts inside a &lt;a href=&#34;https://fediwall.social/?tags=Docker&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Docker&#34;&gt;#Docker&lt;/a&gt; container. Thanks to &lt;a href=&#34;https://github.com/adnanh/webhook&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Deployed <a href="https://fediwall.social/?tags=webhook&amp;accounts=&amp;lang=en&amp;title=%23webhook">#webhook</a> server into production. Now I can set up webhooks that run several of my <a href="https://fediwall.social/?tags=Python&amp;accounts=&amp;lang=en&amp;title=%23Python">#Python</a> scripts inside a <a href="https://fediwall.social/?tags=Docker&amp;accounts=&amp;lang=en&amp;title=%23Docker">#Docker</a> container. Thanks to <a href="https://github.com/adnanh/webhook">github.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
