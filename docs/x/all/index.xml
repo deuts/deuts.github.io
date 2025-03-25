@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 12:28:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 23:43:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</title>
+      <link>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</link>
+      <pubDate>Tue, 25 Mar 2025 23:43:01 +0800</pubDate>
+      <guid>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-422&#34;&gt;&lt;a href=&#34;https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/&#34;&gt;Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-422 {
+    background: url(&#39;https://bm.deuts.org/static/https_michelcarlo_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-422"><a href="https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/">Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</a></h3>
+<style>
+.favicon-422 {
+    background: url('https://bm.deuts.org/static/https_michelcarlo_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>PowerIcons - The Easiest Way to Customize Icons for Power Apps</title>
       <link>https://deuts.org/x/420-powericons-the-easiest-way-to-customize-icons-for-power-apps/</link>
@@ -323,36 +353,6 @@
 <div class="linkding-notes">
     This should have been around when Chabee was here. It won&rsquo;t boost our sales but at least we would have better insights into the operation.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>LibreSail</title>
-      <link>https://deuts.org/x/412-libresail/</link>
-      <pubDate>Sat, 15 Mar 2025 14:29:08 +0800</pubDate>
-      <guid>https://deuts.org/x/412-libresail/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-412&#34;&gt;&lt;a href=&#34;https://github.com/eodowd/libresail&#34;&gt;LibreSail&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-412 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    a basic meta search engine based off duckduckgo results - eodowd/libresail
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-412"><a href="https://github.com/eodowd/libresail">LibreSail</a></h3>
-<style>
-.favicon-412 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    a basic meta search engine based off duckduckgo results - eodowd/libresail
-</blockquote>
   
 ]]></content:encoded>
     </item>

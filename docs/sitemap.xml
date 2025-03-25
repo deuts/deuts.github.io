@@ -17,15 +17,27 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-03-24T12:28:19+08:00</lastmod>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-03-24T12:28:19+08:00</lastmod>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/icons/</loc>
-    <lastmod>2025-03-24T12:28:19+08:00</lastmod>
+    <loc>https://deuts.org/k/permissions/</loc>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/powerapps/</loc>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/security/</loc>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/sharepoint/</loc>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</loc>
+    <lastmod>2025-03-25T23:43:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/icons/</loc>
     <lastmod>2025-03-24T12:28:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/420-powericons-the-easiest-way-to-customize-icons-for-power-apps/</loc>
@@ -2116,9 +2128,6 @@
     <loc>https://deuts.org/x/190-github-querylab-lazywarden-automatic-bitwarden-backup/</loc>
     <lastmod>2024-09-21T14:32:49+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/security/</loc>
-    <lastmod>2024-09-21T14:32:49+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/189-what-s-running-docker-image/</loc>
     <lastmod>2024-09-20T22:58:33+08:00</lastmod>
   </url><url>
@@ -2216,9 +2225,6 @@
     <lastmod>2024-08-15T23:28:20+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/restapi/</loc>
-    <lastmod>2024-08-15T23:28:20+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/sharepoint/</loc>
     <lastmod>2024-08-15T23:28:20+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/165-it-tools-handy-online-tools-for-developers/</loc>
