@@ -168,22 +168,8 @@
       </span>
     </div>
     <div class="gotosocial-content asides-content">
-      <p>To suppress the <a href="https://fediwall.social/?tags=delegation&amp;accounts=%E2%9F%A8=en&amp;title=%23delegation">#delegation</a> warning in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=%E2%9F%A8=en&amp;title=%23PowerApps">#PowerApps</a> while using <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=%E2%9F%A8=en&amp;title=%23Sharepoint">#Sharepoint</a> as the datasource, here&rsquo;s the formula that worked when using the <code>Search</code> function:</p>
-<pre tabindex="0"><code>    With(
-        { MyCollection:
-            Filter(&#39;Bank Transactions&#39;,
-                !\*chkBankCode\_1\*.Checked || StartsWith(MPIRefID,\*cmbBankCode\_1\*.Selected.Title),
-                !\*chkDateFrom\_1\*.Checked || ((Date &gt;= \*dpDateFrom\_1\*.SelectedDate) &amp;&amp; (Date &lt;= \*dpDateTo\_1\*.SelectedDate)),
-                !\*chkAmtFrom\_1\*.Checked || ((Amount &gt;= Value(\*txtInputAmtFrom\_1\*.Value)) &amp;&amp; (Amount &lt;= Value(\*txtInputAmtTo\_1\*.Value))),
-                !\*chkCancelled\_1\*.Checked || (Status = Blank()),
-                !\*chkCleared\_1\*.Checked || (Closed = false) || (Closed = Blank()),
-                !\*chkDebits\_1\*.Checked || (Amount &gt; 0),
-                !\*chkTnxType\_1\*.Checked || (TnxType = \*cmbTnxType\_1\*.Selected.ID)
-            )
-        },
-        ClearCollect(BankTnxSearchColl,Search(MyCollection,\*txtInputOtherInfo\_1\*.Value,&#39;Other Info&#39;)
-    );
-</code></pre>
+      <p>To suppress the <a href="https://fediwall.social/?tags=delegation&amp;accounts=&amp;lang=en&amp;title=%23delegation">#delegation</a> warning in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a> while using <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> as the datasource, here&rsquo;s the formula that worked when using the <code>Search</code> function: <a href="https://gist.github.com/deuts/5676ad74551810557437a27c35f927ef">gist.github.com/∞</a></p>
+
       <div class="gotosocial-footer asides-footer">
         
           <a href="https://deuts.one/@deuts/statuses/01JQE55XAYB5985S1ZR0C26J53" aria-label="Link to gotosocial">01JQE55XAYB5985S1ZR0C26J53</a>
@@ -237,150 +223,6 @@
     </div>
   </div>
 </article>
-  <article class="asides-post linkding-post linkding-list asides-list">
-    <div class="asides-post-date hapd">
-      March 25, 2025
-    </div>
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/" aria-label="Link to the post">23:43</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-422"><a href="https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/">Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</a></h3>
-<style>
-.favicon-422 {
-    background: url('https://bm.deuts.org/static/https_michelcarlo_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
-</blockquote>
-  
-<div class="linkding-notes">
-    Unfortunately, I can&rsquo;t seem to make this work in our organization.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=422" class="ld-backlink">BM422</a>
-          
-            
-            
-              <a href="/k/permissions/">Permissions</a>,
-            
-              <a href="/k/powerapps/">PowerApps</a>,
-            
-              <a href="/k/security/">Security</a>,
-            
-              <a href="/k/sharepoint/">Sharepoint</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
-  <article class="asides-post linkding-post linkding-list asides-list">
-    <div class="asides-post-date hapd">
-      March 24, 2025
-    </div>
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/421-power-apps-parsejson-function-get-collection-from-a-flow/" aria-label="Link to the post">23:45</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-421"><a href="https://www.matthewdevaney.com/power-apps-parsejson-function-get-collection-from-a-flow/">Power Apps ParseJSON Function: Get Collection From A Flow</a></h3>
-<style>
-.favicon-421 {
-    background: url('https://bm.deuts.org/static/https_www_matthewdevaney_com.jpg') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Power Apps new ParseJSON function converts a text string into a record or table. It can also be used to return a collection from a flow.
-</blockquote>
-  
-<div class="linkding-notes">
-    I think this is the way to limit access of my Power Apps users to the underlying Sharepoint List.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=421" class="ld-backlink">BM421</a>
-          
-            
-            
-              <a href="/k/json/">Json</a>,
-            
-              <a href="/k/powerapps/">PowerApps</a>,
-            
-              <a href="/k/powerautomate/">PowerAutomate</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
-  <article class="asides-post linkding-post linkding-list asides-list">
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/420-powericons-the-easiest-way-to-customize-icons-for-power-apps/" aria-label="Link to the post">12:28</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-420"><a href="https://www.powericons.dev/">PowerIcons - The Easiest Way to Customize Icons for Power Apps</a></h3>
-<style>
-.favicon-420 {
-    background: url('https://bm.deuts.org/static/https_www_powericons_dev.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Customize, copy &amp; paste icons into Power Apps without wasting time on complex SVG codes. Quick, easy, and ready to use.
-</blockquote>
-  
-<div class="linkding-notes">
-    Lots of customization options here I think.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=420" class="ld-backlink">BM420</a>
-          
-            
-            
-              <a href="/k/icons/">Icons</a>,
-            
-              <a href="/k/powerapps/">PowerApps</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
   <article class="asides-post bluesky-post bluesky-list asides-list">
     <div class="asides-post-date hapd">
       March 22, 2025
@@ -405,45 +247,114 @@
     </div>
   </div>
 </article>
-  <article class="asides-post linkding-post linkding-list asides-list">
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+    <div class="asides-post-date hapd">
+      March 15, 2025
+    </div>
 
-  <div class="linkding-post-cont asides-post-cont">
+  <div class="gotosocial-post-cont asides-post-cont">
     <div class="post-time">
       <span title="">
         
-          <a href="https://deuts.org/x/419-notemod-note-taking-app-free-open-source/" aria-label="Link to the post">00:11</a>
+          <a href="https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/" aria-label="Link to the post">14:05</a>
         
       </span>
     </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-419"><a href="https://github.com/orayemre/Notemod?tab=readme-ov-file">Notemod: Note-Taking App Free &amp; Open Source</a></h3>
-<style>
-.favicon-419 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
+    <div class="gotosocial-content asides-content">
+      <p>I wonder if <a href="https://fediwall.social/?tags=ManyNotes&amp;accounts=&amp;lang=en&amp;title=%23ManyNotes">#ManyNotes</a> is any good for a documentation site? <a href="https://github.com/brufdev/many-notes">github.com/∞</a></p>
 
-<blockquote class="linkding-description">
-    At Notemod, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you&rsquo;re a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
-</blockquote>
-  
-<div class="linkding-notes">
-    We&rsquo;ll never run out of options.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
+      <div class="gotosocial-footer asides-footer">
         
-          <a href="https://bm.deuts.org/bookmarks/shared?details=419" class="ld-backlink">BM419</a>
-          
-            
-            
-              <a href="/k/notetakingapp/">NoteTakingApp</a>,
-            
-              <a href="/k/selfhosting/">Selfhosting</a>
-            
-          
+          <a href="https://deuts.one/@deuts/statuses/01JPC6GE9NX0XZT2QBFDM9FXFA" aria-label="Link to gotosocial">01JPC6GE9NX0XZT2QBFDM9FXFA</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+    <div class="asides-post-date hapd">
+      March 14, 2025
+    </div>
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-03-14-17-04-28-01jp9ybnavdreqk84f4r8s8z7r/" aria-label="Link to the post">17:04</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p>Deployed <a href="https://fediwall.social/?tags=webhook&amp;accounts=&amp;lang=en&amp;title=%23webhook">#webhook</a> server into production. Now I can set up webhooks that run several of my <a href="https://fediwall.social/?tags=Python&amp;accounts=&amp;lang=en&amp;title=%23Python">#Python</a> scripts inside a <a href="https://fediwall.social/?tags=Docker&amp;accounts=&amp;lang=en&amp;title=%23Docker">#Docker</a> container. Thanks to <a href="https://github.com/adnanh/webhook">github.com/∞</a></p>
+
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JP9YBNAVDREQK84F4R8S8Z7R" aria-label="Link to gotosocial">01JP9YBNAVDREQK84F4R8S8Z7R</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+    <div class="asides-post-date hapd">
+      March 11, 2025
+    </div>
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/" aria-label="Link to the post">22:38</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p>Read this list Go&rsquo;s and No Go&rsquo;s in real estate developments in the Philippines, for my future reference:</p>
+<h1 id="gos">Go&rsquo;s:</h1>
+<ul>
+<li>Alveo Land is good being Ayala&rsquo;s upscale</li>
+<li>Avida is also okay being Ayala&rsquo;s mid. Nuvali is a great community centered development.</li>
+<li>DMCI, good design and consistent in terms of quality. I&rsquo;ve been to several of their developments and they&rsquo;re one of the most decent ones.</li>
+<li>Filinvest is somewhat on Avida&rsquo;s level.</li>
+</ul>
+<h1 id="no-gos">No Go&rsquo;s:</h1>
+<ul>
+<li>SMDC. Well, cockroach farm. Imagine that scene from Snowpiercer.</li>
+<li>Empire East developments. Imagine Avida but wayy worse in quality.</li>
+<li>Vista Land developments, anything by Villar. Dont even think about it.</li>
+<li>Megaworld. Lack of maintenance, issues of substandard materials, flooding, falling ceilings, etc.</li>
+</ul>
+<p><a href="https://www.reddit.com/r/phinvest/s/uM1fzBffFU">www.reddit.com/∞</a></p>
+<p><a href="https://fediwall.social/?tags=RealEstatePH&amp;accounts=&amp;lang=en&amp;title=%23RealEstatePH">#RealEstatePH</a></p>
+
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JP2T89K3VT01SMD7CBK7FE6M" aria-label="Link to gotosocial">01JP2T89K3VT01SMD7CBK7FE6M</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/" aria-label="Link to the post">15:55</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p>The new <a href="https://fediwall.social/?tags=BDO&amp;accounts=&amp;lang=en&amp;title=%23BDO">#BDO</a> online banking platform at <a href="https://www.onlinebanking.bdo.com.ph/">www.onlinebanking.bdo.com.ph/∞</a> has no Trust accounts view for my UITF/Investments accounts, so I&rsquo;m stuck with the old website at <a href="https://online.bdo.com.ph/">online.bdo.com.ph/∞</a></p>
+<p>Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:</p>
+<blockquote>
+<p>You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.</p></blockquote>
+<p>Indeed, BDO finds ways!</p>
+
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JP236E2BERF899XCZEEZAC1J" aria-label="Link to gotosocial">01JP236E2BERF899XCZEEZAC1J</a>
         
       </div>
     </div>
