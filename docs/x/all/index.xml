@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 18:36:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 20:45:10 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Responsive Image Gallery Shortcode in Hugo</title>
+      <link>https://deuts.org/x/424-creating-a-responsive-image-gallery-shortcode-in-hugo/</link>
+      <pubDate>Fri, 28 Mar 2025 20:45:10 +0800</pubDate>
+      <guid>https://deuts.org/x/424-creating-a-responsive-image-gallery-shortcode-in-hugo/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-424&#34;&gt;&lt;a href=&#34;https://mdelapenya.xyz/posts/2025-03-27-creating-a-responsive-image-gallery-shortcode-in-hugo/&#34;&gt;Creating a Responsive Image Gallery Shortcode in Hugo&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-424 {
+    background: url(&#39;https://bm.deuts.org/static/https_mdelapenya_xyz.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A comprehensive guide to implementing a responsive image gallery with modal view in Hugo using shortcodes
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-424"><a href="https://mdelapenya.xyz/posts/2025-03-27-creating-a-responsive-image-gallery-shortcode-in-hugo/">Creating a Responsive Image Gallery Shortcode in Hugo</a></h3>
+<style>
+.favicon-424 {
+    background: url('https://bm.deuts.org/static/https_mdelapenya_xyz.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A comprehensive guide to implementing a responsive image gallery with modal view in Hugo using shortcodes
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JQE55XAYB5985S1ZR0C26J53</title>
       <link>https://deuts.org/x/2025-03-28-18-36-19-01jqe55xayb5985s1zr0c26j53/</link>
@@ -231,48 +261,6 @@
   
 <div class="linkding-notes">
     This install process tutorial is based on Synology NAS and Portainer, but I&rsquo;m sure I can make this work in my setup.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!</title>
-      <link>https://deuts.org/x/417-self-hosted-ticketing-with-peppermint-open-source-helpdesk-setup/</link>
-      <pubDate>Tue, 18 Mar 2025 22:44:09 +0800</pubDate>
-      <guid>https://deuts.org/x/417-self-hosted-ticketing-with-peppermint-open-source-helpdesk-setup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-417&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=VJB34lLGEyA&amp;amp;si=jR30yTT7_nzoRmxF&#34;&gt;Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-417 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;I checked out Peppermint, and here are my initial impressions:&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-417"><a href="https://youtube.com/watch?v=VJB34lLGEyA&amp;si=jR30yTT7_nzoRmxF">Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!</a></h3>
-<style>
-.favicon-417 {
-    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>I checked out Peppermint, and here are my initial impressions:</p>
-<ul>
-<li>There&rsquo;s no search function</li>
-<li>No way to edit issue types</li>
-<li>I liked the simple and sleek design</li>
-</ul>
 </div>
   
 ]]></content:encoded>
