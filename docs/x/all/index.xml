@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 20:45:10 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 23:53:10 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - lyqht/mini-qr: Scan &amp; generate customized qr codes easily 👾</title>
+      <link>https://deuts.org/x/425-github-lyqht-mini-qr-scan-generate-customized-qr-codes-easily/</link>
+      <pubDate>Fri, 28 Mar 2025 23:53:10 +0800</pubDate>
+      <guid>https://deuts.org/x/425-github-lyqht-mini-qr-scan-generate-customized-qr-codes-easily/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-425&#34;&gt;&lt;a href=&#34;https://github.com/lyqht/mini-qr&#34;&gt;GitHub - lyqht/mini-qr: Scan &amp;amp; generate customized qr codes easily 👾&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-425 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Scan &amp;amp; generate customized qr codes easily
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wish there was an API where I can pass on the message and will give me the image.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-425"><a href="https://github.com/lyqht/mini-qr">GitHub - lyqht/mini-qr: Scan &amp; generate customized qr codes easily 👾</a></h3>
+<style>
+.favicon-425 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Scan &amp; generate customized qr codes easily
+</blockquote>
+  
+<div class="linkding-notes">
+    I wish there was an API where I can pass on the message and will give me the image.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Creating a Responsive Image Gallery Shortcode in Hugo</title>
       <link>https://deuts.org/x/424-creating-a-responsive-image-gallery-shortcode-in-hugo/</link>
@@ -223,44 +261,6 @@
   
 <div class="linkding-notes">
     We&rsquo;ll never run out of options.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to Install UVdesk on Your Synology NAS</title>
-      <link>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</link>
-      <pubDate>Wed, 19 Mar 2025 15:14:53 +0800</pubDate>
-      <guid>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-418&#34;&gt;&lt;a href=&#34;https://mariushosting.com/how-to-install-uvdesk-on-your-synology-nas/&#34;&gt;How to Install UVdesk on Your Synology NAS&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-418 {
-    background: url(&#39;https://bm.deuts.org/static/https_mariushosting_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Step by step guide for installing UVdesk on your Synology NAS device.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This install process tutorial is based on Synology NAS and Portainer, but I&amp;rsquo;m sure I can make this work in my setup.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-418"><a href="https://mariushosting.com/how-to-install-uvdesk-on-your-synology-nas/">How to Install UVdesk on Your Synology NAS</a></h3>
-<style>
-.favicon-418 {
-    background: url('https://bm.deuts.org/static/https_mariushosting_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Step by step guide for installing UVdesk on your Synology NAS device.
-</blockquote>
-  
-<div class="linkding-notes">
-    This install process tutorial is based on Synology NAS and Portainer, but I&rsquo;m sure I can make this work in my setup.
 </div>
   
 ]]></content:encoded>
