@@ -37,6 +37,120 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</title>
+      <link>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</link>
+      <pubDate>Tue, 25 Mar 2025 23:43:01 +0800</pubDate>
+      <guid>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-422&#34;&gt;&lt;a href=&#34;https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/&#34;&gt;Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-422 {
+    background: url(&#39;https://bm.deuts.org/static/https_michelcarlo_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Unfortunately, I can&amp;rsquo;t seem to make this work in our organization.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-422"><a href="https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/">Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</a></h3>
+<style>
+.favicon-422 {
+    background: url('https://bm.deuts.org/static/https_michelcarlo_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
+</blockquote>
+  
+<div class="linkding-notes">
+    Unfortunately, I can&rsquo;t seem to make this work in our organization.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Power Apps ParseJSON Function: Get Collection From A Flow</title>
+      <link>https://deuts.org/x/421-power-apps-parsejson-function-get-collection-from-a-flow/</link>
+      <pubDate>Mon, 24 Mar 2025 23:45:51 +0800</pubDate>
+      <guid>https://deuts.org/x/421-power-apps-parsejson-function-get-collection-from-a-flow/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-421&#34;&gt;&lt;a href=&#34;https://www.matthewdevaney.com/power-apps-parsejson-function-get-collection-from-a-flow/&#34;&gt;Power Apps ParseJSON Function: Get Collection From A Flow&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-421 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_matthewdevaney_com.jpg&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Power Apps new ParseJSON function converts a text string into a record or table. It can also be used to return a collection from a flow.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I think this is the way to limit access of my Power Apps users to the underlying Sharepoint List.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-421"><a href="https://www.matthewdevaney.com/power-apps-parsejson-function-get-collection-from-a-flow/">Power Apps ParseJSON Function: Get Collection From A Flow</a></h3>
+<style>
+.favicon-421 {
+    background: url('https://bm.deuts.org/static/https_www_matthewdevaney_com.jpg') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Power Apps new ParseJSON function converts a text string into a record or table. It can also be used to return a collection from a flow.
+</blockquote>
+  
+<div class="linkding-notes">
+    I think this is the way to limit access of my Power Apps users to the underlying Sharepoint List.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PowerIcons - The Easiest Way to Customize Icons for Power Apps</title>
+      <link>https://deuts.org/x/420-powericons-the-easiest-way-to-customize-icons-for-power-apps/</link>
+      <pubDate>Mon, 24 Mar 2025 12:28:19 +0800</pubDate>
+      <guid>https://deuts.org/x/420-powericons-the-easiest-way-to-customize-icons-for-power-apps/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-420&#34;&gt;&lt;a href=&#34;https://www.powericons.dev/&#34;&gt;PowerIcons - The Easiest Way to Customize Icons for Power Apps&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-420 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_powericons_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Customize, copy &amp;amp; paste icons into Power Apps without wasting time on complex SVG codes. Quick, easy, and ready to use.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Lots of customization options here I think.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-420"><a href="https://www.powericons.dev/">PowerIcons - The Easiest Way to Customize Icons for Power Apps</a></h3>
+<style>
+.favicon-420 {
+    background: url('https://bm.deuts.org/static/https_www_powericons_dev.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Customize, copy &amp; paste icons into Power Apps without wasting time on complex SVG codes. Quick, easy, and ready to use.
+</blockquote>
+  
+<div class="linkding-notes">
+    Lots of customization options here I think.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>@deuts.hamili.net 3lkwvdgbtjc2s</title>
       <link>https://deuts.org/x/2025-03-22-12-29-3lkwvdgbtjc2s/</link>
       <pubDate>Sat, 22 Mar 2025 12:29:00 +0800</pubDate>
@@ -46,107 +160,121 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JPC6GE9NX0XZT2QBFDM9FXFA</title>
-      <link>https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/</link>
-      <pubDate>Sat, 15 Mar 2025 14:05:22 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/</guid>
-      <description>&lt;p&gt;I wonder if &lt;a href=&#34;https://fediwall.social/?tags=ManyNotes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ManyNotes&#34;&gt;#ManyNotes&lt;/a&gt; is any good for a documentation site? &lt;a href=&#34;https://github.com/brufdev/many-notes&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I wonder if <a href="https://fediwall.social/?tags=ManyNotes&amp;accounts=&amp;lang=en&amp;title=%23ManyNotes">#ManyNotes</a> is any good for a documentation site? <a href="https://github.com/brufdev/many-notes">github.com/∞</a></p>
+      <title>Notemod: Note-Taking App Free &amp; Open Source</title>
+      <link>https://deuts.org/x/419-notemod-note-taking-app-free-open-source/</link>
+      <pubDate>Sat, 22 Mar 2025 00:11:34 +0800</pubDate>
+      <guid>https://deuts.org/x/419-notemod-note-taking-app-free-open-source/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-419&#34;&gt;&lt;a href=&#34;https://github.com/orayemre/Notemod?tab=readme-ov-file&#34;&gt;Notemod: Note-Taking App Free &amp;amp; Open Source&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-419 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    At Notemod, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you&amp;rsquo;re a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We&amp;rsquo;ll never run out of options.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-419"><a href="https://github.com/orayemre/Notemod?tab=readme-ov-file">Notemod: Note-Taking App Free &amp; Open Source</a></h3>
+<style>
+.favicon-419 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    At Notemod, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you&rsquo;re a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
+</blockquote>
+  
+<div class="linkding-notes">
+    We&rsquo;ll never run out of options.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JP9YBNAVDREQK84F4R8S8Z7R</title>
-      <link>https://deuts.org/x/2025-03-14-17-04-28-01jp9ybnavdreqk84f4r8s8z7r/</link>
-      <pubDate>Fri, 14 Mar 2025 17:04:28 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-14-17-04-28-01jp9ybnavdreqk84f4r8s8z7r/</guid>
-      <description>&lt;p&gt;Deployed &lt;a href=&#34;https://fediwall.social/?tags=webhook&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23webhook&#34;&gt;#webhook&lt;/a&gt; server into production. Now I can set up webhooks that run several of my &lt;a href=&#34;https://fediwall.social/?tags=Python&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Python&#34;&gt;#Python&lt;/a&gt; scripts inside a &lt;a href=&#34;https://fediwall.social/?tags=Docker&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Docker&#34;&gt;#Docker&lt;/a&gt; container. Thanks to &lt;a href=&#34;https://github.com/adnanh/webhook&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Deployed <a href="https://fediwall.social/?tags=webhook&amp;accounts=&amp;lang=en&amp;title=%23webhook">#webhook</a> server into production. Now I can set up webhooks that run several of my <a href="https://fediwall.social/?tags=Python&amp;accounts=&amp;lang=en&amp;title=%23Python">#Python</a> scripts inside a <a href="https://fediwall.social/?tags=Docker&amp;accounts=&amp;lang=en&amp;title=%23Docker">#Docker</a> container. Thanks to <a href="https://github.com/adnanh/webhook">github.com/∞</a></p>
+      <title>How to Install UVdesk on Your Synology NAS</title>
+      <link>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</link>
+      <pubDate>Wed, 19 Mar 2025 15:14:53 +0800</pubDate>
+      <guid>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-418&#34;&gt;&lt;a href=&#34;https://mariushosting.com/how-to-install-uvdesk-on-your-synology-nas/&#34;&gt;How to Install UVdesk on Your Synology NAS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-418 {
+    background: url(&#39;https://bm.deuts.org/static/https_mariushosting_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Step by step guide for installing UVdesk on your Synology NAS device.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This install process tutorial is based on Synology NAS and Portainer, but I&amp;rsquo;m sure I can make this work in my setup.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-418"><a href="https://mariushosting.com/how-to-install-uvdesk-on-your-synology-nas/">How to Install UVdesk on Your Synology NAS</a></h3>
+<style>
+.favicon-418 {
+    background: url('https://bm.deuts.org/static/https_mariushosting_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Step by step guide for installing UVdesk on your Synology NAS device.
+</blockquote>
+  
+<div class="linkding-notes">
+    This install process tutorial is based on Synology NAS and Portainer, but I&rsquo;m sure I can make this work in my setup.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JP2T89K3VT01SMD7CBK7FE6M</title>
-      <link>https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/</link>
-      <pubDate>Tue, 11 Mar 2025 22:38:02 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-11-22-38-02-01jp2t89k3vt01smd7cbk7fe6m/</guid>
-      <description>&lt;p&gt;Read this list Go&amp;rsquo;s and No Go&amp;rsquo;s in real estate developments in the Philippines, for my future reference:&lt;/p&gt;
-&lt;h1 id=&#34;gos&#34;&gt;Go&amp;rsquo;s:&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Alveo Land is good being Ayala&amp;rsquo;s upscale&lt;/li&gt;
-&lt;li&gt;Avida is also okay being Ayala&amp;rsquo;s mid. Nuvali is a great community centered development.&lt;/li&gt;
-&lt;li&gt;DMCI, good design and consistent in terms of quality. I&amp;rsquo;ve been to several of their developments and they&amp;rsquo;re one of the most decent ones.&lt;/li&gt;
-&lt;li&gt;Filinvest is somewhat on Avida&amp;rsquo;s level.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;no-gos&#34;&gt;No Go&amp;rsquo;s:&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;SMDC. Well, cockroach farm. Imagine that scene from Snowpiercer.&lt;/li&gt;
-&lt;li&gt;Empire East developments. Imagine Avida but wayy worse in quality.&lt;/li&gt;
-&lt;li&gt;Vista Land developments, anything by Villar. Dont even think about it.&lt;/li&gt;
-&lt;li&gt;Megaworld. Lack of maintenance, issues of substandard materials, flooding, falling ceilings, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/phinvest/s/uM1fzBffFU&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Read this list Go&rsquo;s and No Go&rsquo;s in real estate developments in the Philippines, for my future reference:</p>
-<h1 id="gos">Go&rsquo;s:</h1>
+      <title>Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!</title>
+      <link>https://deuts.org/x/417-self-hosted-ticketing-with-peppermint-open-source-helpdesk-setup/</link>
+      <pubDate>Tue, 18 Mar 2025 22:44:09 +0800</pubDate>
+      <guid>https://deuts.org/x/417-self-hosted-ticketing-with-peppermint-open-source-helpdesk-setup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-417&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=VJB34lLGEyA&amp;amp;si=jR30yTT7_nzoRmxF&#34;&gt;Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-417 {
+    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;I checked out Peppermint, and here are my initial impressions:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-417"><a href="https://youtube.com/watch?v=VJB34lLGEyA&amp;si=jR30yTT7_nzoRmxF">Self-Hosted Ticketing with Peppermint: Open-Source Helpdesk Setup!</a></h3>
+<style>
+.favicon-417 {
+    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Looking for a self-hosted ticketing system? In this video, I dive into Peppermint, a lightweight and open-source helpdesk solution that you can host yourself! I’ll walk you through the installation process using Docker, explore its key features, and show how it can be used for managing support tickets efficiently. Whether you’re running a business or just need a structured way to handle requests, Peppermint is a great self-hosted alternative to traditional ticketing systems.
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>I checked out Peppermint, and here are my initial impressions:</p>
 <ul>
-<li>Alveo Land is good being Ayala&rsquo;s upscale</li>
-<li>Avida is also okay being Ayala&rsquo;s mid. Nuvali is a great community centered development.</li>
-<li>DMCI, good design and consistent in terms of quality. I&rsquo;ve been to several of their developments and they&rsquo;re one of the most decent ones.</li>
-<li>Filinvest is somewhat on Avida&rsquo;s level.</li>
+<li>There&rsquo;s no search function</li>
+<li>No way to edit issue types</li>
+<li>I liked the simple and sleek design</li>
 </ul>
-<h1 id="no-gos">No Go&rsquo;s:</h1>
-<ul>
-<li>SMDC. Well, cockroach farm. Imagine that scene from Snowpiercer.</li>
-<li>Empire East developments. Imagine Avida but wayy worse in quality.</li>
-<li>Vista Land developments, anything by Villar. Dont even think about it.</li>
-<li>Megaworld. Lack of maintenance, issues of substandard materials, flooding, falling ceilings, etc.</li>
-</ul>
-<p><a href="https://www.reddit.com/r/phinvest/s/uM1fzBffFU">www.reddit.com/∞</a></p>
-<p><a href="https://fediwall.social/?tags=RealEstatePH&amp;accounts=&amp;lang=en&amp;title=%23RealEstatePH">#RealEstatePH</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JP236E2BERF899XCZEEZAC1J</title>
-      <link>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</link>
-      <pubDate>Tue, 11 Mar 2025 15:55:04 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-11-15-55-04-01jp236e2berf899xczeezac1j/</guid>
-      <description>&lt;p&gt;The new &lt;a href=&#34;https://fediwall.social/?tags=BDO&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BDO&#34;&gt;#BDO&lt;/a&gt; online banking platform at &lt;a href=&#34;https://www.onlinebanking.bdo.com.ph/&#34;&gt;www.onlinebanking.bdo.com.ph/∞&lt;/a&gt; has no Trust accounts view for my UITF/Investments accounts, so I&amp;rsquo;m stuck with the old website at &lt;a href=&#34;https://online.bdo.com.ph/&#34;&gt;online.bdo.com.ph/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The new <a href="https://fediwall.social/?tags=BDO&amp;accounts=&amp;lang=en&amp;title=%23BDO">#BDO</a> online banking platform at <a href="https://www.onlinebanking.bdo.com.ph/">www.onlinebanking.bdo.com.ph/∞</a> has no Trust accounts view for my UITF/Investments accounts, so I&rsquo;m stuck with the old website at <a href="https://online.bdo.com.ph/">online.bdo.com.ph/∞</a></p>
-<p>Great! And the old site is full of bugs I was redirected to the login page after successful login. And not this:</p>
-<blockquote>
-<p>You have been redirected to the log in page due to multiple sessions detected. Please close and reopen your browser and log in again. Thank you.</p></blockquote>
-<p>Indeed, BDO finds ways!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JNSPY9HX9WXG5NATXY2KDKEX</title>
-      <link>https://deuts.org/x/2025-03-08-09-46-59-01jnspy9hx9wxg5natxy2kdkex/</link>
-      <pubDate>Sat, 08 Mar 2025 09:46:59 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-08-09-46-59-01jnspy9hx9wxg5natxy2kdkex/</guid>
-      <description>&lt;p&gt;Some new personal finance &lt;a href=&#34;https://fediwall.social/?tags=Selfhosted&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Selfhosted&#34;&gt;#Selfhosted&lt;/a&gt; apps to check out:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;dollardollar: &lt;a href=&#34;https://github.com/harung1993/dollardollar&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;envelofy: &lt;a href=&#34;https://github.com/nicholasjemblow/envelofy&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;personal-accountant: &lt;a href=&#34;https://github.com/vchychuzhko/personal-accountant&#34;&gt;github.com/∞&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Credits for the discovery: &lt;a href=&#34;https://selfh.st/newsletter/2025-03-07/&#34;&gt;selfh.st/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Some new personal finance <a href="https://fediwall.social/?tags=Selfhosted&amp;accounts=&amp;lang=en&amp;title=%23Selfhosted">#Selfhosted</a> apps to check out:</p>
-<ol>
-<li>dollardollar: <a href="https://github.com/harung1993/dollardollar">github.com/∞</a></li>
-<li>envelofy: <a href="https://github.com/nicholasjemblow/envelofy">github.com/∞</a></li>
-<li>personal-accountant: <a href="https://github.com/vchychuzhko/personal-accountant">github.com/∞</a></li>
-</ol>
-<p>Credits for the discovery: <a href="https://selfh.st/newsletter/2025-03-07/">selfh.st/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JNSP3K8C3FTVXF5GJ4ACYK0H</title>
-      <link>https://deuts.org/x/2025-03-08-09-32-24-01jnsp3k8c3ftvxf5gj4acyk0h/</link>
-      <pubDate>Sat, 08 Mar 2025 09:32:24 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-08-09-32-24-01jnsp3k8c3ftvxf5gj4acyk0h/</guid>
-      <description>&lt;p&gt;Now it seems like &lt;a href=&#34;https://fediwall.social/?tags=PDFDing&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PDFDing&#34;&gt;#PDFDing&lt;/a&gt; is moving away from its original principle about being as simple looking as &lt;a href=&#34;https://fediwall.social/?tags=LinkDing&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23LinkDing&#34;&gt;#LinkDing&lt;/a&gt;, which I loved. O well.. &lt;a href=&#34;https://github.com/mrmn2/PdfDing&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Now it seems like <a href="https://fediwall.social/?tags=PDFDing&amp;accounts=&amp;lang=en&amp;title=%23PDFDing">#PDFDing</a> is moving away from its original principle about being as simple looking as <a href="https://fediwall.social/?tags=LinkDing&amp;accounts=&amp;lang=en&amp;title=%23LinkDing">#LinkDing</a>, which I loved. O well.. <a href="https://github.com/mrmn2/PdfDing">github.com/∞</a></p>
+</div>
+  
 ]]></content:encoded>
     </item>
   </channel>
