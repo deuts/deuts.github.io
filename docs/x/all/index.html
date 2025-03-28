@@ -95,6 +95,45 @@
 
   <article class="asides-post gotosocial-post gotosocial-list asides-list">
     <div class="asides-post-date nohapd">
+      March 28, 2025
+    </div>
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-03-28-18-36-19-01jqe55xayb5985s1zr0c26j53/" aria-label="Link to the post">18:36</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p>To suppress the <a href="https://fediwall.social/?tags=delegation&amp;accounts=%E2%9F%A8=en&amp;title=%23delegation">#delegation</a> warning in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=%E2%9F%A8=en&amp;title=%23PowerApps">#PowerApps</a> while using <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=%E2%9F%A8=en&amp;title=%23Sharepoint">#Sharepoint</a> as the datasource, here&rsquo;s the formula that worked when using the <code>Search</code> function:</p>
+<pre tabindex="0"><code>    With(
+        { MyCollection:
+            Filter(&#39;Bank Transactions&#39;,
+                !\*chkBankCode\_1\*.Checked || StartsWith(MPIRefID,\*cmbBankCode\_1\*.Selected.Title),
+                !\*chkDateFrom\_1\*.Checked || ((Date &gt;= \*dpDateFrom\_1\*.SelectedDate) &amp;&amp; (Date &lt;= \*dpDateTo\_1\*.SelectedDate)),
+                !\*chkAmtFrom\_1\*.Checked || ((Amount &gt;= Value(\*txtInputAmtFrom\_1\*.Value)) &amp;&amp; (Amount &lt;= Value(\*txtInputAmtTo\_1\*.Value))),
+                !\*chkCancelled\_1\*.Checked || (Status = Blank()),
+                !\*chkCleared\_1\*.Checked || (Closed = false) || (Closed = Blank()),
+                !\*chkDebits\_1\*.Checked || (Amount &gt; 0),
+                !\*chkTnxType\_1\*.Checked || (TnxType = \*cmbTnxType\_1\*.Selected.ID)
+            )
+        },
+        ClearCollect(BankTnxSearchColl,Search(MyCollection,\*txtInputOtherInfo\_1\*.Value,&#39;Other Info&#39;)
+    );
+</code></pre>
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JQE55XAYB5985S1ZR0C26J53" aria-label="Link to gotosocial">01JQE55XAYB5985S1ZR0C26J53</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+    <div class="asides-post-date nohapd">
       March 26, 2025
     </div>
 
@@ -459,55 +498,9 @@
     </div>
   </div>
 </article>
-
-  <article class="asides-post linkding-post linkding-list asides-list">
-    <div class="asides-post-date nohapd">
-      March 15, 2025
-    </div>
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/416-warranty-tracker/" aria-label="Link to the post">15:05</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-416"><a href="https://github.com/sassanix/Warracker">Warranty Tracker</a></h3>
-<style>
-.favicon-416 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An open-source web application to manage product warranties, track expiration dates, and store related documents.
-</blockquote>
-  
-<div class="linkding-notes">
-    Good if you&rsquo;re in the business of tracking warranty expiration dates.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=416" class="ld-backlink">BM416</a>
-          
-            
-            
-              <a href="/k/selfhosting/">Selfhosting</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="next" href="https://deuts.org/x/all/g/2/">Next&nbsp;2/57&nbsp;»
+    <a class="next" href="https://deuts.org/x/all/g/2/">Next&nbsp;2/58&nbsp;»
     </a>
   </nav>
 </footer>
