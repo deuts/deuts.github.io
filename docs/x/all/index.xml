@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 23:53:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 00:26:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JQHBMD2XBP7GV6ME804QASWY</title>
+      <link>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</link>
+      <pubDate>Sun, 30 Mar 2025 00:26:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</guid>
+      <description>&lt;p&gt;I really tried to like &lt;a href=&#34;https://fediwall.social/?tags=NocoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NocoDB&#34;&gt;#NocoDB&lt;/a&gt;, but the more I tried the more I found reasons to go back to &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt;. It’s just missing too many features to be a real alternative for me.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I really tried to like <a href="https://fediwall.social/?tags=NocoDB&amp;accounts=&amp;lang=en&amp;title=%23NocoDB">#NocoDB</a>, but the more I tried the more I found reasons to go back to <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a>. It’s just missing too many features to be a real alternative for me.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Mini QR</title>
       <link>https://deuts.org/x/425-mini-qr/</link>
@@ -254,15 +263,6 @@
     Lots of customization options here I think.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts.hamili.net 3lkwvdgbtjc2s</title>
-      <link>https://deuts.org/x/2025-03-22-12-29-3lkwvdgbtjc2s/</link>
-      <pubDate>Sat, 22 Mar 2025 12:29:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-22-12-29-3lkwvdgbtjc2s/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;https://bsky.app/hashtag/greencloudvps&#34;&gt;#GreenCloudVPS&lt;/a&gt; VPS down now. Yes there was a previous downtime notice (&lt;a href=&#34;https://deuts.org/x/2025-02-27-11-58-05-01jn2rvw84hnmar1620ks3g97h/&#34;&gt;deuts.org/∞&lt;/a&gt;) I just wish everything will be back to normal soon.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>My <a href="https://bsky.app/hashtag/greencloudvps">#GreenCloudVPS</a> VPS down now. Yes there was a previous downtime notice (<a href="https://deuts.org/x/2025-02-27-11-58-05-01jn2rvw84hnmar1620ks3g97h/">deuts.org/∞</a>) I just wish everything will be back to normal soon.</p>
 ]]></content:encoded>
     </item>
   </channel>
