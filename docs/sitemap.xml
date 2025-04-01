@@ -25,6 +25,12 @@
     <loc>https://deuts.org/x/426-if-your-jellyfin-is-having-high-memory-usage-add-malloc-trim-threshold-100000-to-environment/</loc>
     <lastmod>2025-03-31T10:57:07+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/jellyfin/</loc>
+    <lastmod>2025-03-31T10:57:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-03-31T10:57:07+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</loc>
     <lastmod>2025-03-30T00:26:48+08:00</lastmod>
   </url><url>
@@ -32,9 +38,6 @@
     <lastmod>2025-03-28T23:53:10+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/qrcode/</loc>
-    <lastmod>2025-03-28T23:53:10+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-03-28T23:53:10+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/424-creating-a-responsive-image-gallery-shortcode-in-hugo/</loc>
@@ -1590,9 +1593,6 @@
   </url><url>
     <loc>https://deuts.org/x/278-setup-caddy-with-automatic-ssl-certificates-with-cloudflare/</loc>
     <lastmod>2024-12-07T09:47:19+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/jellyfin/</loc>
-    <lastmod>2024-12-06T22:39:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/277-watchstate/</loc>
     <lastmod>2024-12-06T22:39:27+08:00</lastmod>
