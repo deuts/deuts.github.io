@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 31 Mar 2025 10:57:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 10:23:40 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from WordPress to Hugo | ashishb.net</title>
+      <link>https://deuts.org/x/427-migrating-from-wordpress-to-hugo-ashishb-net/</link>
+      <pubDate>Sun, 06 Apr 2025 10:23:40 +0800</pubDate>
+      <guid>https://deuts.org/x/427-migrating-from-wordpress-to-hugo-ashishb-net/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-427&#34;&gt;&lt;a href=&#34;https://ashishb.net/tech/wordpress-to-hugo/&#34;&gt;Migrating from WordPress to Hugo | ashishb.net&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-427 {
+    background: url(&#39;https://bm.deuts.org/static/https_ashishb_net.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Discover why moving away from WordPress to a static site boosts security and reduces costs. Learn about the seamless migration process and optimized deployment.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Hopefully this will work when I need it to be.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-427"><a href="https://ashishb.net/tech/wordpress-to-hugo/">Migrating from WordPress to Hugo | ashishb.net</a></h3>
+<style>
+.favicon-427 {
+    background: url('https://bm.deuts.org/static/https_ashishb_net.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Discover why moving away from WordPress to a static site boosts security and reduces costs. Learn about the seamless migration process and optimized deployment.
+</blockquote>
+  
+<div class="linkding-notes">
+    Hopefully this will work when I need it to be.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>If your Jellyfin is having high memory usage, add MALLOC_TRIM_THRESHOLD_=100000 to environment</title>
       <link>https://deuts.org/x/426-if-your-jellyfin-is-having-high-memory-usage-add-malloc-trim-threshold-100000-to-environment/</link>
@@ -223,44 +261,6 @@
   
 <div class="linkding-notes">
     Unfortunately, I can&rsquo;t seem to make this work in our organization.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Power Apps ParseJSON Function: Get Collection From A Flow</title>
-      <link>https://deuts.org/x/421-power-apps-parsejson-function-get-collection-from-a-flow/</link>
-      <pubDate>Mon, 24 Mar 2025 23:45:51 +0800</pubDate>
-      <guid>https://deuts.org/x/421-power-apps-parsejson-function-get-collection-from-a-flow/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-421&#34;&gt;&lt;a href=&#34;https://www.matthewdevaney.com/power-apps-parsejson-function-get-collection-from-a-flow/&#34;&gt;Power Apps ParseJSON Function: Get Collection From A Flow&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-421 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_matthewdevaney_com.jpg&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Power Apps new ParseJSON function converts a text string into a record or table. It can also be used to return a collection from a flow.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I think this is the way to limit access of my Power Apps users to the underlying Sharepoint List.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-421"><a href="https://www.matthewdevaney.com/power-apps-parsejson-function-get-collection-from-a-flow/">Power Apps ParseJSON Function: Get Collection From A Flow</a></h3>
-<style>
-.favicon-421 {
-    background: url('https://bm.deuts.org/static/https_www_matthewdevaney_com.jpg') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Power Apps new ParseJSON function converts a text string into a record or table. It can also be used to return a collection from a flow.
-</blockquote>
-  
-<div class="linkding-notes">
-    I think this is the way to limit access of my Power Apps users to the underlying Sharepoint List.
 </div>
   
 ]]></content:encoded>
