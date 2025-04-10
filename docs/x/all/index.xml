@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 06 Apr 2025 10:23:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 00:06:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Apps SharePoint List Security | Item Level Permissions &amp; Folder Security with Power Automate</title>
+      <link>https://deuts.org/x/428-power-apps-sharepoint-list-security-item-level-permissions-folder-security-with-power-automate/</link>
+      <pubDate>Wed, 09 Apr 2025 00:06:04 +0800</pubDate>
+      <guid>https://deuts.org/x/428-power-apps-sharepoint-list-security-item-level-permissions-folder-security-with-power-automate/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-428&#34;&gt;&lt;a href=&#34;https://youtu.be/EJyZfYMi4n0?si=coj59cEjkrgPu2cy&#34;&gt;Power Apps SharePoint List Security | Item Level Permissions &amp;amp; Folder Security with Power Automate&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-428 {
+    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this video we will explore the security &amp;amp; permissions needed to work with SharePoint as a data source for your Power Apps.We will set item level permissio&amp;hellip;
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-428"><a href="https://youtu.be/EJyZfYMi4n0?si=coj59cEjkrgPu2cy">Power Apps SharePoint List Security | Item Level Permissions &amp; Folder Security with Power Automate</a></h3>
+<style>
+.favicon-428 {
+    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this video we will explore the security &amp; permissions needed to work with SharePoint as a data source for your Power Apps.We will set item level permissio&hellip;
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Migrating from WordPress to Hugo</title>
       <link>https://deuts.org/x/427-migrating-from-wordpress-to-hugo/</link>
@@ -225,44 +255,6 @@
       <guid>https://deuts.org/x/2025-03-26-10-17-02-01jq83t8bmf1e979sv9smdjk8q/</guid>
       <description>&lt;p&gt;Yo! &lt;a href=&#34;https://fediwall.social/?tags=TheLastOfUs&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23TheLastOfUs&#34;&gt;#TheLastOfUs&lt;/a&gt; Season 2 is almost here. Season 2 premieres April 13. Can&amp;rsquo;t wait!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Yo! <a href="https://fediwall.social/?tags=TheLastOfUs&amp;accounts=&amp;lang=en&amp;title=%23TheLastOfUs">#TheLastOfUs</a> Season 2 is almost here. Season 2 premieres April 13. Can&rsquo;t wait!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</title>
-      <link>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</link>
-      <pubDate>Tue, 25 Mar 2025 23:43:01 +0800</pubDate>
-      <guid>https://deuts.org/x/422-steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui-michelcarlo/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-422&#34;&gt;&lt;a href=&#34;https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/&#34;&gt;Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-422 {
-    background: url(&#39;https://bm.deuts.org/static/https_michelcarlo_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Unfortunately, I can&amp;rsquo;t seem to make this work in our organization.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-422"><a href="https://michelcarlo.com/2021/05/30/steps-to-deny-power-apps-users-access-to-sharepoint-data-from-the-sharepoint-ui/">Steps to deny Power Apps users access to SharePoint data from the SharePoint UI - michelcarlo</a></h3>
-<style>
-.favicon-422 {
-    background: url('https://bm.deuts.org/static/https_michelcarlo_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    How to block users from opening contents from a site directly in the SharePoint interface while still allowing the access from Power Apps.
-</blockquote>
-  
-<div class="linkding-notes">
-    Unfortunately, I can&rsquo;t seem to make this work in our organization.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
