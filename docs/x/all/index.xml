@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 00:06:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 08:30:55 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quickly Export Large Power Apps Data to Excel Using Power Automate</title>
+      <link>https://deuts.org/x/429-quickly-export-large-power-apps-data-to-excel-using-power-automate/</link>
+      <pubDate>Thu, 10 Apr 2025 08:30:55 +0800</pubDate>
+      <guid>https://deuts.org/x/429-quickly-export-large-power-apps-data-to-excel-using-power-automate/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-429&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xurF9SY68qg&amp;amp;t=850s&#34;&gt;Quickly Export Large Power Apps Data to Excel Using Power Automate&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-429 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this video, you will learn how to quickly &amp;amp; efficiently export large data from Power Apps to Excel using Power Automate. We&amp;rsquo;ll use SharePoint, Dataverse, &amp;hellip;
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-429"><a href="https://www.youtube.com/watch?v=xurF9SY68qg&amp;t=850s">Quickly Export Large Power Apps Data to Excel Using Power Automate</a></h3>
+<style>
+.favicon-429 {
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this video, you will learn how to quickly &amp; efficiently export large data from Power Apps to Excel using Power Automate. We&rsquo;ll use SharePoint, Dataverse, &hellip;
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Power Apps SharePoint List Security | Item Level Permissions &amp; Folder Security with Power Automate</title>
       <link>https://deuts.org/x/428-power-apps-sharepoint-list-security-item-level-permissions-folder-security-with-power-automate/</link>
@@ -246,15 +276,6 @@
       <guid>https://deuts.org/x/2025-03-26-21-51-36-01jq9bj2g9ckna39agvgrqfkx8/</guid>
       <description>&lt;p&gt;The use of &lt;code&gt;Name&lt;/code&gt; and &lt;code&gt;Folder path&lt;/code&gt; columns to filter a &lt;a href=&#34;https://fediwall.social/?tags=Sharepoint&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Sharepoint&#34;&gt;#Sharepoint&lt;/a&gt; Document Library is not delegable in &lt;a href=&#34;https://fediwall.social/?tags=PowerApps&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerApps&#34;&gt;#PowerApps&lt;/a&gt;. I don&amp;rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&amp;rsquo;t exist in the latter: &lt;a href=&#34;https://deuts.org/p/sharepoint-folder-vs-list-power-apps/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The use of <code>Name</code> and <code>Folder path</code> columns to filter a <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> Document Library is not delegable in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a>. I don&rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&rsquo;t exist in the latter: <a href="https://deuts.org/p/sharepoint-folder-vs-list-power-apps/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JQ83T8BMF1E979SV9SMDJK8Q</title>
-      <link>https://deuts.org/x/2025-03-26-10-17-02-01jq83t8bmf1e979sv9smdjk8q/</link>
-      <pubDate>Wed, 26 Mar 2025 10:17:02 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-26-10-17-02-01jq83t8bmf1e979sv9smdjk8q/</guid>
-      <description>&lt;p&gt;Yo! &lt;a href=&#34;https://fediwall.social/?tags=TheLastOfUs&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23TheLastOfUs&#34;&gt;#TheLastOfUs&lt;/a&gt; Season 2 is almost here. Season 2 premieres April 13. Can&amp;rsquo;t wait!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Yo! <a href="https://fediwall.social/?tags=TheLastOfUs&amp;accounts=&amp;lang=en&amp;title=%23TheLastOfUs">#TheLastOfUs</a> Season 2 is almost here. Season 2 premieres April 13. Can&rsquo;t wait!</p>
 ]]></content:encoded>
     </item>
   </channel>
