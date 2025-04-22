@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 10 Apr 2025 08:30:55 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 22:24:46 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailscale Healthcheck</title>
+      <link>https://deuts.org/x/431-tailscale-healthcheck/</link>
+      <pubDate>Fri, 11 Apr 2025 22:24:46 +0800</pubDate>
+      <guid>https://deuts.org/x/431-tailscale-healthcheck/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-431&#34;&gt;&lt;a href=&#34;https://github.com/laitco/tailscale-healthcheck&#34;&gt;Tailscale Healthcheck&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-431 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Python-based Flask application to monitor the health of devices in a Tailscale network. The application provides endpoints to check the health status of all devices, specific devices, and lists of healthy or unhealthy devices
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-431"><a href="https://github.com/laitco/tailscale-healthcheck">Tailscale Healthcheck</a></h3>
+<style>
+.favicon-431 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Python-based Flask application to monitor the health of devices in a Tailscale network. The application provides endpoints to check the health status of all devices, specific devices, and lists of healthy or unhealthy devices
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Austen - story relationships between book characters</title>
+      <link>https://deuts.org/x/430-austen-story-relationships-between-book-characters/</link>
+      <pubDate>Fri, 11 Apr 2025 22:17:59 +0800</pubDate>
+      <guid>https://deuts.org/x/430-austen-story-relationships-between-book-characters/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-430&#34;&gt;&lt;a href=&#34;https://github.com/herol3oy/austen&#34;&gt;Austen - story relationships between book characters&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-430 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Austen is an AI-powered Angular application initialized with Analogjs to generate story relationships between book characters using Mermaidjs diagrams.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-430"><a href="https://github.com/herol3oy/austen">Austen - story relationships between book characters</a></h3>
+<style>
+.favicon-430 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Austen is an AI-powered Angular application initialized with Analogjs to generate story relationships between book characters using Mermaidjs diagrams.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Quickly Export Large Power Apps Data to Excel Using Power Automate</title>
       <link>https://deuts.org/x/429-quickly-export-large-power-apps-data-to-excel-using-power-automate/</link>
@@ -229,53 +289,6 @@
       <guid>https://deuts.org/x/2025-03-28-18-36-19-01jqe55xayb5985s1zr0c26j53/</guid>
       <description>&lt;p&gt;To suppress the &lt;a href=&#34;https://fediwall.social/?tags=delegation&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23delegation&#34;&gt;#delegation&lt;/a&gt; warning in &lt;a href=&#34;https://fediwall.social/?tags=PowerApps&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerApps&#34;&gt;#PowerApps&lt;/a&gt; while using &lt;a href=&#34;https://fediwall.social/?tags=Sharepoint&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Sharepoint&#34;&gt;#Sharepoint&lt;/a&gt; as the datasource, here&amp;rsquo;s the formula that worked when using the &lt;code&gt;Search&lt;/code&gt; function: &lt;a href=&#34;https://gist.github.com/deuts/5676ad74551810557437a27c35f927ef&#34;&gt;gist.github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>To suppress the <a href="https://fediwall.social/?tags=delegation&amp;accounts=&amp;lang=en&amp;title=%23delegation">#delegation</a> warning in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a> while using <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> as the datasource, here&rsquo;s the formula that worked when using the <code>Search</code> function: <a href="https://gist.github.com/deuts/5676ad74551810557437a27c35f927ef">gist.github.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Power Apps Create your own Code Repository! Code View in Power Apps is now Generally Available</title>
-      <link>https://deuts.org/x/423-power-apps-create-your-own-code-repository-code-view-in-power-apps-is-now-generally-available/</link>
-      <pubDate>Fri, 28 Mar 2025 06:44:47 +0800</pubDate>
-      <guid>https://deuts.org/x/423-power-apps-create-your-own-code-repository-code-view-in-power-apps-is-now-generally-available/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-423&#34;&gt;&lt;a href=&#34;https://youtu.be/QH6U46PVOas?si=Wnvj0tTShA4yosEd&#34;&gt;Power Apps Create your own Code Repository! Code View in Power Apps is now Generally Available&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-423 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    In this video we look at the now generally available Code View feature in Power Apps! This feature had some updates in March 2025 that now allow us to paste &amp;hellip;
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Wish I had the time to continue with my documentations.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-423"><a href="https://youtu.be/QH6U46PVOas?si=Wnvj0tTShA4yosEd">Power Apps Create your own Code Repository! Code View in Power Apps is now Generally Available</a></h3>
-<style>
-.favicon-423 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    In this video we look at the now generally available Code View feature in Power Apps! This feature had some updates in March 2025 that now allow us to paste &hellip;
-</blockquote>
-  
-<div class="linkding-notes">
-    Wish I had the time to continue with my documentations.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JQ9BJ2G9CKNA39AGVGRQFKX8</title>
-      <link>https://deuts.org/x/2025-03-26-21-51-36-01jq9bj2g9ckna39agvgrqfkx8/</link>
-      <pubDate>Wed, 26 Mar 2025 21:51:36 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-26-21-51-36-01jq9bj2g9ckna39agvgrqfkx8/</guid>
-      <description>&lt;p&gt;The use of &lt;code&gt;Name&lt;/code&gt; and &lt;code&gt;Folder path&lt;/code&gt; columns to filter a &lt;a href=&#34;https://fediwall.social/?tags=Sharepoint&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Sharepoint&#34;&gt;#Sharepoint&lt;/a&gt; Document Library is not delegable in &lt;a href=&#34;https://fediwall.social/?tags=PowerApps&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerApps&#34;&gt;#PowerApps&lt;/a&gt;. I don&amp;rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&amp;rsquo;t exist in the latter: &lt;a href=&#34;https://deuts.org/p/sharepoint-folder-vs-list-power-apps/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The use of <code>Name</code> and <code>Folder path</code> columns to filter a <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> Document Library is not delegable in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a>. I don&rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&rsquo;t exist in the latter: <a href="https://deuts.org/p/sharepoint-folder-vs-list-power-apps/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
