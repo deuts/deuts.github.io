@@ -7,8 +7,76 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 23 Apr 2025 17:12:31 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 07:27:16 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KeepAlive - alternative to Wake On Lan</title>
+      <link>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</link>
+      <pubDate>Thu, 24 Apr 2025 07:27:16 +0800</pubDate>
+      <guid>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-437&#34;&gt;&lt;a href=&#34;https://github.com/pablogila/KeepAlive&#34;&gt;KeepAlive - alternative to Wake On Lan&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-437 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Restart a Linux server made of a potato laptop after power outages
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This might be useful for some of my old machines lying around.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-437"><a href="https://github.com/pablogila/KeepAlive">KeepAlive - alternative to Wake On Lan</a></h3>
+<style>
+.favicon-437 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Restart a Linux server made of a potato laptop after power outages
+</blockquote>
+  
+<div class="linkding-notes">
+    This might be useful for some of my old machines lying around.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>I Gave Up on Kindle and Built My Own eBook Server With Calibre</title>
+      <link>https://deuts.org/x/436-i-gave-up-on-kindle-and-built-my-own-ebook-server-with-calibre/</link>
+      <pubDate>Wed, 23 Apr 2025 21:09:59 +0800</pubDate>
+      <guid>https://deuts.org/x/436-i-gave-up-on-kindle-and-built-my-own-ebook-server-with-calibre/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-436&#34;&gt;&lt;a href=&#34;https://www.howtogeek.com/i-gave-up-on-kindle-and-built-my-own-ebook-server-with-calibre/&#34;&gt;I Gave Up on Kindle and Built My Own eBook Server With Calibre&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-436 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_howtogeek_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Because “purchase” shouldn’t come with an asterisk.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-436"><a href="https://www.howtogeek.com/i-gave-up-on-kindle-and-built-my-own-ebook-server-with-calibre/">I Gave Up on Kindle and Built My Own eBook Server With Calibre</a></h3>
+<style>
+.favicon-436 {
+    background: url('https://bm.deuts.org/static/https_www_howtogeek_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Because “purchase” shouldn’t come with an asterisk.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Missing template definitions breaks production builds in Hugo v0.146.0&#43;</title>
       <link>https://deuts.org/x/435-missing-template-definitions-breaks-production-builds-in-hugo-v0-146-0/</link>
@@ -249,74 +317,6 @@
 <blockquote class="linkding-description">
     In this video, you will learn how to quickly &amp; efficiently export large data from Power Apps to Excel using Power Automate. We&rsquo;ll use SharePoint, Dataverse, &hellip;
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Power Apps SharePoint List Security | Item Level Permissions &amp; Folder Security with Power Automate</title>
-      <link>https://deuts.org/x/428-power-apps-sharepoint-list-security-item-level-permissions-folder-security-with-power-automate/</link>
-      <pubDate>Wed, 09 Apr 2025 00:06:04 +0800</pubDate>
-      <guid>https://deuts.org/x/428-power-apps-sharepoint-list-security-item-level-permissions-folder-security-with-power-automate/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-428&#34;&gt;&lt;a href=&#34;https://youtu.be/EJyZfYMi4n0?si=coj59cEjkrgPu2cy&#34;&gt;Power Apps SharePoint List Security | Item Level Permissions &amp;amp; Folder Security with Power Automate&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-428 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    In this video we will explore the security &amp;amp; permissions needed to work with SharePoint as a data source for your Power Apps.We will set item level permissio&amp;hellip;
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-428"><a href="https://youtu.be/EJyZfYMi4n0?si=coj59cEjkrgPu2cy">Power Apps SharePoint List Security | Item Level Permissions &amp; Folder Security with Power Automate</a></h3>
-<style>
-.favicon-428 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    In this video we will explore the security &amp; permissions needed to work with SharePoint as a data source for your Power Apps.We will set item level permissio&hellip;
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Migrating from WordPress to Hugo</title>
-      <link>https://deuts.org/x/427-migrating-from-wordpress-to-hugo/</link>
-      <pubDate>Sun, 06 Apr 2025 10:23:40 +0800</pubDate>
-      <guid>https://deuts.org/x/427-migrating-from-wordpress-to-hugo/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-427&#34;&gt;&lt;a href=&#34;https://ashishb.net/tech/wordpress-to-hugo/&#34;&gt;Migrating from WordPress to Hugo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-427 {
-    background: url(&#39;https://bm.deuts.org/static/https_ashishb_net.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Discover why moving away from WordPress to a static site boosts security and reduces costs. Learn about the seamless migration process and optimized deployment.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Hopefully this will work when I need it to be.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-427"><a href="https://ashishb.net/tech/wordpress-to-hugo/">Migrating from WordPress to Hugo</a></h3>
-<style>
-.favicon-427 {
-    background: url('https://bm.deuts.org/static/https_ashishb_net.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Discover why moving away from WordPress to a static site boosts security and reduces costs. Learn about the seamless migration process and optimized deployment.
-</blockquote>
-  
-<div class="linkding-notes">
-    Hopefully this will work when I need it to be.
-</div>
   
 ]]></content:encoded>
     </item>
