@@ -17,10 +17,52 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-04-24T07:27:16+08:00</lastmod>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-04-24T07:27:16+08:00</lastmod>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/443-silverbullet-intro-demo-v2-edition/</loc>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/wiki/</loc>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/youtube/</loc>
+    <lastmod>2025-04-26T22:43:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanager/</loc>
+    <lastmod>2025-04-26T22:22:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/442-filerise/</loc>
+    <lastmod>2025-04-26T22:22:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/441-filegator/</loc>
+    <lastmod>2025-04-26T22:22:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/documentation/</loc>
+    <lastmod>2025-04-26T22:18:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/440-wiki-go/</loc>
+    <lastmod>2025-04-26T22:18:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hugo/</loc>
+    <lastmod>2025-04-26T22:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/439-hugonest-hugo-mobile-ios-android-app-with-ai-and-git-integration/</loc>
+    <lastmod>2025-04-26T22:16:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-04-26T22:14:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/438-docker-stats/</loc>
+    <lastmod>2025-04-26T22:14:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/monitor/</loc>
+    <lastmod>2025-04-26T22:14:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</loc>
     <lastmod>2025-04-24T07:27:16+08:00</lastmod>
@@ -36,12 +78,6 @@
   </url><url>
     <loc>https://deuts.org/k/kindle/</loc>
     <lastmod>2025-04-23T21:09:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2025-04-23T21:09:59+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/hugo/</loc>
-    <lastmod>2025-04-23T17:12:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/435-missing-template-definitions-breaks-production-builds-in-hugo-v0-146-0/</loc>
     <lastmod>2025-04-23T17:12:31+08:00</lastmod>
@@ -241,9 +277,6 @@
     <loc>https://deuts.org/k/charts/</loc>
     <lastmod>2025-03-12T20:58:17+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/documentation/</loc>
-    <lastmod>2025-03-12T20:58:17+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/mkdocs/</loc>
     <lastmod>2025-03-12T20:58:17+08:00</lastmod>
   </url><url>
@@ -315,9 +348,6 @@
   </url><url>
     <loc>https://deuts.org/t/ssg/</loc>
     <lastmod>2025-03-07T09:05:12+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-03-06T20:51:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/405-docker-quadratic-docs/</loc>
     <lastmod>2025-03-06T20:51:58+08:00</lastmod>
@@ -852,9 +882,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-01-12-20-27-20-01jhd7q96smkjhcacaezvs1v8d/</loc>
     <lastmod>2025-01-12T20:27:20+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/monitor/</loc>
-    <lastmod>2025-01-12T00:37:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/337-using-beszel-to-monitor-windows/</loc>
     <lastmod>2025-01-12T00:37:23+08:00</lastmod>
@@ -2008,9 +2035,6 @@
     <loc>https://deuts.org/x/247-khanwebhost/</loc>
     <lastmod>2024-11-05T09:37:49+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2024-11-04T21:40:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/246-telegram-drive/</loc>
     <lastmod>2024-11-04T21:40:00+08:00</lastmod>
   </url><url>
@@ -2111,9 +2135,6 @@
     <lastmod>2024-10-16T17:27:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/219-docker-hedgedoc/</loc>
-    <lastmod>2024-10-15T17:55:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/wiki/</loc>
     <lastmod>2024-10-15T17:55:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/218-github-linuxserver-docker-guacd/</loc>
@@ -2252,9 +2273,6 @@
     <lastmod>2024-09-14T10:47:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/182-github-meeb-tubesync-syncs-youtube-channels-and-playlists-to-a-locally-hosted-media-server/</loc>
-    <lastmod>2024-09-14T10:47:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/youtube/</loc>
     <lastmod>2024-09-14T10:47:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/181-github-nandyalu-trailarr-at-selfh-st/</loc>
