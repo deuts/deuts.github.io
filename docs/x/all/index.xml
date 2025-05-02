@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 10:42:21 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 14:01:38 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Import CSV</title>
+      <link>https://deuts.org/x/447-import-csv/</link>
+      <pubDate>Fri, 02 May 2025 14:01:38 +0800</pubDate>
+      <guid>https://deuts.org/x/447-import-csv/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-447&#34;&gt;&lt;a href=&#34;https://github.com/abhishekray07/importcsv&#34;&gt;Import CSV&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-447 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The open-source CSV import solution for modern web applications. Import rows in seconds with intelligent column mapping and validation.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-447"><a href="https://github.com/abhishekray07/importcsv">Import CSV</a></h3>
+<style>
+.favicon-447 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The open-source CSV import solution for modern web applications. Import rows in seconds with intelligent column mapping and validation.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>WP2Hugo</title>
       <link>https://deuts.org/x/446-wp2hugo/</link>
@@ -320,44 +350,6 @@
   
 <div class="linkding-notes">
     At its current state, I&rsquo;m not sure if this can be reliable. Docker install is not yet available. Saving this for future reference.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>KeepAlive - alternative to Wake On Lan</title>
-      <link>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</link>
-      <pubDate>Thu, 24 Apr 2025 07:27:16 +0800</pubDate>
-      <guid>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-437&#34;&gt;&lt;a href=&#34;https://github.com/pablogila/KeepAlive&#34;&gt;KeepAlive - alternative to Wake On Lan&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-437 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Restart a Linux server made of a potato laptop after power outages
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This might be useful for some of my old machines lying around.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-437"><a href="https://github.com/pablogila/KeepAlive">KeepAlive - alternative to Wake On Lan</a></h3>
-<style>
-.favicon-437 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Restart a Linux server made of a potato laptop after power outages
-</blockquote>
-  
-<div class="linkding-notes">
-    This might be useful for some of my old machines lying around.
 </div>
   
 ]]></content:encoded>
