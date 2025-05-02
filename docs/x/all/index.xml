@@ -7,8 +7,50 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 02 May 2025 14:01:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 22:07:36 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kometa-Team/Quickstart</title>
+      <link>https://deuts.org/x/448-kometa-team-quickstart/</link>
+      <pubDate>Fri, 02 May 2025 22:07:36 +0800</pubDate>
+      <guid>https://deuts.org/x/448-kometa-team-quickstart/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-448&#34;&gt;&lt;a href=&#34;https://github.com/Kometa-Team/Quickstart&#34;&gt;Kometa-Team/Quickstart&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-448 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    YAML Generator for use with Kometa.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;Note:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s ideal that you go through the Kometa install walkthrough prior to running Quickstart, as that will get Kometa set up to accept the config file that Quickstart will produce. Running Quickstart and then the walkthrough could end up running into problems that will not be addressed in the walkthroughs; at best nothing in the walkthrough will match expectations so you will be left to figure out any differences yourself.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-448"><a href="https://github.com/Kometa-Team/Quickstart">Kometa-Team/Quickstart</a></h3>
+<style>
+.favicon-448 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    YAML Generator for use with Kometa.
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>Note:</p>
+<blockquote>
+<p>It&rsquo;s ideal that you go through the Kometa install walkthrough prior to running Quickstart, as that will get Kometa set up to accept the config file that Quickstart will produce. Running Quickstart and then the walkthrough could end up running into problems that will not be addressed in the walkthroughs; at best nothing in the walkthrough will match expectations so you will be left to figure out any differences yourself.</p></blockquote>
+
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Import CSV</title>
       <link>https://deuts.org/x/447-import-csv/</link>
@@ -313,44 +355,6 @@
 <blockquote class="linkding-description">
     Efficiently manage your Hugo static site anytime, anywhere. HugoNest offers seamless mobile Markdown editing, reliable AI Powered Git integration, and offline support—the ideal mobile companion for Hugo developers and content creators.
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Docker Stats</title>
-      <link>https://deuts.org/x/438-docker-stats/</link>
-      <pubDate>Sat, 26 Apr 2025 22:14:19 +0800</pubDate>
-      <guid>https://deuts.org/x/438-docker-stats/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-438&#34;&gt;&lt;a href=&#34;https://github.com/Drakonis96/dockerstats&#34;&gt;Docker Stats&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-438 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A web app to monitor usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    At its current state, I&amp;rsquo;m not sure if this can be reliable. Docker install is not yet available. Saving this for future reference.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-438"><a href="https://github.com/Drakonis96/dockerstats">Docker Stats</a></h3>
-<style>
-.favicon-438 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A web app to monitor usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
-</blockquote>
-  
-<div class="linkding-notes">
-    At its current state, I&rsquo;m not sure if this can be reliable. Docker install is not yet available. Saving this for future reference.
-</div>
   
 ]]></content:encoded>
     </item>
