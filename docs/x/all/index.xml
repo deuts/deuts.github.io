@@ -7,8 +7,114 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 05 May 2025 09:18:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 11:09:44 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSV to HTML – WordPress plugin</title>
+      <link>https://deuts.org/x/455-csv-to-html-wordpress-plugin/</link>
+      <pubDate>Tue, 06 May 2025 11:09:44 +0800</pubDate>
+      <guid>https://deuts.org/x/455-csv-to-html-wordpress-plugin/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-455&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/csv-to-html/&#34;&gt;CSV to HTML – WordPress plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-455 {
+    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Easily display, edit, and synchronize CSV files as dynamic HTML tables using a simple shortcode—no coding required.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-455"><a href="https://wordpress.org/plugins/csv-to-html/">CSV to HTML – WordPress plugin</a></h3>
+<style>
+.favicon-455 {
+    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Easily display, edit, and synchronize CSV files as dynamic HTML tables using a simple shortcode—no coding required.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Samsung Galaxy A56 vs. Galaxy S24 FE</title>
+      <link>https://deuts.org/x/454-samsung-galaxy-a56-vs-galaxy-s24-fe/</link>
+      <pubDate>Tue, 06 May 2025 07:27:13 +0800</pubDate>
+      <guid>https://deuts.org/x/454-samsung-galaxy-a56-vs-galaxy-s24-fe/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-454&#34;&gt;&lt;a href=&#34;https://gsmarena.com/samsung_galaxy_a56_vs_galaxy_s24_fe_review_battery_camera_price_compared-news-67563.php&#34;&gt;Samsung Galaxy A56 vs. Galaxy S24 FE&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-454 {
+    background: url(&#39;https://bm.deuts.org/static/https_gsmarena_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The hugely popular Samsung Galaxy A series got its annual overhaul recently. The headlining A56 didn&amp;rsquo;t bring a whole lot of improvements over the previous generation, the most obvious being a chipset upgrade. Other than the A55 and the A36, the A56 needs to face another in-house competitor - the S24 FE could turn out to be the better option for someone that&amp;rsquo;s looking to spend A56 money.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    If you&amp;rsquo;re like me, who&amp;rsquo;s contemplating at upgrading to the more modern mid-range Android Smartphone (me, I&amp;rsquo;m coming from the Samsung Galaxy S20 FE Snapdragon edition), then these are some of your choices.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-454"><a href="https://gsmarena.com/samsung_galaxy_a56_vs_galaxy_s24_fe_review_battery_camera_price_compared-news-67563.php">Samsung Galaxy A56 vs. Galaxy S24 FE</a></h3>
+<style>
+.favicon-454 {
+    background: url('https://bm.deuts.org/static/https_gsmarena_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The hugely popular Samsung Galaxy A series got its annual overhaul recently. The headlining A56 didn&rsquo;t bring a whole lot of improvements over the previous generation, the most obvious being a chipset upgrade. Other than the A55 and the A36, the A56 needs to face another in-house competitor - the S24 FE could turn out to be the better option for someone that&rsquo;s looking to spend A56 money.
+</blockquote>
+  
+<div class="linkding-notes">
+    If you&rsquo;re like me, who&rsquo;s contemplating at upgrading to the more modern mid-range Android Smartphone (me, I&rsquo;m coming from the Samsung Galaxy S20 FE Snapdragon edition), then these are some of your choices.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Arcane: Simple and Elegant Docker Management UI</title>
+      <link>https://deuts.org/x/453-arcane-simple-and-elegant-docker-management-ui/</link>
+      <pubDate>Mon, 05 May 2025 19:56:33 +0800</pubDate>
+      <guid>https://deuts.org/x/453-arcane-simple-and-elegant-docker-management-ui/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-453&#34;&gt;&lt;a href=&#34;https://github.com/ofkm/arcane&#34;&gt;Arcane: Simple and Elegant Docker Management UI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-453 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Arcane is a modern, web-based interface for managing your Docker environment, built with SvelteKit. It offers a clean, intuitive overview and powerful management tools for your containers, images, volumes, and networks—all in one place.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I stopped using Portainer because I can manage my Docker containers from the command line anyway. But if there&amp;rsquo;s a sleeker alternative, why not?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-453"><a href="https://github.com/ofkm/arcane">Arcane: Simple and Elegant Docker Management UI</a></h3>
+<style>
+.favicon-453 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Arcane is a modern, web-based interface for managing your Docker environment, built with SvelteKit. It offers a clean, intuitive overview and powerful management tools for your containers, images, volumes, and networks—all in one place.
+</blockquote>
+  
+<div class="linkding-notes">
+    I stopped using Portainer because I can manage my Docker containers from the command line anyway. But if there&rsquo;s a sleeker alternative, why not?
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>BlogSimplicity WordPress Theme</title>
       <link>https://deuts.org/x/452-blogsimplicity-wordpress-theme/</link>
@@ -206,102 +312,6 @@
 
 <blockquote class="linkding-description">
     The open-source CSV import solution for modern web applications. Import rows in seconds with intelligent column mapping and validation.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>WP2Hugo</title>
-      <link>https://deuts.org/x/446-wp2hugo/</link>
-      <pubDate>Wed, 30 Apr 2025 10:42:21 +0800</pubDate>
-      <guid>https://deuts.org/x/446-wp2hugo/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-446&#34;&gt;&lt;a href=&#34;https://github.com/ashishb/wp2hugo&#34;&gt;WP2Hugo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-446 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;This is the best migrator for migrating WordPress export to Hugo. It handles several weird edge cases that I encountered while trying to migrate my personal website to Hugo-based site.&lt;/p&gt;
-&lt;p&gt;While this primarily targets Hugo-based code generation, one can use it to convert WordPress blogs to Markdown-based files that can be used with other systems for example Mkdocs or Jekyll.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-446"><a href="https://github.com/ashishb/wp2hugo">WP2Hugo</a></h3>
-<style>
-.favicon-446 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>This is the best migrator for migrating WordPress export to Hugo. It handles several weird edge cases that I encountered while trying to migrate my personal website to Hugo-based site.</p>
-<p>While this primarily targets Hugo-based code generation, one can use it to convert WordPress blogs to Markdown-based files that can be used with other systems for example Mkdocs or Jekyll.</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    Should I use this to migrate <a href="https://deuts.net/">Deuts.NET</a> to Hugo?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Power Apps Modern vs Classic Controls Reference</title>
-      <link>https://deuts.org/x/445-power-apps-modern-vs-classic-controls-reference/</link>
-      <pubDate>Tue, 29 Apr 2025 07:25:48 +0800</pubDate>
-      <guid>https://deuts.org/x/445-power-apps-modern-vs-classic-controls-reference/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-445&#34;&gt;&lt;a href=&#34;https://www.powerapps911.com/post/power-apps-modern-vs-classic-controls-reference&#34;&gt;Power Apps Modern vs Classic Controls Reference&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-445 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_powerapps911_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A look at the different between Modern and Classic controls in Power Apps focused on Text Input, Number Input, Text Label, and Button controls.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-445"><a href="https://www.powerapps911.com/post/power-apps-modern-vs-classic-controls-reference">Power Apps Modern vs Classic Controls Reference</a></h3>
-<style>
-.favicon-445 {
-    background: url('https://bm.deuts.org/static/https_www_powerapps911_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A look at the different between Modern and Classic controls in Power Apps focused on Text Input, Number Input, Text Label, and Button controls.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Jobspy API</title>
-      <link>https://deuts.org/x/444-jobspy-api/</link>
-      <pubDate>Tue, 29 Apr 2025 07:22:53 +0800</pubDate>
-      <guid>https://deuts.org/x/444-jobspy-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-444&#34;&gt;&lt;a href=&#34;https://github.com/rainmanjam/jobspy-api&#34;&gt;Jobspy API&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-444 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Dockerized version of JobSpy, with API key auth, rate limiting, and proxy support.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-444"><a href="https://github.com/rainmanjam/jobspy-api">Jobspy API</a></h3>
-<style>
-.favicon-444 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Dockerized version of JobSpy, with API key auth, rate limiting, and proxy support.
 </blockquote>
   
 ]]></content:encoded>
