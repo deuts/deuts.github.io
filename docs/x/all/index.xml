@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 08 May 2025 13:34:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 09:20:18 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JTSA20SFZPJJTRE5PAEZ8GCG</title>
+      <link>https://deuts.org/x/2025-05-09-09-20-18-01jtsa20sfzpjjtre5paez8gcg/</link>
+      <pubDate>Fri, 09 May 2025 09:20:18 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-05-09-09-20-18-01jtsa20sfzpjjtre5paez8gcg/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt; Dark Mode is here: &lt;a href=&#34;https://community.airtable.com/announcements-6/airtable-dark-mode-is-here-45132%5B#post162499%5D(https://fediwall.social/?tags=post162499&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23post162499)&#34;&gt;community.airtable.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a> Dark Mode is here: <a href="https://community.airtable.com/announcements-6/airtable-dark-mode-is-here-45132%5B#post162499%5D(https://fediwall.social/?tags=post162499&amp;accounts=&amp;lang=en&amp;title=%23post162499)">community.airtable.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Update schema_json.html by soda92 · Pull Request #1696 · adityatelange/hugo-PaperMod · GitHub</title>
       <link>https://deuts.org/x/459-update-schema-json-html-by-soda92-pull-request-1696-adityatelange-hugo-papermod-github/</link>
@@ -314,36 +323,6 @@
 
 <blockquote class="linkding-description">
     A WordPress theme designed for math notes. It has a minimalist look, ensuring your content takes center stage and remains the focal point. The theme comes with built-in MathJax support by default, rendering text enclosed in $&hellip;$ as inline math and $$&hellip;$$ as display math.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Redleaf WordPress Theme</title>
-      <link>https://deuts.org/x/450-redleaf-wordpress-theme/</link>
-      <pubDate>Mon, 05 May 2025 09:11:49 +0800</pubDate>
-      <guid>https://deuts.org/x/450-redleaf-wordpress-theme/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-450&#34;&gt;&lt;a href=&#34;https://wordpress.org/themes/redleaf/&#34;&gt;Redleaf WordPress Theme&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-450 {
-    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Redleaf is a Minimalistic, Barebones, Easy Starter Theme with Cutomizer options for WordPress
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-450"><a href="https://wordpress.org/themes/redleaf/">Redleaf WordPress Theme</a></h3>
-<style>
-.favicon-450 {
-    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Redleaf is a Minimalistic, Barebones, Easy Starter Theme with Cutomizer options for WordPress
 </blockquote>
   
 ]]></content:encoded>
