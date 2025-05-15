@@ -7,8 +7,153 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 03 May 2025 23:25:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:50:40 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing the Lightweight, Markdown, Selfhosted Wikis</title>
+      <link>https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/</link>
+      <pubDate>Thu, 15 May 2025 11:50:40 +0800</pubDate>
+      <guid>https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/</guid>
+      <description>Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.</description>
+      <content:encoded><![CDATA[<p>When it comes to managing documentation efficiently, I&rsquo;ve found that self-hosted wikis offer the perfect balance of control and simplicity. After exploring numerous options, I&rsquo;ve developed clear criteria for what makes an ideal wiki solution for my needs:</p>
+<ul>
+<li><strong>Database-free architecture</strong>: Content stored as markdown files for simplicity and portability</li>
+<li><strong>Dynamic rendering</strong>: Pages rendered on-the-fly rather than pre-generated like static site generators like Hugo, Jekyll, or MkDocs</li>
+<li><strong>Wiki-first design</strong>: Purpose-built for documentation rather than adapted from note-taking apps</li>
+<li><strong>Containerized deployment</strong>: Easy installation via Docker compose</li>
+</ul>
+<p>These requirements have led me to focus on three promising solutions: Wiki-Go, WikiDocs, and Otterwiki. Each offers a different approach while meeting my core criteria.</p>
+<div class="callout info">
+  <div class="callout-content">
+    <strong>These are features important to me!</strong>
+    <p>
+The features listed in the table below are the ones I find important to me personally. Your requirements might differ, so take those into consideration.
+</p>
+  </div>
+</div>
+<p>Here&rsquo;s how they compare:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Wiki-Go</th>
+          <th>WikiDocs</th>
+          <th>Otterwiki</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Programming Language</td>
+          <td>Go</td>
+          <td>PHP</td>
+          <td>Python</td>
+      </tr>
+      <tr>
+          <td>Advanced Table Editing</td>
+          <td>❌</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Pretty URLs</td>
+          <td>✅</td>
+          <td>✅</td>
+          <td>❌ (uses <code>%20</code> for spaces)</td>
+      </tr>
+      <tr>
+          <td>Sidebar Page Ordering</td>
+          <td>Number prefixing</td>
+          <td>Number prefixing</td>
+          <td>Alphabetical by title</td>
+      </tr>
+      <tr>
+          <td>User Management</td>
+          <td>Admin, Editor, Viewer roles</td>
+          <td>Editor and Viewer passwords</td>
+          <td>Semi-advanced + email registration</td>
+      </tr>
+      <tr>
+          <td>Custom Sidebar Menu</td>
+          <td>❌ (internal docs only)</td>
+          <td>❌ (internal docs only)</td>
+          <td>✅ (including external links)</td>
+      </tr>
+      <tr>
+          <td>Sitemap Auto-generation</td>
+          <td>❌</td>
+          <td>✅</td>
+          <td>❌</td>
+      </tr>
+      <tr>
+          <td>Built-in Commenting</td>
+          <td>✅</td>
+          <td>❌</td>
+          <td>❌</td>
+      </tr>
+      <tr>
+          <td>Table of Contents</td>
+          <td>❌</td>
+          <td>✅ (via shortcode)</td>
+          <td>✅ (automatic)</td>
+      </tr>
+      <tr>
+          <td>Move/Rename Documents in UI</td>
+          <td>✅</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Callout/Admonition Support</td>
+          <td>❌</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Ability to Remove Credits</td>
+          <td>❌</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Paste from Clipboard as Attachment</td>
+          <td>✅</td>
+          <td>✅</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Wikilink Support</td>
+          <td>❌</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+      <tr>
+          <td>Insert Link to Another Page in Editor</td>
+          <td>✅ (editor button)</td>
+          <td>❌</td>
+          <td>✅ (as Wikilink)</td>
+      </tr>
+      <tr>
+          <td>Git Web Server Support</td>
+          <td>❌</td>
+          <td>❌</td>
+          <td>✅</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Wiki-Go and WikiDocs display the first H1 header of each document in the sidebar.</li>
+<li>Otterwiki&rsquo;s table editing includes buttons to add/format tables, add/remove rows and columns, and move rows up/down and columns left/right.</li>
+<li>For sidebar organization, Wiki-Go and WikiDocs require renaming pages with number prefixes, while Otterwiki uses alphabetical ordering (a custom menu can be managed manually).</li>
+<li>Otterwiki supports user self-registration and password recovery when email settings are configured.</li>
+<li>All three platforms automatically upload and embed images when pasting from clipboard.</li>
+</ul>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>After comparing these three wiki platforms, I find that Wiki-Go best suits my documentation workflow. Its clean URL structure, straightforward user interface, and built-in commenting system provide everything I need without unnecessary complexity. The ability to move and rename documents directly in the UI is particularly useful for maintaining organized documentation.</p>
+<p>WikiDocs offers similar simplicity with the added benefit of automatic sitemap generation, while Otterwiki excels in advanced editing features and flexibility. Each platform has distinct advantages depending on your specific needs.</p>
+<p>The beauty of file-based wikis is that your content remains portable as Markdown files, allowing you to easily migrate between platforms as your requirements evolve.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Samsung Galaxy S24 FE</title>
       <link>https://deuts.org/p/samsung-galaxy-s24-fe/</link>
@@ -660,33 +805,6 @@ Todoist has a 300 active tasks per project limit, which may not be an issue for 
 <h2 id="final-thoughts">Final Thoughts</h2>
 <p>Both apps have strengths and weaknesses, depending on your needs. Todoist feels more polished overall, especially with its integration features and user-friendly design. However, RTM shines for its flexibility, unlimited lists, and smart lists without a paywall.</p>
 <p>While I&rsquo;m still testing Todoist, RTM has been my go-to for years. Will I make the switch? Time will tell, but for now, I&rsquo;ll keep experimenting.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Additional Documentation for Hugo PaperMod Post Cover Image</title>
-      <link>https://deuts.org/p/add-docs-hugo-papermod-cover-image/</link>
-      <pubDate>Sun, 05 Jan 2025 09:03:38 +0800</pubDate>
-      <guid>https://deuts.org/p/add-docs-hugo-papermod-cover-image/</guid>
-      <description>Here&amp;#39;s how to set up a cover image in Hugo PaperMod posts, including the use of relative paths in page bundles to ensure the image links are correctly resolved.</description>
-      <content:encoded><![CDATA[<p>In the <a href="https://github.com/adityatelange/hugo-PaperMod/wiki/Features#post-cover-image">Hugo PaperMod wiki</a>, the process for adding a cover image to your posts is outlined. Below is the relevant frontmatter structure, taken directly from the wiki:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;&lt;image path/url&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># You can also use a direct link from an external site</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># Example: https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">alt</span>: <span style="color:#e6db74">&#34;&lt;alt text&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">caption</span>: <span style="color:#e6db74">&#34;&lt;text&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">false</span> <span style="color:#75715e"># Use relative path for cover image, particularly in Hugo page bundles</span>
-</span></span></code></pre></div><p>If you&rsquo;re working with <a href="https://gohugo.io/content-management/page-bundles/">page bundles</a> and your file structure looks like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>.
-</span></span><span style="display:flex;"><span>├── cover-image.jpg
-</span></span><span style="display:flex;"><span>└── index.md
-</span></span></code></pre></div><p>The frontmatter should be adjusted as follows:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">cover</span>:
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">image</span>: <span style="color:#e6db74">&#34;cover-image.jpg&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">relative</span>: <span style="color:#66d9ef">true</span>
-</span></span></code></pre></div><p>It&rsquo;s important to set <code>relative: true</code> when using page bundles. If this isn&rsquo;t set, the <code>&lt;head&gt;</code> of your page will contain an incorrect link, leading to a 404 error, like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://deuts.org/cover-image.jpg&#34;</span>&gt;
-</span></span></code></pre></div><p>Setting <code>relative: true</code> ensures that the image link is correctly handled within the page bundle, avoiding broken links.</p>
 ]]></content:encoded>
     </item>
   </channel>
