@@ -92,7 +92,7 @@ The features listed in the table below are the ones I find important to me perso
       </tr>
       <tr>
           <td>Table of Contents</td>
-          <td>❌</td>
+          <td>✅ (via <code>[toc]</code> shortcode)</td>
           <td>✅ (via shortcode)</td>
           <td>✅ (automatic)</td>
       </tr>
