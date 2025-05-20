@@ -138,6 +138,12 @@ The features listed in the table below are the ones I find important to me perso
           <td>❌</td>
           <td>✅</td>
       </tr>
+      <tr>
+          <td>Login Rate Limiting</td>
+          <td>✅</td>
+          <td>❌</td>
+          <td>❌</td>
+      </tr>
   </tbody>
 </table>
 <p><strong>Notes:</strong></p>
