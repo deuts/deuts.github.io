@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Data Quality Issues in BAP’s Historical PHP/USD Rates | Deuts Log</title>
-<meta name="keywords" content="bap, forex, exchange-rate">
+<meta name="keywords" content="bap, forex, exchange-rate, google-sheets">
 <meta name="description" content="An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/bap-rates-data-issues/">
@@ -41,6 +41,7 @@
     <meta property="article:tag" content="Bap">
     <meta property="article:tag" content="Forex">
     <meta property="article:tag" content="Exchange-Rate">
+    <meta property="article:tag" content="Google-Sheets">
     <meta property="og:image" content="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg">
@@ -57,7 +58,7 @@
   "name": "Data Quality Issues in BAP’s Historical PHP\/USD Rates",
   "description": "An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.",
   "keywords": [
-    "bap", "forex", "exchange-rate"
+    "bap", "forex", "exchange-rate", "google-sheets"
   ],
   "articleBody": "Businesses often rely on the daily PHP/USD rates published by the Bankers Association of the Philippines (BAP) for various financial decisions, from investment valuations to foreign exchange operations. Starting in June 2021, BAP began making their historical exchange rate data available through public Google Sheets, including not only daily rates but also trading volumes.\nWhile the move to publish historical data is a step toward transparency, their choice of format—Google Sheets—is notably out of touch with modern standards. Instead of offering a proper API endpoint for structured, automated access, BAP expects users to manually work with spreadsheets. This approach is inefficient and reflects a backward mentality that’s not commensurate with the needs of 21st-century data users. For a major financial industry player with such national relevance, adopting more developer-friendly, programmatic access methods is long overdue.\nTo assess the quality of the published data, I consolidated all available sheets and performed a thorough analysis. Here are some of the most glaring issues I found:\nUnexplicable Data An entry dated 2019-09-13 appears under the February sheet of the 2019 workbook:\nThis item doesn’t belong in February and causes duplication for September 13, 2019, with completely different balances. It is unclear which entry is valid.\nUnusually High Number On May 20, 2021, the opening rate is recorded as 478.855—far outside the plausible range. It’s likely a typographical error and should be 47.855:\nDuplicate Data for Adjacent Dates Some rows across adjacent dates have exactly the same values across all key fields, including:\nOpen High Low Close AM/PM Weighted Averages and Volumes Total Volume Settlement This could indicate copy-paste or data rollover errors.\nHigh is Less than Low The High value should logically always be greater than or equal to the Low. However, there are rows where this is violated:\nOpen Outside of High and Low The Open price should fall within the range of the High and Low, but some rows show it falling outside:\nClose Outside of High and Low Similarly, Close should also fall within the daily high-low range, yet some entries show otherwise:\nThese data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.\n",
   "wordCount" : "390",
@@ -239,6 +240,7 @@
       <li><a href="https://deuts.org/t/bap/">Bap</a></li>
       <li><a href="https://deuts.org/t/forex/">Forex</a></li>
       <li><a href="https://deuts.org/t/exchange-rate/">Exchange-Rate</a></li>
+      <li><a href="https://deuts.org/t/google-sheets/">Google-Sheets</a></li>
     </ul>
 <nav class="paginav">
   <a class="next" href="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/">
@@ -252,7 +254,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on x"
-            href="https://x.com/intent/tweet/?text=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f&amp;hashtags=bap%2cforex%2cexchange-rate">
+            href="https://x.com/intent/tweet/?text=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f&amp;hashtags=bap%2cforex%2cexchange-rate%2cgoogle-sheets">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
