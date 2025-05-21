@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Comparing the Lightweight, Markdown, Selfhosted Wikis | Deuts Log</title>
-<meta name="keywords" content="wiki, markdown, selfhosting">
-<meta name="description" content="Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.">
+<title>Data Quality Issues in BAP’s Historical PHP/USD Rates | Deuts Log</title>
+<meta name="keywords" content="bap, forex, exchange-rate">
+<meta name="description" content="An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.">
 <meta name="author" content="">
-<link rel="canonical" href="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/">
+<link rel="canonical" href="https://deuts.org/p/bap-rates-data-issues/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.5149f75272b8529e329838f9ae7ca0c4756a127afb9706f4434b29aeac009bd7.css" integrity="sha256-UUn3UnK4Up4ymDj5rnygxHVqEnr7lwb0Q0sprqwAm9c=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://deuts.org/icons/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://deuts.org/icons/favicon-16x16.png">
@@ -18,7 +18,7 @@
 <link rel="mask-icon" href="https://deuts.org/icons/apple-touch-icon.png">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/">
+<link rel="alternate" hreflang="en" href="https://deuts.org/p/bap-rates-data-issues/">
 <noscript>
     <style>
         #theme-toggle,
@@ -29,23 +29,23 @@
     </style>
 </noscript><script defer src="https://medama.deuts.org/script.js"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-<meta property="og:url" content="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/">
+<meta property="og:url" content="https://deuts.org/p/bap-rates-data-issues/">
   <meta property="og:site_name" content="Deuts Log">
-  <meta property="og:title" content="Comparing the Lightweight, Markdown, Selfhosted Wikis">
-  <meta property="og:description" content="Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.">
+  <meta property="og:title" content="Data Quality Issues in BAP’s Historical PHP/USD Rates">
+  <meta property="og:description" content="An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-05-15T11:50:40+08:00">
-    <meta property="article:modified_time" content="2025-05-15T11:50:40+08:00">
-    <meta property="article:tag" content="Wiki">
-    <meta property="article:tag" content="Markdown">
-    <meta property="article:tag" content="Selfhosting">
-    <meta property="og:image" content="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison.jpg">
+    <meta property="article:published_time" content="2025-05-21T13:47:58+08:00">
+    <meta property="article:modified_time" content="2025-05-21T13:47:58+08:00">
+    <meta property="article:tag" content="Bap">
+    <meta property="article:tag" content="Forex">
+    <meta property="article:tag" content="Exchange-Rate">
+    <meta property="og:image" content="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison.jpg">
-<meta name="twitter:title" content="Comparing the Lightweight, Markdown, Selfhosted Wikis">
-<meta name="twitter:description" content="Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.">
+<meta name="twitter:image" content="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg">
+<meta name="twitter:title" content="Data Quality Issues in BAP’s Historical PHP/USD Rates">
+<meta name="twitter:description" content="An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.">
 
 
 
@@ -53,20 +53,20 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Comparing the Lightweight, Markdown, Selfhosted Wikis",
-  "name": "Comparing the Lightweight, Markdown, Selfhosted Wikis",
-  "description": "Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.",
+  "headline": "Data Quality Issues in BAP’s Historical PHP/USD Rates",
+  "name": "Data Quality Issues in BAP’s Historical PHP\/USD Rates",
+  "description": "An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.",
   "keywords": [
-    "wiki", "markdown", "selfhosting"
+    "bap", "forex", "exchange-rate"
   ],
-  "articleBody": "When it comes to managing documentation efficiently, I’ve found that self-hosted wikis offer the perfect balance of control and simplicity. After exploring numerous options, I’ve developed clear criteria for what makes an ideal wiki solution for my needs:\nDatabase-free architecture: Content stored as markdown files for simplicity and portability Dynamic rendering: Pages rendered on-the-fly rather than pre-generated like static site generators like Hugo, Jekyll, or MkDocs Wiki-first design: Purpose-built for documentation rather than adapted from note-taking apps Containerized deployment: Easy installation via Docker compose These requirements have led me to focus on three promising solutions: Wiki-Go, WikiDocs, and Otterwiki. Each offers a different approach while meeting my core criteria.\nThese are features important to me!\rThe features listed in the table below are the ones I find important to me personally. Your requirements might differ, so take those into consideration. Here’s how they compare:\nFeature Wiki-Go WikiDocs Otterwiki Programming Language Go PHP Python Advanced Table Editing ❌ ❌ ✅ Pretty URLs ✅ ✅ ❌ (uses %20 for spaces) Sidebar Page Ordering Number prefixing Number prefixing Alphabetical by title User Management Admin, Editor, Viewer roles Editor and Viewer passwords Semi-advanced + email registration Custom Sidebar Menu ❌ (internal docs only) ❌ (internal docs only) ✅ (including external links) Sitemap Auto-generation ❌ ✅ ❌ Built-in Commenting ✅ ❌ ❌ Table of Contents ✅ ([toc] shortcode) ✅ (via shortcode) ✅ (automatic) Move/Rename Documents in UI ✅ ❌ ✅ Callout/Admonition Support ❌ ❌ ✅ Ability to Remove Credits ❌ ❌ ✅ Paste from Clipboard as Attachment ✅ ✅ ✅ Wikilink Support ❌ ❌ ✅ Insert Link to Another Page in Editor ✅ (editor button) ❌ ✅ (as Wikilink) Git Web Server Support ❌ ❌ ✅ Login Rate Limiting ✅ ❌ ❌ Notes:\nWiki-Go and WikiDocs display the first H1 header of each document in the sidebar. Otterwiki’s table editing includes buttons to add/format tables, add/remove rows and columns, and move rows up/down and columns left/right. For sidebar organization, Wiki-Go and WikiDocs require renaming pages with number prefixes, while Otterwiki uses alphabetical ordering (a custom menu can be managed manually). Otterwiki supports user self-registration and password recovery when email settings are configured. All three platforms automatically upload and embed images when pasting from clipboard. Final Thoughts After comparing these three wiki platforms, I find that Wiki-Go best suits my documentation workflow. Its clean URL structure, straightforward user interface, and built-in commenting system provide everything I need without unnecessary complexity. The ability to move and rename documents directly in the UI is particularly useful for maintaining organized documentation.\nWikiDocs offers similar simplicity with the added benefit of automatic sitemap generation, while Otterwiki excels in advanced editing features and flexibility. Each platform has distinct advantages depending on your specific needs.\nThe beauty of file-based wikis is that your content remains portable as Markdown files, allowing you to easily migrate between platforms as your requirements evolve.\n",
-  "wordCount" : "478",
+  "articleBody": "Businesses often rely on the daily PHP/USD rates published by the Bankers Association of the Philippines (BAP) for various financial decisions, from investment valuations to foreign exchange operations. Starting in June 2021, BAP began making their historical exchange rate data available through public Google Sheets, including not only daily rates but also trading volumes.\nWhile the move to publish historical data is a step toward transparency, their choice of format—Google Sheets—is notably out of touch with modern standards. Instead of offering a proper API endpoint for structured, automated access, BAP expects users to manually work with spreadsheets. This approach is inefficient and reflects a backward mentality that’s not commensurate with the needs of 21st-century data users. For a major financial industry player with such national relevance, adopting more developer-friendly, programmatic access methods is long overdue.\nTo assess the quality of the published data, I consolidated all available sheets and performed a thorough analysis. Here are some of the most glaring issues I found:\nUnexplicable Data An entry dated 2019-09-13 appears under the February sheet of the 2019 workbook:\nThis item doesn’t belong in February and causes duplication for September 13, 2019, with completely different balances. It is unclear which entry is valid.\nUnusually High Number On May 20, 2021, the opening rate is recorded as 478.855—far outside the plausible range. It’s likely a typographical error and should be 47.855:\nDuplicate Data for Adjacent Dates Some rows across adjacent dates have exactly the same values across all key fields, including:\nOpen High Low Close AM/PM Weighted Averages and Volumes Total Volume Settlement This could indicate copy-paste or data rollover errors.\nHigh is Less than Low The High value should logically always be greater than or equal to the Low. However, there are rows where this is violated:\nOpen Outside of High and Low The Open price should fall within the range of the High and Low, but some rows show it falling outside:\nClose Outside of High and Low Similarly, Close should also fall within the daily high-low range, yet some entries show otherwise:\nThese data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.\n",
+  "wordCount" : "390",
   "inLanguage": "en",
-  "image":"https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison.jpg","datePublished": "2025-05-15T11:50:40+08:00",
-  "dateModified": "2025-05-15T11:50:40+08:00",
+  "image":"https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg","datePublished": "2025-05-21T13:47:58+08:00",
+  "dateModified": "2025-05-21T13:47:58+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/"
+    "@id": "https://deuts.org/p/bap-rates-data-issues/"
   },
   "publisher": {
     "@type": "Organization",
@@ -124,14 +124,14 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Comparing the Lightweight, Markdown, Selfhosted Wikis
+      Data Quality Issues in BAP’s Historical PHP/USD Rates
     </h1>
     <div class="post-description">
-      Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.
+      An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.
     </div>
-    <div class="post-meta"><span title='2025-05-15 11:50:40 +0800 PST'>May 15, 2025</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;478 words
+    <div class="post-meta"><span title='2025-05-21 13:47:58 +0800 PST'>May 21, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;390 words
 
-<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/wiki-go-vs-wikidocs-vs-otterwiki/index.md" rel="noopener noreferrer" target="_blank">
+<a href="https://filepath.deuts.org/files/deutslog-site/content/posts/bap-rates-data-issues/index.md" rel="noopener noreferrer" target="_blank">
     <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
 </a>
 
@@ -141,7 +141,7 @@
 </button>
 
 
-<input type="text" value="content/posts/wiki-go-vs-wikidocs-vs-otterwiki/index.md" id="filePath-a8fa726e7f2e400f3a91607ab0c75319" style="visibility: hidden; position: absolute;" />
+<input type="text" value="content/posts/bap-rates-data-issues/index.md" id="filePath-e836adcb1eb400a16ffa32edbb30bbe5" style="visibility: hidden; position: absolute;" />
 
 
 <div id="notification" style="display: none; background-color: #4CAF50; color: white; padding: 10px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); border-radius: 5px;">
@@ -150,7 +150,7 @@
 
 <script>
   function copyToClipboard() {
-    var copyText = document.getElementById("filePath-a8fa726e7f2e400f3a91607ab0c75319");
+    var copyText = document.getElementById("filePath-e836adcb1eb400a16ffa32edbb30bbe5");
     navigator.clipboard.writeText(copyText.value).then(() => {
       var notification = document.getElementById("notification");
       notification.style.display = "block";
@@ -166,154 +166,69 @@
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" srcset="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison_hu_4f3bfbf6af3d3e5d.jpg 360w ,https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison_hu_1c23deabe1e0299f.jpg 480w ,https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison_hu_52bf10755ca79f3c.jpg 720w ,https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison.jpg 900w" 
-            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/wiki-comparison.jpg" alt="" 
+        <img loading="eager" srcset="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues_hu_9e9347b2ad2fff06.jpg 360w ,https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues_hu_b1554e8eb9f2ea72.jpg 480w ,https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues_hu_905f82ec099687c.jpg 720w ,https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg 900w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/bap-rates-data-issues/bap-rates-data-issues.jpg" alt="" 
             width="900" height="600">
         
-</figure>
-  <div class="post-content"><p>When it comes to managing documentation efficiently, I&rsquo;ve found that self-hosted wikis offer the perfect balance of control and simplicity. After exploring numerous options, I&rsquo;ve developed clear criteria for what makes an ideal wiki solution for my needs:</p>
-<ul>
-<li><strong>Database-free architecture</strong>: Content stored as markdown files for simplicity and portability</li>
-<li><strong>Dynamic rendering</strong>: Pages rendered on-the-fly rather than pre-generated like static site generators like Hugo, Jekyll, or MkDocs</li>
-<li><strong>Wiki-first design</strong>: Purpose-built for documentation rather than adapted from note-taking apps</li>
-<li><strong>Containerized deployment</strong>: Easy installation via Docker compose</li>
-</ul>
-<p>These requirements have led me to focus on three promising solutions: Wiki-Go, WikiDocs, and Otterwiki. Each offers a different approach while meeting my core criteria.</p>
-<div class="callout info">
-  <div class="callout-content">
-    <strong>These are features important to me!</strong>
-    <p>
-The features listed in the table below are the ones I find important to me personally. Your requirements might differ, so take those into consideration.
-</p>
-  </div>
+</figure><div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#unexplicable-data" aria-label="Unexplicable Data">Unexplicable Data</a></li>
+                <li>
+                    <a href="#unusually-high-number" aria-label="Unusually High Number">Unusually High Number</a></li>
+                <li>
+                    <a href="#duplicate-data-for-adjacent-dates" aria-label="Duplicate Data for Adjacent Dates">Duplicate Data for Adjacent Dates</a></li>
+                <li>
+                    <a href="#high-is-less-than-low" aria-label="High is Less than Low">High is Less than Low</a></li>
+                <li>
+                    <a href="#open-outside-of-high-and-low" aria-label="Open Outside of High and Low">Open Outside of High and Low</a></li>
+                <li>
+                    <a href="#close-outside-of-high-and-low" aria-label="Close Outside of High and Low">Close Outside of High and Low</a>
+                </li>
+            </ul>
+        </div>
+    </details>
 </div>
-<p>Here&rsquo;s how they compare:</p>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>Wiki-Go</th>
-          <th>WikiDocs</th>
-          <th>Otterwiki</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Programming Language</td>
-          <td>Go</td>
-          <td>PHP</td>
-          <td>Python</td>
-      </tr>
-      <tr>
-          <td>Advanced Table Editing</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Pretty URLs</td>
-          <td>✅</td>
-          <td>✅</td>
-          <td>❌ (uses <code>%20</code> for spaces)</td>
-      </tr>
-      <tr>
-          <td>Sidebar Page Ordering</td>
-          <td>Number prefixing</td>
-          <td>Number prefixing</td>
-          <td>Alphabetical by title</td>
-      </tr>
-      <tr>
-          <td>User Management</td>
-          <td>Admin, Editor, Viewer roles</td>
-          <td>Editor and Viewer passwords</td>
-          <td>Semi-advanced + email registration</td>
-      </tr>
-      <tr>
-          <td>Custom Sidebar Menu</td>
-          <td>❌ (internal docs only)</td>
-          <td>❌ (internal docs only)</td>
-          <td>✅ (including external links)</td>
-      </tr>
-      <tr>
-          <td>Sitemap Auto-generation</td>
-          <td>❌</td>
-          <td>✅</td>
-          <td>❌</td>
-      </tr>
-      <tr>
-          <td>Built-in Commenting</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>❌</td>
-      </tr>
-      <tr>
-          <td>Table of Contents</td>
-          <td>✅ (<code>[toc]</code> shortcode)</td>
-          <td>✅ (via shortcode)</td>
-          <td>✅ (automatic)</td>
-      </tr>
-      <tr>
-          <td>Move/Rename Documents in UI</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Callout/Admonition Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Ability to Remove Credits</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Paste from Clipboard as Attachment</td>
-          <td>✅</td>
-          <td>✅</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Wikilink Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Insert Link to Another Page in Editor</td>
-          <td>✅ (editor button)</td>
-          <td>❌</td>
-          <td>✅ (as Wikilink)</td>
-      </tr>
-      <tr>
-          <td>Git Web Server Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Login Rate Limiting</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>❌</td>
-      </tr>
-  </tbody>
-</table>
-<p><strong>Notes:</strong></p>
+
+  <div class="post-content"><p>Businesses often rely on the daily PHP/USD rates published by the <a href="https://bap.org.ph/"><strong>Bankers Association of the Philippines (BAP)</strong></a> for various financial decisions, from investment valuations to foreign exchange operations. Starting in <strong>June 2021</strong>, BAP began making their historical exchange rate data available through public <strong>Google Sheets</strong>, including not only daily rates but also trading volumes.</p>
+<p>While the move to publish historical data is a step toward transparency, their choice of format—Google Sheets—is notably out of touch with modern standards. Instead of offering a proper <strong>API endpoint</strong> for structured, automated access, BAP expects users to manually work with spreadsheets. This approach is inefficient and reflects a backward mentality that’s not commensurate with the needs of 21st-century data users. For a major financial industry player with such national relevance, adopting more developer-friendly, programmatic access methods is long overdue.</p>
+<p>To assess the quality of the published data, I consolidated all available sheets and performed a thorough analysis. Here are some of the most glaring issues I found:</p>
+<h3 id="unexplicable-data">Unexplicable Data<a hidden class="anchor" aria-hidden="true" href="#unexplicable-data">#</a></h3>
+<p>An entry dated <strong>2019-09-13</strong> appears under the <code>February</code> sheet of the <a href="https://docs.google.com/spreadsheets/d/15afzEIAU7KZ-wJLbBmc4imb6GjVEMDkngoWQCK3YMSg/edit?gid=840189394#gid=840189394">2019 workbook</a>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/unexplicable-data.png"></p>
+<p>This item doesn&rsquo;t belong in February and causes duplication for <strong>September 13, 2019</strong>, with completely different balances. It is unclear which entry is valid.</p>
+<h3 id="unusually-high-number">Unusually High Number<a hidden class="anchor" aria-hidden="true" href="#unusually-high-number">#</a></h3>
+<p>On <strong>May 20, 2021</strong>, the opening rate is recorded as <strong>478.855</strong>—far outside the plausible range. It&rsquo;s likely a typographical error and should be <strong>47.855</strong>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/unually-high-number.png"></p>
+<h3 id="duplicate-data-for-adjacent-dates">Duplicate Data for Adjacent Dates<a hidden class="anchor" aria-hidden="true" href="#duplicate-data-for-adjacent-dates">#</a></h3>
+<p>Some rows across <strong>adjacent dates</strong> have exactly the same values across <strong>all key fields</strong>, including:</p>
 <ul>
-<li>Wiki-Go and WikiDocs display the first H1 header of each document in the sidebar.</li>
-<li>Otterwiki&rsquo;s table editing includes buttons to add/format tables, add/remove rows and columns, and move rows up/down and columns left/right.</li>
-<li>For sidebar organization, Wiki-Go and WikiDocs require renaming pages with number prefixes, while Otterwiki uses alphabetical ordering (a custom menu can be managed manually).</li>
-<li>Otterwiki supports user self-registration and password recovery when email settings are configured.</li>
-<li>All three platforms automatically upload and embed images when pasting from clipboard.</li>
+<li>Open</li>
+<li>High</li>
+<li>Low</li>
+<li>Close</li>
+<li>AM/PM Weighted Averages and Volumes</li>
+<li>Total Volume</li>
+<li>Settlement</li>
 </ul>
-<h2 id="final-thoughts">Final Thoughts<a hidden class="anchor" aria-hidden="true" href="#final-thoughts">#</a></h2>
-<p>After comparing these three wiki platforms, I find that Wiki-Go best suits my documentation workflow. Its clean URL structure, straightforward user interface, and built-in commenting system provide everything I need without unnecessary complexity. The ability to move and rename documents directly in the UI is particularly useful for maintaining organized documentation.</p>
-<p>WikiDocs offers similar simplicity with the added benefit of automatic sitemap generation, while Otterwiki excels in advanced editing features and flexibility. Each platform has distinct advantages depending on your specific needs.</p>
-<p>The beauty of file-based wikis is that your content remains portable as Markdown files, allowing you to easily migrate between platforms as your requirements evolve.</p>
+<p>This could indicate copy-paste or data rollover errors.</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/duplicate-data.png"></p>
+<h3 id="high-is-less-than-low">High is Less than Low<a hidden class="anchor" aria-hidden="true" href="#high-is-less-than-low">#</a></h3>
+<p>The <code>High</code> value should logically always be <strong>greater than or equal to</strong> the <code>Low</code>. However, there are rows where this is violated:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/high-low.png"></p>
+<h3 id="open-outside-of-high-and-low">Open Outside of High and Low<a hidden class="anchor" aria-hidden="true" href="#open-outside-of-high-and-low">#</a></h3>
+<p>The <code>Open</code> price should fall <strong>within</strong> the range of the <code>High</code> and <code>Low</code>, but some rows show it falling <strong>outside</strong>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/open-outside.png"></p>
+<h3 id="close-outside-of-high-and-low">Close Outside of High and Low<a hidden class="anchor" aria-hidden="true" href="#close-outside-of-high-and-low">#</a></h3>
+<p>Similarly, <code>Close</code> should also fall within the daily high-low range, yet some entries show otherwise:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/close-outside.png"></p>
+<hr>
+<p>These data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.</p>
 
 
   </div>
@@ -321,31 +236,23 @@ The features listed in the table below are the ones I find important to me perso
   <footer class="post-footer">
     
     <ul class="post-tags">
-      <li><a href="https://deuts.org/a/wiki-go/">Wiki-Go</a></li>
-      <li><a href="https://deuts.org/a/wikidocs/">Wikidocs</a></li>
-      <li><a href="https://deuts.org/a/otterwiki/">Otterwiki</a></li>
-      <li><a href="https://deuts.org/t/wiki/">Wiki</a></li>
-      <li><a href="https://deuts.org/t/markdown/">Markdown</a></li>
-      <li><a href="https://deuts.org/t/selfhosting/">Selfhosting</a></li>
+      <li><a href="https://deuts.org/t/bap/">Bap</a></li>
+      <li><a href="https://deuts.org/t/forex/">Forex</a></li>
+      <li><a href="https://deuts.org/t/exchange-rate/">Exchange-Rate</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://deuts.org/p/bap-rates-data-issues/">
-    <span class="title">« Prev</span>
-    <br>
-    <span>Data Quality Issues in BAP’s Historical PHP/USD Rates</span>
-  </a>
-  <a class="next" href="https://deuts.org/p/samsung-galaxy-s24-fe/">
+  <a class="next" href="https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/">
     <span class="title">Next »</span>
     <br>
-    <span>Samsung Galaxy S24 FE</span>
+    <span>Comparing the Lightweight, Markdown, Selfhosted Wikis</span>
   </a>
 </nav>
 
 
 <ul class="share-buttons">
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on x"
-            href="https://x.com/intent/tweet/?text=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis&amp;url=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f&amp;hashtags=wiki%2cmarkdown%2cselfhosting">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on x"
+            href="https://x.com/intent/tweet/?text=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f&amp;hashtags=bap%2cforex%2cexchange-rate">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
@@ -353,8 +260,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on linkedin"
-            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f&amp;title=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis&amp;summary=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis&amp;source=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on linkedin"
+            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f&amp;title=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;summary=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;source=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-288.985,423.278l0,-225.717l-75.04,0l0,225.717l75.04,0Zm270.539,0l0,-129.439c0,-69.333 -37.018,-101.586 -86.381,-101.586c-39.804,0 -57.634,21.891 -67.617,37.266l0,-31.958l-75.021,0c0.995,21.181 0,225.717 0,225.717l75.02,0l0,-126.056c0,-6.748 0.486,-13.492 2.474,-18.315c5.414,-13.475 17.767,-27.434 38.494,-27.434c27.135,0 38.007,20.707 38.007,51.037l0,120.768l75.024,0Zm-307.552,-334.556c-25.674,0 -42.448,16.879 -42.448,39.002c0,21.658 16.264,39.002 41.455,39.002l0.484,0c26.165,0 42.452,-17.344 42.452,-39.002c-0.485,-22.092 -16.241,-38.954 -41.943,-39.002Z" />
@@ -362,8 +269,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on reddit"
-            href="https://reddit.com/submit?url=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f&title=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on reddit"
+            href="https://reddit.com/submit?url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f&title=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-3.446,265.638c0,-22.964 -18.616,-41.58 -41.58,-41.58c-11.211,0 -21.361,4.457 -28.841,11.666c-28.424,-20.508 -67.586,-33.757 -111.204,-35.278l18.941,-89.121l61.884,13.157c0.756,15.734 13.642,28.29 29.56,28.29c16.407,0 29.706,-13.299 29.706,-29.701c0,-16.403 -13.299,-29.702 -29.706,-29.702c-11.666,0 -21.657,6.792 -26.515,16.578l-69.105,-14.69c-1.922,-0.418 -3.939,-0.042 -5.585,1.036c-1.658,1.073 -2.811,2.761 -3.224,4.686l-21.152,99.438c-44.258,1.228 -84.046,14.494 -112.837,35.232c-7.468,-7.164 -17.589,-11.591 -28.757,-11.591c-22.965,0 -41.585,18.616 -41.585,41.58c0,16.896 10.095,31.41 24.568,37.918c-0.639,4.135 -0.99,8.328 -0.99,12.576c0,63.977 74.469,115.836 166.33,115.836c91.861,0 166.334,-51.859 166.334,-115.836c0,-4.218 -0.347,-8.387 -0.977,-12.493c14.564,-6.47 24.735,-21.034 24.735,-38.001Zm-119.474,108.193c-20.27,20.241 -59.115,21.816 -70.534,21.816c-11.428,0 -50.277,-1.575 -70.522,-21.82c-3.007,-3.008 -3.007,-7.882 0,-10.889c3.003,-2.999 7.882,-3.003 10.885,0c12.777,12.781 40.11,17.317 59.637,17.317c19.522,0 46.86,-4.536 59.657,-17.321c3.016,-2.999 7.886,-2.995 10.885,0.008c3.008,3.011 3.003,7.882 -0.008,10.889Zm-5.23,-48.781c-16.373,0 -29.701,-13.324 -29.701,-29.698c0,-16.381 13.328,-29.714 29.701,-29.714c16.378,0 29.706,13.333 29.706,29.714c0,16.374 -13.328,29.698 -29.706,29.698Zm-160.386,-29.702c0,-16.381 13.328,-29.71 29.714,-29.71c16.369,0 29.689,13.329 29.689,29.71c0,16.373 -13.32,29.693 -29.689,29.693c-16.386,0 -29.714,-13.32 -29.714,-29.693Z" />
@@ -371,8 +278,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on facebook"
-            href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on facebook"
+            href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z" />
@@ -380,8 +287,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on whatsapp"
-            href="https://api.whatsapp.com/send?text=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis%20-%20https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on whatsapp"
+            href="https://api.whatsapp.com/send?text=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates%20-%20https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-58.673,127.703c-33.842,-33.881 -78.847,-52.548 -126.798,-52.568c-98.799,0 -179.21,80.405 -179.249,179.234c-0.013,31.593 8.241,62.428 23.927,89.612l-25.429,92.884l95.021,-24.925c26.181,14.28 55.659,21.807 85.658,21.816l0.074,0c98.789,0 179.206,-80.413 179.247,-179.243c0.018,-47.895 -18.61,-92.93 -52.451,-126.81Zm-126.797,275.782l-0.06,0c-26.734,-0.01 -52.954,-7.193 -75.828,-20.767l-5.441,-3.229l-56.386,14.792l15.05,-54.977l-3.542,-5.637c-14.913,-23.72 -22.791,-51.136 -22.779,-79.287c0.033,-82.142 66.867,-148.971 149.046,-148.971c39.793,0.014 77.199,15.531 105.329,43.692c28.128,28.16 43.609,65.592 43.594,105.4c-0.034,82.149 -66.866,148.983 -148.983,148.984Zm81.721,-111.581c-4.479,-2.242 -26.499,-13.075 -30.604,-14.571c-4.105,-1.495 -7.091,-2.241 -10.077,2.241c-2.986,4.483 -11.569,14.572 -14.182,17.562c-2.612,2.988 -5.225,3.364 -9.703,1.12c-4.479,-2.241 -18.91,-6.97 -36.017,-22.23c-13.314,-11.876 -22.304,-26.542 -24.916,-31.026c-2.612,-4.484 -0.279,-6.908 1.963,-9.14c2.016,-2.007 4.48,-5.232 6.719,-7.847c2.24,-2.615 2.986,-4.484 4.479,-7.472c1.493,-2.99 0.747,-5.604 -0.374,-7.846c-1.119,-2.241 -10.077,-24.288 -13.809,-33.256c-3.635,-8.733 -7.327,-7.55 -10.077,-7.688c-2.609,-0.13 -5.598,-0.158 -8.583,-0.158c-2.986,0 -7.839,1.121 -11.944,5.604c-4.105,4.484 -15.675,15.32 -15.675,37.364c0,22.046 16.048,43.342 18.287,46.332c2.24,2.99 31.582,48.227 76.511,67.627c10.685,4.615 19.028,7.371 25.533,9.434c10.728,3.41 20.492,2.929 28.209,1.775c8.605,-1.285 26.499,-10.833 30.231,-21.295c3.732,-10.464 3.732,-19.431 2.612,-21.298c-1.119,-1.869 -4.105,-2.99 -8.583,-5.232Z" />
@@ -389,8 +296,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on telegram"
-            href="https://telegram.me/share/url?text=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis&amp;url=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on telegram"
+            href="https://telegram.me/share/url?text=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&amp;url=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f">
             <svg version="1.1" xml:space="preserve" viewBox="2 2 28 28" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M26.49,29.86H5.5a3.37,3.37,0,0,1-2.47-1,3.35,3.35,0,0,1-1-2.47V5.48A3.36,3.36,0,0,1,3,3,3.37,3.37,0,0,1,5.5,2h21A3.38,3.38,0,0,1,29,3a3.36,3.36,0,0,1,1,2.46V26.37a3.35,3.35,0,0,1-1,2.47A3.38,3.38,0,0,1,26.49,29.86Zm-5.38-6.71a.79.79,0,0,0,.85-.66L24.73,9.24a.55.55,0,0,0-.18-.46.62.62,0,0,0-.41-.17q-.08,0-16.53,6.11a.59.59,0,0,0-.41.59.57.57,0,0,0,.43.52l4,1.24,1.61,4.83a.62.62,0,0,0,.63.43.56.56,0,0,0,.4-.17L16.54,20l4.09,3A.9.9,0,0,0,21.11,23.15ZM13.8,20.71l-1.21-4q8.72-5.55,8.78-5.55c.15,0,.23,0,.23.16a.18.18,0,0,1,0,.06s-2.51,2.3-7.52,6.8Z" />
@@ -398,8 +305,8 @@ The features listed in the table below are the ones I find important to me perso
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Comparing the Lightweight, Markdown, Selfhosted Wikis on ycombinator"
-            href="https://news.ycombinator.com/submitlink?t=Comparing%20the%20Lightweight%2c%20Markdown%2c%20Selfhosted%20Wikis&u=https%3a%2f%2fdeuts.org%2fp%2fwiki-go-vs-wikidocs-vs-otterwiki%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Data Quality Issues in BAP’s Historical PHP/USD Rates on ycombinator"
+            href="https://news.ycombinator.com/submitlink?t=Data%20Quality%20Issues%20in%20BAP%e2%80%99s%20Historical%20PHP%2fUSD%20Rates&u=https%3a%2f%2fdeuts.org%2fp%2fbap-rates-data-issues%2f">
             <svg version="1.1" xml:space="preserve" width="30px" height="30px" viewBox="0 0 512 512" fill="currentColor"
                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
                 <path

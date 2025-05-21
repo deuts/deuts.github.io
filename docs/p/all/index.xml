@@ -7,8 +7,50 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 15 May 2025 11:50:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 13:47:58 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Quality Issues in BAP’s Historical PHP/USD Rates</title>
+      <link>https://deuts.org/p/bap-rates-data-issues/</link>
+      <pubDate>Wed, 21 May 2025 13:47:58 +0800</pubDate>
+      <guid>https://deuts.org/p/bap-rates-data-issues/</guid>
+      <description>An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.</description>
+      <content:encoded><![CDATA[<p>Businesses often rely on the daily PHP/USD rates published by the <a href="https://bap.org.ph/"><strong>Bankers Association of the Philippines (BAP)</strong></a> for various financial decisions, from investment valuations to foreign exchange operations. Starting in <strong>June 2021</strong>, BAP began making their historical exchange rate data available through public <strong>Google Sheets</strong>, including not only daily rates but also trading volumes.</p>
+<p>While the move to publish historical data is a step toward transparency, their choice of format—Google Sheets—is notably out of touch with modern standards. Instead of offering a proper <strong>API endpoint</strong> for structured, automated access, BAP expects users to manually work with spreadsheets. This approach is inefficient and reflects a backward mentality that’s not commensurate with the needs of 21st-century data users. For a major financial industry player with such national relevance, adopting more developer-friendly, programmatic access methods is long overdue.</p>
+<p>To assess the quality of the published data, I consolidated all available sheets and performed a thorough analysis. Here are some of the most glaring issues I found:</p>
+<h3 id="unexplicable-data">Unexplicable Data</h3>
+<p>An entry dated <strong>2019-09-13</strong> appears under the <code>February</code> sheet of the <a href="https://docs.google.com/spreadsheets/d/15afzEIAU7KZ-wJLbBmc4imb6GjVEMDkngoWQCK3YMSg/edit?gid=840189394#gid=840189394">2019 workbook</a>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/unexplicable-data.png"></p>
+<p>This item doesn&rsquo;t belong in February and causes duplication for <strong>September 13, 2019</strong>, with completely different balances. It is unclear which entry is valid.</p>
+<h3 id="unusually-high-number">Unusually High Number</h3>
+<p>On <strong>May 20, 2021</strong>, the opening rate is recorded as <strong>478.855</strong>—far outside the plausible range. It&rsquo;s likely a typographical error and should be <strong>47.855</strong>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/unually-high-number.png"></p>
+<h3 id="duplicate-data-for-adjacent-dates">Duplicate Data for Adjacent Dates</h3>
+<p>Some rows across <strong>adjacent dates</strong> have exactly the same values across <strong>all key fields</strong>, including:</p>
+<ul>
+<li>Open</li>
+<li>High</li>
+<li>Low</li>
+<li>Close</li>
+<li>AM/PM Weighted Averages and Volumes</li>
+<li>Total Volume</li>
+<li>Settlement</li>
+</ul>
+<p>This could indicate copy-paste or data rollover errors.</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/duplicate-data.png"></p>
+<h3 id="high-is-less-than-low">High is Less than Low</h3>
+<p>The <code>High</code> value should logically always be <strong>greater than or equal to</strong> the <code>Low</code>. However, there are rows where this is violated:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/high-low.png"></p>
+<h3 id="open-outside-of-high-and-low">Open Outside of High and Low</h3>
+<p>The <code>Open</code> price should fall <strong>within</strong> the range of the <code>High</code> and <code>Low</code>, but some rows show it falling <strong>outside</strong>:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/open-outside.png"></p>
+<h3 id="close-outside-of-high-and-low">Close Outside of High and Low</h3>
+<p>Similarly, <code>Close</code> should also fall within the daily high-low range, yet some entries show otherwise:</p>
+<p><img loading="lazy" src="/p/bap-rates-data-issues/close-outside.png"></p>
+<hr>
+<p>These data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comparing the Lightweight, Markdown, Selfhosted Wikis</title>
       <link>https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/</link>
@@ -712,105 +754,6 @@ The features listed in the table below are the ones I find important to me perso
 <li><strong>In Power Query</strong>, use <code>{}</code> for lists and <code>[]</code> for records.</li>
 </ul>
 <p>Understanding the similarities and differences between these data structures is crucial for working efficiently in both environments. I hope this comparison has helped clarify how to work with lists and dictionaries (or records) in Python and Power Query!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>RTM vs. Todoist: A Free User&#39;s Perspective</title>
-      <link>https://deuts.org/p/rtm-vs-todoist-free/</link>
-      <pubDate>Fri, 24 Jan 2025 08:48:23 +0800</pubDate>
-      <guid>https://deuts.org/p/rtm-vs-todoist-free/</guid>
-      <description>A practical comparison between the free versions of Remember The Milk (RTM) and Todoist, exploring key features like recurring tasks, task limits, smart lists, and integrations to help users choose the best productivity tool.</description>
-      <content:encoded><![CDATA[<p>These days, staying organized and productive often comes down to finding the right tools. There are plenty of task management apps out there, but since I haven&rsquo;t yet found a good reason to pay for premium features, I&rsquo;ve been sticking to the free versions. Here, I&rsquo;ll compare two popular options: <strong>Remember The Milk (RTM)</strong> and <strong>Todoist</strong>.</p>
-<h2 id="why-the-free-versions">Why the Free Versions?</h2>
-<p>I&rsquo;m not against paying for apps. I just haven&rsquo;t seen enough value to justify the price yet. However, if I find an app truly compelling and invest significant time into it, I might upgrade in the future. For now, here&rsquo;s my take on how RTM and Todoist stack up.</p>
-<h2 id="feature-comparison">Feature Comparison</h2>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>RTM</th>
-          <th>Todoist</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Permalink to Task</strong></td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td><strong>Subtasks</strong></td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td><strong>Natural Language Parsing</strong></td>
-          <td>✅</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td><strong>Keyboard Shortcuts</strong></td>
-          <td>✅</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td><strong>File Uploads</strong></td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td><strong>Filters/Smart Lists</strong></td>
-          <td>✅ <em>(No limit)</em></td>
-          <td>❌ <em>(3 max)</em></td>
-      </tr>
-      <tr>
-          <td><strong>Projects/Lists</strong></td>
-          <td>✅ <em>(No limit)</em></td>
-          <td>❌ <em>(5 max)</em></td>
-      </tr>
-  </tbody>
-</table>
-<h3 id="key-observations">Key Observations</h3>
-<ul>
-<li>
-<p><strong>Permalink to Tasks</strong>:<br>
-Todoist excels here, offering deep links to tasks. On mobile, it even opens directly in the app. This is great for quick access. RTM lacks this feature, which is a missed opportunity for seamless interaction.</p>
-</li>
-<li>
-<p><strong>Subtasks</strong>:<br>
-Todoist supports subtasks even in its free version. RTM, unfortunately, does not.</p>
-</li>
-<li>
-<p><strong>Community Support</strong>:<br>
-Todoist boasts a thriving Reddit community with 67K members, compared to RTM&rsquo;s modest 477. This disparity reflects RTM&rsquo;s slower development pace in recent years.</p>
-</li>
-<li>
-<p><strong>API and Documentation</strong>:<br>
-Both apps have API rate limits that are quite similar. However, Todoist&rsquo;s API documentation feels more polished and beginner-friendly.</p>
-</li>
-<li>
-<p><strong>Recurring Tasks</strong>:<br>
-Both RTM and Todoist handle recurring tasks correctly, treating each recurrence as a separate instance. This means that even if you postpone the current task or adjust its due date, the recurrence schedule remains unaffected—a behavior that some other task apps fail to implement properly.</p>
-</li>
-<li>
-<p><strong>Free Limits</strong>:</p>
-<ul>
-<li>Todoist caps free users at <strong>3 filters</strong>, while RTM allows unlimited smart lists.</li>
-<li>Todoist also limits projects to 5, whereas RTM has no such restrictions.</li>
-</ul>
-</li>
-<li>
-<p><strong>Workflow Adjustments</strong>:<br>
-Switching from RTM to Todoist would mean adjusting my entire workflow. For example, RTM&rsquo;s <strong>lists</strong> are Todoist&rsquo;s <strong>projects</strong>, and tags differ in behavior. Todoist uses <code>#</code> for projects, while RTM uses <code>#</code> for tags. Keyboard shortcuts are also quite different.</p>
-</li>
-<li>
-<p><strong>Task Limits</strong>:<br>
-Todoist has a 300 active tasks per project limit, which may not be an issue for most users, but it&rsquo;s worth noting for larger-scale planning. See also: <a href="https://todoist.com/help/articles/usage-limits-in-todoist-e5rcSY">Usage limits in Todoists</a>.</p>
-</li>
-</ul>
-<h2 id="final-thoughts">Final Thoughts</h2>
-<p>Both apps have strengths and weaknesses, depending on your needs. Todoist feels more polished overall, especially with its integration features and user-friendly design. However, RTM shines for its flexibility, unlimited lists, and smart lists without a paywall.</p>
-<p>While I&rsquo;m still testing Todoist, RTM has been my go-to for years. Will I make the switch? Time will tell, but for now, I&rsquo;ll keep experimenting.</p>
 ]]></content:encoded>
     </item>
   </channel>
