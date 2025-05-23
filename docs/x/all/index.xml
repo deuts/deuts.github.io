@@ -7,8 +7,64 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 14 May 2025 22:49:21 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 17:32:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!</title>
+      <link>https://deuts.org/x/473-welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/</link>
+      <pubDate>Fri, 23 May 2025 17:32:31 +0800</pubDate>
+      <guid>https://deuts.org/x/473-welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-473&#34;&gt;&lt;a href=&#34;https://lowendbox.com/blog/welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/&#34;&gt;Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-473 {
+    background: url(&#39;https://bm.deuts.org/static/https_lowendbox_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;blockquote&gt;
+&lt;p&gt;Intel Xeon E3-1230v3 CPU &lt;br&gt;
+16GB RAM &lt;br&gt;
+1 x 480G SATA SSD &lt;br&gt;
+10TB transfer &lt;br&gt;
+1Gbps uplink &lt;br&gt;
+3 IPv4 &lt;br&gt;
+IPMI: yes &lt;br&gt;
+Coupon: LEBSGoffer-E3 &lt;br&gt;
+$29.75/month&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Now, this Dedicated Server is interesting. I&amp;rsquo;m thinking installing Proxmox.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-473"><a href="https://lowendbox.com/blog/welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/">Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!</a></h3>
+<style>
+.favicon-473 {
+    background: url('https://bm.deuts.org/static/https_lowendbox_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <blockquote>
+<p>Intel Xeon E3-1230v3 CPU <br>
+16GB RAM <br>
+1 x 480G SATA SSD <br>
+10TB transfer <br>
+1Gbps uplink <br>
+3 IPv4 <br>
+IPMI: yes <br>
+Coupon: LEBSGoffer-E3 <br>
+$29.75/month</p></blockquote>
+</blockquote>
+  
+<div class="linkding-notes">
+    Now, this Dedicated Server is interesting. I&rsquo;m thinking installing Proxmox.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>The FASTEST Way to Document a Power BI Model</title>
       <link>https://deuts.org/x/467-the-fastest-way-to-document-a-power-bi-model/</link>
@@ -281,36 +337,6 @@
 <div class="linkding-notes">
     I have the same problem with auto-fill in my Android when using <code>Starts With</code> and with subdomain and folder combination in my URL.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>CSV to HTML – WordPress plugin</title>
-      <link>https://deuts.org/x/455-csv-to-html-wordpress-plugin/</link>
-      <pubDate>Tue, 06 May 2025 11:09:44 +0800</pubDate>
-      <guid>https://deuts.org/x/455-csv-to-html-wordpress-plugin/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-455&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/csv-to-html/&#34;&gt;CSV to HTML – WordPress plugin&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-455 {
-    background: url(&#39;https://bm.deuts.org/static/https_wordpress_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Easily display, edit, and synchronize CSV files as dynamic HTML tables using a simple shortcode—no coding required.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-455"><a href="https://wordpress.org/plugins/csv-to-html/">CSV to HTML – WordPress plugin</a></h3>
-<style>
-.favicon-455 {
-    background: url('https://bm.deuts.org/static/https_wordpress_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Easily display, edit, and synchronize CSV files as dynamic HTML tables using a simple shortcode—no coding required.
-</blockquote>
   
 ]]></content:encoded>
     </item>
