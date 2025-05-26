@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 23 May 2025 17:32:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 08:42:17 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JW50MMCNWV6NZAHXHP0E8CS5</title>
+      <link>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</link>
+      <pubDate>Mon, 26 May 2025 08:42:17 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</guid>
+      <description>&lt;p&gt;My Evos / Walehost VPS for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>My Evos / Walehost VPS for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!</title>
       <link>https://deuts.org/x/473-welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/</link>
@@ -298,44 +307,6 @@ $29.75/month
 <li>Interface</li>
 <li>Native back button or back gesture</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>URI Match Detection &#39;Starts with&#39; doesn&#39;t work in Chrome on Android · Issue #578 · bitwarden/mobile · GitHub</title>
-      <link>https://deuts.org/x/456-uri-match-detection-starts-with-doesn-t-work-in-chrome-on-android-issue-578-bitwarden-mobile-github/</link>
-      <pubDate>Tue, 06 May 2025 19:09:59 +0800</pubDate>
-      <guid>https://deuts.org/x/456-uri-match-detection-starts-with-doesn-t-work-in-chrome-on-android-issue-578-bitwarden-mobile-github/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-456&#34;&gt;&lt;a href=&#34;https://github.com/bitwarden/mobile/issues/578&#34;&gt;URI Match Detection &amp;#39;Starts with&amp;#39; doesn&amp;#39;t work in Chrome on Android · Issue #578 · bitwarden/mobile · GitHub&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-456 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    URI Match Detection doesn&amp;rsquo;t work when using &amp;lsquo;Starts with&amp;rsquo; in Chrome on Android. For example, using the following URI: &lt;a href=&#34;https://mail.example.com/admin&#34;&gt;https://mail.example.com/admin&lt;/a&gt; The above URI format works just fine in Firefox on Android when using &amp;lsquo;Starts with&amp;rsquo; as t&amp;hellip;
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I have the same problem with auto-fill in my Android when using &lt;code&gt;Starts With&lt;/code&gt; and with subdomain and folder combination in my URL.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-456"><a href="https://github.com/bitwarden/mobile/issues/578">URI Match Detection &#39;Starts with&#39; doesn&#39;t work in Chrome on Android · Issue #578 · bitwarden/mobile · GitHub</a></h3>
-<style>
-.favicon-456 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    URI Match Detection doesn&rsquo;t work when using &lsquo;Starts with&rsquo; in Chrome on Android. For example, using the following URI: <a href="https://mail.example.com/admin">https://mail.example.com/admin</a> The above URI format works just fine in Firefox on Android when using &lsquo;Starts with&rsquo; as t&hellip;
-</blockquote>
-  
-<div class="linkding-notes">
-    I have the same problem with auto-fill in my Android when using <code>Starts With</code> and with subdomain and folder combination in my URL.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
