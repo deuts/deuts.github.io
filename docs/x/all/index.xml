@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 26 May 2025 08:42:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 22:41:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LUKS encrypted Debian 12 server (Hetzner)</title>
+      <link>https://deuts.org/x/482-luks-encrypted-debian-12-server-hetzner/</link>
+      <pubDate>Mon, 26 May 2025 22:41:04 +0800</pubDate>
+      <guid>https://deuts.org/x/482-luks-encrypted-debian-12-server-hetzner/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-482&#34;&gt;&lt;a href=&#34;https://tqdev.com/2023-luks-encrypted-debian-12-server-hetzner&#34;&gt;LUKS encrypted Debian 12 server (Hetzner)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-482 {
+    background: url(&#39;https://bm.deuts.org/static/https_tqdev_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this tutorial I&amp;rsquo;ll walk you through the steps of setting up Debian 12 with LUKS full disk encryption on a server you bought from the Hetzner auction. I&amp;rsquo;m using the recommended method using the &amp;ldquo;installimage&amp;rdquo; script (that Hetzner provides) to make things really easy for myself.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-482"><a href="https://tqdev.com/2023-luks-encrypted-debian-12-server-hetzner">LUKS encrypted Debian 12 server (Hetzner)</a></h3>
+<style>
+.favicon-482 {
+    background: url('https://bm.deuts.org/static/https_tqdev_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this tutorial I&rsquo;ll walk you through the steps of setting up Debian 12 with LUKS full disk encryption on a server you bought from the Hetzner auction. I&rsquo;m using the recommended method using the &ldquo;installimage&rdquo; script (that Hetzner provides) to make things really easy for myself.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>EMail Notification to Unlock LUKS encrypted disk via Dropbear SSH</title>
+      <link>https://deuts.org/x/481-email-notification-to-unlock-luks-encrypted-disk-via-dropbear-ssh/</link>
+      <pubDate>Mon, 26 May 2025 22:40:16 +0800</pubDate>
+      <guid>https://deuts.org/x/481-email-notification-to-unlock-luks-encrypted-disk-via-dropbear-ssh/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-481&#34;&gt;&lt;a href=&#34;https://dominik.wombacher.cc/posts/email_notification_to_unlock_luks_encrypted_disk_via_dropbear_ssh.html&#34;&gt;EMail Notification to Unlock LUKS encrypted disk via Dropbear SSH&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-481 {
+    background: url(&#39;https://bm.deuts.org/static/https_dominik_wombacher_cc.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Get notified by mail when your System is waiting to be unlocked
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-481"><a href="https://dominik.wombacher.cc/posts/email_notification_to_unlock_luks_encrypted_disk_via_dropbear_ssh.html">EMail Notification to Unlock LUKS encrypted disk via Dropbear SSH</a></h3>
+<style>
+.favicon-481 {
+    background: url('https://bm.deuts.org/static/https_dominik_wombacher_cc.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Get notified by mail when your System is waiting to be unlocked
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JW50MMCNWV6NZAHXHP0E8CS5</title>
       <link>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</link>
@@ -248,65 +308,6 @@ $29.75/month
     This is the simple trick to correct structured data in Google Webmaster Tools for Hugo Papermod theme.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Scrypted</title>
-      <link>https://deuts.org/x/458-scrypted/</link>
-      <pubDate>Thu, 08 May 2025 11:32:24 +0800</pubDate>
-      <guid>https://deuts.org/x/458-scrypted/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-458&#34;&gt;&lt;a href=&#34;https://www.scrypted.app/&#34;&gt;Scrypted&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-458 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_scrypted_app.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Video Integration Platform
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Alternative to Frigate as NVR, to view our Tapo cameras.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-458"><a href="https://www.scrypted.app/">Scrypted</a></h3>
-<style>
-.favicon-458 {
-    background: url('https://bm.deuts.org/static/https_www_scrypted_app.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Video Integration Platform
-</blockquote>
-  
-<div class="linkding-notes">
-    Alternative to Frigate as NVR, to view our Tapo cameras.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JTNQVR5MQJR7PFB32C8GVKV5</title>
-      <link>https://deuts.org/x/2025-05-08-00-04-35-01jtnqvr5mqjr7pfb32c8gvkv5/</link>
-      <pubDate>Thu, 08 May 2025 00:04:35 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-08-00-04-35-01jtnqvr5mqjr7pfb32c8gvkv5/</guid>
-      <description>&lt;h2 id=&#34;why-i-still-choose-android-over-iphone-in-2025&#34;&gt;Why I still choose Android over iPhone in 2025&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cheaper esp. I&amp;rsquo;m fine with the Samsung and S FE series&lt;/li&gt;
-&lt;li&gt;SMS spam folder not available in iPhone&lt;/li&gt;
-&lt;li&gt;Interface&lt;/li&gt;
-&lt;li&gt;Native back button or back gesture&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<h2 id="why-i-still-choose-android-over-iphone-in-2025">Why I still choose Android over iPhone in 2025</h2>
-<ul>
-<li>Cheaper esp. I&rsquo;m fine with the Samsung and S FE series</li>
-<li>SMS spam folder not available in iPhone</li>
-<li>Interface</li>
-<li>Native back button or back gesture</li>
-</ul>
 ]]></content:encoded>
     </item>
   </channel>
