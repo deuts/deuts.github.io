@@ -17,12 +17,27 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-05-26T22:41:04+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/dedicatedservers/</loc>
-    <lastmod>2025-05-26T22:41:04+08:00</lastmod>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanager/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filesharing/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/go/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/484-gomft-go-managed-file-transfer/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/dedicatedservers/</loc>
     <lastmod>2025-05-26T22:41:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/encryption/</loc>
@@ -35,9 +50,6 @@
     <lastmod>2025-05-26T22:41:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/482-luks-encrypted-debian-12-server-hetzner/</loc>
-    <lastmod>2025-05-26T22:41:04+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-05-26T22:41:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/481-email-notification-to-unlock-luks-encrypted-disk-via-dropbear-ssh/</loc>
@@ -261,9 +273,6 @@
   </url><url>
     <loc>https://deuts.org/k/youtube/</loc>
     <lastmod>2025-04-26T22:43:47+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2025-04-26T22:22:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/442-filerise/</loc>
     <lastmod>2025-04-26T22:22:19+08:00</lastmod>
@@ -871,9 +880,6 @@
     <loc>https://deuts.org/k/fileconversion/</loc>
     <lastmod>2025-01-31T08:41:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/filesharing/</loc>
-    <lastmod>2025-01-31T08:41:50+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/377-tinyauth/</loc>
     <lastmod>2025-01-30T21:16:53+08:00</lastmod>
   </url><url>
@@ -1059,9 +1065,6 @@
   </url><url>
     <loc>https://deuts.org/k/traefik/</loc>
     <lastmod>2025-01-13T07:40:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/go/</loc>
-    <lastmod>2025-01-13T00:08:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/342-go-pushover/</loc>
     <lastmod>2025-01-13T00:08:31+08:00</lastmod>
