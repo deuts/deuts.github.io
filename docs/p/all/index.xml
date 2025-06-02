@@ -122,8 +122,8 @@ The features listed in the table below are the ones I find important to me perso
       </tr>
       <tr>
           <td>Sitemap Auto-generation</td>
-          <td>❌</td>
-          <td>✅</td>
+          <td>✅ (XML and HTML)</td>
+          <td>✅ (XML)</td>
           <td>❌</td>
       </tr>
       <tr>
