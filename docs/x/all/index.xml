@@ -7,21 +7,159 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 30 May 2025 23:57:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:11:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gmktec m5 proxmox problem</title>
-      <link>https://deuts.org/x/489-gmktec-m5-proxmox-problem/</link>
+      <title>Hugo Image Gallery</title>
+      <link>https://deuts.org/x/493-hugo-image-gallery/</link>
+      <pubDate>Tue, 03 Jun 2025 00:11:04 +0800</pubDate>
+      <guid>https://deuts.org/x/493-hugo-image-gallery/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-493&#34;&gt;&lt;a href=&#34;https://hugocodex.org/add-ons/image-gallery/&#34;&gt;Hugo Image Gallery&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-493 {
+    background: url(&#39;https://bm.deuts.org/static/https_hugocodex_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This script creates an image gallery. The script reads all images from a specific (user-defined) folder in the assets directory of Hugo, automagically crops them to 300px squares and shows them in rows of five.&lt;br&gt;
+Beautiful Mountains Museum of Pop Culture Seattle View Seattle by Night Space Needle How it works The script searches for any file in the folder ‘album’ in the assets directory of Hugo. It creates an image tag with a thumbnail for these images. The thumbnail is a 300 pixel wide square cropped version of the image. The script wraps the thumbnail in a link, which links to a larger version and will trigger a lightbox if present. The caption is the file name without extension.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-493"><a href="https://hugocodex.org/add-ons/image-gallery/">Hugo Image Gallery</a></h3>
+<style>
+.favicon-493 {
+    background: url('https://bm.deuts.org/static/https_hugocodex_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This script creates an image gallery. The script reads all images from a specific (user-defined) folder in the assets directory of Hugo, automagically crops them to 300px squares and shows them in rows of five.<br>
+Beautiful Mountains Museum of Pop Culture Seattle View Seattle by Night Space Needle How it works The script searches for any file in the folder ‘album’ in the assets directory of Hugo. It creates an image tag with a thumbnail for these images. The thumbnail is a 300 pixel wide square cropped version of the image. The script wraps the thumbnail in a link, which links to a larger version and will trigger a lightbox if present. The caption is the file name without extension.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Webhook app by Soulteary</title>
+      <link>https://deuts.org/x/492-webhook-app-by-soulteary/</link>
+      <pubDate>Mon, 02 Jun 2025 23:59:50 +0800</pubDate>
+      <guid>https://deuts.org/x/492-webhook-app-by-soulteary/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-492&#34;&gt;&lt;a href=&#34;https://github.com/soulteary/webhook&#34;&gt;Webhook app by Soulteary&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-492 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    WebHook is a lightweight and customizable tool written in Go that enables you to effortlessly create HTTP WebHook services. With WebHook, you can execute predefined commands and flexibly pass data from HTTP requests (including headers, body, and parameters) to your configured commands or programs. It also supports triggering hooks based on specific conditions.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is a fork of the original by &lt;a href=&#34;https://github.com/adnanh/webhook&#34;&gt;adnanh&lt;/a&gt;. A more detailed explanation can be found &lt;a href=&#34;https://zhuanlan.zhihu.com/p/690947190&#34;&gt;here&lt;/a&gt;.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-492"><a href="https://github.com/soulteary/webhook">Webhook app by Soulteary</a></h3>
+<style>
+.favicon-492 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    WebHook is a lightweight and customizable tool written in Go that enables you to effortlessly create HTTP WebHook services. With WebHook, you can execute predefined commands and flexibly pass data from HTTP requests (including headers, body, and parameters) to your configured commands or programs. It also supports triggering hooks based on specific conditions.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is a fork of the original by <a href="https://github.com/adnanh/webhook">adnanh</a>. A more detailed explanation can be found <a href="https://zhuanlan.zhihu.com/p/690947190">here</a>.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Puter is a Complete, Fully Functional OS that Runs in Your Web Browser</title>
+      <link>https://deuts.org/x/491-puter-is-a-complete-fully-functional-os-that-runs-in-your-web-browser/</link>
+      <pubDate>Mon, 02 Jun 2025 22:44:15 +0800</pubDate>
+      <guid>https://deuts.org/x/491-puter-is-a-complete-fully-functional-os-that-runs-in-your-web-browser/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-491&#34;&gt;&lt;a href=&#34;https://news.itsfoss.com/puter-os/&#34;&gt;Puter is a Complete, Fully Functional OS that Runs in Your Web Browser&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-491 {
+    background: url(&#39;https://bm.deuts.org/static/https_news_itsfoss_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Run an operating system straight from your browser.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-491"><a href="https://news.itsfoss.com/puter-os/">Puter is a Complete, Fully Functional OS that Runs in Your Web Browser</a></h3>
+<style>
+.favicon-491 {
+    background: url('https://bm.deuts.org/static/https_news_itsfoss_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Run an operating system straight from your browser.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kan</title>
+      <link>https://deuts.org/x/490-kan/</link>
+      <pubDate>Mon, 02 Jun 2025 22:22:20 +0800</pubDate>
+      <guid>https://deuts.org/x/490-kan/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-490&#34;&gt;&lt;a href=&#34;https://github.com/kanbn/kan&#34;&gt;Kan&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-490 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The open source Trello alternative.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-490"><a href="https://github.com/kanbn/kan">Kan</a></h3>
+<style>
+.favicon-490 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The open source Trello alternative.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GMKTec M5 Proxmox  install problem</title>
+      <link>https://deuts.org/x/489-gmktec-m5-proxmox-install-problem/</link>
       <pubDate>Fri, 30 May 2025 23:57:30 +0800</pubDate>
-      <guid>https://deuts.org/x/489-gmktec-m5-proxmox-problem/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-489&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ&#34;&gt;Gmktec m5 proxmox problem&lt;/a&gt;&lt;/h3&gt;
+      <guid>https://deuts.org/x/489-gmktec-m5-proxmox-install-problem/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-489&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ&#34;&gt;GMKTec M5 Proxmox  install problem&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-489 {
     background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
-&lt;/style&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-489"><a href="https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ">Gmktec m5 proxmox problem</a></h3>
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Getting Proxmox to work on GMKTec Nucbox M5 is by setting &amp;ldquo;NX Mode&amp;rdquo; to enabled in Advanced &amp;gt; CPU Configuration
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is applicable to M5, but who knows, maybe it is also applicable to GMKTec M5 Plus and other GMKTec products.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-489"><a href="https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ">GMKTec M5 Proxmox  install problem</a></h3>
 <style>
 .favicon-489 {
     background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
@@ -29,14 +167,22 @@
 }
 </style>
 
+<blockquote class="linkding-description">
+    Getting Proxmox to work on GMKTec Nucbox M5 is by setting &ldquo;NX Mode&rdquo; to enabled in Advanced &gt; CPU Configuration
+</blockquote>
+  
+<div class="linkding-notes">
+    This is applicable to M5, but who knows, maybe it is also applicable to GMKTec M5 Plus and other GMKTec products.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>GMKtec NucBox M5 Plus mini PC review | TechRadar</title>
-      <link>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review-techradar/</link>
+      <title>GMKtec NucBox M5 Plus mini PC review</title>
+      <link>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review/</link>
       <pubDate>Fri, 30 May 2025 21:18:25 +0800</pubDate>
-      <guid>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review-techradar/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-488&#34;&gt;&lt;a href=&#34;https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review#section-gmktec-nucbox-m5-plus-specs&#34;&gt;GMKtec NucBox M5 Plus mini PC review | TechRadar&lt;/a&gt;&lt;/h3&gt;
+      <guid>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-488&#34;&gt;&lt;a href=&#34;https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review&#34;&gt;GMKtec NucBox M5 Plus mini PC review&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-488 {
     background: url(&#39;https://bm.deuts.org/static/https_www_techradar_com.png&#39;) no-repeat;
@@ -45,9 +191,13 @@
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A cheap but flexible NUC
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-488"><a href="https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review#section-gmktec-nucbox-m5-plus-specs">GMKtec NucBox M5 Plus mini PC review | TechRadar</a></h3>
+    Nothing special from a performance perspective, but the GMKtec NucBox M5 Plus is much better than its relatively low price might infer. Being able to get roughly another 20% from the system using performance mode is also a bonus. Perfect choice for a firewall.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    His problems with the unit is more on the features and ports?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-488"><a href="https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review">GMKtec NucBox M5 Plus mini PC review</a></h3>
 <style>
 .favicon-488 {
     background: url('https://bm.deuts.org/static/https_www_techradar_com.png') no-repeat;
@@ -56,8 +206,12 @@
 </style>
 
 <blockquote class="linkding-description">
-    A cheap but flexible NUC
+    Nothing special from a performance perspective, but the GMKtec NucBox M5 Plus is much better than its relatively low price might infer. Being able to get roughly another 20% from the system using performance mode is also a bonus. Perfect choice for a firewall.
 </blockquote>
+  
+<div class="linkding-notes">
+    His problems with the unit is more on the features and ports?
+</div>
   
 ]]></content:encoded>
     </item>
@@ -186,145 +340,6 @@
 <blockquote class="linkding-description">
     Get notified by mail when your System is waiting to be unlocked
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JW50MMCNWV6NZAHXHP0E8CS5</title>
-      <link>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</link>
-      <pubDate>Mon, 26 May 2025 08:42:17 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</guid>
-      <description>&lt;p&gt;My Evos / Walehost VPS was down for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>My Evos / Walehost VPS was down for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!</title>
-      <link>https://deuts.org/x/473-welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/</link>
-      <pubDate>Fri, 23 May 2025 17:32:31 +0800</pubDate>
-      <guid>https://deuts.org/x/473-welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-473&#34;&gt;&lt;a href=&#34;https://lowendbox.com/blog/welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/&#34;&gt;Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-473 {
-    background: url(&#39;https://bm.deuts.org/static/https_lowendbox_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Intel Xeon E3-1230v3 CPU &lt;br&gt;
-16GB RAM &lt;br&gt;
-1 x 480G SATA SSD &lt;br&gt;
-10TB transfer &lt;br&gt;
-1Gbps uplink &lt;br&gt;
-3 IPv4 &lt;br&gt;
-IPMI: yes &lt;br&gt;
-Coupon: LEBSGoffer-E3 &lt;br&gt;
-$29.75/month
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Now, this Dedicated Server is interesting. I&amp;rsquo;m thinking installing Proxmox.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-473"><a href="https://lowendbox.com/blog/welcome-xsx-cheap-dedicated-server-offer-in-singapore-29-75-month-and-cheap-vps-deals-too/">Welcome, XSX: Cheap Dedicated Server Offer in Singapore ($29.75/Month!) and Cheap VPS Deals, Too!</a></h3>
-<style>
-.favicon-473 {
-    background: url('https://bm.deuts.org/static/https_lowendbox_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Intel Xeon E3-1230v3 CPU <br>
-16GB RAM <br>
-1 x 480G SATA SSD <br>
-10TB transfer <br>
-1Gbps uplink <br>
-3 IPv4 <br>
-IPMI: yes <br>
-Coupon: LEBSGoffer-E3 <br>
-$29.75/month
-</blockquote>
-  
-<div class="linkding-notes">
-    Now, this Dedicated Server is interesting. I&rsquo;m thinking installing Proxmox.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>The FASTEST Way to Document a Power BI Model</title>
-      <link>https://deuts.org/x/467-the-fastest-way-to-document-a-power-bi-model/</link>
-      <pubDate>Wed, 14 May 2025 22:49:21 +0800</pubDate>
-      <guid>https://deuts.org/x/467-the-fastest-way-to-document-a-power-bi-model/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-467&#34;&gt;&lt;a href=&#34;https://youtu.be/LbSAG5aoKh0?si=k8VSPH4zFgwe6fal&#34;&gt;The FASTEST Way to Document a Power BI Model&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-467 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtu_be.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Tools like data dictionaries play a critical – and often overlooked – role for Power BI developers, capturing important information about the tables, columns, measures and relationships in a data model.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    We need to start documenting our data model with these tools.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-467"><a href="https://youtu.be/LbSAG5aoKh0?si=k8VSPH4zFgwe6fal">The FASTEST Way to Document a Power BI Model</a></h3>
-<style>
-.favicon-467 {
-    background: url('https://bm.deuts.org/static/https_youtu_be.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Tools like data dictionaries play a critical – and often overlooked – role for Power BI developers, capturing important information about the tables, columns, measures and relationships in a data model.
-</blockquote>
-  
-<div class="linkding-notes">
-    We need to start documenting our data model with these tools.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>VLC Remote Control for Android &amp; iPhone - VLC Mobile Remote</title>
-      <link>https://deuts.org/x/466-vlc-remote-control-for-android-iphone-vlc-mobile-remote/</link>
-      <pubDate>Tue, 13 May 2025 22:14:00 +0800</pubDate>
-      <guid>https://deuts.org/x/466-vlc-remote-control-for-android-iphone-vlc-mobile-remote/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-466&#34;&gt;&lt;a href=&#34;https://vlcmobileremote.com/&#34;&gt;VLC Remote Control for Android &amp;amp; iPhone - VLC Mobile Remote&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-466 {
-    background: url(&#39;https://bm.deuts.org/static/https_vlcmobileremote_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    This VLC Remote app for iPhone, Android &amp;amp; iPad lets you control VLC Player on PC or Mac. Also browse, play computer files &amp;amp; YouTube, Netflix, Prime videos.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    No groping in the dark for keyboard shortcuts, no racing to your computer to change the music, and no watching whatever plays for the lack of motivation to get off your couch. Just install the app, sit back, relax and remotely control VLC Player, Netflix, YouTube and Amazon Prime at your fingertips
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-466"><a href="https://vlcmobileremote.com/">VLC Remote Control for Android &amp; iPhone - VLC Mobile Remote</a></h3>
-<style>
-.favicon-466 {
-    background: url('https://bm.deuts.org/static/https_vlcmobileremote_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    This VLC Remote app for iPhone, Android &amp; iPad lets you control VLC Player on PC or Mac. Also browse, play computer files &amp; YouTube, Netflix, Prime videos.
-</blockquote>
-  
-<div class="linkding-notes">
-    No groping in the dark for keyboard shortcuts, no racing to your computer to change the music, and no watching whatever plays for the lack of motivation to get off your couch. Just install the app, sit back, relax and remotely control VLC Player, Netflix, YouTube and Amazon Prime at your fingertips
-</div>
   
 ]]></content:encoded>
     </item>
