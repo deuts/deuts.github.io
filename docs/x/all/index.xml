@@ -7,108 +7,340 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 26 May 2025 08:42:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 19:02:18 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>@deuts@deuts.one 01JW50MMCNWV6NZAHXHP0E8CS5</title>
-      <link>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</link>
-      <pubDate>Mon, 26 May 2025 08:42:17 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-26-08-42-17-01jw50mmcnwv6nzahxhp0e8cs5/</guid>
-      <description>&lt;p&gt;My Evos / Walehost VPS was down for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>My Evos / Walehost VPS was down for 9 hours yesterday. Thing is, the provider seems unresponsive on their Discord support channel.</p>
+      <title>Install Proxmox on a Hetzner Dedicated Server with 1 IP using SDN and without KVM using QEMU</title>
+      <link>https://deuts.org/x/494-install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/</link>
+      <pubDate>Wed, 04 Jun 2025 19:02:18 +0800</pubDate>
+      <guid>https://deuts.org/x/494-install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-494&#34;&gt;&lt;a href=&#34;https://cyanlabs.net/tutorials/install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/&#34;&gt;Install Proxmox on a Hetzner Dedicated Server with 1 IP using SDN and without KVM using QEMU&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-494 {
+    background: url(&#39;https://bm.deuts.org/static/https_cyanlabs_net.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Going from the Hetzner Rescue System to Proxmox with only 1 IP, full DHCP, no KVM Console access and port forwarding all in one easy to follow guide
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-494"><a href="https://cyanlabs.net/tutorials/install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/">Install Proxmox on a Hetzner Dedicated Server with 1 IP using SDN and without KVM using QEMU</a></h3>
+<style>
+.favicon-494 {
+    background: url('https://bm.deuts.org/static/https_cyanlabs_net.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Going from the Hetzner Rescue System to Proxmox with only 1 IP, full DHCP, no KVM Console access and port forwarding all in one easy to follow guide
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JV3QW05FEE8SNXBSTFJT9WWS</title>
-      <link>https://deuts.org/x/2025-05-13-10-34-06-01jv3qw05fee8snxbstfjt9wws/</link>
-      <pubDate>Tue, 13 May 2025 10:34:06 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-13-10-34-06-01jv3qw05fee8snxbstfjt9wws/</guid>
-      <description>&lt;p&gt;Is it just me, or does anyone else find &lt;a href=&#34;https://fosstodon.org/@silverbulletmd&#34;&gt;@silverbulletmd&lt;/a&gt; slow and clunky when navigating or taking notes? I initially thought it was just my machine, but I experienced the same thing on the demo site. It’s a shame—it could’ve been a great note-taking app with its powerful query features.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Is it just me, or does anyone else find <a href="https://fosstodon.org/@silverbulletmd">@silverbulletmd</a> slow and clunky when navigating or taking notes? I initially thought it was just my machine, but I experienced the same thing on the demo site. It’s a shame—it could’ve been a great note-taking app with its powerful query features.</p>
+      <title>Hugo Image Gallery</title>
+      <link>https://deuts.org/x/493-hugo-image-gallery/</link>
+      <pubDate>Tue, 03 Jun 2025 00:11:04 +0800</pubDate>
+      <guid>https://deuts.org/x/493-hugo-image-gallery/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-493&#34;&gt;&lt;a href=&#34;https://hugocodex.org/add-ons/image-gallery/&#34;&gt;Hugo Image Gallery&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-493 {
+    background: url(&#39;https://bm.deuts.org/static/https_hugocodex_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This script creates an image gallery. The script reads all images from a specific (user-defined) folder in the assets directory of Hugo, automagically crops them to 300px squares and shows them in rows of five.&lt;br&gt;
+Beautiful Mountains Museum of Pop Culture Seattle View Seattle by Night Space Needle How it works The script searches for any file in the folder ‘album’ in the assets directory of Hugo. It creates an image tag with a thumbnail for these images. The thumbnail is a 300 pixel wide square cropped version of the image. The script wraps the thumbnail in a link, which links to a larger version and will trigger a lightbox if present. The caption is the file name without extension.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-493"><a href="https://hugocodex.org/add-ons/image-gallery/">Hugo Image Gallery</a></h3>
+<style>
+.favicon-493 {
+    background: url('https://bm.deuts.org/static/https_hugocodex_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This script creates an image gallery. The script reads all images from a specific (user-defined) folder in the assets directory of Hugo, automagically crops them to 300px squares and shows them in rows of five.<br>
+Beautiful Mountains Museum of Pop Culture Seattle View Seattle by Night Space Needle How it works The script searches for any file in the folder ‘album’ in the assets directory of Hugo. It creates an image tag with a thumbnail for these images. The thumbnail is a 300 pixel wide square cropped version of the image. The script wraps the thumbnail in a link, which links to a larger version and will trigger a lightbox if present. The caption is the file name without extension.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JTSA20SFZPJJTRE5PAEZ8GCG</title>
-      <link>https://deuts.org/x/2025-05-09-09-20-18-01jtsa20sfzpjjtre5paez8gcg/</link>
-      <pubDate>Fri, 09 May 2025 09:20:18 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-09-09-20-18-01jtsa20sfzpjjtre5paez8gcg/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt; Dark Mode is here: &lt;a href=&#34;https://community.airtable.com/announcements-6/airtable-dark-mode-is-here-45132&#34;&gt;community.airtable.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a> Dark Mode is here: <a href="https://community.airtable.com/announcements-6/airtable-dark-mode-is-here-45132">community.airtable.com/∞</a></p>
+      <title>Webhook app by Soulteary</title>
+      <link>https://deuts.org/x/492-webhook-app-by-soulteary/</link>
+      <pubDate>Mon, 02 Jun 2025 23:59:50 +0800</pubDate>
+      <guid>https://deuts.org/x/492-webhook-app-by-soulteary/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-492&#34;&gt;&lt;a href=&#34;https://github.com/soulteary/webhook&#34;&gt;Webhook app by Soulteary&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-492 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    WebHook is a lightweight and customizable tool written in Go that enables you to effortlessly create HTTP WebHook services. With WebHook, you can execute predefined commands and flexibly pass data from HTTP requests (including headers, body, and parameters) to your configured commands or programs. It also supports triggering hooks based on specific conditions.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is a fork of the original by &lt;a href=&#34;https://github.com/adnanh/webhook&#34;&gt;adnanh&lt;/a&gt;. A more detailed explanation can be found &lt;a href=&#34;https://zhuanlan.zhihu.com/p/690947190&#34;&gt;here&lt;/a&gt;.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-492"><a href="https://github.com/soulteary/webhook">Webhook app by Soulteary</a></h3>
+<style>
+.favicon-492 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    WebHook is a lightweight and customizable tool written in Go that enables you to effortlessly create HTTP WebHook services. With WebHook, you can execute predefined commands and flexibly pass data from HTTP requests (including headers, body, and parameters) to your configured commands or programs. It also supports triggering hooks based on specific conditions.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is a fork of the original by <a href="https://github.com/adnanh/webhook">adnanh</a>. A more detailed explanation can be found <a href="https://zhuanlan.zhihu.com/p/690947190">here</a>.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JTNQVR5MQJR7PFB32C8GVKV5</title>
-      <link>https://deuts.org/x/2025-05-08-00-04-35-01jtnqvr5mqjr7pfb32c8gvkv5/</link>
-      <pubDate>Thu, 08 May 2025 00:04:35 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-08-00-04-35-01jtnqvr5mqjr7pfb32c8gvkv5/</guid>
-      <description>&lt;h2 id=&#34;why-i-still-choose-android-over-iphone-in-2025&#34;&gt;Why I still choose Android over iPhone in 2025&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cheaper esp. I&amp;rsquo;m fine with the Samsung and S FE series&lt;/li&gt;
-&lt;li&gt;SMS spam folder not available in iPhone&lt;/li&gt;
-&lt;li&gt;Interface&lt;/li&gt;
-&lt;li&gt;Native back button or back gesture&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<h2 id="why-i-still-choose-android-over-iphone-in-2025">Why I still choose Android over iPhone in 2025</h2>
-<ul>
-<li>Cheaper esp. I&rsquo;m fine with the Samsung and S FE series</li>
-<li>SMS spam folder not available in iPhone</li>
-<li>Interface</li>
-<li>Native back button or back gesture</li>
-</ul>
+      <title>Puter is a Complete, Fully Functional OS that Runs in Your Web Browser</title>
+      <link>https://deuts.org/x/491-puter-is-a-complete-fully-functional-os-that-runs-in-your-web-browser/</link>
+      <pubDate>Mon, 02 Jun 2025 22:44:15 +0800</pubDate>
+      <guid>https://deuts.org/x/491-puter-is-a-complete-fully-functional-os-that-runs-in-your-web-browser/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-491&#34;&gt;&lt;a href=&#34;https://news.itsfoss.com/puter-os/&#34;&gt;Puter is a Complete, Fully Functional OS that Runs in Your Web Browser&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-491 {
+    background: url(&#39;https://bm.deuts.org/static/https_news_itsfoss_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Run an operating system straight from your browser.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-491"><a href="https://news.itsfoss.com/puter-os/">Puter is a Complete, Fully Functional OS that Runs in Your Web Browser</a></h3>
+<style>
+.favicon-491 {
+    background: url('https://bm.deuts.org/static/https_news_itsfoss_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Run an operating system straight from your browser.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JTB9TEMPXSJ84ECZWM2AV8MV</title>
-      <link>https://deuts.org/x/2025-05-03-22-46-48-01jtb9tempxsj84eczwm2av8mv/</link>
-      <pubDate>Sat, 03 May 2025 22:46:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-05-03-22-46-48-01jtb9tempxsj84eczwm2av8mv/</guid>
-      <description>&lt;p&gt;And they never will this year.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>And they never will this year.</p>
+      <title>Kan</title>
+      <link>https://deuts.org/x/490-kan/</link>
+      <pubDate>Mon, 02 Jun 2025 22:22:20 +0800</pubDate>
+      <guid>https://deuts.org/x/490-kan/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-490&#34;&gt;&lt;a href=&#34;https://github.com/kanbn/kan&#34;&gt;Kan&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-490 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The open source Trello alternative.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-490"><a href="https://github.com/kanbn/kan">Kan</a></h3>
+<style>
+.favicon-490 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The open source Trello alternative.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JSG45EKC6A4GPYQ9X7SY004Y</title>
-      <link>https://deuts.org/x/2025-04-23-09-28-28-01jsg45ekc6a4gpyq9x7sy004y/</link>
-      <pubDate>Wed, 23 Apr 2025 09:28:28 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-04-23-09-28-28-01jsg45ekc6a4gpyq9x7sy004y/</guid>
-      <description>&lt;p&gt;​As of April 2025, the Los Angeles Lakers and the Los Angeles Clippers have never faced each other in the NBA playoffs. Despite sharing the same city and, until recently, the same arena, their postseason paths have never intersected. The Clippers have made 19 playoff appearances in their 55-season history , while the Lakers have qualified for the playoffs 65 times in 77 seasons . However, they have never met in a playoff series.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>​As of April 2025, the Los Angeles Lakers and the Los Angeles Clippers have never faced each other in the NBA playoffs. Despite sharing the same city and, until recently, the same arena, their postseason paths have never intersected. The Clippers have made 19 playoff appearances in their 55-season history , while the Lakers have qualified for the playoffs 65 times in 77 seasons . However, they have never met in a playoff series.</p>
+      <title>GMKTec M5 Proxmox  install problem</title>
+      <link>https://deuts.org/x/489-gmktec-m5-proxmox-install-problem/</link>
+      <pubDate>Fri, 30 May 2025 23:57:30 +0800</pubDate>
+      <guid>https://deuts.org/x/489-gmktec-m5-proxmox-install-problem/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-489&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ&#34;&gt;GMKTec M5 Proxmox  install problem&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-489 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Getting Proxmox to work on GMKTec Nucbox M5 is by setting &amp;ldquo;NX Mode&amp;rdquo; to enabled in Advanced &amp;gt; CPU Configuration
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is applicable to M5, but who knows, maybe it is also applicable to GMKTec M5 Plus and other GMKTec products.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-489"><a href="https://www.reddit.com/r/MiniPCs/s/u5Z9IgXXOZ">GMKTec M5 Proxmox  install problem</a></h3>
+<style>
+.favicon-489 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Getting Proxmox to work on GMKTec Nucbox M5 is by setting &ldquo;NX Mode&rdquo; to enabled in Advanced &gt; CPU Configuration
+</blockquote>
+  
+<div class="linkding-notes">
+    This is applicable to M5, but who knows, maybe it is also applicable to GMKTec M5 Plus and other GMKTec products.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JQHBMD2XBP7GV6ME804QASWY</title>
-      <link>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</link>
-      <pubDate>Sun, 30 Mar 2025 00:26:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</guid>
-      <description>&lt;p&gt;I really tried to like &lt;a href=&#34;https://fediwall.social/?tags=NocoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NocoDB&#34;&gt;#NocoDB&lt;/a&gt;, but the more I tried the more I found reasons to go back to &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt;. It’s just missing too many features to be a real alternative for me.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I really tried to like <a href="https://fediwall.social/?tags=NocoDB&amp;accounts=&amp;lang=en&amp;title=%23NocoDB">#NocoDB</a>, but the more I tried the more I found reasons to go back to <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a>. It’s just missing too many features to be a real alternative for me.</p>
+      <title>GMKtec NucBox M5 Plus mini PC review</title>
+      <link>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review/</link>
+      <pubDate>Fri, 30 May 2025 21:18:25 +0800</pubDate>
+      <guid>https://deuts.org/x/488-gmktec-nucbox-m5-plus-mini-pc-review/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-488&#34;&gt;&lt;a href=&#34;https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review&#34;&gt;GMKtec NucBox M5 Plus mini PC review&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-488 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_techradar_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Nothing special from a performance perspective, but the GMKtec NucBox M5 Plus is much better than its relatively low price might infer. Being able to get roughly another 20% from the system using performance mode is also a bonus. Perfect choice for a firewall.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    His problems with the unit is more on the features and ports?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-488"><a href="https://www.techradar.com/computing/gmktec-nucbox-m5-plus-mini-pc-review">GMKtec NucBox M5 Plus mini PC review</a></h3>
+<style>
+.favicon-488 {
+    background: url('https://bm.deuts.org/static/https_www_techradar_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Nothing special from a performance perspective, but the GMKtec NucBox M5 Plus is much better than its relatively low price might infer. Being able to get roughly another 20% from the system using performance mode is also a bonus. Perfect choice for a firewall.
+</blockquote>
+  
+<div class="linkding-notes">
+    His problems with the unit is more on the features and ports?
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JQE55XAYB5985S1ZR0C26J53</title>
-      <link>https://deuts.org/x/2025-03-28-18-36-19-01jqe55xayb5985s1zr0c26j53/</link>
-      <pubDate>Fri, 28 Mar 2025 18:36:19 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-28-18-36-19-01jqe55xayb5985s1zr0c26j53/</guid>
-      <description>&lt;p&gt;To suppress the &lt;a href=&#34;https://fediwall.social/?tags=delegation&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23delegation&#34;&gt;#delegation&lt;/a&gt; warning in &lt;a href=&#34;https://fediwall.social/?tags=PowerApps&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerApps&#34;&gt;#PowerApps&lt;/a&gt; while using &lt;a href=&#34;https://fediwall.social/?tags=Sharepoint&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Sharepoint&#34;&gt;#Sharepoint&lt;/a&gt; as the datasource, here&amp;rsquo;s the formula that worked when using the &lt;code&gt;Search&lt;/code&gt; function: &lt;a href=&#34;https://gist.github.com/deuts/5676ad74551810557437a27c35f927ef&#34;&gt;gist.github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>To suppress the <a href="https://fediwall.social/?tags=delegation&amp;accounts=&amp;lang=en&amp;title=%23delegation">#delegation</a> warning in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a> while using <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> as the datasource, here&rsquo;s the formula that worked when using the <code>Search</code> function: <a href="https://gist.github.com/deuts/5676ad74551810557437a27c35f927ef">gist.github.com/∞</a></p>
+      <title>Runtipi Appstore</title>
+      <link>https://deuts.org/x/485-runtipi-appstore/</link>
+      <pubDate>Wed, 28 May 2025 09:14:27 +0800</pubDate>
+      <guid>https://deuts.org/x/485-runtipi-appstore/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-485&#34;&gt;&lt;a href=&#34;https://github.com/runtipi/runtipi-appstore&#34;&gt;Runtipi Appstore&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-485 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    List of supported Runtipi apps.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-485"><a href="https://github.com/runtipi/runtipi-appstore">Runtipi Appstore</a></h3>
+<style>
+.favicon-485 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    List of supported Runtipi apps.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JQ9BJ2G9CKNA39AGVGRQFKX8</title>
-      <link>https://deuts.org/x/2025-03-26-21-51-36-01jq9bj2g9ckna39agvgrqfkx8/</link>
-      <pubDate>Wed, 26 Mar 2025 21:51:36 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-26-21-51-36-01jq9bj2g9ckna39agvgrqfkx8/</guid>
-      <description>&lt;p&gt;The use of &lt;code&gt;Name&lt;/code&gt; and &lt;code&gt;Folder path&lt;/code&gt; columns to filter a &lt;a href=&#34;https://fediwall.social/?tags=Sharepoint&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Sharepoint&#34;&gt;#Sharepoint&lt;/a&gt; Document Library is not delegable in &lt;a href=&#34;https://fediwall.social/?tags=PowerApps&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PowerApps&#34;&gt;#PowerApps&lt;/a&gt;. I don&amp;rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&amp;rsquo;t exist in the latter: &lt;a href=&#34;https://deuts.org/p/sharepoint-folder-vs-list-power-apps/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The use of <code>Name</code> and <code>Folder path</code> columns to filter a <a href="https://fediwall.social/?tags=Sharepoint&amp;accounts=&amp;lang=en&amp;title=%23Sharepoint">#Sharepoint</a> Document Library is not delegable in <a href="https://fediwall.social/?tags=PowerApps&amp;accounts=&amp;lang=en&amp;title=%23PowerApps">#PowerApps</a>. I don&rsquo;t think they can even be compared to Sharepoint Lists because these metadata don&rsquo;t exist in the latter: <a href="https://deuts.org/p/sharepoint-folder-vs-list-power-apps/">deuts.org/∞</a></p>
+      <title>GoMFT - Go Managed File Transfer</title>
+      <link>https://deuts.org/x/484-gomft-go-managed-file-transfer/</link>
+      <pubDate>Wed, 28 May 2025 08:57:29 +0800</pubDate>
+      <guid>https://deuts.org/x/484-gomft-go-managed-file-transfer/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-484&#34;&gt;&lt;a href=&#34;https://github.com/StarFleetCPTN/GoMFT&#34;&gt;GoMFT - Go Managed File Transfer&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-484 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    GoMFT is a web-based managed file transfer application built with Go, leveraging rclone for robust file transfer capabilities. It provides a user-friendly interface for configuring, scheduling, and monitoring file transfers across various storage providers.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We might need this later, we might not.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-484"><a href="https://github.com/StarFleetCPTN/GoMFT">GoMFT - Go Managed File Transfer</a></h3>
+<style>
+.favicon-484 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    GoMFT is a web-based managed file transfer application built with Go, leveraging rclone for robust file transfer capabilities. It provides a user-friendly interface for configuring, scheduling, and monitoring file transfers across various storage providers.
+</blockquote>
+  
+<div class="linkding-notes">
+    We might need this later, we might not.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01JQ83T8BMF1E979SV9SMDJK8Q</title>
-      <link>https://deuts.org/x/2025-03-26-10-17-02-01jq83t8bmf1e979sv9smdjk8q/</link>
-      <pubDate>Wed, 26 Mar 2025 10:17:02 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-03-26-10-17-02-01jq83t8bmf1e979sv9smdjk8q/</guid>
-      <description>&lt;p&gt;Yo! &lt;a href=&#34;https://fediwall.social/?tags=TheLastOfUs&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23TheLastOfUs&#34;&gt;#TheLastOfUs&lt;/a&gt; Season 2 is almost here. Season 2 premieres April 13. Can&amp;rsquo;t wait!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Yo! <a href="https://fediwall.social/?tags=TheLastOfUs&amp;accounts=&amp;lang=en&amp;title=%23TheLastOfUs">#TheLastOfUs</a> Season 2 is almost here. Season 2 premieres April 13. Can&rsquo;t wait!</p>
+      <title>LUKS encrypted Debian 12 server (Hetzner)</title>
+      <link>https://deuts.org/x/482-luks-encrypted-debian-12-server-hetzner/</link>
+      <pubDate>Mon, 26 May 2025 22:41:04 +0800</pubDate>
+      <guid>https://deuts.org/x/482-luks-encrypted-debian-12-server-hetzner/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-482&#34;&gt;&lt;a href=&#34;https://tqdev.com/2023-luks-encrypted-debian-12-server-hetzner&#34;&gt;LUKS encrypted Debian 12 server (Hetzner)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-482 {
+    background: url(&#39;https://bm.deuts.org/static/https_tqdev_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this tutorial I&amp;rsquo;ll walk you through the steps of setting up Debian 12 with LUKS full disk encryption on a server you bought from the Hetzner auction. I&amp;rsquo;m using the recommended method using the &amp;ldquo;installimage&amp;rdquo; script (that Hetzner provides) to make things really easy for myself.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-482"><a href="https://tqdev.com/2023-luks-encrypted-debian-12-server-hetzner">LUKS encrypted Debian 12 server (Hetzner)</a></h3>
+<style>
+.favicon-482 {
+    background: url('https://bm.deuts.org/static/https_tqdev_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this tutorial I&rsquo;ll walk you through the steps of setting up Debian 12 with LUKS full disk encryption on a server you bought from the Hetzner auction. I&rsquo;m using the recommended method using the &ldquo;installimage&rdquo; script (that Hetzner provides) to make things really easy for myself.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
   </channel>
