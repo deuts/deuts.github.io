@@ -60,8 +60,12 @@
 }
 &lt;/style&gt;
 
-&lt;div class=&#34;linkding-notes&#34;&gt;
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
     A better looking date picker for Power Apps.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    You need to create a component and add this to your apps.
 &lt;/div&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-495"><a href="https://www.reddit.com/r/PowerApps/s/xyflldUMEo">Date Picker Component Power Apps</a></h3>
 <style>
@@ -71,8 +75,12 @@
 }
 </style>
 
-<div class="linkding-notes">
+<blockquote class="linkding-description">
     A better looking date picker for Power Apps.
+</blockquote>
+  
+<div class="linkding-notes">
+    You need to create a component and add this to your apps.
 </div>
   
 ]]></content:encoded>
