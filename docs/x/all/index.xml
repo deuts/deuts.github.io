@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 04 Jun 2025 19:17:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 07:24:09 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DumbAssets</title>
+      <link>https://deuts.org/x/496-dumbassets/</link>
+      <pubDate>Thu, 05 Jun 2025 07:24:09 +0800</pubDate>
+      <guid>https://deuts.org/x/496-dumbassets/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-496&#34;&gt;&lt;a href=&#34;https://github.com/DumbWareio/DumbAssets&#34;&gt;DumbAssets&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-496 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A stupid simple asset tracker for keeping track of your physical assets, their components, and applicable warranties and routine maintenance.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    A much simpler alternative to Homebox.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-496"><a href="https://github.com/DumbWareio/DumbAssets">DumbAssets</a></h3>
+<style>
+.favicon-496 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A stupid simple asset tracker for keeping track of your physical assets, their components, and applicable warranties and routine maintenance.
+</blockquote>
+  
+<div class="linkding-notes">
+    A much simpler alternative to Homebox.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Date Picker Component Power Apps</title>
+      <link>https://deuts.org/x/495-date-picker-component-power-apps/</link>
+      <pubDate>Wed, 04 Jun 2025 21:19:27 +0800</pubDate>
+      <guid>https://deuts.org/x/495-date-picker-component-power-apps/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-495&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/PowerApps/s/xyflldUMEo&#34;&gt;Date Picker Component Power Apps&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-495 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-495"><a href="https://www.reddit.com/r/PowerApps/s/xyflldUMEo">Date Picker Component Power Apps</a></h3>
+<style>
+.favicon-495 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JWXAJ00GHGTPDFQK6B6QG0DH</title>
       <link>https://deuts.org/x/2025-06-04-19-17-23-01jwxaj00ghgtpdfqk6b6qg0dh/</link>
@@ -270,74 +330,6 @@ Beautiful Mountains Museum of Pop Culture Seattle View Seattle by Night Space Ne
   
 <div class="linkding-notes">
     His problems with the unit is more on the features and ports?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Runtipi Appstore</title>
-      <link>https://deuts.org/x/485-runtipi-appstore/</link>
-      <pubDate>Wed, 28 May 2025 09:14:27 +0800</pubDate>
-      <guid>https://deuts.org/x/485-runtipi-appstore/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-485&#34;&gt;&lt;a href=&#34;https://github.com/runtipi/runtipi-appstore&#34;&gt;Runtipi Appstore&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-485 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    List of supported Runtipi apps.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-485"><a href="https://github.com/runtipi/runtipi-appstore">Runtipi Appstore</a></h3>
-<style>
-.favicon-485 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    List of supported Runtipi apps.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GoMFT - Go Managed File Transfer</title>
-      <link>https://deuts.org/x/484-gomft-go-managed-file-transfer/</link>
-      <pubDate>Wed, 28 May 2025 08:57:29 +0800</pubDate>
-      <guid>https://deuts.org/x/484-gomft-go-managed-file-transfer/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-484&#34;&gt;&lt;a href=&#34;https://github.com/StarFleetCPTN/GoMFT&#34;&gt;GoMFT - Go Managed File Transfer&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-484 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    GoMFT is a web-based managed file transfer application built with Go, leveraging rclone for robust file transfer capabilities. It provides a user-friendly interface for configuring, scheduling, and monitoring file transfers across various storage providers.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    We might need this later, we might not.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-484"><a href="https://github.com/StarFleetCPTN/GoMFT">GoMFT - Go Managed File Transfer</a></h3>
-<style>
-.favicon-484 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    GoMFT is a web-based managed file transfer application built with Go, leveraging rclone for robust file transfer capabilities. It provides a user-friendly interface for configuring, scheduling, and monitoring file transfers across various storage providers.
-</blockquote>
-  
-<div class="linkding-notes">
-    We might need this later, we might not.
 </div>
   
 ]]></content:encoded>
