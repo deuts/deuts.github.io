@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 22:14:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 23:42:44 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JXANQEFEC2V9CST2J3CHB610</title>
+      <link>https://deuts.org/x/2025-06-09-23-42-44-01jxanqefec2v9cst2j3chb610/</link>
+      <pubDate>Mon, 09 Jun 2025 23:42:44 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-06-09-23-42-44-01jxanqefec2v9cst2j3chb610/</guid>
+      <description>&lt;p&gt;Tried out Windows 10 LTSC. One bump: no built-in Windows Terminal, and I&amp;rsquo;m already considering switching back to Windows 11 Pro. Can&amp;rsquo;t even do &lt;code&gt;Ctrl + Shift + V&lt;/code&gt; in Command Prompt to paste from the clipboard!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tried out Windows 10 LTSC. One bump: no built-in Windows Terminal, and I&rsquo;m already considering switching back to Windows 11 Pro. Can&rsquo;t even do <code>Ctrl + Shift + V</code> in Command Prompt to paste from the clipboard!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JXAGN5RQ9PFC3TE10DY7T14H</title>
       <link>https://deuts.org/x/2025-06-09-22-14-06-01jxagn5rq9pfc3te10dy7t14h/</link>
@@ -211,36 +220,6 @@
 
 <blockquote class="linkding-description">
     Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Make Your Own Streaming TV Channel with Plex and ErsatzTV</title>
-      <link>https://deuts.org/x/498-make-your-own-streaming-tv-channel-with-plex-and-ersatztv/</link>
-      <pubDate>Thu, 05 Jun 2025 14:27:32 +0800</pubDate>
-      <guid>https://deuts.org/x/498-make-your-own-streaming-tv-channel-with-plex-and-ersatztv/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-498&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=G9J9QcrDlC0&#34;&gt;Make Your Own Streaming TV Channel with Plex and ErsatzTV&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-498 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    ErsatzTV is an open source project that lets you schedule your own streaming live TV channel! Build out time slots, schedule programming, and recreate the TV experience of your youth.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-498"><a href="https://www.youtube.com/watch?v=G9J9QcrDlC0">Make Your Own Streaming TV Channel with Plex and ErsatzTV</a></h3>
-<style>
-.favicon-498 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    ErsatzTV is an open source project that lets you schedule your own streaming live TV channel! Build out time slots, schedule programming, and recreate the TV experience of your youth.
 </blockquote>
   
 ]]></content:encoded>
