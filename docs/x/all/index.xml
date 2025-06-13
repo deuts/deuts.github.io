@@ -7,8 +7,53 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 23:42:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 06:42:56 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JXNQBQNTCE2TMVP9N4AZR386</title>
+      <link>https://deuts.org/x/2025-06-14-06-42-56-01jxnqbqntce2tmvp9n4azr386/</link>
+      <pubDate>Sat, 14 Jun 2025 06:42:56 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-06-14-06-42-56-01jxnqbqntce2tmvp9n4azr386/</guid>
+      <description>&lt;p&gt;He probably meant OTP over SMS. There are also authenticator apps, you know, that are far safer than over SMS.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BSP orders banks to go beyond OTPs
+&lt;a href=&#34;https://business.inquirer.net/530380/bsp-orders-banks-to-go-beyond-otps&#34;&gt;business.inquirer.net/∞&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<p>He probably meant OTP over SMS. There are also authenticator apps, you know, that are far safer than over SMS.</p>
+<blockquote>
+<p>BSP orders banks to go beyond OTPs
+<a href="https://business.inquirer.net/530380/bsp-orders-banks-to-go-beyond-otps">business.inquirer.net/∞</a></p></blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Grist Discussion on Reddit</title>
+      <link>https://deuts.org/x/504-grist-discussion-on-reddit/</link>
+      <pubDate>Tue, 10 Jun 2025 14:39:31 +0800</pubDate>
+      <guid>https://deuts.org/x/504-grist-discussion-on-reddit/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-504&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/&#34;&gt;Grist Discussion on Reddit&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-504 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The day Grist was announced on r/selfhosted
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-504"><a href="https://www.reddit.com/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/">Grist Discussion on Reddit</a></h3>
+<style>
+.favicon-504 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The day Grist was announced on r/selfhosted
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JXANQEFEC2V9CST2J3CHB610</title>
       <link>https://deuts.org/x/2025-06-09-23-42-44-01jxanqefec2v9cst2j3chb610/</link>
@@ -160,66 +205,6 @@
 
 <blockquote class="linkding-description">
     Learn how to deploy pyKMS using Docker-compose, activate a Windows 11 computer, and manage Microsoft Office activations with this cost-free alternative to Microsoft&rsquo;s KMS servers.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>KMS Docker Server</title>
-      <link>https://deuts.org/x/500-kms-docker-server/</link>
-      <pubDate>Thu, 05 Jun 2025 23:00:00 +0800</pubDate>
-      <guid>https://deuts.org/x/500-kms-docker-server/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-500&#34;&gt;&lt;a href=&#34;https://github.com/11notes/docker-kms-gui&#34;&gt;KMS Docker Server&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-500 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Activate any version of Windows and Office, forever - 11notes/docker-kms-gui
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-500"><a href="https://github.com/11notes/docker-kms-gui">KMS Docker Server</a></h3>
-<style>
-.favicon-500 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Activate any version of Windows and Office, forever - 11notes/docker-kms-gui
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MassGrave</title>
-      <link>https://deuts.org/x/499-massgrave/</link>
-      <pubDate>Thu, 05 Jun 2025 18:19:24 +0800</pubDate>
-      <guid>https://deuts.org/x/499-massgrave/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-499&#34;&gt;&lt;a href=&#34;https://github.com/massgravel/Microsoft-Activation-Scripts&#34;&gt;MassGrave&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-499 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-499"><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">MassGrave</a></h3>
-<style>
-.favicon-499 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 </blockquote>
   
 ]]></content:encoded>
