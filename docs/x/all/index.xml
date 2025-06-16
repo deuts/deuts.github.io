@@ -70,11 +70,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>GitHub - rishikanthc/qrding: Self-hosted QR code generator</title>
-      <link>https://deuts.org/x/507-github-rishikanthc-qrding-self-hosted-qr-code-generator/</link>
+      <title>QRDing: Self-hosted QR code generator</title>
+      <link>https://deuts.org/x/507-qrding-self-hosted-qr-code-generator/</link>
       <pubDate>Mon, 16 Jun 2025 00:08:52 +0800</pubDate>
-      <guid>https://deuts.org/x/507-github-rishikanthc-qrding-self-hosted-qr-code-generator/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-507&#34;&gt;&lt;a href=&#34;https://github.com/rishikanthc/qrding?tab=readme-ov-file&#34;&gt;GitHub - rishikanthc/qrding: Self-hosted QR code generator&lt;/a&gt;&lt;/h3&gt;
+      <guid>https://deuts.org/x/507-qrding-self-hosted-qr-code-generator/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-507&#34;&gt;&lt;a href=&#34;https://github.com/rishikanthc/qrding?tab=readme-ov-file&#34;&gt;QRDing: Self-hosted QR code generator&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
 .favicon-507 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
@@ -83,9 +83,13 @@
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted QR code generator. Contribute to rishikanthc/qrding development by creating an account on GitHub.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-507"><a href="https://github.com/rishikanthc/qrding?tab=readme-ov-file">GitHub - rishikanthc/qrding: Self-hosted QR code generator</a></h3>
+    QRding is a simple self-hosted QR code generator. It includes templates for creating QR codes for sharing WiFi credentials, contact cards and text or links. In the long-term the goal is to build an automation system around QR codes which allows you to trigger custom actions, track actions or habits and send notifications when a scan event is not triggered.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Wish it had a robust API that I can play around with.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-507"><a href="https://github.com/rishikanthc/qrding?tab=readme-ov-file">QRDing: Self-hosted QR code generator</a></h3>
 <style>
 .favicon-507 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
@@ -94,8 +98,12 @@
 </style>
 
 <blockquote class="linkding-description">
-    Self-hosted QR code generator. Contribute to rishikanthc/qrding development by creating an account on GitHub.
+    QRding is a simple self-hosted QR code generator. It includes templates for creating QR codes for sharing WiFi credentials, contact cards and text or links. In the long-term the goal is to build an automation system around QR codes which allows you to trigger custom actions, track actions or habits and send notifications when a scan event is not triggered.
 </blockquote>
+  
+<div class="linkding-notes">
+    Wish it had a robust API that I can play around with.
+</div>
   
 ]]></content:encoded>
     </item>
