@@ -21,14 +21,14 @@
 <ul>
 <li><code>API_Key</code>: your Grist API token</li>
 <li><code>Team_URL</code>: your team’s Grist base URL</li>
-<li><code>Doc_ID</code>: the document ID</li>
-<li><code>Table_ID</code>: the table ID within that document</li>
+<li><code>Doc_ID</code>: the document ID, get this from the document settings</li>
+<li><code>Table_ID</code>: the table name within that document</li>
 </ul>
 <p>It builds the full API URL, calls the endpoint, and expands the returned records into a Power BI table.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#75715e">// This function fetches and returns a table of records from a specific Grist document table.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">// Parameters:
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   API_Key   - Your Grist API token as a text string (e.g., &#34;abc123...&#34;)
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Team_URL  - The base URL of your Grist team site (e.g., &#34;https://example.getgrist.com&#34;)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Team_URL  - The base URL of your Grist team site (e.g., &#34;https://docs.getgrist.com&#34;)
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Doc_ID    - The ID of the document you want to access
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Table_ID  - The ID of the table within that document
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>(
