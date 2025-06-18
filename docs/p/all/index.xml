@@ -7,8 +7,89 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 21 May 2025 13:47:58 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 19:26:43 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect to Grist API in Power BI Using Power Query</title>
+      <link>https://deuts.org/p/connect-grist-api-power-query/</link>
+      <pubDate>Wed, 18 Jun 2025 19:26:43 +0800</pubDate>
+      <guid>https://deuts.org/p/connect-grist-api-power-query/</guid>
+      <description>A step-by-step Power Query function to retrieve and expand Grist records using the Grist API, with clean URL handling and dynamic column extraction.</description>
+      <content:encoded><![CDATA[<p>Grist is a powerful alternative to spreadsheets with an API that&rsquo;s friendly to integration. If you&rsquo;re using Power BI and want to pull data directly from your Grist tables, here’s a reusable Power Query function that gets the job done.</p>
+<h3 id="the-function">The Function</h3>
+<p>This M function takes four parameters:</p>
+<ul>
+<li><code>API_Key</code>: your Grist API token</li>
+<li><code>Team_URL</code>: your team’s Grist base URL</li>
+<li><code>Doc_ID</code>: the document ID</li>
+<li><code>Table_ID</code>: the table ID within that document</li>
+</ul>
+<p>It builds the full API URL, calls the endpoint, and expands the returned records into a Power BI table.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#75715e">// This function fetches and returns a table of records from a specific Grist document table.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// Parameters:
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   API_Key   - Your Grist API token as a text string (e.g., &#34;abc123...&#34;)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Team_URL  - The base URL of your Grist team site (e.g., &#34;https://example.getgrist.com&#34;)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Doc_ID    - The ID of the document you want to access
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">//   Table_ID  - The ID of the table within that document
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>(
+</span></span><span style="display:flex;"><span>  API_Key <span style="color:#66d9ef">as</span> text<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>  Team_URL <span style="color:#66d9ef">as</span> text<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>  Doc_ID <span style="color:#66d9ef">as</span> text<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>  Table_ID <span style="color:#66d9ef">as</span> text
+</span></span><span style="display:flex;"><span>) <span style="color:#f92672">=&gt;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">let</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Ensure no trailing slash in the team URL
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  CleanTeamURL <span style="color:#f92672">=</span> Text.TrimEnd(Team_URL<span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;/&#34;</span>)<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Build the full API endpoint URL
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  Full_URL <span style="color:#f92672">=</span> CleanTeamURL <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;/api/docs/&#34;</span> <span style="color:#f92672">&amp;</span> Doc_ID <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;/tables/&#34;</span> <span style="color:#f92672">&amp;</span> Table_ID <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;/records&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Define the request headers with authorization and expected content type
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  RequestHeaders <span style="color:#f92672">=</span> [
+</span></span><span style="display:flex;"><span>    #&#34;Authorization&#34; <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Bearer &#34;</span> <span style="color:#f92672">&amp;</span> API_Key<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    #&#34;Accept&#34; <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;application/json&#34;</span>
+</span></span><span style="display:flex;"><span>  ]<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Make the web request and parse the JSON response
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  RecordsList <span style="color:#f92672">=</span> Json.Document(Web.Contents(Full_URL<span style="color:#f92672">,</span> [Headers <span style="color:#f92672">=</span> RequestHeaders]))<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Extract the list of records from the JSON
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  ExpandRecord <span style="color:#f92672">=</span> RecordsList[records]<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Convert the list of records to a table
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  ListToTable <span style="color:#f92672">=</span> Table.FromList(
+</span></span><span style="display:flex;"><span>    ExpandRecord<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    Splitter.SplitByNothing()<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">null</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">null</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    ExtraValues.Error
+</span></span><span style="display:flex;"><span>  )<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Expand the outer record structure (e.g., id, fields)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  ExpandCols <span style="color:#f92672">=</span> Table.ExpandRecordColumn(
+</span></span><span style="display:flex;"><span>    ListToTable<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;Column1&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    Record.FieldNames(ListToTable{<span style="color:#ae81ff">0</span>}[Column1])
+</span></span><span style="display:flex;"><span>  )<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Expand the &#39;fields&#39; record into actual table columns
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  ExpandFields <span style="color:#f92672">=</span> Table.ExpandRecordColumn(
+</span></span><span style="display:flex;"><span>    ExpandCols<span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;fields&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>    Record.FieldNames(ExpandCols{<span style="color:#ae81ff">0</span>}[fields])
+</span></span><span style="display:flex;"><span>  )
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
+</span></span><span style="display:flex;"><span>  ExpandFields
+</span></span></code></pre></div><h3 id="notes">Notes</h3>
+<ul>
+<li><code>Text.TrimEnd</code> ensures the base URL is consistent regardless of user input.</li>
+<li>It dynamically extracts field names, making it robust against changes in your Grist schema.</li>
+<li>All requests use standard bearer token authorization.</li>
+<li>Ideal for use in Power BI reports that need to pull live data from Grist.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Data Quality Issues in BAP’s Historical PHP/USD Rates</title>
       <link>https://deuts.org/p/bap-rates-data-issues/</link>
@@ -655,105 +736,6 @@ The features listed in the table below are the ones I find important to me perso
 <li><strong>Handles Custom Holiday Lists</strong> – Can be adapted to specific regional or company-defined holidays.</li>
 </ul>
 <p>This function is useful in scenarios such as payment processing, interest calculations, or any business process that relies on valid banking days.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Python vs Power Query: Understanding Lists and Dictionaries/Records</title>
-      <link>https://deuts.org/p/python-power-query-lists-dictionaries-records/</link>
-      <pubDate>Wed, 05 Feb 2025 09:42:15 +0800</pubDate>
-      <guid>https://deuts.org/p/python-power-query-lists-dictionaries-records/</guid>
-      <description>Python and Power Query are both powerful tools for data manipulation, but their syntax and data structures differ. Let&amp;#39;s explore the key similarities and differences between Python lists and dictionaries and Power Query lists and records, with examples and explanations to help you understand these fundamental concepts.</description>
-      <content:encoded><![CDATA[<h3 id="introduction">Introduction</h3>
-<p>When working with data in both Python and Power Query, you&rsquo;ll encounter several essential data structures—<strong>lists</strong> and <strong>dictionaries</strong> (or <strong>records</strong> in Power Query). While both languages share similar concepts for organizing data, their syntax and the way they handle data structures differ significantly.</p>
-<p>Let&rsquo;s compare the basic data structures of lists and dictionaries in Python with their counterparts in Power Query: lists and records.</p>
-<h3 id="what-is-a-list">What is a List?</h3>
-<p>A <strong>list</strong> is an ordered collection of items. Both Python and Power Query support lists, but they are defined differently in each language.</p>
-<h4 id="python-list">Python List</h4>
-<p>In Python, a list is defined using <strong>square brackets <code>[]</code></strong>. It can contain any type of data—integers, strings, or even other lists.</p>
-<h5 id="example">Example:</h5>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>my_list <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#e6db74">&#34;apple&#34;</span>]
-</span></span><span style="display:flex;"><span>print(my_list)
-</span></span></code></pre></div><p>Output:</p>
-<pre tabindex="0"><code>[1, 2, 3, &#39;apple&#39;]
-</code></pre><ul>
-<li>Lists in Python are <strong>ordered</strong> and <strong>mutable</strong>, meaning you can change their contents after creation.</li>
-<li>Lists are useful for storing collections of items in a specific order.</li>
-</ul>
-<h4 id="power-query-list">Power Query List</h4>
-<p>In Power Query, a <strong>list</strong> is defined using <strong>curly braces <code>{}</code></strong>. Like Python lists, Power Query lists can store items of different types.</p>
-<h5 id="example-1">Example:</h5>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-m" data-lang="m"><span style="display:flex;"><span>myList <span style="color:#f92672">=</span> {<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#e6db74">&#34;apple&#34;</span>}
-</span></span></code></pre></div><ul>
-<li>Power Query lists are <strong>ordered</strong> and can contain various data types.</li>
-<li>Lists in Power Query are often used for operations like filtering, combining, or applying functions to the list&rsquo;s items.</li>
-</ul>
-<h3 id="what-is-a-dictionaryrecord">What is a Dictionary/Record?</h3>
-<p>A <strong>dictionary</strong> (in Python) or a <strong>record</strong> (in Power Query) is a collection of <strong>key-value pairs</strong>. They allow you to store data in a way that you can easily look up a value by its corresponding key.</p>
-<h4 id="python-dictionary">Python Dictionary</h4>
-<p>In Python, a <strong>dictionary</strong> is defined using <strong>curly braces <code>{}</code></strong>, with <strong>key-value pairs</strong> separated by a colon <code>:</code>.</p>
-<h5 id="example-2">Example:</h5>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>my_dict <span style="color:#f92672">=</span> {<span style="color:#e6db74">&#34;title&#34;</span>: <span style="color:#e6db74">&#34;Task 1&#34;</span>, <span style="color:#e6db74">&#34;slug&#34;</span>: <span style="color:#e6db74">&#34;task-1&#34;</span>}
-</span></span><span style="display:flex;"><span>print(my_dict)
-</span></span></code></pre></div><p>Output:</p>
-<pre tabindex="0"><code>{&#39;title&#39;: &#39;Task 1&#39;, &#39;slug&#39;: &#39;task-1&#39;}
-</code></pre><ul>
-<li>Dictionaries in Python are <strong>unordered</strong> (before Python 3.7) and <strong>mutable</strong>.</li>
-<li>You can access a value using its key:
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(my_dict[<span style="color:#e6db74">&#34;title&#34;</span>])  <span style="color:#75715e"># Outputs: Task 1</span>
-</span></span></code></pre></div></li>
-</ul>
-<h4 id="power-query-record">Power Query Record</h4>
-<p>In Power Query, a <strong>record</strong> is similar to a dictionary, but it&rsquo;s defined using <strong>square brackets <code>[]</code></strong> and <strong>field-value pairs</strong>.</p>
-<h5 id="example-3">Example:</h5>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-m" data-lang="m"><span style="display:flex;"><span>myRecord <span style="color:#f92672">=</span> [title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Task 1&#34;</span>, slug <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;task-1&#34;</span>]
-</span></span></code></pre></div><ul>
-<li>Power Query <strong>records</strong> store <strong>field-value pairs</strong>, similar to Python&rsquo;s dictionaries.</li>
-<li>Records are commonly used when you need to structure data with labels, such as metadata or configuration settings.</li>
-</ul>
-<h3 id="key-differences">Key Differences</h3>
-<table>
-  <thead>
-      <tr>
-          <th>Concept</th>
-          <th>Python</th>
-          <th>Power Query</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>List</strong></td>
-          <td>Defined with <strong><code>[]</code></strong>. Stores ordered data.</td>
-          <td>Defined with <strong><code>{}</code></strong>. Stores ordered data.</td>
-      </tr>
-      <tr>
-          <td><strong>Dictionary/Record</strong></td>
-          <td>Defined with <strong><code>{}</code></strong>. Stores key-value pairs.</td>
-          <td>Defined with <strong><code>[]</code></strong>. Stores field-value pairs.</td>
-      </tr>
-      <tr>
-          <td><strong>Mutability</strong></td>
-          <td>Both lists and dictionaries are <strong>mutable</strong>.</td>
-          <td>Both lists and records are <strong>mutable</strong>.</td>
-      </tr>
-      <tr>
-          <td><strong>Ordering</strong></td>
-          <td>Lists are ordered. Dictionaries are unordered (before Python 3.7).</td>
-          <td>Lists are ordered. Records don&rsquo;t have inherent order.</td>
-      </tr>
-      <tr>
-          <td><strong>Accessing Values</strong></td>
-          <td>Use index for lists, and key for dictionaries.</td>
-          <td>Use index for lists, and field names for records.</td>
-      </tr>
-  </tbody>
-</table>
-<h3 id="conclusion">Conclusion</h3>
-<p>While Python and Power Query use different syntax to define their data structures, the concepts of <strong>lists</strong> and <strong>dictionaries/records</strong> are quite similar. Lists are used for ordered collections of data, and dictionaries (or records in Power Query) are used for storing key-value pairs.</p>
-<ul>
-<li><strong>In Python</strong>, use <code>[]</code> for lists and <code>{}</code> for dictionaries.</li>
-<li><strong>In Power Query</strong>, use <code>{}</code> for lists and <code>[]</code> for records.</li>
-</ul>
-<p>Understanding the similarities and differences between these data structures is crucial for working efficiently in both environments. I hope this comparison has helped clarify how to work with lists and dictionaries (or records) in Python and Power Query!</p>
 ]]></content:encoded>
     </item>
   </channel>
