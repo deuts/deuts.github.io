@@ -60,8 +60,8 @@
   "keywords": [
     "power-query", "power-bi", "grist", "api"
   ],
-  "articleBody": "Grist is a powerful alternative to spreadsheets with an API that’s friendly to integration. If you’re using Power BI and want to pull data directly from your Grist tables, here’s a reusable Power Query function that gets the job done.\nThe Function This M function takes four parameters:\nAPI_Key: your Grist API token Team_URL: your team’s Grist base URL Doc_ID: the document ID, get this from the document settings Table_ID: the table name within that document It builds the full API URL, calls the endpoint, and expands the returned records into a Power BI table.\n// This function fetches and returns a table of records from a specific Grist document table. // Parameters: // API_Key - Your Grist API token as a text string (e.g., \"abc123...\") // Team_URL - The base URL of your Grist team site (e.g., \"https://docs.getgrist.com\") // Doc_ID - The ID of the document you want to access // Table_ID - The ID of the table within that document ( API_Key as text, Team_URL as text, Doc_ID as text, Table_ID as text ) =\u003e let // Ensure no trailing slash in the team URL CleanTeamURL = Text.TrimEnd(Team_URL, \"/\"), // Build the full API endpoint URL Full_URL = CleanTeamURL \u0026 \"/api/docs/\" \u0026 Doc_ID \u0026 \"/tables/\" \u0026 Table_ID \u0026 \"/records\", // Define the request headers with authorization and expected content type RequestHeaders = [ #\"Authorization\" = \"Bearer \" \u0026 API_Key, #\"Accept\" = \"application/json\" ], // Make the web request and parse the JSON response RecordsList = Json.Document(Web.Contents(Full_URL, [Headers = RequestHeaders])), // Extract the list of records from the JSON ExpandRecord = RecordsList[records], // Convert the list of records to a table ListToTable = Table.FromList( ExpandRecord, Splitter.SplitByNothing(), null, null, ExtraValues.Error ), // Expand the outer record structure (e.g., id, fields) ExpandCols = Table.ExpandRecordColumn( ListToTable, \"Column1\", Record.FieldNames(ListToTable{0}[Column1]) ), // Expand the 'fields' record into actual table columns ExpandFields = Table.ExpandRecordColumn( ExpandCols, \"fields\", Record.FieldNames(ExpandCols{0}[fields]) ) in ExpandFields Notes Text.TrimEnd ensures the base URL is consistent regardless of user input. It dynamically extracts field names, making it robust against changes in your Grist schema. All requests use standard bearer token authorization. Ideal for use in Power BI reports that need to pull live data from Grist. ",
-  "wordCount" : "363",
+  "articleBody": "Grist is a powerful alternative to spreadsheets with an API that’s friendly to integration. If you’re using Power BI and want to pull data directly from your Grist tables, here’s a reusable Power Query function that gets the job done.\nThe Function This M function takes four parameters:\nAPI_Key: your Grist API token Team_URL: your team’s Grist base URL Doc_ID: the document ID, get this from the document settings Table_ID: the table name within that document It builds the full API URL, calls the endpoint, and expands the returned records into a Power BI table.\n// This function fetches and returns a table of records from a specific Grist document table. // Parameters: // API_Key - Your Grist API token as a text string (e.g., \"abc123...\") // Team_URL - The base URL of your Grist team site (e.g., \"https://docs.getgrist.com\") // Doc_ID - The ID of the document you want to access // Table_ID - The ID of the table within that document ( API_Key as text, Team_URL as text, Doc_ID as text, Table_ID as text ) =\u003e let // Ensure no trailing slash in the team URL CleanTeamURL = Text.TrimEnd(Team_URL, \"/\"), // Build the full API endpoint URL Full_URL = CleanTeamURL \u0026 \"/api/docs/\" \u0026 Doc_ID \u0026 \"/tables/\" \u0026 Table_ID \u0026 \"/records\", // Define the request headers with authorization and expected content type RequestHeaders = [ #\"Authorization\" = \"Bearer \" \u0026 API_Key, #\"Accept\" = \"application/json\" ], // Make the web request and parse the JSON response RecordsList = Json.Document(Web.Contents(Full_URL, [Headers = RequestHeaders])), // Extract the list of records from the JSON ExpandRecord = RecordsList[records], // Convert the list of records to a table ListToTable = Table.FromList( ExpandRecord, Splitter.SplitByNothing(), null, null, ExtraValues.Error ), // Expand the outer record structure (e.g., id, fields) ExpandCols = Table.ExpandRecordColumn( ListToTable, \"Column1\", Record.FieldNames(ListToTable{0}[Column1]) ), // Expand the 'fields' record into actual table columns ExpandFields = Table.ExpandRecordColumn( ExpandCols, \"fields\", Record.FieldNames(ExpandCols{0}[fields]) ) in ExpandFields Function Notes Text.TrimEnd ensures the base URL is consistent regardless of user input. It dynamically extracts field names, making it robust against changes in your Grist schema. All requests use standard bearer token authorization. Ideal for use in Power BI reports that need to pull live data from Grist. Questions Can I use this function to access data from a Grist Desktop app? When you open the Grist desktop app on Windows, it serves the api at localhost:47478. So yes, just make sure to do the following:\nThe Grist desktop app is running serving the database you’re trying to access. Invoke the function with: GetGristData(\"your_api_key\", \"http://localhost:47478/\", \"your_doc_id\", \"your_table_name\") ",
+  "wordCount" : "423",
   "inLanguage": "en",
   "image":"https://deuts.org/p/connect-grist-api-power-query/grist-power-query.jpg","datePublished": "2025-06-18T19:26:43+08:00",
   "dateModified": "2025-06-18T19:26:43+08:00",
@@ -130,7 +130,7 @@
     <div class="post-description">
       A step-by-step Power Query function to retrieve and expand Grist records using the Grist API, with clean URL handling and dynamic column extraction.
     </div>
-    <div class="post-meta"><span title='2025-06-18 19:26:43 +0800 PST'>June 18, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;363 words
+    <div class="post-meta"><span title='2025-06-18 19:26:43 +0800 PST'>June 18, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;423 words
 
 <a href="https://filepath.deuts.org/files/deutslog-site/content/posts/connect-grist-api-power-query/index.md" rel="noopener noreferrer" target="_blank">
     <i class="fa fa-edit" style="font-size: 16px; color: #777; margin-left: 1em;" aria-label="Edit"></i>
@@ -238,14 +238,22 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
 </span></span><span style="display:flex;"><span>  ExpandFields
-</span></span></code></pre></div><h3 id="notes">Notes<a hidden class="anchor" aria-hidden="true" href="#notes">#</a></h3>
+</span></span></code></pre></div><h3 id="function-notes">Function Notes<a hidden class="anchor" aria-hidden="true" href="#function-notes">#</a></h3>
 <ul>
 <li><code>Text.TrimEnd</code> ensures the base URL is consistent regardless of user input.</li>
 <li>It dynamically extracts field names, making it robust against changes in your Grist schema.</li>
 <li>All requests use standard bearer token authorization.</li>
 <li>Ideal for use in Power BI reports that need to pull live data from Grist.</li>
 </ul>
-
+<h3 id="questions">Questions<a hidden class="anchor" aria-hidden="true" href="#questions">#</a></h3>
+<h4 id="can-i-use-this-function-to-access-data-from-a-grist-desktop-app">Can I use this function to access data from a Grist Desktop app?<a hidden class="anchor" aria-hidden="true" href="#can-i-use-this-function-to-access-data-from-a-grist-desktop-app">#</a></h4>
+<p>When you open the Grist desktop app on Windows, it serves the api at <code>localhost:47478</code>. So yes, just make sure to do the following:</p>
+<ol>
+<li>The Grist desktop app is running serving the database you&rsquo;re trying to access.</li>
+<li>Invoke the function with:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span>GetGristData(<span style="color:#e6db74">&#34;your_api_key&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;http://localhost:47478/&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;your_doc_id&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;your_table_name&#34;</span>)
+</span></span></code></pre></div>
 
   </div>
 
