@@ -7,8 +7,133 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 18 Jun 2025 19:26:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 15:20:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using the Action Button Widget in Grist to Automate Table Operations</title>
+      <link>https://deuts.org/p/grist-action-button-widget/</link>
+      <pubDate>Fri, 20 Jun 2025 15:20:12 +0800</pubDate>
+      <guid>https://deuts.org/p/grist-action-button-widget/</guid>
+      <description>Learn how to use Grist&amp;#39;s Action Button widget to automate adding, updating, and deleting records.</description>
+      <content:encoded><![CDATA[<p>Grist’s interface is packed with powerful features, but one particularly useful tool that flies under the radar is the <strong>Action Button widget</strong>. Despite the lack of official documentation, this widget allows you to define complex workflows—like inserting, updating, or deleting records—triggered by a single button click.</p>
+<p>This is useful for automating repetitive operations without needing webhooks or external integrations.</p>
+<h3 id="-what-is-the-action-button">🧠 What Is the Action Button?</h3>
+<p>The Action Button widget displays a clickable button in your table. When clicked, it executes one or more actions—such as adding, updating, or removing records—based on logic you define in a separate column.</p>
+<h3 id="-anatomy-of-the-action-button">🏗️ Anatomy of the Action Button</h3>
+<p>To use the Action Button, create a <strong>formula column</strong> that returns a dictionary with three keys:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;description&#34;</span>: <span style="color:#e6db74">&#34;Text explaining what the button does&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;button&#34;</span>: <span style="color:#e6db74">&#34;Label shown on the button&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;actions&#34;</span>: [<span style="color:#f92672">/*</span> list of actions <span style="color:#f92672">*/</span>]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>⚠️ <strong>Important:</strong></p>
+<ul>
+<li>Set the <strong>Column Type</strong> to <code>Any</code>—this is required for the JSON-like object to work.</li>
+<li>The column must be <strong>visible</strong> while editing the formula, but it can be <strong>hidden</strong> afterward.</li>
+<li>In the Action Button widget settings, set <strong>Access Level</strong> to <strong>Full document access</strong>. Without this, the button won’t be able to make changes.</li>
+</ul>
+<h3 id="-supported-actions">⚙️ Supported Actions</h3>
+<p>Each entry in the <code>&quot;actions&quot;</code> array is itself a list. Here are the most common types:</p>
+<h4 id="-addrecord">➕ <code>AddRecord</code></h4>
+<p>Adds a new row to the specified table.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>[<span style="color:#e6db74">&#34;AddRecord&#34;</span>, <span style="color:#e6db74">&#34;TableId&#34;</span>, <span style="color:#66d9ef">None</span>, { <span style="color:#e6db74">&#34;ColName&#34;</span>: value, <span style="color:#f92672">...</span> }]
+</span></span></code></pre></div><h4 id="-updaterecord">✏️ <code>UpdateRecord</code></h4>
+<p>Updates a specific row by ID.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>[<span style="color:#e6db74">&#34;UpdateRecord&#34;</span>, <span style="color:#e6db74">&#34;TableId&#34;</span>, rowId, { <span style="color:#e6db74">&#34;ColName&#34;</span>: newValue }]
+</span></span></code></pre></div><h4 id="-removerecord">❌ <code>RemoveRecord</code></h4>
+<p>Deletes a row from the table.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>[<span style="color:#e6db74">&#34;RemoveRecord&#34;</span>, <span style="color:#e6db74">&#34;TableId&#34;</span>, rowId]
+</span></span></code></pre></div><h3 id="-example-1-copy-and-increment">✅ Example 1: Copy and Increment</h3>
+<p>This example:</p>
+<ul>
+<li>Adds a new row to a table named <code>&quot;Data&quot;</code> with values from the current row.</li>
+<li>Increments a number field in the current table.</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;button&#34;</span>: <span style="color:#e6db74">&#34;Copy to Data&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;description&#34;</span>: <span style="color:#e6db74">&#34;Copy &#34;</span> <span style="color:#f92672">+</span> <span style="color:#960050;background-color:#1e0010">$</span>Name <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34; to Data Table&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;actions&#34;</span>: [
+</span></span><span style="display:flex;"><span>    [
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">&#34;AddRecord&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">&#34;Data&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">None</span>,
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#34;Title&#34;</span>: <span style="color:#960050;background-color:#1e0010">$</span>Name,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#34;Body&#34;</span>: <span style="color:#960050;background-color:#1e0010">$</span>Description,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#34;Number&#34;</span>: <span style="color:#960050;background-color:#1e0010">$</span>Number,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#34;Table1Data&#34;</span>: <span style="color:#960050;background-color:#1e0010">$</span>id
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ],
+</span></span><span style="display:flex;"><span>    [
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">&#34;UpdateRecord&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">&#34;Table1&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#960050;background-color:#1e0010">$</span>id,
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#34;Number&#34;</span>: <span style="color:#960050;background-color:#1e0010">$</span>Number <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ]
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="-example-2-delete-the-current-record">🗑️ Example 2: Delete the Current Record</h3>
+<p>This example deletes the current row from a table named <code>&quot;Logs&quot;</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;button&#34;</span>: <span style="color:#e6db74">&#34;Delete&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;description&#34;</span>: <span style="color:#e6db74">&#34;Remove this log entry&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#e6db74">&#34;actions&#34;</span>: [
+</span></span><span style="display:flex;"><span>    [<span style="color:#e6db74">&#34;RemoveRecord&#34;</span>, <span style="color:#e6db74">&#34;Logs&#34;</span>, <span style="color:#960050;background-color:#1e0010">$</span>id]
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Use with caution—there’s no confirmation prompt.</p>
+<h3 id="-how-to-set-it-up-step-by-step">🛠️ How to Set It Up (Step-by-Step)</h3>
+<ol>
+<li>
+<p><strong>Add a formula column</strong> to the table you want to work with.</p>
+</li>
+<li>
+<p>Set the <strong>Column Type</strong> to <code>Any</code>—this is required for the JSON-style dictionary to work.</p>
+</li>
+<li>
+<p>Write a formula that returns an object with <code>button</code>, <code>description</code>, and <code>actions</code> keys.</p>
+</li>
+<li>
+<p>Save the column.</p>
+</li>
+<li>
+<p>Add an <strong>Action Button widget</strong> to your page:</p>
+<ul>
+<li>
+<p>Under <strong>SELECT BY</strong>, choose the same table where you created the formula column.</p>
+</li>
+<li>
+<p>In the widget’s settings:</p>
+<ul>
+<li>Set <strong>Access Level</strong> to <strong>Full document access</strong>.</li>
+<li>Select your formula column from the <strong>Action</strong> dropdown.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>Once set up, a button will appear for each row. Clicking it will trigger the actions you&rsquo;ve defined—whether it&rsquo;s to add, update, or delete records.</p>
+<h3 id="-tips-and-considerations">📝 Tips and Considerations</h3>
+<ul>
+<li>You can <strong>chain multiple actions</strong> into one button.</li>
+<li>Use <code>$</code> variables (e.g. <code>$id</code>, <code>$Name</code>) to reference values from the current row.</li>
+<li>Set the <strong>column type to <code>Any</code></strong>.</li>
+<li>The <strong>column must be visible</strong> when writing the formula but can be <strong>hidden</strong> after that.</li>
+<li>In the widget settings, <strong>set Access Level to “Full document access”</strong> to allow full CRUD actions.</li>
+</ul>
+<h3 id="-limitations">🚧 Limitations</h3>
+<ul>
+<li>No official documentation as of writing.</li>
+<li>No error handling or confirmation dialogs.</li>
+<li>Only works within the current document (not cross-document).</li>
+</ul>
+<hr>
+<p>Despite being unofficial and hidden in plain sight, the Action Button widget in Grist is a powerful tool for building automations directly into your tables. Whether you’re copying rows, updating values, or deleting obsolete entries, this widget can take your workflows from manual to magical with just one click.</p>
+<p>Let your tables take action—literally.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Connect to Grist API in Power BI Using Power Query</title>
       <link>https://deuts.org/p/connect-grist-api-power-query/</link>
@@ -657,93 +782,6 @@ The features listed in the table below are the ones I find important to me perso
 <p>Sometimes, a dataset contains values that cannot be converted into a date. Instead of manually checking for errors, you can use the <code>try</code> function to filter out non-date values:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#f92672">=</span> List.Select(Source<span style="color:#f92672">,</span> <span style="color:#66d9ef">each</span> (<span style="color:#66d9ef">try</span> Date.From(<span style="color:#e6db74">&#34;1&#34;</span> <span style="color:#f92672">&amp;</span> _))[HasError])
 </span></span></code></pre></div><p>This formula attempts to convert each value into a date by prefixing it with &ldquo;1&rdquo; (to ensure a valid month-day format). If the conversion fails, the <code>[HasError]</code> property will be <code>true</code>, meaning the value is <strong>not</strong> a valid date. This trick helps you quickly identify and isolate (or keep, depending on your use case) problematic data.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Power Query Function to Find the Next Banking Day</title>
-      <link>https://deuts.org/p/power-query-next-banking-day/</link>
-      <pubDate>Wed, 05 Feb 2025 17:46:27 +0800</pubDate>
-      <guid>https://deuts.org/p/power-query-next-banking-day/</guid>
-      <description>This Power Query function determines the next banking day by skipping weekends and predefined holidays. It ensures accurate date calculations for financial transactions, reporting, and scheduling tasks that rely on valid banking days.</description>
-      <content:encoded><![CDATA[<p>In financial analysis and reporting, it&rsquo;s crucial to account for non-banking days when processing dates. This Power Query function helps determine the next available banking day when given a date input. It skips weekends and holidays, ensuring that the returned date is a valid working day.</p>
-<h2 id="how-the-function-works">How the Function Works</h2>
-<ol>
-<li>
-<p><strong>Check for Non-Banking Days</strong></p>
-<ul>
-<li>The function <code>IsNonBankingDay</code> determines if a given date falls on a weekend (Saturday or Sunday) or is a holiday (from a predefined list).</li>
-</ul>
-</li>
-<li>
-<p><strong>Find the Next Banking Day</strong></p>
-<ul>
-<li>If the input date is a non-banking day, the function <code>GetNextBankingDay</code> recursively moves to the next day until it finds a valid banking day.</li>
-</ul>
-</li>
-<li>
-<p><strong>Return the Result</strong></p>
-<ul>
-<li>If the input date is already a banking day, it is returned unchanged. Otherwise, the function finds and returns the next available banking day.</li>
-</ul>
-</li>
-</ol>
-<h2 id="power-query-code">Power Query Code</h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span>(inputDate <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">let</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Helper function to check if a date is a non-banking day
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    IsNonBankingDay <span style="color:#f92672">=</span> (dateToCheck <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span> 
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">let</span>
-</span></span><span style="display:flex;"><span>            IsHoliday <span style="color:#f92672">=</span> List.Contains(Holidays<span style="color:#f92672">,</span> dateToCheck)<span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span>            IsWeekend <span style="color:#f92672">=</span> Date.DayOfWeek(dateToCheck<span style="color:#f92672">,</span> Day.Monday) <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">5</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">in</span> 
-</span></span><span style="display:flex;"><span>            IsHoliday <span style="color:#66d9ef">or</span> IsWeekend<span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Recursive function to find next banking day
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    GetNextBankingDay <span style="color:#f92672">=</span> (dateToCheck <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">let</span>
-</span></span><span style="display:flex;"><span>            NextDay <span style="color:#f92672">=</span> Date.AddDays(dateToCheck<span style="color:#f92672">,</span> <span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">in</span>
-</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">if</span> IsNonBankingDay(NextDay) <span style="color:#66d9ef">then</span>
-</span></span><span style="display:flex;"><span>                <span style="color:#f92672">@</span>GetNextBankingDay(NextDay)
-</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">else</span>
-</span></span><span style="display:flex;"><span>                NextDay<span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Main logic
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    outputDate <span style="color:#f92672">=</span> <span style="color:#66d9ef">if</span> IsNonBankingDay(inputDate) 
-</span></span><span style="display:flex;"><span>                     <span style="color:#66d9ef">then</span> GetNextBankingDay(inputDate) 
-</span></span><span style="display:flex;"><span>                     <span style="color:#66d9ef">else</span> inputDate
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">in</span>
-</span></span><span style="display:flex;"><span>    outputDate
-</span></span></code></pre></div><p>Note: it is important that you have a query called <code>Holidays</code> which is a list of all holidays for the date range that covers your <code>inputDate</code>.</p>
-<h3 id="recursive-function-call">Recursive Function Call</h3>
-<p>In Power Query M language, the <code>@</code> symbol is used for recursive function calls. It&rsquo;s a self-reference operator that allows a function to call itself.</p>
-<p>When you use <code>@GetNextBankingDay</code>, you&rsquo;re explicitly telling Power Query that you want to call the same function recursively. It&rsquo;s similar to how you might use <code>this</code> in other programming languages to refer to the current instance.</p>
-<p>Here&rsquo;s a breakdown:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span>GetNextBankingDay <span style="color:#f92672">=</span> (dateToCheck <span style="color:#66d9ef">as</span> date) <span style="color:#f92672">=&gt;</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span>
-</span></span><span style="display:flex;"><span>        NextDay <span style="color:#f92672">=</span> Date.AddDays(dateToCheck<span style="color:#f92672">,</span> <span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">in</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> IsNonBankingDay(NextDay) <span style="color:#66d9ef">then</span>
-</span></span><span style="display:flex;"><span>            <span style="color:#f92672">@</span>GetNextBankingDay(NextDay)  <span style="color:#75715e">// Recursive call to the same function
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#75715e">//^ The @ here means &#34;this same function&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">else</span>
-</span></span><span style="display:flex;"><span>            NextDay
-</span></span></code></pre></div><p>Without the <code>@</code>, Power Query wouldn&rsquo;t know you&rsquo;re trying to make a recursive call to the same function you&rsquo;re currently defining. The <code>@</code> symbol makes this explicit and helps avoid any ambiguity, especially in cases where you might have functions with the same name in different scopes.</p>
-<p>It&rsquo;s worth noting that while recursion is powerful, you should be careful with it as Power Query has limitations on recursion depth to prevent infinite loops.</p>
-<h2 id="example-usage">Example Usage</h2>
-<p>If <code>Holidays = {#date(2024, 1, 1), #date(2024, 12, 25)}</code> and you input:</p>
-<ul>
-<li><code>#date(2024, 1, 1) (New Year's Day - a holiday)</code> → Returns <code>#date(2024, 1, 2)</code></li>
-<li><code>#date(2024, 6, 15) (Saturday)</code> → Returns <code>#date(2024, 6, 17)</code></li>
-<li><code>#date(2024, 6, 18) (Tuesday)</code> → Returns <code>#date(2024, 6, 18)</code> (already a banking day)</li>
-</ul>
-<h2 id="why-use-this-function">Why Use This Function?</h2>
-<ul>
-<li><strong>Automates Banking Date Calculations</strong> – No need to manually adjust dates for non-working days.</li>
-<li><strong>Ensures Accuracy in Financial Reports</strong> – Prevents transactions from being scheduled on closed banking days.</li>
-<li><strong>Handles Custom Holiday Lists</strong> – Can be adapted to specific regional or company-defined holidays.</li>
-</ul>
-<p>This function is useful in scenarios such as payment processing, interest calculations, or any business process that relies on valid banking days.</p>
 ]]></content:encoded>
     </item>
   </channel>
