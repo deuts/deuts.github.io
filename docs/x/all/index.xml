@@ -7,8 +7,23 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 21 Jun 2025 23:45:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 10:01:25 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01JYMZFSJ6M2E7W2SPJ36T5D8A</title>
+      <link>https://deuts.org/x/2025-06-26-10-01-25-01jymzfsj6m2e7w2spj36t5d8a/</link>
+      <pubDate>Thu, 26 Jun 2025 10:01:25 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-06-26-10-01-25-01jymzfsj6m2e7w2spj36t5d8a/</guid>
+      <description>&lt;p&gt;From &lt;a href=&#34;https://hachyderm.io/@tailscale&#34;&gt;@tailscale&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Tailscale&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Tailscale&#34;&gt;#Tailscale&lt;/a&gt; documentation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Taildrop permits you to share files between devices that you are logged in to, even if access control policies are used to restrict access to the devices. &lt;strong&gt;You cannot use Taildrop to send files to and from nodes you have tagged.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Well, that&amp;rsquo;s a bummer! How can you expect people to use &lt;a href=&#34;https://fediwall.social/?tags=Taildrop&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Taildrop&#34;&gt;#Taildrop&lt;/a&gt; when users usually tag their devices in order to group them accordingly for easy access control rules?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>From <a href="https://hachyderm.io/@tailscale">@tailscale</a> <a href="https://fediwall.social/?tags=Tailscale&amp;accounts=&amp;lang=en&amp;title=%23Tailscale">#Tailscale</a> documentation:</p>
+<blockquote>
+<p>Taildrop permits you to share files between devices that you are logged in to, even if access control policies are used to restrict access to the devices. <strong>You cannot use Taildrop to send files to and from nodes you have tagged.</strong></p></blockquote>
+<p>Well, that&rsquo;s a bummer! How can you expect people to use <a href="https://fediwall.social/?tags=Taildrop&amp;accounts=&amp;lang=en&amp;title=%23Taildrop">#Taildrop</a> when users usually tag their devices in order to group them accordingly for easy access control rules?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>GitHub - sheshbabu/zen: Minimal Notes App</title>
       <link>https://deuts.org/x/518-github-sheshbabu-zen-minimal-notes-app/</link>
@@ -300,44 +315,6 @@
 <blockquote class="linkding-description">
     QRding is a simple self-hosted QR code generator. It includes templates for creating QR codes for sharing WiFi credentials, contact cards and text or links. In the long-term the goal is to build an automation system around QR codes which allows you to trigger custom actions, track actions or habits and send notifications when a scan event is not triggered.
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>QRDing: Self-hosted QR code generator</title>
-      <link>https://deuts.org/x/507-qrding-self-hosted-qr-code-generator/</link>
-      <pubDate>Mon, 16 Jun 2025 00:08:52 +0800</pubDate>
-      <guid>https://deuts.org/x/507-qrding-self-hosted-qr-code-generator/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-507&#34;&gt;&lt;a href=&#34;https://github.com/rishikanthc/qrding?tab=readme-ov-file&#34;&gt;QRDing: Self-hosted QR code generator&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-507 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    QRding is a simple self-hosted QR code generator. It includes templates for creating QR codes for sharing WiFi credentials, contact cards and text or links. In the long-term the goal is to build an automation system around QR codes which allows you to trigger custom actions, track actions or habits and send notifications when a scan event is not triggered.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Wish it had a robust API that I can play around with.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-507"><a href="https://github.com/rishikanthc/qrding?tab=readme-ov-file">QRDing: Self-hosted QR code generator</a></h3>
-<style>
-.favicon-507 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    QRding is a simple self-hosted QR code generator. It includes templates for creating QR codes for sharing WiFi credentials, contact cards and text or links. In the long-term the goal is to build an automation system around QR codes which allows you to trigger custom actions, track actions or habits and send notifications when a scan event is not triggered.
-</blockquote>
-  
-<div class="linkding-notes">
-    Wish it had a robust API that I can play around with.
-</div>
   
 ]]></content:encoded>
     </item>
