@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 09:10:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 18:05:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Published-Data API - Chess.com</title>
+      <link>https://deuts.org/x/532-published-data-api-chess-com/</link>
+      <pubDate>Fri, 04 Jul 2025 18:05:50 +0800</pubDate>
+      <guid>https://deuts.org/x/532-published-data-api-chess-com/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-532&#34;&gt;&lt;a href=&#34;https://www.chess.com/news/view/published-data-api&#34;&gt;Published-Data API - Chess.com&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-532 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_chess_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The PubAPI is a read-only REST API that responds with JSON-LD data. The API re-packages public data from the website and makes it available via the PubAPI. &amp;ldquo;Public Data&amp;rdquo; is information available to people who are not logged in, such as player data, game data, and club/tournament information. This excludes&amp;hellip;
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-532"><a href="https://www.chess.com/news/view/published-data-api">Published-Data API - Chess.com</a></h3>
+<style>
+.favicon-532 {
+    background: url('https://bm.deuts.org/static/https_www_chess_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The PubAPI is a read-only REST API that responds with JSON-LD data. The API re-packages public data from the website and makes it available via the PubAPI. &ldquo;Public Data&rdquo; is information available to people who are not logged in, such as player data, game data, and club/tournament information. This excludes&hellip;
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Minarca Backup</title>
       <link>https://deuts.org/x/531-minarca-backup/</link>
@@ -261,44 +291,6 @@
   
 <div class="linkding-notes">
     I wonder how this compares to Hugo, MkDocs, and Jekyll.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Dagu</title>
-      <link>https://deuts.org/x/513-dagu/</link>
-      <pubDate>Sat, 21 Jun 2025 11:53:08 +0800</pubDate>
-      <guid>https://deuts.org/x/513-dagu/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-513&#34;&gt;&lt;a href=&#34;https://docs.dagu.cloud/getting-started/installation&#34;&gt;Dagu&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-513 {
-    background: url(&#39;https://bm.deuts.org/static/https_docs_dagu_cloud.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Modern workflow orchestration made simple
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Cron with a UI. Could this be a good alternative to Cronicle?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-513"><a href="https://docs.dagu.cloud/getting-started/installation">Dagu</a></h3>
-<style>
-.favicon-513 {
-    background: url('https://bm.deuts.org/static/https_docs_dagu_cloud.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Modern workflow orchestration made simple
-</blockquote>
-  
-<div class="linkding-notes">
-    Cron with a UI. Could this be a good alternative to Cronicle?
 </div>
   
 ]]></content:encoded>
