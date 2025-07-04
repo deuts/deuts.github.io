@@ -7,8 +7,82 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 28 Jun 2025 19:22:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 09:10:11 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minarca Backup</title>
+      <link>https://deuts.org/x/531-minarca-backup/</link>
+      <pubDate>Fri, 04 Jul 2025 09:10:11 +0800</pubDate>
+      <guid>https://deuts.org/x/531-minarca-backup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-531&#34;&gt;&lt;a href=&#34;https://minarca.org/en_CA&#34;&gt;Minarca Backup&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-531 {
+    background: url(&#39;https://bm.deuts.org/static/https_minarca_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Your open-source, user-friendly data backup solution&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compatible with Linux, MacOS, and Windows&lt;/li&gt;
+&lt;li&gt;Self-Hosted&lt;/li&gt;
+&lt;li&gt;No licensing fees&lt;/li&gt;
+&lt;li&gt;Graphical interface or command line&lt;/li&gt;
+&lt;li&gt;File-based backup solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-531"><a href="https://minarca.org/en_CA">Minarca Backup</a></h3>
+<style>
+.favicon-531 {
+    background: url('https://bm.deuts.org/static/https_minarca_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Your open-source, user-friendly data backup solution</p>
+<ul>
+<li>Compatible with Linux, MacOS, and Windows</li>
+<li>Self-Hosted</li>
+<li>No licensing fees</li>
+<li>Graphical interface or command line</li>
+<li>File-based backup solution</li>
+</ul>
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fen to Image API</title>
+      <link>https://deuts.org/x/527-fen-to-image-api/</link>
+      <pubDate>Tue, 01 Jul 2025 18:09:59 +0800</pubDate>
+      <guid>https://deuts.org/x/527-fen-to-image-api/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-527&#34;&gt;&lt;a href=&#34;https://chessvision.ai/docs/tools/fen2image/&#34;&gt;Fen to Image API&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-527 {
+    background: url(&#39;https://bm.deuts.org/static/https_chessvision_ai.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Generate images from FEN easily.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-527"><a href="https://chessvision.ai/docs/tools/fen2image/">Fen to Image API</a></h3>
+<style>
+.favicon-527 {
+    background: url('https://bm.deuts.org/static/https_chessvision_ai.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Generate images from FEN easily.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JYV4CKN5QEAFTWXCM40WHS65</title>
       <link>https://deuts.org/x/2025-06-28-19-22-30-01jyv4ckn5qeaftwxcm40whs65/</link>
@@ -226,74 +300,6 @@
 <div class="linkding-notes">
     Cron with a UI. Could this be a good alternative to Cronicle?
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Grist Omnibus</title>
-      <link>https://deuts.org/x/512-grist-omnibus/</link>
-      <pubDate>Wed, 18 Jun 2025 09:38:25 +0800</pubDate>
-      <guid>https://deuts.org/x/512-grist-omnibus/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-512&#34;&gt;&lt;a href=&#34;https://github.com/gristlabs/grist-omnibus&#34;&gt;Grist Omnibus&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-512 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    This is an experimental way to install Grist on a server quickly with authentication and certificate handling set up out of the box.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is Grist with authentication. I&amp;rsquo;m just not sure until when the developers will support and maintain this.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-512"><a href="https://github.com/gristlabs/grist-omnibus">Grist Omnibus</a></h3>
-<style>
-.favicon-512 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    This is an experimental way to install Grist on a server quickly with authentication and certificate handling set up out of the box.
-</blockquote>
-  
-<div class="linkding-notes">
-    This is Grist with authentication. I&rsquo;m just not sure until when the developers will support and maintain this.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PyGrister - A Python client for the Grist API</title>
-      <link>https://deuts.org/x/510-pygrister-a-python-client-for-the-grist-api/</link>
-      <pubDate>Tue, 17 Jun 2025 18:42:43 +0800</pubDate>
-      <guid>https://deuts.org/x/510-pygrister-a-python-client-for-the-grist-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-510&#34;&gt;&lt;a href=&#34;https://github.com/ricpol/pygrister&#34;&gt;PyGrister - A Python client for the Grist API&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-510 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Pygrister is a Grist client that covers all the documented APIs. Pygrister keeps track of basic configuration for you, remembering your team site, workspace, working document, so that you don&amp;rsquo;t have to type in the boring stuff every time. Apart from this and little else, Pygrister is rather low-level: it will call the api and retrieve the response, with only minor changes. If the api call is malformed, you will simply receive a bad HTTP status code.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-510"><a href="https://github.com/ricpol/pygrister">PyGrister - A Python client for the Grist API</a></h3>
-<style>
-.favicon-510 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Pygrister is a Grist client that covers all the documented APIs. Pygrister keeps track of basic configuration for you, remembering your team site, workspace, working document, so that you don&rsquo;t have to type in the boring stuff every time. Apart from this and little else, Pygrister is rather low-level: it will call the api and retrieve the response, with only minor changes. If the api call is malformed, you will simply receive a bad HTTP status code.
-</blockquote>
   
 ]]></content:encoded>
     </item>
