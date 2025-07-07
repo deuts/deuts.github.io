@@ -7,291 +7,292 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 18:05:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 22:14:55 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Published-Data API - Chess.com</title>
-      <link>https://deuts.org/x/532-published-data-api-chess-com/</link>
-      <pubDate>Fri, 04 Jul 2025 18:05:50 +0800</pubDate>
-      <guid>https://deuts.org/x/532-published-data-api-chess-com/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-532&#34;&gt;&lt;a href=&#34;https://www.chess.com/news/view/published-data-api&#34;&gt;Published-Data API - Chess.com&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-532 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_chess_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The PubAPI is a read-only REST API that responds with JSON-LD data. The API re-packages public data from the website and makes it available via the PubAPI. &amp;ldquo;Public Data&amp;rdquo; is information available to people who are not logged in, such as player data, game data, and club/tournament information. This excludes&amp;hellip;
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-532"><a href="https://www.chess.com/news/view/published-data-api">Published-Data API - Chess.com</a></h3>
-<style>
-.favicon-532 {
-    background: url('https://bm.deuts.org/static/https_www_chess_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The PubAPI is a read-only REST API that responds with JSON-LD data. The API re-packages public data from the website and makes it available via the PubAPI. &ldquo;Public Data&rdquo; is information available to people who are not logged in, such as player data, game data, and club/tournament information. This excludes&hellip;
-</blockquote>
-  
+      <title>@deuts@deuts.one 01JZG1E1TE6GK8E403GSP2Z04S</title>
+      <link>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</link>
+      <pubDate>Sun, 06 Jul 2025 22:14:55 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</guid>
+      <description>&lt;p&gt;When can we try &lt;a href=&#34;https://fediwall.social/?tags=Obsidian&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Obsidian&#34;&gt;#Obsidian&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Bases&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bases&#34;&gt;#Bases&lt;/a&gt; out now?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When can we try <a href="https://fediwall.social/?tags=Obsidian&amp;accounts=&amp;lang=en&amp;title=%23Obsidian">#Obsidian</a> <a href="https://fediwall.social/?tags=Bases&amp;accounts=&amp;lang=en&amp;title=%23Bases">#Bases</a> out now?</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Minarca Backup</title>
-      <link>https://deuts.org/x/531-minarca-backup/</link>
-      <pubDate>Fri, 04 Jul 2025 09:10:11 +0800</pubDate>
-      <guid>https://deuts.org/x/531-minarca-backup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-531&#34;&gt;&lt;a href=&#34;https://minarca.org/en_CA&#34;&gt;Minarca Backup&lt;/a&gt;&lt;/h3&gt;
+      <title>Singature PDF</title>
+      <link>https://deuts.org/x/542-singature-pdf/</link>
+      <pubDate>Sat, 05 Jul 2025 19:10:47 +0800</pubDate>
+      <guid>https://deuts.org/x/542-singature-pdf/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-542&#34;&gt;&lt;a href=&#34;https://github.com/24eme/signaturepdf&#34;&gt;Singature PDF&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-531 {
-    background: url(&#39;https://bm.deuts.org/static/https_minarca_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Your open-source, user-friendly data backup solution&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Compatible with Linux, MacOS, and Windows&lt;/li&gt;
-&lt;li&gt;Self-Hosted&lt;/li&gt;
-&lt;li&gt;No licensing fees&lt;/li&gt;
-&lt;li&gt;Graphical interface or command line&lt;/li&gt;
-&lt;li&gt;File-based backup solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-531"><a href="https://minarca.org/en_CA">Minarca Backup</a></h3>
-<style>
-.favicon-531 {
-    background: url('https://bm.deuts.org/static/https_minarca_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Your open-source, user-friendly data backup solution</p>
-<ul>
-<li>Compatible with Linux, MacOS, and Windows</li>
-<li>Self-Hosted</li>
-<li>No licensing fees</li>
-<li>Graphical interface or command line</li>
-<li>File-based backup solution</li>
-</ul>
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Fen to Image API</title>
-      <link>https://deuts.org/x/527-fen-to-image-api/</link>
-      <pubDate>Tue, 01 Jul 2025 18:09:59 +0800</pubDate>
-      <guid>https://deuts.org/x/527-fen-to-image-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-527&#34;&gt;&lt;a href=&#34;https://chessvision.ai/docs/tools/fen2image/&#34;&gt;Fen to Image API&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-527 {
-    background: url(&#39;https://bm.deuts.org/static/https_chessvision_ai.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Generate images from FEN easily.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-527"><a href="https://chessvision.ai/docs/tools/fen2image/">Fen to Image API</a></h3>
-<style>
-.favicon-527 {
-    background: url('https://bm.deuts.org/static/https_chessvision_ai.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Generate images from FEN easily.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JYV4CKN5QEAFTWXCM40WHS65</title>
-      <link>https://deuts.org/x/2025-06-28-19-22-30-01jyv4ckn5qeaftwxcm40whs65/</link>
-      <pubDate>Sat, 28 Jun 2025 19:22:30 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-06-28-19-22-30-01jyv4ckn5qeaftwxcm40whs65/</guid>
-      <description>&lt;p&gt;Ever wonder what&amp;rsquo;s the difference between &lt;a href=&#34;https://fediwall.social/?tags=Docmost&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Docmost&#34;&gt;#Docmost&lt;/a&gt; and &lt;a href=&#34;https://fediwall.social/?tags=Outline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Outline&#34;&gt;#Outline&lt;/a&gt;? Check this out, this is a work in progress: &lt;a href=&#34;https://infobase.pytheon.org/s/docmost-vs-outline&#34;&gt;infobase.pytheon.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Ever wonder what&rsquo;s the difference between <a href="https://fediwall.social/?tags=Docmost&amp;accounts=&amp;lang=en&amp;title=%23Docmost">#Docmost</a> and <a href="https://fediwall.social/?tags=Outline&amp;accounts=&amp;lang=en&amp;title=%23Outline">#Outline</a>? Check this out, this is a work in progress: <a href="https://infobase.pytheon.org/s/docmost-vs-outline">infobase.pytheon.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MKCert</title>
-      <link>https://deuts.org/x/521-mkcert/</link>
-      <pubDate>Thu, 26 Jun 2025 22:51:36 +0800</pubDate>
-      <guid>https://deuts.org/x/521-mkcert/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-521&#34;&gt;&lt;a href=&#34;https://github.com/FiloSottile/mkcert&#34;&gt;MKCert&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-521 {
+.favicon-542 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple zero-config tool to make locally trusted development certificates with any names you&amp;rsquo;d like.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-521"><a href="https://github.com/FiloSottile/mkcert">MKCert</a></h3>
-<style>
-.favicon-521 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simple zero-config tool to make locally trusted development certificates with any names you&rsquo;d like.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JYMZFSJ6M2E7W2SPJ36T5D8A</title>
-      <link>https://deuts.org/x/2025-06-26-10-01-25-01jymzfsj6m2e7w2spj36t5d8a/</link>
-      <pubDate>Thu, 26 Jun 2025 10:01:25 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-06-26-10-01-25-01jymzfsj6m2e7w2spj36t5d8a/</guid>
-      <description>&lt;p&gt;From &lt;a href=&#34;https://hachyderm.io/@tailscale&#34;&gt;@tailscale&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Tailscale&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Tailscale&#34;&gt;#Tailscale&lt;/a&gt; documentation:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Taildrop permits you to share files between devices that you are logged in to, even if access control policies are used to restrict access to the devices. &lt;strong&gt;You cannot use Taildrop to send files to and from nodes you have tagged.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Well, that&amp;rsquo;s a bummer! How can you expect people to use &lt;a href=&#34;https://fediwall.social/?tags=Taildrop&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Taildrop&#34;&gt;#Taildrop&lt;/a&gt; when users usually tag their devices in order to group them accordingly for easy access control rules?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>From <a href="https://hachyderm.io/@tailscale">@tailscale</a> <a href="https://fediwall.social/?tags=Tailscale&amp;accounts=&amp;lang=en&amp;title=%23Tailscale">#Tailscale</a> documentation:</p>
-<blockquote>
-<p>Taildrop permits you to share files between devices that you are logged in to, even if access control policies are used to restrict access to the devices. <strong>You cannot use Taildrop to send files to and from nodes you have tagged.</strong></p></blockquote>
-<p>Well, that&rsquo;s a bummer! How can you expect people to use <a href="https://fediwall.social/?tags=Taildrop&amp;accounts=&amp;lang=en&amp;title=%23Taildrop">#Taildrop</a> when users usually tag their devices in order to group them accordingly for easy access control rules?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitHub - sheshbabu/zen: Minimal Notes App</title>
-      <link>https://deuts.org/x/518-github-sheshbabu-zen-minimal-notes-app/</link>
-      <pubDate>Sat, 21 Jun 2025 23:45:36 +0800</pubDate>
-      <guid>https://deuts.org/x/518-github-sheshbabu-zen-minimal-notes-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-518&#34;&gt;&lt;a href=&#34;https://github.com/sheshbabu/zen&#34;&gt;GitHub - sheshbabu/zen: Minimal Notes App&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-518 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Minimal Notes App. Contribute to sheshbabu/zen development by creating an account on GitHub.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-518"><a href="https://github.com/sheshbabu/zen">GitHub - sheshbabu/zen: Minimal Notes App</a></h3>
-<style>
-.favicon-518 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Minimal Notes App. Contribute to sheshbabu/zen development by creating an account on GitHub.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitHub - resume-llm/resume-ai: A local, privacy-first résumé builder using LLMs and Markdown to generate ATS-ready DOCX files with Pandoc — no cloud, no tracking.</title>
-      <link>https://deuts.org/x/516-github-resume-llm-resume-ai-a-local-privacy-first-resume-builder-using-llms-and-markdown-to-generate-ats-ready-docx-files-with-pandoc-no-cloud-no-tracking/</link>
-      <pubDate>Sat, 21 Jun 2025 12:58:56 +0800</pubDate>
-      <guid>https://deuts.org/x/516-github-resume-llm-resume-ai-a-local-privacy-first-resume-builder-using-llms-and-markdown-to-generate-ats-ready-docx-files-with-pandoc-no-cloud-no-tracking/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-516&#34;&gt;&lt;a href=&#34;https://github.com/resume-llm/resume-ai?tab=readme-ov-file&#34;&gt;GitHub - resume-llm/resume-ai: A local, privacy-first résumé builder using LLMs and Markdown to generate ATS-ready DOCX files with Pandoc — no cloud, no tracking.&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-516 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A local, privacy-first résumé builder using LLMs and Markdown to generate ATS-ready DOCX files with Pandoc — no cloud, no tracking. - resume-llm/resume-ai
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-516"><a href="https://github.com/resume-llm/resume-ai?tab=readme-ov-file">GitHub - resume-llm/resume-ai: A local, privacy-first résumé builder using LLMs and Markdown to generate ATS-ready DOCX files with Pandoc — no cloud, no tracking.</a></h3>
-<style>
-.favicon-516 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A local, privacy-first résumé builder using LLMs and Markdown to generate ATS-ready DOCX files with Pandoc — no cloud, no tracking. - resume-llm/resume-ai
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitHub - dockpeek/dockpeek</title>
-      <link>https://deuts.org/x/515-github-dockpeek-dockpeek/</link>
-      <pubDate>Sat, 21 Jun 2025 12:57:27 +0800</pubDate>
-      <guid>https://deuts.org/x/515-github-dockpeek-dockpeek/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-515&#34;&gt;&lt;a href=&#34;https://github.com/dockpeek/dockpeek&#34;&gt;GitHub - dockpeek/dockpeek&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-515 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Contribute to dockpeek/dockpeek development by creating an account on GitHub.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-515"><a href="https://github.com/dockpeek/dockpeek">GitHub - dockpeek/dockpeek</a></h3>
-<style>
-.favicon-515 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Contribute to dockpeek/dockpeek development by creating an account on GitHub.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Dory</title>
-      <link>https://deuts.org/x/514-dory/</link>
-      <pubDate>Sat, 21 Jun 2025 12:04:02 +0800</pubDate>
-      <guid>https://deuts.org/x/514-dory/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-514&#34;&gt;&lt;a href=&#34;https://github.com/clidey/dory&#34;&gt;Dory&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-514 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A lightweight static site generator for technical documentation.
+    Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
 &lt;/blockquote&gt;
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
-    I wonder how this compares to Hugo, MkDocs, and Jekyll.
+    Could this be a good alternative to Stirling PDF?
 &lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-514"><a href="https://github.com/clidey/dory">Dory</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-542"><a href="https://github.com/24eme/signaturepdf">Singature PDF</a></h3>
 <style>
-.favicon-514 {
+.favicon-542 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A lightweight static site generator for technical documentation.
+    Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
 </blockquote>
   
 <div class="linkding-notes">
-    I wonder how this compares to Hugo, MkDocs, and Jekyll.
+    Could this be a good alternative to Stirling PDF?
 </div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Proxmox Pulse</title>
+      <link>https://deuts.org/x/541-proxmox-pulse/</link>
+      <pubDate>Sat, 05 Jul 2025 19:09:34 +0800</pubDate>
+      <guid>https://deuts.org/x/541-proxmox-pulse/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-541&#34;&gt;&lt;a href=&#34;https://github.com/rcourtman/Pulse&#34;&gt;Proxmox Pulse&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-541 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-541"><a href="https://github.com/rcourtman/Pulse">Proxmox Pulse</a></h3>
+<style>
+.favicon-541 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ProxMenux</title>
+      <link>https://deuts.org/x/540-proxmenux/</link>
+      <pubDate>Sat, 05 Jul 2025 19:08:25 +0800</pubDate>
+      <guid>https://deuts.org/x/540-proxmenux/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-540&#34;&gt;&lt;a href=&#34;https://github.com/MacRimi/ProxMenux&#34;&gt;ProxMenux&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-540 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    ProxMenux An Interactive Menu for Proxmox VE Management
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-540"><a href="https://github.com/MacRimi/ProxMenux">ProxMenux</a></h3>
+<style>
+.favicon-540 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    ProxMenux An Interactive Menu for Proxmox VE Management
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trade Tally</title>
+      <link>https://deuts.org/x/539-trade-tally/</link>
+      <pubDate>Sat, 05 Jul 2025 18:57:58 +0800</pubDate>
+      <guid>https://deuts.org/x/539-trade-tally/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-539&#34;&gt;&lt;a href=&#34;https://github.com/GeneBO98/tradetally&#34;&gt;Trade Tally&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-539 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    TraderVue open source alternative.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-539"><a href="https://github.com/GeneBO98/tradetally">Trade Tally</a></h3>
+<style>
+.favicon-539 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    TraderVue open source alternative.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Caddy Manager</title>
+      <link>https://deuts.org/x/538-caddy-manager/</link>
+      <pubDate>Sat, 05 Jul 2025 18:52:26 +0800</pubDate>
+      <guid>https://deuts.org/x/538-caddy-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-538&#34;&gt;&lt;a href=&#34;https://github.com/caddymanager/caddymanager&#34;&gt;Caddy Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-538 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-538"><a href="https://github.com/caddymanager/caddymanager">Caddy Manager</a></h3>
+<style>
+.favicon-538 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Loggifly</title>
+      <link>https://deuts.org/x/537-loggifly/</link>
+      <pubDate>Sat, 05 Jul 2025 18:44:21 +0800</pubDate>
+      <guid>https://deuts.org/x/537-loggifly/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-537&#34;&gt;&lt;a href=&#34;https://github.com/clemcer/loggifly&#34;&gt;Loggifly&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-537 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Get Alerts from your Docker Container Logs.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-537"><a href="https://github.com/clemcer/loggifly">Loggifly</a></h3>
+<style>
+.favicon-537 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Get Alerts from your Docker Container Logs.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Colanode</title>
+      <link>https://deuts.org/x/536-colanode/</link>
+      <pubDate>Sat, 05 Jul 2025 18:29:14 +0800</pubDate>
+      <guid>https://deuts.org/x/536-colanode/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-536&#34;&gt;&lt;a href=&#34;https://github.com/colanode/colanode&#34;&gt;Colanode&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-536 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source and local-first Slack and Notion alternative that puts you in control of your data.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-536"><a href="https://github.com/colanode/colanode">Colanode</a></h3>
+<style>
+.favicon-536 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source and local-first Slack and Notion alternative that puts you in control of your data.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Palmr File-Sharing app</title>
+      <link>https://deuts.org/x/535-palmr-file-sharing-app/</link>
+      <pubDate>Sat, 05 Jul 2025 18:06:08 +0800</pubDate>
+      <guid>https://deuts.org/x/535-palmr-file-sharing-app/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-535&#34;&gt;&lt;a href=&#34;https://github.com/kyantech/Palmr&#34;&gt;Palmr File-Sharing app&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-535 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free. - kyantech/Palmr
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-535"><a href="https://github.com/kyantech/Palmr">Palmr File-Sharing app</a></h3>
+<style>
+.favicon-535 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free. - kyantech/Palmr
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Media Manager</title>
+      <link>https://deuts.org/x/534-media-manager/</link>
+      <pubDate>Sat, 05 Jul 2025 17:33:08 +0800</pubDate>
+      <guid>https://deuts.org/x/534-media-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-534&#34;&gt;&lt;a href=&#34;https://github.com/maxdorninger/MediaManager&#34;&gt;Media Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-534 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    MediaManager is modern software to manage your TV and movie library. It is designed to be a replacement for Sonarr, Radarr, Overseer, and Jellyseer. It supports TVDB and TMDB for metadata, supports OIDC and OAuth 2.0 for authentication and supports Prowlarr and Jackett. MediaManager is built first and foremost for deployment with Docker, making it easy to set up.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-534"><a href="https://github.com/maxdorninger/MediaManager">Media Manager</a></h3>
+<style>
+.favicon-534 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    MediaManager is modern software to manage your TV and movie library. It is designed to be a replacement for Sonarr, Radarr, Overseer, and Jellyseer. It supports TVDB and TMDB for metadata, supports OIDC and OAuth 2.0 for authentication and supports Prowlarr and Jackett. MediaManager is built first and foremost for deployment with Docker, making it easy to set up.
+</blockquote>
   
 ]]></content:encoded>
     </item>
