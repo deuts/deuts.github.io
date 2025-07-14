@@ -7,8 +7,183 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 06 Jul 2025 22:14:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 14:34:06 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KumaTray - System Tray for Uptime Kuma</title>
+      <link>https://deuts.org/x/547-kumatray-system-tray-for-uptime-kuma/</link>
+      <pubDate>Mon, 14 Jul 2025 14:34:06 +0800</pubDate>
+      <guid>https://deuts.org/x/547-kumatray-system-tray-for-uptime-kuma/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-547&#34;&gt;&lt;a href=&#34;https://kumatray.com/&#34;&gt;KumaTray - System Tray for Uptime Kuma&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-547 {
+    background: url(&#39;https://bm.deuts.org/static/https_kumatray_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    KumaTray - A system tray application for monitoring Uptime Kuma instances
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    To install or not to install, that is the question.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-547"><a href="https://kumatray.com/">KumaTray - System Tray for Uptime Kuma</a></h3>
+<style>
+.favicon-547 {
+    background: url('https://bm.deuts.org/static/https_kumatray_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    KumaTray - A system tray application for monitoring Uptime Kuma instances
+</blockquote>
+  
+<div class="linkding-notes">
+    To install or not to install, that is the question.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01JZXAEE52SFECHXEQ7DV7SH1S</title>
+      <link>https://deuts.org/x/2025-07-12-02-02-32-01jzxaee52sfechxeq7dv7sh1s/</link>
+      <pubDate>Sat, 12 Jul 2025 02:02:32 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-12-02-02-32-01jzxaee52sfechxeq7dv7sh1s/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Caddy&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Caddy&#34;&gt;#Caddy&lt;/a&gt; is supposed to be a simple and lightweight reverse proxy service. Three lines of code and you&amp;rsquo;re good to go! Not a 3 container stack like &lt;a href=&#34;https://fediwall.social/?tags=CaddyManager&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CaddyManager&#34;&gt;#CaddyManager&lt;/a&gt; &lt;a href=&#34;https://github.com/caddymanager/caddymanager&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Caddy&amp;accounts=&amp;lang=en&amp;title=%23Caddy">#Caddy</a> is supposed to be a simple and lightweight reverse proxy service. Three lines of code and you&rsquo;re good to go! Not a 3 container stack like <a href="https://fediwall.social/?tags=CaddyManager&amp;accounts=&amp;lang=en&amp;title=%23CaddyManager">#CaddyManager</a> <a href="https://github.com/caddymanager/caddymanager">github.com/∞</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Storyden: A forum for the modern age.</title>
+      <link>https://deuts.org/x/546-storyden-a-forum-for-the-modern-age/</link>
+      <pubDate>Sat, 12 Jul 2025 01:57:36 +0800</pubDate>
+      <guid>https://deuts.org/x/546-storyden-a-forum-for-the-modern-age/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-546&#34;&gt;&lt;a href=&#34;https://www.storyden.org/&#34;&gt;Storyden: A forum for the modern age.&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-546 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_storyden_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Storyden is a platform for building communities. A modern take on oldschool bulletin board forums. Designed to be the community platform for the next era of internet culture.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-546"><a href="https://www.storyden.org/">Storyden: A forum for the modern age.</a></h3>
+<style>
+.favicon-546 {
+    background: url('https://bm.deuts.org/static/https_www_storyden_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Storyden is a platform for building communities. A modern take on oldschool bulletin board forums. Designed to be the community platform for the next era of internet culture.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Phylum</title>
+      <link>https://deuts.org/x/545-phylum/</link>
+      <pubDate>Sat, 12 Jul 2025 01:45:02 +0800</pubDate>
+      <guid>https://deuts.org/x/545-phylum/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-545&#34;&gt;&lt;a href=&#34;https://codeberg.org/shroff/phylum?ref=selfh.st&#34;&gt;Phylum&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-545 {
+    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted cloud file storage with offline-first web and native clients
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-545"><a href="https://codeberg.org/shroff/phylum?ref=selfh.st">Phylum</a></h3>
+<style>
+.favicon-545 {
+    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted cloud file storage with offline-first web and native clients
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Signal CLI Rest API</title>
+      <link>https://deuts.org/x/544-signal-cli-rest-api/</link>
+      <pubDate>Fri, 11 Jul 2025 07:12:35 +0800</pubDate>
+      <guid>https://deuts.org/x/544-signal-cli-rest-api/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-544&#34;&gt;&lt;a href=&#34;https://github.com/bbernhard/signal-cli-rest-api&#34;&gt;Signal CLI Rest API&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-544 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Dockerized Signal Messenger REST API.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-544"><a href="https://github.com/bbernhard/signal-cli-rest-api">Signal CLI Rest API</a></h3>
+<style>
+.favicon-544 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Dockerized Signal Messenger REST API.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Yamtrack</title>
+      <link>https://deuts.org/x/543-yamtrack/</link>
+      <pubDate>Tue, 08 Jul 2025 12:25:06 +0800</pubDate>
+      <guid>https://deuts.org/x/543-yamtrack/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-543&#34;&gt;&lt;a href=&#34;https://github.com/FuzzyGrim/Yamtrack&#34;&gt;Yamtrack&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-543 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self hosted media tracker.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    They say this is a Trakt alternative. We&amp;rsquo;ll find out soon!
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-543"><a href="https://github.com/FuzzyGrim/Yamtrack">Yamtrack</a></h3>
+<style>
+.favicon-543 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self hosted media tracker.
+</blockquote>
+  
+<div class="linkding-notes">
+    They say this is a Trakt alternative. We&rsquo;ll find out soon!
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01JZG1E1TE6GK8E403GSP2Z04S</title>
       <link>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</link>
@@ -112,186 +287,6 @@
 
 <blockquote class="linkding-description">
     ProxMenux An Interactive Menu for Proxmox VE Management
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Trade Tally</title>
-      <link>https://deuts.org/x/539-trade-tally/</link>
-      <pubDate>Sat, 05 Jul 2025 18:57:58 +0800</pubDate>
-      <guid>https://deuts.org/x/539-trade-tally/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-539&#34;&gt;&lt;a href=&#34;https://github.com/GeneBO98/tradetally&#34;&gt;Trade Tally&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-539 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    TraderVue open source alternative.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-539"><a href="https://github.com/GeneBO98/tradetally">Trade Tally</a></h3>
-<style>
-.favicon-539 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    TraderVue open source alternative.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Caddy Manager</title>
-      <link>https://deuts.org/x/538-caddy-manager/</link>
-      <pubDate>Sat, 05 Jul 2025 18:52:26 +0800</pubDate>
-      <guid>https://deuts.org/x/538-caddy-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-538&#34;&gt;&lt;a href=&#34;https://github.com/caddymanager/caddymanager&#34;&gt;Caddy Manager&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-538 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-538"><a href="https://github.com/caddymanager/caddymanager">Caddy Manager</a></h3>
-<style>
-.favicon-538 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Loggifly</title>
-      <link>https://deuts.org/x/537-loggifly/</link>
-      <pubDate>Sat, 05 Jul 2025 18:44:21 +0800</pubDate>
-      <guid>https://deuts.org/x/537-loggifly/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-537&#34;&gt;&lt;a href=&#34;https://github.com/clemcer/loggifly&#34;&gt;Loggifly&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-537 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Get Alerts from your Docker Container Logs.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-537"><a href="https://github.com/clemcer/loggifly">Loggifly</a></h3>
-<style>
-.favicon-537 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Get Alerts from your Docker Container Logs.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Colanode</title>
-      <link>https://deuts.org/x/536-colanode/</link>
-      <pubDate>Sat, 05 Jul 2025 18:29:14 +0800</pubDate>
-      <guid>https://deuts.org/x/536-colanode/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-536&#34;&gt;&lt;a href=&#34;https://github.com/colanode/colanode&#34;&gt;Colanode&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-536 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source and local-first Slack and Notion alternative that puts you in control of your data.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-536"><a href="https://github.com/colanode/colanode">Colanode</a></h3>
-<style>
-.favicon-536 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open-source and local-first Slack and Notion alternative that puts you in control of your data.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Palmr File-Sharing app</title>
-      <link>https://deuts.org/x/535-palmr-file-sharing-app/</link>
-      <pubDate>Sat, 05 Jul 2025 18:06:08 +0800</pubDate>
-      <guid>https://deuts.org/x/535-palmr-file-sharing-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-535&#34;&gt;&lt;a href=&#34;https://github.com/kyantech/Palmr&#34;&gt;Palmr File-Sharing app&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-535 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free. - kyantech/Palmr
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-535"><a href="https://github.com/kyantech/Palmr">Palmr File-Sharing app</a></h3>
-<style>
-.favicon-535 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free. - kyantech/Palmr
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Media Manager</title>
-      <link>https://deuts.org/x/534-media-manager/</link>
-      <pubDate>Sat, 05 Jul 2025 17:33:08 +0800</pubDate>
-      <guid>https://deuts.org/x/534-media-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-534&#34;&gt;&lt;a href=&#34;https://github.com/maxdorninger/MediaManager&#34;&gt;Media Manager&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-534 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    MediaManager is modern software to manage your TV and movie library. It is designed to be a replacement for Sonarr, Radarr, Overseer, and Jellyseer. It supports TVDB and TMDB for metadata, supports OIDC and OAuth 2.0 for authentication and supports Prowlarr and Jackett. MediaManager is built first and foremost for deployment with Docker, making it easy to set up.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-534"><a href="https://github.com/maxdorninger/MediaManager">Media Manager</a></h3>
-<style>
-.favicon-534 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    MediaManager is modern software to manage your TV and movie library. It is designed to be a replacement for Sonarr, Radarr, Overseer, and Jellyseer. It supports TVDB and TMDB for metadata, supports OIDC and OAuth 2.0 for authentication and supports Prowlarr and Jackett. MediaManager is built first and foremost for deployment with Docker, making it easy to set up.
 </blockquote>
   
 ]]></content:encoded>
