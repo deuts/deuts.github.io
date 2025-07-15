@@ -7,8 +7,89 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 20 Jun 2025 15:20:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 22:18:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing Paperless API Requests in n8n: Avoiding the Login Page Trap</title>
+      <link>https://deuts.org/p/paperless-ngx-api-n8n-login-fix/</link>
+      <pubDate>Tue, 15 Jul 2025 22:18:48 +0800</pubDate>
+      <guid>https://deuts.org/p/paperless-ngx-api-n8n-login-fix/</guid>
+      <description>A practical fix for the issue where n8n HTTP Request nodes to the Paperless-ngx API return the login page instead of JSON. Caused by Django REST Framework&amp;#39;s content negotiation — solved with `?format=json`.</description>
+      <content:encoded><![CDATA[<h2 id="when-paperless-api-calls-work-in-curl-but-fail-in-n8n">When Paperless API Calls Work in curl, but Fail in n8n</h2>
+<p>While building an <strong>n8n workflow</strong> to fetch documents from my Paperless-ngx instance, I followed a typical approach:</p>
+<ol>
+<li>Opened the <em>schema view</em> over at <code>/api/schema/view/</code> of my Paperless NGX instance.</li>
+<li>Authenticated and explored available endpoints like <code>/api/documents/</code>.</li>
+<li>After testing one endpoint via the web form, copied the generated curl command.</li>
+<li>Pasted that curl command into an <strong>n8n HTTP Request node</strong>, thinking it should work the same.</li>
+</ol>
+<p><strong>It didn’t</strong>.</p>
+<p>Then I copied the same curl command into a <strong>Linux terminal</strong> — and it worked perfectly fine.</p>
+<h2 id="the-symptom-login-page-instead-of-json">The Symptom: Login Page Instead of JSON</h2>
+<p>I was calling this endpoint:</p>
+<pre tabindex="0"><code>https://paperless.example.com/api/documents/
+</code></pre><p>But instead of the expected JSON response, the n8n node returned an HTML login page. Even though I included the correct token like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Authorization: Token YOUR_TOKEN
+</span></span></code></pre></div><p>The result was something like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>[
+</span></span><span style="display:flex;"><span>  {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;form&#34;</span>: {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;fields&#34;</span>: {
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;login&#34;</span>: { <span style="color:#960050;background-color:#1e0010">...</span> },
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;password&#34;</span>: { <span style="color:#960050;background-color:#1e0010">...</span> }
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;html&#34;</span>: <span style="color:#e6db74">&#34;&lt;!DOCTYPE html&gt;&lt;html&gt;...&lt;form&gt;Sign in&lt;/form&gt;&lt;/html&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>]
+</span></span></code></pre></div><p>Clearly not the <code>/documents/</code> data I was expecting.</p>
+<h2 id="curl-worked-just-fine">curl Worked Just Fine</h2>
+<p>Here’s the exact curl command that worked:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X GET <span style="color:#e6db74">&#39;https://paperless.example.com/api/documents/&#39;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  -H <span style="color:#e6db74">&#39;Accept: application/json&#39;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  -H <span style="color:#e6db74">&#39;Authorization: Token YOUR_TOKEN&#39;</span>
+</span></span></code></pre></div><p>That immediately returned the proper JSON document list.</p>
+<p>So the credentials were fine. The endpoint was fine. But something about n8n’s request was causing a redirect to the login page.</p>
+<h2 id="why-it-happens-django-rest-framework-content-negotiation">Why It Happens: Django REST Framework Content Negotiation</h2>
+<p>Paperless-ngx is built on <strong>Django REST Framework (DRF)</strong>, which tries to &ldquo;guess&rdquo; what format you want based on:</p>
+<ul>
+<li>The <code>Accept</code> header</li>
+<li>The URL (presence of <code>?format=</code>)</li>
+<li>The <code>User-Agent</code></li>
+</ul>
+<p>n8n uses Axios under the hood, which sends a verbose Accept header like this:</p>
+<pre tabindex="0"><code>Accept: application/json,text/html,application/xhtml+xml,...
+</code></pre><p>DRF sees that and thinks:</p>
+<blockquote>
+<p>“Hmm, maybe this is a browser… better send HTML.”</p></blockquote>
+<p>So it serves the login page instead of JSON.</p>
+<h2 id="the-fix-add-formatjson-to-the-url">The Fix: Add <code>?format=json</code> to the URL</h2>
+<p>Instead of:</p>
+<pre tabindex="0"><code>https://paperless.example.com/api/documents/
+</code></pre><p>Use:</p>
+<pre tabindex="0"><code>https://paperless.example.com/api/documents/?format=json
+</code></pre><p>This explicitly tells DRF to respond with JSON, skipping its content negotiation logic.</p>
+<p>Once I made that change in n8n, everything worked instantly — same token, same headers.</p>
+<h2 id="final-working-setup-in-n8n">Final Working Setup in n8n</h2>
+<p>In your <strong>HTTP Request</strong> node:</p>
+<ul>
+<li><strong>Method</strong>: <code>GET</code></li>
+<li><strong>URL</strong>: <code>https://paperless.example.com/api/documents/?format=json</code></li>
+<li><strong>Authentication</strong>: <code>None</code></li>
+<li><strong>Headers</strong>:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;Authorization&#34;</span>: <span style="color:#e6db74">&#34;Token YOUR_TOKEN&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;Accept&#34;</span>: <span style="color:#e6db74">&#34;application/json&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><em>No special User-Agent needed if <code>?format=json</code> is in the URL.</em></p>
+<hr>
+<h2 id="takeaway">Takeaway</h2>
+<p>If you’re building a workflow in n8n and your Paperless API request redirects to the login page — even with a valid token — the problem isn’t your credentials.</p>
+<p>It’s <strong>Django REST Framework</strong> making assumptions about your request format.</p>
+<p><strong>Just add <code>?format=json</code></strong> to the URL to bypass the guesswork and get the response you expect.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Using the Action Button Widget in Grist to Automate Table Operations</title>
       <link>https://deuts.org/p/grist-action-button-widget/</link>
@@ -755,33 +836,6 @@ The features listed in the table below are the ones I find important to me perso
 <li>Works seamlessly without needing server-side changes.</li>
 </ul>
 <p>By implementing this approach, you can confidently refresh your Power Query data without worrying about outdated cached files.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Two Handy Power Query Tricks for Custom Sorting and Error Handling</title>
-      <link>https://deuts.org/p/pq-tricks-custom-sorting-error-handling/</link>
-      <pubDate>Sat, 15 Feb 2025 23:52:12 +0800</pubDate>
-      <guid>https://deuts.org/p/pq-tricks-custom-sorting-error-handling/</guid>
-      <description>Learn two powerful Power Query tricks: custom sorting using `List.PositionOf` and filtering non-date values with the try and `[HasError]` functions.</description>
-      <content:encoded><![CDATA[
-
-    
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/fQFVVpFyOlo?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-    <div class="yt-separator">&nbsp;</div>
-
-<h2 id="useful-power-query-tricks">Useful Power Query Tricks</h2>
-<p>Power Query is a powerful tool for data transformation, and knowing a few advanced tricks can help you work more efficiently. Here are two techniques I learned from the above video.</p>
-<h3 id="1-custom-sorting-in-power-query">1. Custom Sorting in Power Query</h3>
-<p>By default, Power Query sorts data in ascending or descending order, but what if you need a custom order? For example, let’s say you have ratings labeled as <strong>E, A, B</strong>, and you want them sorted in that specific sequence. You can achieve this using the <code>List.PositionOf</code> function:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#f92672">=</span> Table.Sort(Source<span style="color:#f92672">,</span> {<span style="color:#66d9ef">each</span> List.PositionOf({<span style="color:#e6db74">&#34;E&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;A&#34;</span><span style="color:#f92672">,</span> <span style="color:#e6db74">&#34;B&#34;</span>}<span style="color:#f92672">,</span> [Ratings])})
-</span></span></code></pre></div><p>This method allows you to define an arbitrary order and sort the table accordingly. It’s especially useful when dealing with categorical data that doesn’t follow a standard numerical or alphabetical order.</p>
-<h3 id="2-the-error-trick--filtering-non-date-values">2. The Error Trick – Filtering Non-Date Values</h3>
-<p>Sometimes, a dataset contains values that cannot be converted into a date. Instead of manually checking for errors, you can use the <code>try</code> function to filter out non-date values:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#f92672">=</span> List.Select(Source<span style="color:#f92672">,</span> <span style="color:#66d9ef">each</span> (<span style="color:#66d9ef">try</span> Date.From(<span style="color:#e6db74">&#34;1&#34;</span> <span style="color:#f92672">&amp;</span> _))[HasError])
-</span></span></code></pre></div><p>This formula attempts to convert each value into a date by prefixing it with &ldquo;1&rdquo; (to ensure a valid month-day format). If the conversion fails, the <code>[HasError]</code> property will be <code>true</code>, meaning the value is <strong>not</strong> a valid date. This trick helps you quickly identify and isolate (or keep, depending on your use case) problematic data.</p>
 ]]></content:encoded>
     </item>
   </channel>

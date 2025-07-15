@@ -9,17 +9,38 @@
     <lastmod>2024-11-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/all/</loc>
-    <lastmod>2025-06-20T15:20:12+08:00</lastmod>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/i/archive/</loc>
   </url><url>
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-07-14T14:34:06+08:00</lastmod>
+    <loc>https://deuts.org/t/api/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/automation/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/django/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/paperless-ngx-api-n8n-login-fix/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/n8n/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/paperless/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/selfhosted/</loc>
+    <lastmod>2025-07-15T22:18:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/all/</loc>
     <lastmod>2025-07-14T14:34:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/547-kumatray-system-tray-for-uptime-kuma/</loc>
@@ -229,17 +250,11 @@
     <loc>https://deuts.org/x/513-dagu/</loc>
     <lastmod>2025-06-21T11:53:08+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/automation/</loc>
-    <lastmod>2025-06-20T15:20:12+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/grist/</loc>
     <lastmod>2025-06-20T15:20:12+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/grist-action-button-widget/</loc>
     <lastmod>2025-06-20T15:20:12+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/api/</loc>
-    <lastmod>2025-06-18T19:26:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/connect-grist-api-power-query/</loc>
     <lastmod>2025-06-18T19:26:43+08:00</lastmod>
