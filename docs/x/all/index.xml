@@ -7,8 +7,57 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 14 Jul 2025 14:34:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 23:11:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K09WM9SG8MDEADKVQ4CDD2AS</title>
+      <link>https://deuts.org/x/2025-07-16-23-11-12-01k09wm9sg8mdeadkvq4cdd2as/</link>
+      <pubDate>Wed, 16 Jul 2025 23:11:12 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-16-23-11-12-01k09wm9sg8mdeadkvq4cdd2as/</guid>
+      <description>&lt;p&gt;Tried to make a Facebook Page for &lt;em&gt;DeutsFlix&lt;/em&gt;, my personal movie stash for friends.&lt;br&gt;
+All I wanted: post to my own Page via API.&lt;br&gt;
+What I got: use cases, business portfolio links, locked permissions, and zero “consumer” options.&lt;/p&gt;
+&lt;p&gt;Facebook isn’t for hobbyists anymore. It’s all ads and enterprise gatekeeping.
+Moving to the fediverse where personal projects still belong.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Fediverse&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Fediverse&#34;&gt;#Fediverse&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Meta&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Meta&#34;&gt;#Meta&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=DeplatformingHobbyists&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23DeplatformingHobbyists&#34;&gt;#DeplatformingHobbyists&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=DeutsFlix&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23DeutsFlix&#34;&gt;#DeutsFlix&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Plex&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Plex&#34;&gt;#Plex&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Automation&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Automation&#34;&gt;#Automation&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=n8n&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23n8n&#34;&gt;#n8n&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tried to make a Facebook Page for <em>DeutsFlix</em>, my personal movie stash for friends.<br>
+All I wanted: post to my own Page via API.<br>
+What I got: use cases, business portfolio links, locked permissions, and zero “consumer” options.</p>
+<p>Facebook isn’t for hobbyists anymore. It’s all ads and enterprise gatekeeping.
+Moving to the fediverse where personal projects still belong.</p>
+<p><a href="https://fediwall.social/?tags=Fediverse&amp;accounts=&amp;lang=en&amp;title=%23Fediverse">#Fediverse</a> <a href="https://fediwall.social/?tags=Meta&amp;accounts=&amp;lang=en&amp;title=%23Meta">#Meta</a> <a href="https://fediwall.social/?tags=DeplatformingHobbyists&amp;accounts=&amp;lang=en&amp;title=%23DeplatformingHobbyists">#DeplatformingHobbyists</a> <a href="https://fediwall.social/?tags=DeutsFlix&amp;accounts=&amp;lang=en&amp;title=%23DeutsFlix">#DeutsFlix</a> <a href="https://fediwall.social/?tags=Plex&amp;accounts=&amp;lang=en&amp;title=%23Plex">#Plex</a> <a href="https://fediwall.social/?tags=Automation&amp;accounts=&amp;lang=en&amp;title=%23Automation">#Automation</a> <a href="https://fediwall.social/?tags=n8n&amp;accounts=&amp;lang=en&amp;title=%23n8n">#n8n</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Plex API Documentation</title>
+      <link>https://deuts.org/x/548-plex-api-documentation/</link>
+      <pubDate>Wed, 16 Jul 2025 16:44:59 +0800</pubDate>
+      <guid>https://deuts.org/x/548-plex-api-documentation/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-548&#34;&gt;&lt;a href=&#34;https://plexapi.dev/Open-API-Specification&#34;&gt;Plex API Documentation&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-548 {
+    background: url(&#39;https://bm.deuts.org/static/https_plexapi_dev.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    All of the API documentation on this site as well as all of the SDKs listed here are fully generated from the main Plex OpenAPI specification here, and I invite anyone in the community to contribute!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-548"><a href="https://plexapi.dev/Open-API-Specification">Plex API Documentation</a></h3>
+<style>
+.favicon-548 {
+    background: url('https://bm.deuts.org/static/https_plexapi_dev.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    All of the API documentation on this site as well as all of the SDKs listed here are fully generated from the main Plex OpenAPI specification here, and I invite anyone in the community to contribute!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>KumaTray - System Tray for Uptime Kuma</title>
       <link>https://deuts.org/x/547-kumatray-system-tray-for-uptime-kuma/</link>
@@ -228,66 +277,6 @@
 <div class="linkding-notes">
     Could this be a good alternative to Stirling PDF?
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Proxmox Pulse</title>
-      <link>https://deuts.org/x/541-proxmox-pulse/</link>
-      <pubDate>Sat, 05 Jul 2025 19:09:34 +0800</pubDate>
-      <guid>https://deuts.org/x/541-proxmox-pulse/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-541&#34;&gt;&lt;a href=&#34;https://github.com/rcourtman/Pulse&#34;&gt;Proxmox Pulse&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-541 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-541"><a href="https://github.com/rcourtman/Pulse">Proxmox Pulse</a></h3>
-<style>
-.favicon-541 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ProxMenux</title>
-      <link>https://deuts.org/x/540-proxmenux/</link>
-      <pubDate>Sat, 05 Jul 2025 19:08:25 +0800</pubDate>
-      <guid>https://deuts.org/x/540-proxmenux/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-540&#34;&gt;&lt;a href=&#34;https://github.com/MacRimi/ProxMenux&#34;&gt;ProxMenux&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-540 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    ProxMenux An Interactive Menu for Proxmox VE Management
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-540"><a href="https://github.com/MacRimi/ProxMenux">ProxMenux</a></h3>
-<style>
-.favicon-540 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    ProxMenux An Interactive Menu for Proxmox VE Management
-</blockquote>
   
 ]]></content:encoded>
     </item>
