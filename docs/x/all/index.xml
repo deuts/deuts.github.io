@@ -7,8 +7,31 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 16 Jul 2025 23:11:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:19:42 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K0A0HQD1P6H7AB2CXA2QVF1Q</title>
+      <link>https://deuts.org/x/2025-07-17-00-19-42-01k0a0hqd1p6h7ab2cxa2qvf1q/</link>
+      <pubDate>Thu, 17 Jul 2025 00:19:42 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-17-00-19-42-01k0a0hqd1p6h7ab2cxa2qvf1q/</guid>
+      <description>&lt;h2 id=&#34;whats-new-on-deutsflix&#34;&gt;What&amp;rsquo;s new on DeutsFLIX&lt;/h2&gt;
+&lt;h3 id=&#34;the-unholy-trinity-2025&#34;&gt;The Unholy Trinity (2025)&lt;/h3&gt;
+&lt;p&gt;Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="whats-new-on-deutsflix">What&rsquo;s new on DeutsFLIX</h2>
+<h3 id="the-unholy-trinity-2025">The Unholy Trinity (2025)</h3>
+<p>Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.</p>
+<p>Genres: Western, Adventure, Crime</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K0A053C58E0SZ97DJV25Q9E0</title>
+      <link>https://deuts.org/x/2025-07-17-00-12-48-01k0a053c58e0sz97djv25q9e0/</link>
+      <pubDate>Thu, 17 Jul 2025 00:12:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-17-00-12-48-01k0a053c58e0sz97djv25q9e0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@hongster&#34;&gt;@hongster&lt;/a&gt; I use it in several of my VPSs and VMs. Good thing about it compared to Duplicati is metadata is saved together with your backup. It also does incremental backups so you won&amp;rsquo;t necessarily use up huge backup storage. Finally, it encrypts your backups automatically before it sends to the external repository. I usually use Backblaze as my repository.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@hongster">@hongster</a> I use it in several of my VPSs and VMs. Good thing about it compared to Duplicati is metadata is saved together with your backup. It also does incremental backups so you won&rsquo;t necessarily use up huge backup storage. Finally, it encrypts your backups automatically before it sends to the external repository. I usually use Backblaze as my repository.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01K09WM9SG8MDEADKVQ4CDD2AS</title>
       <link>https://deuts.org/x/2025-07-16-23-11-12-01k09wm9sg8mdeadkvq4cdd2as/</link>
@@ -229,53 +252,6 @@ Moving to the fediverse where personal projects still belong.</p>
   
 <div class="linkding-notes">
     They say this is a Trakt alternative. We&rsquo;ll find out soon!
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JZG1E1TE6GK8E403GSP2Z04S</title>
-      <link>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</link>
-      <pubDate>Sun, 06 Jul 2025 22:14:55 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</guid>
-      <description>&lt;p&gt;When can we try &lt;a href=&#34;https://fediwall.social/?tags=Obsidian&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Obsidian&#34;&gt;#Obsidian&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Bases&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bases&#34;&gt;#Bases&lt;/a&gt; out now?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>When can we try <a href="https://fediwall.social/?tags=Obsidian&amp;accounts=&amp;lang=en&amp;title=%23Obsidian">#Obsidian</a> <a href="https://fediwall.social/?tags=Bases&amp;accounts=&amp;lang=en&amp;title=%23Bases">#Bases</a> out now?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Singature PDF</title>
-      <link>https://deuts.org/x/542-singature-pdf/</link>
-      <pubDate>Sat, 05 Jul 2025 19:10:47 +0800</pubDate>
-      <guid>https://deuts.org/x/542-singature-pdf/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-542&#34;&gt;&lt;a href=&#34;https://github.com/24eme/signaturepdf&#34;&gt;Singature PDF&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-542 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Could this be a good alternative to Stirling PDF?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-542"><a href="https://github.com/24eme/signaturepdf">Singature PDF</a></h3>
-<style>
-.favicon-542 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
-</blockquote>
-  
-<div class="linkding-notes">
-    Could this be a good alternative to Stirling PDF?
 </div>
   
 ]]></content:encoded>
