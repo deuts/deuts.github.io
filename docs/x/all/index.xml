@@ -7,8 +7,56 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 18 Jul 2025 23:20:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 07:54:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expense Owl</title>
+      <link>https://deuts.org/x/555-expense-owl/</link>
+      <pubDate>Tue, 22 Jul 2025 07:54:23 +0800</pubDate>
+      <guid>https://deuts.org/x/555-expense-owl/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-555&#34;&gt;&lt;a href=&#34;https://github.com/Tanq16/ExpenseOwl&#34;&gt;Expense Owl&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-555 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Extremely simple, self-hosted expense tracker with a beautiful UI.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    &lt;p&gt;My wish for a personal finance app:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-categorization of transactions&lt;/li&gt;
+&lt;li&gt;Great UI, especially for mobile&lt;/li&gt;
+&lt;li&gt;Rest API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-555"><a href="https://github.com/Tanq16/ExpenseOwl">Expense Owl</a></h3>
+<style>
+.favicon-555 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Extremely simple, self-hosted expense tracker with a beautiful UI.
+</blockquote>
+  
+<div class="linkding-notes">
+    <p>My wish for a personal finance app:</p>
+<ul>
+<li>Auto-categorization of transactions</li>
+<li>Great UI, especially for mobile</li>
+<li>Rest API</li>
+</ul>
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Personal Accounter</title>
       <link>https://deuts.org/x/553-personal-accounter/</link>
@@ -232,15 +280,6 @@ Moving to the fediverse where personal projects still belong.</p>
     To install or not to install, that is the question.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01JZXAEE52SFECHXEQ7DV7SH1S</title>
-      <link>https://deuts.org/x/2025-07-12-02-02-32-01jzxaee52sfechxeq7dv7sh1s/</link>
-      <pubDate>Sat, 12 Jul 2025 02:02:32 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-07-12-02-02-32-01jzxaee52sfechxeq7dv7sh1s/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Caddy&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Caddy&#34;&gt;#Caddy&lt;/a&gt; is supposed to be a simple and lightweight reverse proxy service. Three lines of code and you&amp;rsquo;re good to go! Not a 3 container stack like &lt;a href=&#34;https://fediwall.social/?tags=CaddyManager&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CaddyManager&#34;&gt;#CaddyManager&lt;/a&gt; &lt;a href=&#34;https://github.com/caddymanager/caddymanager&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Caddy&amp;accounts=&amp;lang=en&amp;title=%23Caddy">#Caddy</a> is supposed to be a simple and lightweight reverse proxy service. Three lines of code and you&rsquo;re good to go! Not a 3 container stack like <a href="https://fediwall.social/?tags=CaddyManager&amp;accounts=&amp;lang=en&amp;title=%23CaddyManager">#CaddyManager</a> <a href="https://github.com/caddymanager/caddymanager">github.com/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
