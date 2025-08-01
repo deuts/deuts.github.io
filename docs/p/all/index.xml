@@ -7,8 +7,88 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 22:18:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 14:26:26 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grist vs NocoDB: A Practical Comparison for Data-Driven Workflows</title>
+      <link>https://deuts.org/p/grist-vs-nocodb/</link>
+      <pubDate>Fri, 01 Aug 2025 14:26:26 +0800</pubDate>
+      <guid>https://deuts.org/p/grist-vs-nocodb/</guid>
+      <description>A comparison between Grist and NocoDB focused on interface, API, automation, and permissions — with insights into real-world usage trade-offs.</description>
+      <content:encoded><![CDATA[<h2 id="grist-vs-nocodb-choosing-the-right-tool-for-your-use-case">Grist vs NocoDB: Choosing the Right Tool for Your Use Case</h2>
+<p>When managing data in a collaborative environment, the choice of tool can significantly affect productivity and maintainability. Two standout open-source options are <strong>Grist</strong> and <strong>NocoDB</strong>, but they’re built with very different philosophies in mind. This post breaks down where each tool excels — and where it might fall short — depending on how you work.</p>
+<h3 id="user-interface-the-edge-goes-to-nocodb">User Interface: The Edge Goes to NocoDB</h3>
+<p>If you’re coming from <strong>Airtable</strong>, you’ll likely feel more at home in <strong>NocoDB</strong>. Its polished, modern interface supports multiple view types like grid, gallery, kanban, and form — all of which are visually appealing and smooth to use.</p>
+<p><strong>Grist</strong>, on the other hand, feels more like a spreadsheet or a technical dashboard. It offers power-user features like custom widgets and formulas, but can feel a bit raw or utilitarian in comparison.</p>
+<blockquote>
+<p><strong>Verdict:</strong> If visual polish and day-to-day usability are your top priorities, NocoDB’s UI is more inviting.</p></blockquote>
+<h3 id="api-and-automation-grist-pulls-ahead">API and Automation: Grist Pulls Ahead</h3>
+<p>Automation is where <strong>Grist</strong> really shines. It supports a native <strong>upsert API</strong> out of the box — something <strong>NocoDB lacks</strong>. This makes workflows like syncing external data or integrating with tools like n8n much simpler.</p>
+<p>With <strong>Grist</strong>, you can perform an upsert by including a <code>require</code> field in the payload — this specifies which fields must match for an update to occur. If no record matches, Grist inserts a new one. This allows you to implement flexible upserts without fetching records first. In contrast, <strong>NocoDB</strong> lacks native upsert support, requiring a two-step process: manually check if a record exists (via a <code>GET</code>), then decide to <code>PATCH</code> or <code>POST</code>.</p>
+<blockquote>
+<p><strong>Verdict:</strong> For developers and automation-heavy workflows, Grist is more capable and efficient.</p></blockquote>
+<h3 id="access-control-no-contest">Access Control: No Contest</h3>
+<p>Grist’s <strong>Access Rules</strong> system is one of the most advanced in the no-code world. You can define row-level and field-level permissions using expressions like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>user<span style="color:#f92672">.</span>Email <span style="color:#f92672">==</span> record<span style="color:#f92672">.</span>Owner
+</span></span></code></pre></div><p>You can even simulate how the app behaves for a specific user, helping you test permission boundaries. NocoDB’s access control, by contrast, is limited to basic project-level roles with no row- or field-level logic.</p>
+<blockquote>
+<p><strong>Verdict:</strong> If your use case involves sensitive data or multi-role collaboration, Grist offers the flexibility you need.</p></blockquote>
+<h3 id="performance-and-scalability">Performance and Scalability</h3>
+<p>If you’re working with thousands of rows, both tools can handle them reasonably well, but performance may vary depending on usage patterns. NocoDB’s UI is generally more responsive for basic grid navigation and editing, especially without complex formulas. Grist, on the other hand, may experience slowdowns in the UI when dealing with heavy computed columns, inter-table formulas, or complex access rules, though its API remains reliable even with large datasets.</p>
+<blockquote>
+<p><strong>Verdict:</strong> NocoDB generally feels more responsive for basic CRUD operations in the UI, while Grist is better suited for programmable datasets where automation, formulas, and access rules are more important than raw interface speed.</p></blockquote>
+<h3 id="tldr-which-should-you-choose">TL;DR: Which Should You Choose?</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th><strong>NocoDB</strong></th>
+          <th><strong>Grist</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>UI polish</td>
+          <td>✅ Modern and sleek</td>
+          <td>➖ Spreadsheet-style</td>
+      </tr>
+      <tr>
+          <td>Views (Kanban, Form, etc.)</td>
+          <td>✅</td>
+          <td>➖ Limited</td>
+      </tr>
+      <tr>
+          <td>Upsert support</td>
+          <td>❌ Manual workaround</td>
+          <td>✅ Native API</td>
+      </tr>
+      <tr>
+          <td>Row/field permissions</td>
+          <td>❌ Basic only</td>
+          <td>✅ Advanced ACL</td>
+      </tr>
+      <tr>
+          <td>Automation friendliness</td>
+          <td>➖ Requires logic in client</td>
+          <td>✅ Built-in flexibility</td>
+      </tr>
+      <tr>
+          <td>Developer experience</td>
+          <td>➖ Simpler, but limited</td>
+          <td>✅ More powerful for APIs</td>
+      </tr>
+      <tr>
+          <td>Best for</td>
+          <td>Airtable-like UI, casual data teams</td>
+          <td>Complex automation, secure collaboration</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>If you’re looking for an Airtable replacement with a smooth UI for your team to work in daily, <strong>NocoDB is a great choice</strong>. But if you need serious automation, fine-grained permissions, or API-driven workflows, <strong>Grist is the tool that delivers</strong> — even if it looks a little less shiny.</p>
+<p>Both projects are open-source and actively developed, so the line between them may continue to blur. For now, choose the one that aligns best with your current pain points.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Fixing Paperless API Requests in n8n: Avoiding the Login Page Trap</title>
       <link>https://deuts.org/p/paperless-ngx-api-n8n-login-fix/</link>
@@ -805,37 +885,6 @@ The features listed in the table below are the ones I find important to me perso
 <h3 id="final-thoughts"><strong>Final Thoughts</strong></h3>
 <p>If your Power Apps solution requires <strong>structured data</strong>, complex filtering, and efficient data management, a <strong>SharePoint list</strong> is the best choice. However, if you need to work with <strong>files</strong>, be prepared for <strong>limitations in filtering by file names and folder paths</strong> when using a SharePoint folder.</p>
 <p>For advanced file handling, consider integrating <strong>Power Automate</strong> to manage document library operations while using Power Apps for display and interaction.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Ensuring Updated Files in Power Query Without Cache Conflicts</title>
-      <link>https://deuts.org/p/powerquery-bypass-cache/</link>
-      <pubDate>Wed, 19 Feb 2025 08:54:57 +0800</pubDate>
-      <guid>https://deuts.org/p/powerquery-bypass-cache/</guid>
-      <description>A simple method to ensure that Power Query fetches the latest file version by appending a random query string to the URL.</description>
-      <content:encoded><![CDATA[<p>When working with Power Query to fetch data from a web source, caching can sometimes prevent you from retrieving the most up-to-date file. This can be caused by either browser caching or server-side caching mechanisms.</p>
-<p>To ensure you&rsquo;re always getting the latest version of your file, you can append a random query parameter to the file URL. This forces Power Query to treat each request as unique, bypassing any cached versions.</p>
-<h3 id="solution">Solution</h3>
-<p>Use the following Power Query (M) script:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powerquery" data-lang="powerquery"><span style="display:flex;"><span><span style="color:#66d9ef">let</span>
-</span></span><span style="display:flex;"><span>     Source <span style="color:#f92672">=</span> Csv.Document(Web.Contents(<span style="color:#e6db74">&#34;https://example.domain.com/file.csv?&#34;</span> <span style="color:#f92672">&amp;</span> Number.ToText(Number.RoundDown(Number.RandomBetween(<span style="color:#ae81ff">1</span><span style="color:#f92672">,</span> <span style="color:#ae81ff">1000000</span>))))<span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span>         [Delimiter<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;,&#34;</span><span style="color:#f92672">,</span> Encoding<span style="color:#f92672">=</span><span style="color:#ae81ff">65001</span><span style="color:#f92672">,</span> QuoteStyle<span style="color:#f92672">=</span>QuoteStyle.None])<span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span>     #&#34;Promoted Headers&#34; <span style="color:#f92672">=</span> Table.PromoteHeaders(Source<span style="color:#f92672">,</span> [PromoteAllScalars<span style="color:#f92672">=</span><span style="color:#66d9ef">true</span>])
-</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">in</span>
-</span></span><span style="display:flex;"><span>     #&#34;Promoted Headers&#34;
-</span></span></code></pre></div><h3 id="how-it-works">How It Works</h3>
-<ul>
-<li>The <code>Web.Contents</code> function fetches the CSV file from the provided URL.</li>
-<li>The <code>Number.RandomBetween(1, 1000000)</code> generates a random number.</li>
-<li>This random number is appended as a query parameter, ensuring each request is treated as a unique request by the server.</li>
-</ul>
-<h3 id="benefits">Benefits</h3>
-<ul>
-<li>Prevents stale data from being loaded due to caching.</li>
-<li>Ensures your Power Query reports always reflect the latest file updates.</li>
-<li>Works seamlessly without needing server-side changes.</li>
-</ul>
-<p>By implementing this approach, you can confidently refresh your Power Query data without worrying about outdated cached files.</p>
 ]]></content:encoded>
     </item>
   </channel>

@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 26 Jul 2025 01:47:35 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 21:46:07 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K1B6XVPMFA4RTFWSTMYSM18T</title>
+      <link>https://deuts.org/x/2025-07-29-21-46-07-01k1b6xvpmfa4rtfwstmysm18t/</link>
+      <pubDate>Tue, 29 Jul 2025 21:46:07 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-07-29-21-46-07-01k1b6xvpmfa4rtfwstmysm18t/</guid>
+      <description>&lt;p&gt;Just looking around the n8n subreddit it gives me the impression that n8n = AI. No! &lt;a href=&#34;https://fediwall.social/?tags=n8n&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23n8n&#34;&gt;#n8n&lt;/a&gt; is a lot more that that!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Just looking around the n8n subreddit it gives me the impression that n8n = AI. No! <a href="https://fediwall.social/?tags=n8n&amp;accounts=&amp;lang=en&amp;title=%23n8n">#n8n</a> is a lot more that that!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Snippets Library</title>
       <link>https://deuts.org/x/557-snippets-library/</link>
@@ -290,15 +299,6 @@
 <h3 id="the-unholy-trinity-2025">The Unholy Trinity (2025)</h3>
 <p>Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.</p>
 <p>Genres: Western, Adventure, Crime</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K0A053C58E0SZ97DJV25Q9E0</title>
-      <link>https://deuts.org/x/2025-07-17-00-12-48-01k0a053c58e0sz97djv25q9e0/</link>
-      <pubDate>Thu, 17 Jul 2025 00:12:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-07-17-00-12-48-01k0a053c58e0sz97djv25q9e0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@hongster&#34;&gt;@hongster&lt;/a&gt; I use it in several of my VPSs and VMs. Good thing about it compared to Duplicati is metadata is saved together with your backup. It also does incremental backups so you won&amp;rsquo;t necessarily use up huge backup storage. Finally, it encrypts your backups automatically before it sends to the external repository. I usually use Backblaze as my repository.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@hongster">@hongster</a> I use it in several of my VPSs and VMs. Good thing about it compared to Duplicati is metadata is saved together with your backup. It also does incremental backups so you won&rsquo;t necessarily use up huge backup storage. Finally, it encrypts your backups automatically before it sends to the external repository. I usually use Backblaze as my repository.</p>
 ]]></content:encoded>
     </item>
   </channel>
