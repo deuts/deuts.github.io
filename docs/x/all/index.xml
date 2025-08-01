@@ -7,8 +7,136 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 21:46:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 01:13:43 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TaxHacker</title>
+      <link>https://deuts.org/x/563-taxhacker/</link>
+      <pubDate>Sat, 02 Aug 2025 01:13:43 +0800</pubDate>
+      <guid>https://deuts.org/x/563-taxhacker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-563&#34;&gt;&lt;a href=&#34;https://github.com/vas3k/TaxHacker&#34;&gt;TaxHacker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-563 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Hmmm, looks like Manager now has a contender. I just wish it has api endpoints and robust documentation. But I can query the Postgres database anyway, right?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-563"><a href="https://github.com/vas3k/TaxHacker">TaxHacker</a></h3>
+<style>
+.favicon-563 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+</blockquote>
+  
+<div class="linkding-notes">
+    Hmmm, looks like Manager now has a contender. I just wish it has api endpoints and robust documentation. But I can query the Postgres database anyway, right?
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Portracker</title>
+      <link>https://deuts.org/x/562-portracker/</link>
+      <pubDate>Sat, 02 Aug 2025 01:05:20 +0800</pubDate>
+      <guid>https://deuts.org/x/562-portracker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-562&#34;&gt;&lt;a href=&#34;https://github.com/Mostafa-Wahied/portracker&#34;&gt;Portracker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-562 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-562"><a href="https://github.com/Mostafa-Wahied/portracker">Portracker</a></h3>
+<style>
+.favicon-562 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>DocMD</title>
+      <link>https://deuts.org/x/561-docmd/</link>
+      <pubDate>Sat, 02 Aug 2025 00:40:56 +0800</pubDate>
+      <guid>https://deuts.org/x/561-docmd/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-561&#34;&gt;&lt;a href=&#34;https://github.com/mgks/docmd&#34;&gt;DocMD&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-561 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Generate beautiful, lightweight static documentation sites from Markdown files.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-561"><a href="https://github.com/mgks/docmd">DocMD</a></h3>
+<style>
+.favicon-561 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Generate beautiful, lightweight static documentation sites from Markdown files.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docker Wakeup</title>
+      <link>https://deuts.org/x/560-docker-wakeup/</link>
+      <pubDate>Sat, 02 Aug 2025 00:33:07 +0800</pubDate>
+      <guid>https://deuts.org/x/560-docker-wakeup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-560&#34;&gt;&lt;a href=&#34;https://github.com/jelliott2021/DockerWakeUp&#34;&gt;Docker Wakeup&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-560 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An intelligent Docker container management system that automatically starts containers on-demand when accessed, stops idle containers to save resources, and generates NGINX configurations for seamless reverse proxy setup.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-560"><a href="https://github.com/jelliott2021/DockerWakeUp">Docker Wakeup</a></h3>
+<style>
+.favicon-560 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An intelligent Docker container management system that automatically starts containers on-demand when accessed, stops idle containers to save resources, and generates NGINX configurations for seamless reverse proxy setup.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01K1B6XVPMFA4RTFWSTMYSM18T</title>
       <link>https://deuts.org/x/2025-07-29-21-46-07-01k1b6xvpmfa4rtfwstmysm18t/</link>
@@ -208,97 +336,6 @@
     Browsed through the interface, and it&rsquo;s good actually. Might prove to be a good alternative to Actual Budget. And it has a built-in rest API to get our data.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Simple Datatables</title>
-      <link>https://deuts.org/x/551-simple-datatables/</link>
-      <pubDate>Fri, 18 Jul 2025 14:38:39 +0800</pubDate>
-      <guid>https://deuts.org/x/551-simple-datatables/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-551&#34;&gt;&lt;a href=&#34;https://github.com/fiduswriter/simple-datatables&#34;&gt;Simple Datatables&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-551 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    DataTables but in TypeScript transpiled to Vanilla JS
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    The simpler alternative to Tabulator.info
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-551"><a href="https://github.com/fiduswriter/simple-datatables">Simple Datatables</a></h3>
-<style>
-.favicon-551 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    DataTables but in TypeScript transpiled to Vanilla JS
-</blockquote>
-  
-<div class="linkding-notes">
-    The simpler alternative to Tabulator.info
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>doonfrs/rsync-backup</title>
-      <link>https://deuts.org/x/550-doonfrs-rsync-backup/</link>
-      <pubDate>Thu, 17 Jul 2025 13:05:10 +0800</pubDate>
-      <guid>https://deuts.org/x/550-doonfrs-rsync-backup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-550&#34;&gt;&lt;a href=&#34;https://github.com/doonfrs/rsync-backup&#34;&gt;doonfrs/rsync-backup&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-550 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple bash script for automated backups using rsync with configurable sources and excludes.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-550"><a href="https://github.com/doonfrs/rsync-backup">doonfrs/rsync-backup</a></h3>
-<style>
-.favicon-550 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simple bash script for automated backups using rsync with configurable sources and excludes.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K0A0XQXKZV3VM07VBR1M1AKZ</title>
-      <link>https://deuts.org/x/2025-07-17-00-26-15-01k0a0xqxkzv3vm07vbr1m1akz/</link>
-      <pubDate>Thu, 17 Jul 2025 00:26:15 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-07-17-00-26-15-01k0a0xqxkzv3vm07vbr1m1akz/</guid>
-      <description>&lt;p&gt;So you still use Google Search? You should already be using &lt;a href=&#34;https://fediwall.social/?tags=Searxng&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Searxng&#34;&gt;#Searxng&lt;/a&gt; for a change!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>So you still use Google Search? You should already be using <a href="https://fediwall.social/?tags=Searxng&amp;accounts=&amp;lang=en&amp;title=%23Searxng">#Searxng</a> for a change!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K0A0HQD1P6H7AB2CXA2QVF1Q</title>
-      <link>https://deuts.org/x/2025-07-17-00-19-42-01k0a0hqd1p6h7ab2cxa2qvf1q/</link>
-      <pubDate>Thu, 17 Jul 2025 00:19:42 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-07-17-00-19-42-01k0a0hqd1p6h7ab2cxa2qvf1q/</guid>
-      <description>&lt;h2 id=&#34;whats-new-on-deutsflix&#34;&gt;What&amp;rsquo;s new on DeutsFLIX&lt;/h2&gt;
-&lt;h3 id=&#34;the-unholy-trinity-2025&#34;&gt;The Unholy Trinity (2025)&lt;/h3&gt;
-&lt;p&gt;Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="whats-new-on-deutsflix">What&rsquo;s new on DeutsFLIX</h2>
-<h3 id="the-unholy-trinity-2025">The Unholy Trinity (2025)</h3>
-<p>Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.</p>
-<p>Genres: Western, Adventure, Crime</p>
 ]]></content:encoded>
     </item>
   </channel>
