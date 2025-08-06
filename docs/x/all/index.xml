@@ -7,8 +7,100 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 02 Aug 2025 01:13:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 07:41:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n Cheat Sheet</title>
+      <link>https://deuts.org/x/565-n8n-cheat-sheet/</link>
+      <pubDate>Wed, 06 Aug 2025 07:41:34 +0800</pubDate>
+      <guid>https://deuts.org/x/565-n8n-cheat-sheet/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-565&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/n8n/s/lgccFKZ1wU&#34;&gt;n8n Cheat Sheet&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-565 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Everything you need: triggers, nodes, expressions, API requests, AI agents, Docker self-hosting, and shortcuts, all in one place.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-565"><a href="https://www.reddit.com/r/n8n/s/lgccFKZ1wU">n8n Cheat Sheet</a></h3>
+<style>
+.favicon-565 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Everything you need: triggers, nodes, expressions, API requests, AI agents, Docker self-hosting, and shortcuts, all in one place.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K1XG8R3R9GB0T1VAD3R37YYA</title>
+      <link>https://deuts.org/x/2025-08-06-00-15-41-01k1xg8r3r9gb0t1vad3r37yya/</link>
+      <pubDate>Wed, 06 Aug 2025 00:15:41 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-06-00-15-41-01k1xg8r3r9gb0t1vad3r37yya/</guid>
+      <description>&lt;p&gt;So, apparently &lt;a href=&#34;https://fediwall.social/?tags=NocoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NocoDB&#34;&gt;#NocoDB&lt;/a&gt; supports field permissions &amp;ndash; on its enterprise plans. This is where it is easily beaten by &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;. &lt;a href=&#34;https://deuts.org/p/grist-vs-nocodb/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>So, apparently <a href="https://fediwall.social/?tags=NocoDB&amp;accounts=&amp;lang=en&amp;title=%23NocoDB">#NocoDB</a> supports field permissions &ndash; on its enterprise plans. This is where it is easily beaten by <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a>. <a href="https://deuts.org/p/grist-vs-nocodb/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K1SHQTQGT4D30B1G4YD1JRY0</title>
+      <link>https://deuts.org/x/2025-08-04-11-24-26-01k1shqtqgt4d30b1g4yd1jry0/</link>
+      <pubDate>Mon, 04 Aug 2025 11:24:26 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-04-11-24-26-01k1shqtqgt4d30b1g4yd1jry0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://techhub.social/@ironicbadger&#34;&gt;@ironicbadger&lt;/a&gt; 👋 Hey Alex!&lt;/p&gt;
+&lt;p&gt;Introducing my latest post:&lt;br&gt;
+✨ Short&lt;br&gt;
+🧠 Smart&lt;br&gt;
+🎯 To the point&lt;br&gt;
+💥 With just the right amount of emoji&lt;br&gt;
+😎 Because sometimes, features deserve flair&lt;/p&gt;
+&lt;p&gt;Don’t worry, no AI wrote this… probably. 🤖✍️&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://techhub.social/@ironicbadger">@ironicbadger</a> 👋 Hey Alex!</p>
+<p>Introducing my latest post:<br>
+✨ Short<br>
+🧠 Smart<br>
+🎯 To the point<br>
+💥 With just the right amount of emoji<br>
+😎 Because sometimes, features deserve flair</p>
+<p>Don’t worry, no AI wrote this… probably. 🤖✍️</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sync-in</title>
+      <link>https://deuts.org/x/564-sync-in/</link>
+      <pubDate>Sat, 02 Aug 2025 01:21:57 +0800</pubDate>
+      <guid>https://deuts.org/x/564-sync-in/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-564&#34;&gt;&lt;a href=&#34;https://github.com/Sync-in/server&#34;&gt;Sync-in&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-564 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The secure, open-source platform for file storage, sharing, collaboration, and sync.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-564"><a href="https://github.com/Sync-in/server">Sync-in</a></h3>
+<style>
+.favicon-564 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The secure, open-source platform for file storage, sharing, collaboration, and sync.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>TaxHacker</title>
       <link>https://deuts.org/x/563-taxhacker/</link>
@@ -180,160 +272,6 @@
   
 <div class="linkding-notes">
     May be a good alternative to ByteStash. The problem is there&rsquo;s no easy docker install method.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PicPeak</title>
-      <link>https://deuts.org/x/556-picpeak/</link>
-      <pubDate>Sat, 26 Jul 2025 01:42:38 +0800</pubDate>
-      <guid>https://deuts.org/x/556-picpeak/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-556&#34;&gt;&lt;a href=&#34;https://github.com/the-luap/picpeak&#34;&gt;PicPeak&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-556 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted photo sharing platform for photographers &amp;amp; events. Open-source alternative to PicDrop/Scrapbook with time-limited galleries, password protection, custom branding &amp;amp; no monthly fees. Built with React + Node.js
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I wonder if this is a good alternative to WeddingShare?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-556"><a href="https://github.com/the-luap/picpeak">PicPeak</a></h3>
-<style>
-.favicon-556 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted photo sharing platform for photographers &amp; events. Open-source alternative to PicDrop/Scrapbook with time-limited galleries, password protection, custom branding &amp; no monthly fees. Built with React + Node.js
-</blockquote>
-  
-<div class="linkding-notes">
-    I wonder if this is a good alternative to WeddingShare?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Expense Owl</title>
-      <link>https://deuts.org/x/555-expense-owl/</link>
-      <pubDate>Tue, 22 Jul 2025 07:54:23 +0800</pubDate>
-      <guid>https://deuts.org/x/555-expense-owl/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-555&#34;&gt;&lt;a href=&#34;https://github.com/Tanq16/ExpenseOwl&#34;&gt;Expense Owl&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-555 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Extremely simple, self-hosted expense tracker with a beautiful UI.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    &lt;p&gt;My wish for a personal finance app:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Auto-categorization of transactions&lt;/li&gt;
-&lt;li&gt;Great UI, especially for mobile&lt;/li&gt;
-&lt;li&gt;Rest API&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-555"><a href="https://github.com/Tanq16/ExpenseOwl">Expense Owl</a></h3>
-<style>
-.favicon-555 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Extremely simple, self-hosted expense tracker with a beautiful UI.
-</blockquote>
-  
-<div class="linkding-notes">
-    <p>My wish for a personal finance app:</p>
-<ul>
-<li>Auto-categorization of transactions</li>
-<li>Great UI, especially for mobile</li>
-<li>Rest API</li>
-</ul>
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PersonalAccounter</title>
-      <link>https://deuts.org/x/553-personalaccounter/</link>
-      <pubDate>Fri, 18 Jul 2025 23:20:25 +0800</pubDate>
-      <guid>https://deuts.org/x/553-personalaccounter/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-553&#34;&gt;&lt;a href=&#34;https://github.com/moonshadowrev/PersonalAccounter&#34;&gt;PersonalAccounter&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-553 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Easy To use &amp;amp; Deploy comprehensive PHP-based personal and small corporate accounting management system with powerful expense tracking, subscription management, and reporting capabilities.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-553"><a href="https://github.com/moonshadowrev/PersonalAccounter">PersonalAccounter</a></h3>
-<style>
-.favicon-553 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Easy To use &amp; Deploy comprehensive PHP-based personal and small corporate accounting management system with powerful expense tracking, subscription management, and reporting capabilities.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>EZ Book Keeping</title>
-      <link>https://deuts.org/x/552-ez-book-keeping/</link>
-      <pubDate>Fri, 18 Jul 2025 22:15:23 +0800</pubDate>
-      <guid>https://deuts.org/x/552-ez-book-keeping/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-552&#34;&gt;&lt;a href=&#34;https://github.com/mayswind/ezbookkeeping&#34;&gt;EZ Book Keeping&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-552 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A lightweight, self-hosted personal finance app with a sleek, user-friendly interface and powerful bookkeeping features.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Browsed through the interface, and it&amp;rsquo;s good actually. Might prove to be a good alternative to Actual Budget. And it has a built-in rest API to get our data.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-552"><a href="https://github.com/mayswind/ezbookkeeping">EZ Book Keeping</a></h3>
-<style>
-.favicon-552 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A lightweight, self-hosted personal finance app with a sleek, user-friendly interface and powerful bookkeeping features.
-</blockquote>
-  
-<div class="linkding-notes">
-    Browsed through the interface, and it&rsquo;s good actually. Might prove to be a good alternative to Actual Budget. And it has a built-in rest API to get our data.
 </div>
   
 ]]></content:encoded>
