@@ -17,10 +17,40 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-08-08T23:46:12+08:00</lastmod>
+    <lastmod>2025-08-09T01:10:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/cooking/</loc>
+    <lastmod>2025-08-09T01:10:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-08-08T23:46:12+08:00</lastmod>
+    <lastmod>2025-08-09T01:10:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-08-09T01:10:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/573-vanilla-cookbook/</loc>
+    <lastmod>2025-08-09T01:10:59+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fuellogs/</loc>
+    <lastmod>2025-08-09T01:05:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/572-tracktor/</loc>
+    <lastmod>2025-08-09T01:05:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/media-server/</loc>
+    <lastmod>2025-08-09T00:37:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/571-nevu-ui-alternative-to-plex/</loc>
+    <lastmod>2025-08-09T00:37:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/plex/</loc>
+    <lastmod>2025-08-09T00:37:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/570-finetic-jellyfin-client/</loc>
+    <lastmod>2025-08-09T00:27:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/jellyfin/</loc>
+    <lastmod>2025-08-09T00:27:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/fediverse/</loc>
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
@@ -29,9 +59,6 @@
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</loc>
-    <lastmod>2025-08-08T23:46:12+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/notebooklm/</loc>
@@ -190,9 +217,6 @@
     <loc>https://deuts.org/x/2025-07-16-23-11-12-01k09wm9sg8mdeadkvq4cdd2as/</loc>
     <lastmod>2025-07-16T23:11:12+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/plex/</loc>
-    <lastmod>2025-07-16T16:44:59+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/548-plex-api-documentation/</loc>
     <lastmod>2025-07-16T16:44:59+08:00</lastmod>
   </url><url>
@@ -240,9 +264,6 @@
   </url><url>
     <loc>https://deuts.org/x/544-signal-cli-rest-api/</loc>
     <lastmod>2025-07-11T07:12:35+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/media-server/</loc>
-    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/movies/</loc>
     <lastmod>2025-07-08T12:25:06+08:00</lastmod>
@@ -863,9 +884,6 @@
     <lastmod>2025-04-06T10:23:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/426-if-your-jellyfin-is-having-high-memory-usage-add-malloc-trim-threshold-100000-to-environment/</loc>
-    <lastmod>2025-03-31T10:57:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/jellyfin/</loc>
     <lastmod>2025-03-31T10:57:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-03-30-00-26-48-01jqhbmd2xbp7gv6me804qaswy/</loc>
@@ -2856,9 +2874,6 @@
   </url><url>
     <loc>https://deuts.org/x/189-what-s-running-docker-image/</loc>
     <lastmod>2024-09-20T22:58:33+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/cooking/</loc>
-    <lastmod>2024-09-19T08:37:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/188-flavormate-github/</loc>
     <lastmod>2024-09-19T08:37:24+08:00</lastmod>

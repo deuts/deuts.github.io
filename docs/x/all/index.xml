@@ -7,8 +7,142 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 08 Aug 2025 23:46:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 01:10:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanilla Cookbook</title>
+      <link>https://deuts.org/x/573-vanilla-cookbook/</link>
+      <pubDate>Sat, 09 Aug 2025 01:10:59 +0800</pubDate>
+      <guid>https://deuts.org/x/573-vanilla-cookbook/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-573&#34;&gt;&lt;a href=&#34;https://github.com/jt196/vanilla-cookbook&#34;&gt;Vanilla Cookbook&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-573 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Vanilla Cookbook is a self hosted recipe manager built with Svelte(kit). It is designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.&lt;/p&gt;
+&lt;p&gt;Most of the web&amp;rsquo;s recipes are stored as text, without much thought to a consistent language or structure. Many self-hosted apps go down the structuring route, automating, or asking the user to organise their data. This can lead to cluttered and complex interfaces, limiting user experiences to those technically minded. The philosophy behind Vanilla was to do as much as I could with that text as it was, limiting the work the user has to do to a minimum. You should be able to get cooking with a few clicks.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-573"><a href="https://github.com/jt196/vanilla-cookbook">Vanilla Cookbook</a></h3>
+<style>
+.favicon-573 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Vanilla Cookbook is a self hosted recipe manager built with Svelte(kit). It is designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.</p>
+<p>Most of the web&rsquo;s recipes are stored as text, without much thought to a consistent language or structure. Many self-hosted apps go down the structuring route, automating, or asking the user to organise their data. This can lead to cluttered and complex interfaces, limiting user experiences to those technically minded. The philosophy behind Vanilla was to do as much as I could with that text as it was, limiting the work the user has to do to a minimum. You should be able to get cooking with a few clicks.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    Could this be a lightweight Mealie alternative?
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tracktor</title>
+      <link>https://deuts.org/x/572-tracktor/</link>
+      <pubDate>Sat, 09 Aug 2025 01:05:44 +0800</pubDate>
+      <guid>https://deuts.org/x/572-tracktor/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-572&#34;&gt;&lt;a href=&#34;https://github.com/javedh-dev/tracktor&#34;&gt;Tracktor&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-572 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Vehicle Tracking Management System.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-572"><a href="https://github.com/javedh-dev/tracktor">Tracktor</a></h3>
+<style>
+.favicon-572 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Vehicle Tracking Management System.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Nevu - UI alternative to Plex</title>
+      <link>https://deuts.org/x/571-nevu-ui-alternative-to-plex/</link>
+      <pubDate>Sat, 09 Aug 2025 00:37:07 +0800</pubDate>
+      <guid>https://deuts.org/x/571-nevu-ui-alternative-to-plex/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-571&#34;&gt;&lt;a href=&#34;https://github.com/Ipmake/Nevu&#34;&gt;Nevu - UI alternative to Plex&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-571 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Nevu is a complete redesign of Plex&amp;rsquo;s UI using the plex media server API.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-571"><a href="https://github.com/Ipmake/Nevu">Nevu - UI alternative to Plex</a></h3>
+<style>
+.favicon-571 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Nevu is a complete redesign of Plex&rsquo;s UI using the plex media server API.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Finetic Jellyfin Client</title>
+      <link>https://deuts.org/x/570-finetic-jellyfin-client/</link>
+      <pubDate>Sat, 09 Aug 2025 00:27:31 +0800</pubDate>
+      <guid>https://deuts.org/x/570-finetic-jellyfin-client/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-570&#34;&gt;&lt;a href=&#34;https://github.com/AyaanZaveri/finetic&#34;&gt;Finetic Jellyfin Client&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-570 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Modern Jellyfin Client built w/ Next.js.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Time to revisit my preference of Plex over Jellyfin then?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-570"><a href="https://github.com/AyaanZaveri/finetic">Finetic Jellyfin Client</a></h3>
+<style>
+.favicon-570 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Modern Jellyfin Client built w/ Next.js.
+</blockquote>
+  
+<div class="linkding-notes">
+    Time to revisit my preference of Plex over Jellyfin then?
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>GoToSocial - ready for Prime Time?</title>
       <link>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</link>
@@ -173,134 +307,6 @@
 💥 With just the right amount of emoji<br>
 😎 Because sometimes, features deserve flair</p>
 <p>Don’t worry, no AI wrote this… probably. 🤖✍️</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sync-in</title>
-      <link>https://deuts.org/x/564-sync-in/</link>
-      <pubDate>Sat, 02 Aug 2025 01:21:57 +0800</pubDate>
-      <guid>https://deuts.org/x/564-sync-in/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-564&#34;&gt;&lt;a href=&#34;https://github.com/Sync-in/server&#34;&gt;Sync-in&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-564 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The secure, open-source platform for file storage, sharing, collaboration, and sync.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-564"><a href="https://github.com/Sync-in/server">Sync-in</a></h3>
-<style>
-.favicon-564 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The secure, open-source platform for file storage, sharing, collaboration, and sync.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>TaxHacker</title>
-      <link>https://deuts.org/x/563-taxhacker/</link>
-      <pubDate>Sat, 02 Aug 2025 01:13:43 +0800</pubDate>
-      <guid>https://deuts.org/x/563-taxhacker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-563&#34;&gt;&lt;a href=&#34;https://github.com/vas3k/TaxHacker&#34;&gt;TaxHacker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-563 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Hmmm, looks like Manager now has a contender. I just wish it has api endpoints and robust documentation. But I can query the Postgres database anyway, right?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-563"><a href="https://github.com/vas3k/TaxHacker">TaxHacker</a></h3>
-<style>
-.favicon-563 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-</blockquote>
-  
-<div class="linkding-notes">
-    Hmmm, looks like Manager now has a contender. I just wish it has api endpoints and robust documentation. But I can query the Postgres database anyway, right?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Portracker</title>
-      <link>https://deuts.org/x/562-portracker/</link>
-      <pubDate>Sat, 02 Aug 2025 01:05:20 +0800</pubDate>
-      <guid>https://deuts.org/x/562-portracker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-562&#34;&gt;&lt;a href=&#34;https://github.com/Mostafa-Wahied/portracker&#34;&gt;Portracker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-562 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-562"><a href="https://github.com/Mostafa-Wahied/portracker">Portracker</a></h3>
-<style>
-.favicon-562 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>DocMD</title>
-      <link>https://deuts.org/x/561-docmd/</link>
-      <pubDate>Sat, 02 Aug 2025 00:40:56 +0800</pubDate>
-      <guid>https://deuts.org/x/561-docmd/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-561&#34;&gt;&lt;a href=&#34;https://github.com/mgks/docmd&#34;&gt;DocMD&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-561 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Generate beautiful, lightweight static documentation sites from Markdown files.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-561"><a href="https://github.com/mgks/docmd">DocMD</a></h3>
-<style>
-.favicon-561 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Generate beautiful, lightweight static documentation sites from Markdown files.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
