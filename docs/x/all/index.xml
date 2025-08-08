@@ -7,8 +7,52 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 08 Aug 2025 11:31:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 23:46:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoToSocial - ready for Prime Time?</title>
+      <link>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</link>
+      <pubDate>Fri, 08 Aug 2025 23:46:12 +0800</pubDate>
+      <guid>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-569&#34;&gt;&lt;a href=&#34;https://blog.klein.ruhr/gotosocial-ready-for-prime-time/?ref=selfh.st&#34;&gt;GoToSocial - ready for Prime Time?&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-569 {
+    background: url(&#39;https://bm.deuts.org/static/https_blog_klein_ruhr.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Short answer: Hell yes.&lt;/p&gt;
+&lt;p&gt;After completing the full migration and running in production for weeks, I can confidently say GoToSocial is ready for serious use.&lt;/p&gt;
+&lt;p&gt;Perfect For: ✅&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Self-hosters with limited resources (VPS with 1-2GB RAM? No problem!)&lt;/li&gt;
+&lt;li&gt;Single-user or small family instances (works great up to ~50 users based on&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-569"><a href="https://blog.klein.ruhr/gotosocial-ready-for-prime-time/?ref=selfh.st">GoToSocial - ready for Prime Time?</a></h3>
+<style>
+.favicon-569 {
+    background: url('https://bm.deuts.org/static/https_blog_klein_ruhr.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Short answer: Hell yes.</p>
+<p>After completing the full migration and running in production for weeks, I can confidently say GoToSocial is ready for serious use.</p>
+<p>Perfect For: ✅</p>
+<ul>
+<li>Self-hosters with limited resources (VPS with 1-2GB RAM? No problem!)</li>
+<li>Single-user or small family instances (works great up to ~50 users based on</li>
+</ul>
+
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Open Notebook</title>
       <link>https://deuts.org/x/567-open-notebook/</link>
@@ -255,36 +299,6 @@
 
 <blockquote class="linkding-description">
     Generate beautiful, lightweight static documentation sites from Markdown files.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Docker Wakeup</title>
-      <link>https://deuts.org/x/560-docker-wakeup/</link>
-      <pubDate>Sat, 02 Aug 2025 00:33:07 +0800</pubDate>
-      <guid>https://deuts.org/x/560-docker-wakeup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-560&#34;&gt;&lt;a href=&#34;https://github.com/jelliott2021/DockerWakeUp&#34;&gt;Docker Wakeup&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-560 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An intelligent Docker container management system that automatically starts containers on-demand when accessed, stops idle containers to save resources, and generates NGINX configurations for seamless reverse proxy setup.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-560"><a href="https://github.com/jelliott2021/DockerWakeUp">Docker Wakeup</a></h3>
-<style>
-.favicon-560 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An intelligent Docker container management system that automatically starts containers on-demand when accessed, stops idle containers to save resources, and generates NGINX configurations for seamless reverse proxy setup.
 </blockquote>
   
 ]]></content:encoded>
