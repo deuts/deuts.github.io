@@ -7,8 +7,19 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 09 Aug 2025 01:10:59 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 22:46:04 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K2FBXPWVCJSCNWBAYMATJ0EX</title>
+      <link>https://deuts.org/x/2025-08-12-22-46-04-01k2fbxpwvcjscnwbaymatj0ex/</link>
+      <pubDate>Tue, 12 Aug 2025 22:46:04 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-12-22-46-04-01k2fbxpwvcjscnwbaymatj0ex/</guid>
+      <description>&lt;p&gt;So I tried &lt;a href=&#34;https://fediwall.social/?tags=OpenAI&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OpenAI&#34;&gt;#OpenAI&lt;/a&gt; OSS-GPT-20B on Ollama app on Windows 11 Pro running on my Beelink SER5 5560U Mini PC with 6C 12T CPU and 32GB of RAM, and it crawls like next to unusable. It seems you need a beefier rig than that &amp;ndash; so much more than the average household computer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OSSGPT20B&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OSSGPT20B&#34;&gt;#OSSGPT20B&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>So I tried <a href="https://fediwall.social/?tags=OpenAI&amp;accounts=&amp;lang=en&amp;title=%23OpenAI">#OpenAI</a> OSS-GPT-20B on Ollama app on Windows 11 Pro running on my Beelink SER5 5560U Mini PC with 6C 12T CPU and 32GB of RAM, and it crawls like next to unusable. It seems you need a beefier rig than that &ndash; so much more than the average household computer.</p>
+<p><a href="https://fediwall.social/?tags=OSSGPT20B&amp;accounts=&amp;lang=en&amp;title=%23OSSGPT20B">#OSSGPT20B</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Vanilla Cookbook</title>
       <link>https://deuts.org/x/573-vanilla-cookbook/</link>
@@ -284,29 +295,6 @@
       <guid>https://deuts.org/x/2025-08-06-00-15-41-01k1xg8r3r9gb0t1vad3r37yya/</guid>
       <description>&lt;p&gt;So, apparently &lt;a href=&#34;https://fediwall.social/?tags=NocoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NocoDB&#34;&gt;#NocoDB&lt;/a&gt; supports field permissions &amp;ndash; on its enterprise plans. This is where it is easily beaten by &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;. &lt;a href=&#34;https://deuts.org/p/grist-vs-nocodb/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>So, apparently <a href="https://fediwall.social/?tags=NocoDB&amp;accounts=&amp;lang=en&amp;title=%23NocoDB">#NocoDB</a> supports field permissions &ndash; on its enterprise plans. This is where it is easily beaten by <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a>. <a href="https://deuts.org/p/grist-vs-nocodb/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K1SHQTQGT4D30B1G4YD1JRY0</title>
-      <link>https://deuts.org/x/2025-08-04-11-24-26-01k1shqtqgt4d30b1g4yd1jry0/</link>
-      <pubDate>Mon, 04 Aug 2025 11:24:26 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-04-11-24-26-01k1shqtqgt4d30b1g4yd1jry0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://techhub.social/@ironicbadger&#34;&gt;@ironicbadger&lt;/a&gt; 👋 Hey Alex!&lt;/p&gt;
-&lt;p&gt;Introducing my latest post:&lt;br&gt;
-✨ Short&lt;br&gt;
-🧠 Smart&lt;br&gt;
-🎯 To the point&lt;br&gt;
-💥 With just the right amount of emoji&lt;br&gt;
-😎 Because sometimes, features deserve flair&lt;/p&gt;
-&lt;p&gt;Don’t worry, no AI wrote this… probably. 🤖✍️&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://techhub.social/@ironicbadger">@ironicbadger</a> 👋 Hey Alex!</p>
-<p>Introducing my latest post:<br>
-✨ Short<br>
-🧠 Smart<br>
-🎯 To the point<br>
-💥 With just the right amount of emoji<br>
-😎 Because sometimes, features deserve flair</p>
-<p>Don’t worry, no AI wrote this… probably. 🤖✍️</p>
 ]]></content:encoded>
     </item>
   </channel>
