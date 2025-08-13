@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 12 Aug 2025 22:46:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 23:05:06 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K2HZD8HSC0HEWR31S2A4YDTQ</title>
+      <link>https://deuts.org/x/2025-08-13-23-05-06-01k2hzd8hsc0hewr31s2a4ydtq/</link>
+      <pubDate>Wed, 13 Aug 2025 23:05:06 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-13-23-05-06-01k2hzd8hsc0hewr31s2a4ydtq/</guid>
+      <description>&lt;p&gt;To all the other &lt;a href=&#34;https://fediwall.social/?tags=GotoSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GotoSocial&#34;&gt;#GotoSocial&lt;/a&gt; instance owners, how large now is your sqlite.db? Mine&amp;rsquo;s 1.7GB so far, and that is just after running &lt;code&gt;VACUUM&lt;/code&gt; on it. Any help will be appreciated.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>To all the other <a href="https://fediwall.social/?tags=GotoSocial&amp;accounts=&amp;lang=en&amp;title=%23GotoSocial">#GotoSocial</a> instance owners, how large now is your sqlite.db? Mine&rsquo;s 1.7GB so far, and that is just after running <code>VACUUM</code> on it. Any help will be appreciated.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01K2FBXPWVCJSCNWBAYMATJ0EX</title>
       <link>https://deuts.org/x/2025-08-12-22-46-04-01k2fbxpwvcjscnwbaymatj0ex/</link>
@@ -286,15 +295,6 @@
     Everything you need: triggers, nodes, expressions, API requests, AI agents, Docker self-hosting, and shortcuts, all in one place.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K1XG8R3R9GB0T1VAD3R37YYA</title>
-      <link>https://deuts.org/x/2025-08-06-00-15-41-01k1xg8r3r9gb0t1vad3r37yya/</link>
-      <pubDate>Wed, 06 Aug 2025 00:15:41 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-06-00-15-41-01k1xg8r3r9gb0t1vad3r37yya/</guid>
-      <description>&lt;p&gt;So, apparently &lt;a href=&#34;https://fediwall.social/?tags=NocoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NocoDB&#34;&gt;#NocoDB&lt;/a&gt; supports field permissions &amp;ndash; on its enterprise plans. This is where it is easily beaten by &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;. &lt;a href=&#34;https://deuts.org/p/grist-vs-nocodb/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>So, apparently <a href="https://fediwall.social/?tags=NocoDB&amp;accounts=&amp;lang=en&amp;title=%23NocoDB">#NocoDB</a> supports field permissions &ndash; on its enterprise plans. This is where it is easily beaten by <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a>. <a href="https://deuts.org/p/grist-vs-nocodb/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
