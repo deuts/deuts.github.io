@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 13 Aug 2025 23:05:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 23:13:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K2HZX8579NZRHN04T7KK8HD3</title>
+      <link>https://deuts.org/x/2025-08-13-23-13-50-01k2hzx8579nzrhn04t7kk8hd3/</link>
+      <pubDate>Wed, 13 Aug 2025 23:13:50 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-13-23-13-50-01k2hzx8579nzrhn04t7kk8hd3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gts.doony.me/@julian&#34;&gt;@julian&lt;/a&gt; I wonder how much of that 9GB of &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; is the &lt;code&gt;sqlite.db&lt;/code&gt; alone? I&amp;rsquo;m already bothered with the 1.7GB size of my sqlite database.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://gts.doony.me/@julian">@julian</a> I wonder how much of that 9GB of <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> is the <code>sqlite.db</code> alone? I&rsquo;m already bothered with the 1.7GB size of my sqlite database.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01K2HZD8HSC0HEWR31S2A4YDTQ</title>
       <link>https://deuts.org/x/2025-08-13-23-05-06-01k2hzd8hsc0hewr31s2a4ydtq/</link>
@@ -16,6 +25,44 @@
       <guid>https://deuts.org/x/2025-08-13-23-05-06-01k2hzd8hsc0hewr31s2a4ydtq/</guid>
       <description>&lt;p&gt;To all the other &lt;a href=&#34;https://fediwall.social/?tags=GotoSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GotoSocial&#34;&gt;#GotoSocial&lt;/a&gt; instance owners, how large now is your sqlite.db? Mine&amp;rsquo;s 1.7GB so far, and that is just after running &lt;code&gt;VACUUM&lt;/code&gt; on it. Any help will be appreciated.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>To all the other <a href="https://fediwall.social/?tags=GotoSocial&amp;accounts=&amp;lang=en&amp;title=%23GotoSocial">#GotoSocial</a> instance owners, how large now is your sqlite.db? Mine&rsquo;s 1.7GB so far, and that is just after running <code>VACUUM</code> on it. Any help will be appreciated.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>VPS Monitor</title>
+      <link>https://deuts.org/x/574-vps-monitor/</link>
+      <pubDate>Wed, 13 Aug 2025 10:29:00 +0800</pubDate>
+      <guid>https://deuts.org/x/574-vps-monitor/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-574&#34;&gt;&lt;a href=&#34;https://github.com/hhftechnology/vps-monitor&#34;&gt;VPS Monitor&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-574 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A lightweight, Go-based VPS monitoring solution with real-time web dashboard supporting multiple agents. Monitor unlimited servers from a single dashboard with individual agent views and overview analytics.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    From the makers of Pangolin Tunnel.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-574"><a href="https://github.com/hhftechnology/vps-monitor">VPS Monitor</a></h3>
+<style>
+.favicon-574 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A lightweight, Go-based VPS monitoring solution with real-time web dashboard supporting multiple agents. Monitor unlimited servers from a single dashboard with individual agent views and overview analytics.
+</blockquote>
+  
+<div class="linkding-notes">
+    From the makers of Pangolin Tunnel.
+</div>
+  
 ]]></content:encoded>
     </item>
     <item>
@@ -233,66 +280,6 @@
 
 <blockquote class="linkding-description">
     An open source, privacy-focused alternative to Google&rsquo;s Notebook LM. Why give Google more of our data when we can take control of our own research workflows?
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Chess.com API in a Python package</title>
-      <link>https://deuts.org/x/566-chess-com-api-in-a-python-package/</link>
-      <pubDate>Wed, 06 Aug 2025 08:57:58 +0800</pubDate>
-      <guid>https://deuts.org/x/566-chess-com-api-in-a-python-package/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-566&#34;&gt;&lt;a href=&#34;https://pypi.org/project/chess.com/&#34;&gt;Chess.com API in a Python package&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-566 {
-    background: url(&#39;https://bm.deuts.org/static/https_pypi_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Python client for Chess.com API, which provides public data from chess.com website.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-566"><a href="https://pypi.org/project/chess.com/">Chess.com API in a Python package</a></h3>
-<style>
-.favicon-566 {
-    background: url('https://bm.deuts.org/static/https_pypi_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Python client for Chess.com API, which provides public data from chess.com website.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>n8n Cheat Sheet</title>
-      <link>https://deuts.org/x/565-n8n-cheat-sheet/</link>
-      <pubDate>Wed, 06 Aug 2025 07:41:34 +0800</pubDate>
-      <guid>https://deuts.org/x/565-n8n-cheat-sheet/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-565&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/n8n/s/lgccFKZ1wU&#34;&gt;n8n Cheat Sheet&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-565 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Everything you need: triggers, nodes, expressions, API requests, AI agents, Docker self-hosting, and shortcuts, all in one place.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-565"><a href="https://www.reddit.com/r/n8n/s/lgccFKZ1wU">n8n Cheat Sheet</a></h3>
-<style>
-.favicon-565 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Everything you need: triggers, nodes, expressions, API requests, AI agents, Docker self-hosting, and shortcuts, all in one place.
 </blockquote>
   
 ]]></content:encoded>
