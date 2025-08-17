@@ -7,8 +7,76 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 15 Aug 2025 18:35:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 01:00:05 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TaskTrove</title>
+      <link>https://deuts.org/x/578-tasktrove/</link>
+      <pubDate>Mon, 18 Aug 2025 01:00:05 +0800</pubDate>
+      <guid>https://deuts.org/x/578-tasktrove/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-578&#34;&gt;&lt;a href=&#34;https://github.com/dohsimpson/tasktrove&#34;&gt;TaskTrove&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-578 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    TaskTrove is a selfhosted Todoist-like todo / tasks list app.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Looks to me like Todoist interface.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-578"><a href="https://github.com/dohsimpson/tasktrove">TaskTrove</a></h3>
+<style>
+.favicon-578 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    TaskTrove is a selfhosted Todoist-like todo / tasks list app.
+</blockquote>
+  
+<div class="linkding-notes">
+    Looks to me like Todoist interface.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Spotizerr</title>
+      <link>https://deuts.org/x/575-spotizerr/</link>
+      <pubDate>Fri, 15 Aug 2025 23:08:40 +0800</pubDate>
+      <guid>https://deuts.org/x/575-spotizerr/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-575&#34;&gt;&lt;a href=&#34;https://github.com/Xoconoch/spotizerr&#34;&gt;Spotizerr&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-575 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Spotify music downloader with a lossless twist, based on the deezspot library
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-575"><a href="https://github.com/Xoconoch/spotizerr">Spotizerr</a></h3>
+<style>
+.favicon-575 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Spotify music downloader with a lossless twist, based on the deezspot library
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01K2PMR9EQVKA7B5VSN4SP0VQX</title>
       <link>https://deuts.org/x/2025-08-15-18-35-05-01k2pmr9eqvka7b5vsn4sp0vqx/</link>
@@ -177,88 +245,6 @@
 
 <blockquote class="linkding-description">
     Nevu is a complete redesign of Plex&rsquo;s UI using the plex media server API.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Finetic Jellyfin Client</title>
-      <link>https://deuts.org/x/570-finetic-jellyfin-client/</link>
-      <pubDate>Sat, 09 Aug 2025 00:27:31 +0800</pubDate>
-      <guid>https://deuts.org/x/570-finetic-jellyfin-client/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-570&#34;&gt;&lt;a href=&#34;https://github.com/AyaanZaveri/finetic&#34;&gt;Finetic Jellyfin Client&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-570 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Modern Jellyfin Client built w/ Next.js.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Time to revisit my preference of Plex over Jellyfin then?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-570"><a href="https://github.com/AyaanZaveri/finetic">Finetic Jellyfin Client</a></h3>
-<style>
-.favicon-570 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Modern Jellyfin Client built w/ Next.js.
-</blockquote>
-  
-<div class="linkding-notes">
-    Time to revisit my preference of Plex over Jellyfin then?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GoToSocial - ready for Prime Time?</title>
-      <link>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</link>
-      <pubDate>Fri, 08 Aug 2025 23:46:12 +0800</pubDate>
-      <guid>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-569&#34;&gt;&lt;a href=&#34;https://blog.klein.ruhr/gotosocial-ready-for-prime-time/&#34;&gt;GoToSocial - ready for Prime Time?&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-569 {
-    background: url(&#39;https://bm.deuts.org/static/https_blog_klein_ruhr.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Short answer: Hell yes.&lt;/p&gt;
-&lt;p&gt;After completing the full migration and running in production for weeks, I can confidently say GoToSocial is ready for serious use.&lt;/p&gt;
-&lt;p&gt;Perfect For: ✅&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Self-hosters with limited resources (VPS with 1-2GB RAM? No problem!)&lt;/li&gt;
-&lt;li&gt;Single-user or small family instances (works great up to ~50 users based on&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-569"><a href="https://blog.klein.ruhr/gotosocial-ready-for-prime-time/">GoToSocial - ready for Prime Time?</a></h3>
-<style>
-.favicon-569 {
-    background: url('https://bm.deuts.org/static/https_blog_klein_ruhr.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Short answer: Hell yes.</p>
-<p>After completing the full migration and running in production for weeks, I can confidently say GoToSocial is ready for serious use.</p>
-<p>Perfect For: ✅</p>
-<ul>
-<li>Self-hosters with limited resources (VPS with 1-2GB RAM? No problem!)</li>
-<li>Single-user or small family instances (works great up to ~50 users based on</li>
-</ul>
-
 </blockquote>
   
 ]]></content:encoded>
