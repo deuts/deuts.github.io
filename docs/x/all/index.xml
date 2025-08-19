@@ -48,6 +48,36 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Beelink auto start after power outage</title>
+      <link>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</link>
+      <pubDate>Sat, 16 Aug 2025 15:25:37 +0800</pubDate>
+      <guid>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-577&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/BeelinkOfficial/s/6NDrVFnwWD&#34;&gt;Beelink auto start after power outage&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-577 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Reddit thread discussing how to auto start Beelink system after a power outage.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-577"><a href="https://www.reddit.com/r/BeelinkOfficial/s/6NDrVFnwWD">Beelink auto start after power outage</a></h3>
+<style>
+.favicon-577 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Reddit thread discussing how to auto start Beelink system after a power outage.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Spotizerr</title>
       <link>https://deuts.org/x/575-spotizerr/</link>
       <pubDate>Fri, 15 Aug 2025 23:08:40 +0800</pubDate>
@@ -215,36 +245,6 @@
 
 <blockquote class="linkding-description">
     Vehicle Tracking Management System.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Nevu - UI alternative to Plex</title>
-      <link>https://deuts.org/x/571-nevu-ui-alternative-to-plex/</link>
-      <pubDate>Sat, 09 Aug 2025 00:37:07 +0800</pubDate>
-      <guid>https://deuts.org/x/571-nevu-ui-alternative-to-plex/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-571&#34;&gt;&lt;a href=&#34;https://github.com/Ipmake/Nevu&#34;&gt;Nevu - UI alternative to Plex&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-571 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Nevu is a complete redesign of Plex&amp;rsquo;s UI using the plex media server API.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-571"><a href="https://github.com/Ipmake/Nevu">Nevu - UI alternative to Plex</a></h3>
-<style>
-.favicon-571 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Nevu is a complete redesign of Plex&rsquo;s UI using the plex media server API.
 </blockquote>
   
 ]]></content:encoded>

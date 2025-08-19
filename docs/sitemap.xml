@@ -37,6 +37,15 @@
     <loc>https://deuts.org/k/todoist/</loc>
     <lastmod>2025-08-18T01:00:05+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/autostart/</loc>
+    <lastmod>2025-08-16T15:25:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/beelink/</loc>
+    <lastmod>2025-08-16T15:25:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</loc>
+    <lastmod>2025-08-16T15:25:37+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/k/music/</loc>
     <lastmod>2025-08-15T23:08:40+08:00</lastmod>
   </url><url>
@@ -3249,9 +3258,6 @@
   </url><url>
     <loc>https://deuts.org/x/98-docker-outline/</loc>
     <lastmod>2024-06-14T06:45:17+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/beelink/</loc>
-    <lastmod>2024-06-11T23:13:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/93-beelink-linux-wifi-issue/</loc>
     <lastmod>2024-06-11T23:13:00+08:00</lastmod>
