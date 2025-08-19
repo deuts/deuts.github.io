@@ -7,8 +7,49 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 18 Aug 2025 01:00:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 10:52:15 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian WriteAs Plugin</title>
+      <link>https://deuts.org/x/579-obsidian-writeas-plugin/</link>
+      <pubDate>Tue, 19 Aug 2025 10:52:15 +0800</pubDate>
+      <guid>https://deuts.org/x/579-obsidian-writeas-plugin/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-579&#34;&gt;&lt;a href=&#34;https://github.com/encima/obsidian-writeas-plugin&#34;&gt;Obsidian WriteAs Plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-579 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Publish notes to &lt;a href=&#34;https://write.as&#34;&gt;https://write.as&lt;/a&gt; or a self-hosted WriteFreely instance.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-579"><a href="https://github.com/encima/obsidian-writeas-plugin">Obsidian WriteAs Plugin</a></h3>
+<style>
+.favicon-579 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Publish notes to <a href="https://write.as">https://write.as</a> or a self-hosted WriteFreely instance.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K303Q2D9RFYKFJT4XMXGETM5</title>
+      <link>https://deuts.org/x/2025-08-19-10-49-44-01k303q2d9rfykfjt4xmxgetm5/</link>
+      <pubDate>Tue, 19 Aug 2025 10:49:44 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-08-19-10-49-44-01k303q2d9rfykfjt4xmxgetm5/</guid>
+      <description>&lt;p&gt;Now that &lt;a href=&#34;https://fediwall.social/?tags=Bases&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bases&#34;&gt;#Bases&lt;/a&gt; is generally available in the latest &lt;a href=&#34;https://fediwall.social/?tags=Obsidian&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Obsidian&#34;&gt;#Obsidian&lt;/a&gt; version, I think I want to start fresh and start a new vault. What about you?
+&lt;a href=&#34;https://www.reddit.com/r/ObsidianMD/comments/1mtxh52/obsidian_bases_now_available_to_everyone/&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Now that <a href="https://fediwall.social/?tags=Bases&amp;accounts=&amp;lang=en&amp;title=%23Bases">#Bases</a> is generally available in the latest <a href="https://fediwall.social/?tags=Obsidian&amp;accounts=&amp;lang=en&amp;title=%23Obsidian">#Obsidian</a> version, I think I want to start fresh and start a new vault. What about you?
+<a href="https://www.reddit.com/r/ObsidianMD/comments/1mtxh52/obsidian_bases_now_available_to_everyone/">www.reddit.com/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>TaskTrove</title>
       <link>https://deuts.org/x/578-tasktrove/</link>
@@ -181,72 +222,6 @@
 &lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OSSGPT20B&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OSSGPT20B&#34;&gt;#OSSGPT20B&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>So I tried <a href="https://fediwall.social/?tags=OpenAI&amp;accounts=&amp;lang=en&amp;title=%23OpenAI">#OpenAI</a> OSS-GPT-20B on Ollama app on Windows 11 Pro running on my Beelink SER5 5560U Mini PC with 6C 12T CPU and 32GB of RAM, and it crawls like next to unusable. It seems you need a beefier rig than that &ndash; so much more than the average household computer.</p>
 <p><a href="https://fediwall.social/?tags=OSSGPT20B&amp;accounts=&amp;lang=en&amp;title=%23OSSGPT20B">#OSSGPT20B</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Vanilla Cookbook</title>
-      <link>https://deuts.org/x/573-vanilla-cookbook/</link>
-      <pubDate>Sat, 09 Aug 2025 01:10:59 +0800</pubDate>
-      <guid>https://deuts.org/x/573-vanilla-cookbook/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-573&#34;&gt;&lt;a href=&#34;https://github.com/jt196/vanilla-cookbook&#34;&gt;Vanilla Cookbook&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-573 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Vanilla Cookbook is a self hosted recipe manager built with Svelte(kit). It is designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.&lt;/p&gt;
-&lt;p&gt;Most of the web&amp;rsquo;s recipes are stored as text, without much thought to a consistent language or structure. Many self-hosted apps go down the structuring route, automating, or asking the user to organise their data. This can lead to cluttered and complex interfaces, limiting user experiences to those technically minded. The philosophy behind Vanilla was to do as much as I could with that text as it was, limiting the work the user has to do to a minimum. You should be able to get cooking with a few clicks.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-573"><a href="https://github.com/jt196/vanilla-cookbook">Vanilla Cookbook</a></h3>
-<style>
-.favicon-573 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Vanilla Cookbook is a self hosted recipe manager built with Svelte(kit). It is designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.</p>
-<p>Most of the web&rsquo;s recipes are stored as text, without much thought to a consistent language or structure. Many self-hosted apps go down the structuring route, automating, or asking the user to organise their data. This can lead to cluttered and complex interfaces, limiting user experiences to those technically minded. The philosophy behind Vanilla was to do as much as I could with that text as it was, limiting the work the user has to do to a minimum. You should be able to get cooking with a few clicks.</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    Could this be a lightweight Mealie alternative?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tracktor</title>
-      <link>https://deuts.org/x/572-tracktor/</link>
-      <pubDate>Sat, 09 Aug 2025 01:05:44 +0800</pubDate>
-      <guid>https://deuts.org/x/572-tracktor/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-572&#34;&gt;&lt;a href=&#34;https://github.com/javedh-dev/tracktor&#34;&gt;Tracktor&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-572 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Vehicle Tracking Management System.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-572"><a href="https://github.com/javedh-dev/tracktor">Tracktor</a></h3>
-<style>
-.favicon-572 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Vehicle Tracking Management System.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
