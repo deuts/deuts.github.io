@@ -7,8 +7,42 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 19 Aug 2025 10:52:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 09:44:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub - TheFehr/n8n-nodes-pocketbase</title>
+      <link>https://deuts.org/x/588-github-thefehr-n8n-nodes-pocketbase/</link>
+      <pubDate>Mon, 25 Aug 2025 09:44:23 +0800</pubDate>
+      <guid>https://deuts.org/x/588-github-thefehr-n8n-nodes-pocketbase/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-588&#34;&gt;&lt;a href=&#34;https://github.com/TheFehr/n8n-nodes-pocketbase&#34;&gt;GitHub - TheFehr/n8n-nodes-pocketbase&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-588 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;This is a n8n community node. It lets you use PocketBase in your n8n workflows.&lt;/p&gt;
+&lt;p&gt;PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.&lt;/p&gt;
+
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-588"><a href="https://github.com/TheFehr/n8n-nodes-pocketbase">GitHub - TheFehr/n8n-nodes-pocketbase</a></h3>
+<style>
+.favicon-588 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>This is a n8n community node. It lets you use PocketBase in your n8n workflows.</p>
+<p>PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.</p>
+
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Obsidian WriteAs Plugin</title>
       <link>https://deuts.org/x/579-obsidian-writeas-plugin/</link>
@@ -211,17 +245,6 @@
     From the makers of Pangolin Tunnel.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K2FBXPWVCJSCNWBAYMATJ0EX</title>
-      <link>https://deuts.org/x/2025-08-12-22-46-04-01k2fbxpwvcjscnwbaymatj0ex/</link>
-      <pubDate>Tue, 12 Aug 2025 22:46:04 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-12-22-46-04-01k2fbxpwvcjscnwbaymatj0ex/</guid>
-      <description>&lt;p&gt;So I tried &lt;a href=&#34;https://fediwall.social/?tags=OpenAI&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OpenAI&#34;&gt;#OpenAI&lt;/a&gt; OSS-GPT-20B on Ollama app on Windows 11 Pro running on my Beelink SER5 5560U Mini PC with 6C 12T CPU and 32GB of RAM, and it crawls like next to unusable. It seems you need a beefier rig than that &amp;ndash; so much more than the average household computer.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OSSGPT20B&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OSSGPT20B&#34;&gt;#OSSGPT20B&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>So I tried <a href="https://fediwall.social/?tags=OpenAI&amp;accounts=&amp;lang=en&amp;title=%23OpenAI">#OpenAI</a> OSS-GPT-20B on Ollama app on Windows 11 Pro running on my Beelink SER5 5560U Mini PC with 6C 12T CPU and 32GB of RAM, and it crawls like next to unusable. It seems you need a beefier rig than that &ndash; so much more than the average household computer.</p>
-<p><a href="https://fediwall.social/?tags=OSSGPT20B&amp;accounts=&amp;lang=en&amp;title=%23OSSGPT20B">#OSSGPT20B</a></p>
 ]]></content:encoded>
     </item>
   </channel>
