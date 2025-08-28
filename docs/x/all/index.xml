@@ -123,6 +123,44 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Newsletterr</title>
+      <link>https://deuts.org/x/585-newsletterr/</link>
+      <pubDate>Fri, 22 Aug 2025 21:56:00 +0800</pubDate>
+      <guid>https://deuts.org/x/585-newsletterr/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-585&#34;&gt;&lt;a href=&#34;https://github.com/jma1ice/newsletterr&#34;&gt;Newsletterr&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-585 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Sometimes it&amp;rsquo;s too boring to stick to just Tautulli&amp;rsquo;s &lt;code&gt;Recently Added&lt;/code&gt; Newsletter.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-585"><a href="https://github.com/jma1ice/newsletterr">Newsletterr</a></h3>
+<style>
+.favicon-585 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
+</blockquote>
+  
+<div class="linkding-notes">
+    Sometimes it&rsquo;s too boring to stick to just Tautulli&rsquo;s <code>Recently Added</code> Newsletter.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Cron Master</title>
       <link>https://deuts.org/x/584-cron-master/</link>
       <pubDate>Fri, 22 Aug 2025 21:51:41 +0800</pubDate>
@@ -199,6 +237,36 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Wally</title>
+      <link>https://deuts.org/x/582-wally/</link>
+      <pubDate>Fri, 22 Aug 2025 10:38:19 +0800</pubDate>
+      <guid>https://deuts.org/x/582-wally/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-582&#34;&gt;&lt;a href=&#34;https://github.com/polius/Wally&#34;&gt;Wally&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-582 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Wally is a lightweight, self-hosted expense tracker that makes it easy to manage your finances..
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-582"><a href="https://github.com/polius/Wally">Wally</a></h3>
+<style>
+.favicon-582 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Wally is a lightweight, self-hosted expense tracker that makes it easy to manage your finances..
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Stellaris Cloud</title>
       <link>https://deuts.org/x/581-stellaris-cloud/</link>
       <pubDate>Fri, 22 Aug 2025 10:34:52 +0800</pubDate>
@@ -237,80 +305,46 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Obsidian WriteAs Plugin</title>
-      <link>https://deuts.org/x/579-obsidian-writeas-plugin/</link>
-      <pubDate>Tue, 19 Aug 2025 10:52:15 +0800</pubDate>
-      <guid>https://deuts.org/x/579-obsidian-writeas-plugin/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-579&#34;&gt;&lt;a href=&#34;https://github.com/encima/obsidian-writeas-plugin&#34;&gt;Obsidian WriteAs Plugin&lt;/a&gt;&lt;/h3&gt;
+      <title>Lichess Docker Image</title>
+      <link>https://deuts.org/x/580-lichess-docker-image/</link>
+      <pubDate>Thu, 21 Aug 2025 17:59:09 +0800</pubDate>
+      <guid>https://deuts.org/x/580-lichess-docker-image/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-580&#34;&gt;&lt;a href=&#34;https://github.com/lichess-org/lila-docker&#34;&gt;Lichess Docker Image&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-579 {
+.favicon-580 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Publish notes to &lt;a href=&#34;https://write.as&#34;&gt;https://write.as&lt;/a&gt; or a self-hosted WriteFreely instance.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-579"><a href="https://github.com/encima/obsidian-writeas-plugin">Obsidian WriteAs Plugin</a></h3>
-<style>
-.favicon-579 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Publish notes to <a href="https://write.as">https://write.as</a> or a self-hosted WriteFreely instance.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K303Q2D9RFYKFJT4XMXGETM5</title>
-      <link>https://deuts.org/x/2025-08-19-10-49-44-01k303q2d9rfykfjt4xmxgetm5/</link>
-      <pubDate>Tue, 19 Aug 2025 10:49:44 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-19-10-49-44-01k303q2d9rfykfjt4xmxgetm5/</guid>
-      <description>&lt;p&gt;Now that &lt;a href=&#34;https://fediwall.social/?tags=Bases&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Bases&#34;&gt;#Bases&lt;/a&gt; is generally available in the latest &lt;a href=&#34;https://fediwall.social/?tags=Obsidian&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Obsidian&#34;&gt;#Obsidian&lt;/a&gt; version, I think I want to start fresh and start a new vault. What about you?
-&lt;a href=&#34;https://www.reddit.com/r/ObsidianMD/comments/1mtxh52/obsidian_bases_now_available_to_everyone/&#34;&gt;www.reddit.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Now that <a href="https://fediwall.social/?tags=Bases&amp;accounts=&amp;lang=en&amp;title=%23Bases">#Bases</a> is generally available in the latest <a href="https://fediwall.social/?tags=Obsidian&amp;accounts=&amp;lang=en&amp;title=%23Obsidian">#Obsidian</a> version, I think I want to start fresh and start a new vault. What about you?
-<a href="https://www.reddit.com/r/ObsidianMD/comments/1mtxh52/obsidian_bases_now_available_to_everyone/">www.reddit.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>TaskTrove</title>
-      <link>https://deuts.org/x/578-tasktrove/</link>
-      <pubDate>Mon, 18 Aug 2025 01:00:05 +0800</pubDate>
-      <guid>https://deuts.org/x/578-tasktrove/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-578&#34;&gt;&lt;a href=&#34;https://github.com/dohsimpson/tasktrove&#34;&gt;TaskTrove&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-578 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    TaskTrove is a selfhosted Todoist-like todo / tasks list app.
+    Lichess local development using Docker Compose.
 &lt;/blockquote&gt;
   
 &lt;div class=&#34;linkding-notes&#34;&gt;
-    Looks to me like Todoist interface.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-578"><a href="https://github.com/dohsimpson/tasktrove">TaskTrove</a></h3>
+    &lt;p&gt;From the docs:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Starting new services may take 5-10 minutes. Some services will start before others and you may see errors in the logs until everything comes online.&lt;/p&gt;
+&lt;p&gt;Lila requires about 12GB of RAM to build. Make sure there is enough RAM available, especially when using Docker Desktop, which allocates 50% of the available RAM by default.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-580"><a href="https://github.com/lichess-org/lila-docker">Lichess Docker Image</a></h3>
 <style>
-.favicon-578 {
+.favicon-580 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    TaskTrove is a selfhosted Todoist-like todo / tasks list app.
+    Lichess local development using Docker Compose.
 </blockquote>
   
 <div class="linkding-notes">
-    Looks to me like Todoist interface.
+    <p>From the docs:</p>
+<blockquote>
+<p>Starting new services may take 5-10 minutes. Some services will start before others and you may see errors in the logs until everything comes online.</p>
+<p>Lila requires about 12GB of RAM to build. Make sure there is enough RAM available, especially when using Docker Desktop, which allocates 50% of the available RAM by default.</p></blockquote>
+<p>That doesn&rsquo;t look promising!</p>
+
 </div>
   
 ]]></content:encoded>
