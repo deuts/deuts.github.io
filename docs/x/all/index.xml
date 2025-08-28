@@ -63,6 +63,104 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>GoCron</title>
+      <link>https://deuts.org/x/587-gocron/</link>
+      <pubDate>Fri, 22 Aug 2025 22:02:37 +0800</pubDate>
+      <guid>https://deuts.org/x/587-gocron/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-587&#34;&gt;&lt;a href=&#34;https://github.com/flohoss/gocron&#34;&gt;GoCron&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-587 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A go based task scheduler with GUI.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-587"><a href="https://github.com/flohoss/gocron">GoCron</a></h3>
+<style>
+.favicon-587 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A go based task scheduler with GUI.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sousous personal finance</title>
+      <link>https://deuts.org/x/586-sousous-personal-finance/</link>
+      <pubDate>Fri, 22 Aug 2025 21:59:57 +0800</pubDate>
+      <guid>https://deuts.org/x/586-sousous-personal-finance/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-586&#34;&gt;&lt;a href=&#34;https://codeberg.org/tdelorge/sousous&#34;&gt;Sousous personal finance&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-586 {
+    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Sousous is a clean and lightweight personal finance app. It helps you track your expenses, categorize them, and get a quick view of your budget.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-586"><a href="https://codeberg.org/tdelorge/sousous">Sousous personal finance</a></h3>
+<style>
+.favicon-586 {
+    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Sousous is a clean and lightweight personal finance app. It helps you track your expenses, categorize them, and get a quick view of your budget.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cron Master</title>
+      <link>https://deuts.org/x/584-cron-master/</link>
+      <pubDate>Fri, 22 Aug 2025 21:51:41 +0800</pubDate>
+      <guid>https://deuts.org/x/584-cron-master/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-584&#34;&gt;&lt;a href=&#34;https://github.com/fccview/cronmaster&#34;&gt;Cron Master&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-584 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Cron management made easy.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This looked better than GoCron. Will still have to check this out.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-584"><a href="https://github.com/fccview/cronmaster">Cron Master</a></h3>
+<style>
+.favicon-584 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Cron management made easy.
+</blockquote>
+  
+<div class="linkding-notes">
+    This looked better than GoCron. Will still have to check this out.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
       <title>Advion Cockroach Control</title>
       <link>https://deuts.org/x/583-advion-cockroach-control/</link>
       <pubDate>Fri, 22 Aug 2025 10:49:40 +0800</pubDate>
@@ -96,6 +194,44 @@
   
 <div class="linkding-notes">
     Could be alternative to Blatanex.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stellaris Cloud</title>
+      <link>https://deuts.org/x/581-stellaris-cloud/</link>
+      <pubDate>Fri, 22 Aug 2025 10:34:52 +0800</pubDate>
+      <guid>https://deuts.org/x/581-stellaris-cloud/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-581&#34;&gt;&lt;a href=&#34;https://stellariscloud.com/&#34;&gt;Stellaris Cloud&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-581 {
+    background: url(&#39;https://bm.deuts.org/static/https_stellariscloud_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lombok is a free, open-source and self-hostable storage and compute platform that runs on any S3-compatible storage service. Deploy on minimal hardware, sync your files, and run custom apps — all while keeping your data sovereign.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Basically, this is a Nextcloud alternative? Not sure actually.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-581"><a href="https://stellariscloud.com/">Stellaris Cloud</a></h3>
+<style>
+.favicon-581 {
+    background: url('https://bm.deuts.org/static/https_stellariscloud_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lombok is a free, open-source and self-hostable storage and compute platform that runs on any S3-compatible storage service. Deploy on minimal hardware, sync your files, and run custom apps — all while keeping your data sovereign.
+</blockquote>
+  
+<div class="linkding-notes">
+    Basically, this is a Nextcloud alternative? Not sure actually.
 </div>
   
 ]]></content:encoded>
@@ -177,84 +313,6 @@
     Looks to me like Todoist interface.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Beelink auto start after power outage</title>
-      <link>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</link>
-      <pubDate>Sat, 16 Aug 2025 15:25:37 +0800</pubDate>
-      <guid>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-577&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/BeelinkOfficial/s/6NDrVFnwWD&#34;&gt;Beelink auto start after power outage&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-577 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Reddit thread discussing how to auto start Beelink system after a power outage.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-577"><a href="https://www.reddit.com/r/BeelinkOfficial/s/6NDrVFnwWD">Beelink auto start after power outage</a></h3>
-<style>
-.favicon-577 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Reddit thread discussing how to auto start Beelink system after a power outage.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Spotizerr</title>
-      <link>https://deuts.org/x/575-spotizerr/</link>
-      <pubDate>Fri, 15 Aug 2025 23:08:40 +0800</pubDate>
-      <guid>https://deuts.org/x/575-spotizerr/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-575&#34;&gt;&lt;a href=&#34;https://github.com/Xoconoch/spotizerr&#34;&gt;Spotizerr&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-575 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Spotify music downloader with a lossless twist, based on the deezspot library
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-575"><a href="https://github.com/Xoconoch/spotizerr">Spotizerr</a></h3>
-<style>
-.favicon-575 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Spotify music downloader with a lossless twist, based on the deezspot library
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K2PMR9EQVKA7B5VSN4SP0VQX</title>
-      <link>https://deuts.org/x/2025-08-15-18-35-05-01k2pmr9eqvka7b5vsn4sp0vqx/</link>
-      <pubDate>Fri, 15 Aug 2025 18:35:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-15-18-35-05-01k2pmr9eqvka7b5vsn4sp0vqx/</guid>
-      <description>&lt;p&gt;I want to love &lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt;, but in its current state, I can’t. I need support for custom fields, which the developer says is in the works. Until then, I’ll stick with &lt;a href=&#34;https://fediwall.social/?tags=PaperlessNGX&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessNGX&#34;&gt;#PaperlessNGX&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I want to love <a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a>, but in its current state, I can’t. I need support for custom fields, which the developer says is in the works. Until then, I’ll stick with <a href="https://fediwall.social/?tags=PaperlessNGX&amp;accounts=&amp;lang=en&amp;title=%23PaperlessNGX">#PaperlessNGX</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K2HZX8579NZRHN04T7KK8HD3</title>
-      <link>https://deuts.org/x/2025-08-13-23-13-50-01k2hzx8579nzrhn04t7kk8hd3/</link>
-      <pubDate>Wed, 13 Aug 2025 23:13:50 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-13-23-13-50-01k2hzx8579nzrhn04t7kk8hd3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://gts.doony.me/@julian&#34;&gt;@julian&lt;/a&gt; I wonder how much of that 9GB of &lt;a href=&#34;https://fediwall.social/?tags=GoToSocial&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GoToSocial&#34;&gt;#GoToSocial&lt;/a&gt; is the &lt;code&gt;sqlite.db&lt;/code&gt; alone? I&amp;rsquo;m already bothered with the 1.7GB size of my sqlite database.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://gts.doony.me/@julian">@julian</a> I wonder how much of that 9GB of <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> is the <code>sqlite.db</code> alone? I&rsquo;m already bothered with the 1.7GB size of my sqlite database.</p>
 ]]></content:encoded>
     </item>
   </channel>

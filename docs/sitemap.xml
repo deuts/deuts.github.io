@@ -40,11 +40,41 @@
     <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-08-25T09:44:23+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/cron/</loc>
+    <lastmod>2025-08-22T22:02:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/go/</loc>
+    <lastmod>2025-08-22T22:02:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/587-gocron/</loc>
+    <lastmod>2025-08-22T22:02:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/accounting/</loc>
+    <lastmod>2025-08-22T21:59:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-08-22T21:59:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/586-sousous-personal-finance/</loc>
+    <lastmod>2025-08-22T21:59:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/584-cron-master/</loc>
+    <lastmod>2025-08-22T21:51:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/crontab/</loc>
+    <lastmod>2025-08-22T21:51:41+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/583-advion-cockroach-control/</loc>
     <lastmod>2025-08-22T10:49:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/cockroach/</loc>
     <lastmod>2025-08-22T10:49:40+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/cloud/</loc>
+    <lastmod>2025-08-22T10:34:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/581-stellaris-cloud/</loc>
+    <lastmod>2025-08-22T10:34:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/blogging/</loc>
     <lastmod>2025-08-19T10:52:15+08:00</lastmod>
@@ -183,12 +213,6 @@
   </url><url>
     <loc>https://deuts.org/x/564-sync-in/</loc>
     <lastmod>2025-08-02T01:21:57+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/accounting/</loc>
-    <lastmod>2025-08-02T01:13:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2025-08-02T01:13:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/563-taxhacker/</loc>
     <lastmod>2025-08-02T01:13:43+08:00</lastmod>
@@ -496,12 +520,6 @@
     <loc>https://deuts.org/x/514-dory/</loc>
     <lastmod>2025-06-21T12:04:02+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/cron/</loc>
-    <lastmod>2025-06-21T11:53:08+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/crontab/</loc>
-    <lastmod>2025-06-21T11:53:08+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/513-dagu/</loc>
     <lastmod>2025-06-21T11:53:08+08:00</lastmod>
   </url><url>
@@ -677,9 +695,6 @@
     <lastmod>2025-05-28T09:14:27+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2025-05-28T08:57:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/go/</loc>
     <lastmod>2025-05-28T08:57:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/484-gomft-go-managed-file-transfer/</loc>
@@ -3170,9 +3185,6 @@
     <lastmod>2024-07-11T12:12:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/2fa/</loc>
-    <lastmod>2024-07-11T09:11:37+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/cloud/</loc>
     <lastmod>2024-07-11T09:11:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/128-ente-private-cloud-storage-for-your-photos-videos-and-more/</loc>
