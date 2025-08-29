@@ -7,8 +7,84 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 29 Aug 2025 07:42:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 01:36:47 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watch Digest</title>
+      <link>https://deuts.org/x/598-watch-digest/</link>
+      <pubDate>Sat, 30 Aug 2025 01:36:47 +0800</pubDate>
+      <guid>https://deuts.org/x/598-watch-digest/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-598&#34;&gt;&lt;a href=&#34;https://github.com/2boom-ua/watchdigest&#34;&gt;Watch Digest&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-598 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    WatchDigest is a monitoring tool that scans local Docker containers, checks whether their images are outdated, and optionally updates those images. It can notify you across a wide range of messaging platforms when updates are available or have been applied.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Watchtower has not been updated for a while now. Maybe this is a good alternative then.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-598"><a href="https://github.com/2boom-ua/watchdigest">Watch Digest</a></h3>
+<style>
+.favicon-598 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    WatchDigest is a monitoring tool that scans local Docker containers, checks whether their images are outdated, and optionally updates those images. It can notify you across a wide range of messaging platforms when updates are available or have been applied.
+</blockquote>
+  
+<div class="linkding-notes">
+    Watchtower has not been updated for a while now. Maybe this is a good alternative then.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Immich Drop</title>
+      <link>https://deuts.org/x/597-immich-drop/</link>
+      <pubDate>Sat, 30 Aug 2025 01:25:43 +0800</pubDate>
+      <guid>https://deuts.org/x/597-immich-drop/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-597&#34;&gt;&lt;a href=&#34;https://github.com/Nasogaa/immich-drop&#34;&gt;Immich Drop&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-597 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This could have been a good alternative to Wedding Share.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-597"><a href="https://github.com/Nasogaa/immich-drop">Immich Drop</a></h3>
+<style>
+.favicon-597 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server.
+</blockquote>
+  
+<div class="linkding-notes">
+    This could have been a good alternative to Wedding Share.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Pangolin Rule Updater</title>
       <link>https://deuts.org/x/593-pangolin-rule-updater/</link>
@@ -295,74 +371,6 @@ Price: $29/month or $129/Year</p>
 <div class="linkding-notes">
     This looked better than GoCron. Will still have to check this out.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Advion Cockroach Control</title>
-      <link>https://deuts.org/x/583-advion-cockroach-control/</link>
-      <pubDate>Fri, 22 Aug 2025 10:49:40 +0800</pubDate>
-      <guid>https://deuts.org/x/583-advion-cockroach-control/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-583&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/CasualPH/s/YmzWPHHsb1&#34;&gt;Advion Cockroach Control&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-583 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Reddit discussion on this particular solution.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Could be alternative to Blatanex.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-583"><a href="https://www.reddit.com/r/CasualPH/s/YmzWPHHsb1">Advion Cockroach Control</a></h3>
-<style>
-.favicon-583 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Reddit discussion on this particular solution.
-</blockquote>
-  
-<div class="linkding-notes">
-    Could be alternative to Blatanex.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Wally</title>
-      <link>https://deuts.org/x/582-wally/</link>
-      <pubDate>Fri, 22 Aug 2025 10:38:19 +0800</pubDate>
-      <guid>https://deuts.org/x/582-wally/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-582&#34;&gt;&lt;a href=&#34;https://github.com/polius/Wally&#34;&gt;Wally&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-582 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Wally is a lightweight, self-hosted expense tracker that makes it easy to manage your finances..
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-582"><a href="https://github.com/polius/Wally">Wally</a></h3>
-<style>
-.favicon-582 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Wally is a lightweight, self-hosted expense tracker that makes it easy to manage your finances..
-</blockquote>
   
 ]]></content:encoded>
     </item>
