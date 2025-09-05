@@ -7,8 +7,149 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 30 Aug 2025 01:47:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 23:08:12 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01K4D6QF7SC0HKYYJXNZE8M6ND</title>
+      <link>https://deuts.org/x/2025-09-05-23-08-12-01k4d6qf7sc0hkyyjxnze8m6nd/</link>
+      <pubDate>Fri, 05 Sep 2025 23:08:12 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-09-05-23-08-12-01k4d6qf7sc0hkyyjxnze8m6nd/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Senator Bam Aquino filed Senate Bill No. 1330 to establish a National Budget Blockchain System that will make every peso of public funds traceable, transparent, and auditable in real time. The measure tasks DICT, DBM, and COA to create a blockchain-based system with a public portal, enabling citizens and oversight bodies to monitor budget allocations and prevent hidden or fraudulent projects.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Now I&amp;rsquo;m skeptical.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Senator Bam Aquino filed Senate Bill No. 1330 to establish a National Budget Blockchain System that will make every peso of public funds traceable, transparent, and auditable in real time. The measure tasks DICT, DBM, and COA to create a blockchain-based system with a public portal, enabling citizens and oversight bodies to monitor budget allocations and prevent hidden or fraudulent projects.</p></blockquote>
+<p>Now I&rsquo;m skeptical.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Deploy a static WordPress site on Cloudflare pages</title>
+      <link>https://deuts.org/x/604-deploy-a-static-wordpress-site-on-cloudflare-pages/</link>
+      <pubDate>Thu, 04 Sep 2025 13:05:48 +0800</pubDate>
+      <guid>https://deuts.org/x/604-deploy-a-static-wordpress-site-on-cloudflare-pages/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-604&#34;&gt;&lt;a href=&#34;https://developers.cloudflare.com/pages/how-to/deploy-a-wordpress-site/&#34;&gt;Deploy a static WordPress site on Cloudflare pages&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-604 {
+    background: url(&#39;https://bm.deuts.org/static/https_developers_cloudflare_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this guide, you will use a WordPress plugin, Simply Static, to convert your existing WordPress site to a static website deployed with Cloudflare Pages.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-604"><a href="https://developers.cloudflare.com/pages/how-to/deploy-a-wordpress-site/">Deploy a static WordPress site on Cloudflare pages</a></h3>
+<style>
+.favicon-604 {
+    background: url('https://bm.deuts.org/static/https_developers_cloudflare_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this guide, you will use a WordPress plugin, Simply Static, to convert your existing WordPress site to a static website deployed with Cloudflare Pages.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intellidollar Budget Tracker</title>
+      <link>https://deuts.org/x/602-intellidollar-budget-tracker/</link>
+      <pubDate>Sat, 30 Aug 2025 02:01:39 +0800</pubDate>
+      <guid>https://deuts.org/x/602-intellidollar-budget-tracker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-602&#34;&gt;&lt;a href=&#34;https://github.com/TannerNelson16/intellidollar&#34;&gt;Intellidollar Budget Tracker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-602 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted budget tracking web app by Intellidwell
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-602"><a href="https://github.com/TannerNelson16/intellidollar">Intellidollar Budget Tracker</a></h3>
+<style>
+.favicon-602 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted budget tracking web app by Intellidwell
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Nginx Server Manager</title>
+      <link>https://deuts.org/x/601-nginx-server-manager/</link>
+      <pubDate>Sat, 30 Aug 2025 02:01:02 +0800</pubDate>
+      <guid>https://deuts.org/x/601-nginx-server-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-601&#34;&gt;&lt;a href=&#34;https://github.com/Adewagold/nginx-server-manager&#34;&gt;Nginx Server Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-601 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A modern, web-based nginx management platform for effortless site deployment, SSL certificate management, and file operations
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Basically, a direct alternative to NPM (Nginx Proxy Manager)
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-601"><a href="https://github.com/Adewagold/nginx-server-manager">Nginx Server Manager</a></h3>
+<style>
+.favicon-601 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A modern, web-based nginx management platform for effortless site deployment, SSL certificate management, and file operations
+</blockquote>
+  
+<div class="linkding-notes">
+    Basically, a direct alternative to NPM (Nginx Proxy Manager)
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>StencilBox</title>
+      <link>https://deuts.org/x/600-stencilbox/</link>
+      <pubDate>Sat, 30 Aug 2025 01:58:21 +0800</pubDate>
+      <guid>https://deuts.org/x/600-stencilbox/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-600&#34;&gt;&lt;a href=&#34;https://github.com/jamesread/StencilBox&#34;&gt;StencilBox&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-600 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Build YAML into super speedy simple static sites, with sleek templates.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-600"><a href="https://github.com/jamesread/StencilBox">StencilBox</a></h3>
+<style>
+.favicon-600 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Build YAML into super speedy simple static sites, with sleek templates.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Time Tracker</title>
       <link>https://deuts.org/x/599-time-tracker/</link>
@@ -211,157 +352,6 @@ Price: $29/month or $129/Year</p>
   
 <div class="linkding-notes">
     Just when I thought I got a steal 2 months ago, here comes along a better deal. O well!
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K3Q1NJ306AGNS54V1WF6PCDH</title>
-      <link>https://deuts.org/x/2025-08-28-08-36-29-01k3q1nj306agns54v1wf6pcdh/</link>
-      <pubDate>Thu, 28 Aug 2025 08:36:29 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-08-28-08-36-29-01k3q1nj306agns54v1wf6pcdh/</guid>
-      <description>&lt;p&gt;Looking for the Smart Multi SIM alterntives? These are your options:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;XeSIM &lt;a href=&#34;https://xesim.cc/&#34;&gt;xesim.cc/∞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;5ber.eSIM &lt;a href=&#34;https://esim.5ber.com/&#34;&gt;esim.5ber.com/∞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Switch eSIM &lt;a href=&#34;https://www.switchesim.com/&#34;&gt;www.switchesim.com/∞&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>Looking for the Smart Multi SIM alterntives? These are your options:</p>
-<ul>
-<li>XeSIM <a href="https://xesim.cc/">xesim.cc/∞</a></li>
-<li>5ber.eSIM <a href="https://esim.5ber.com/">esim.5ber.com/∞</a></li>
-<li>Switch eSIM <a href="https://www.switchesim.com/">www.switchesim.com/∞</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pocketbase n8n node</title>
-      <link>https://deuts.org/x/588-pocketbase-n8n-node/</link>
-      <pubDate>Mon, 25 Aug 2025 09:44:23 +0800</pubDate>
-      <guid>https://deuts.org/x/588-pocketbase-n8n-node/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-588&#34;&gt;&lt;a href=&#34;https://github.com/TheFehr/n8n-nodes-pocketbase&#34;&gt;Pocketbase n8n node&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-588 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;This is a n8n community node. It lets you use PocketBase in your n8n workflows.&lt;/p&gt;
-&lt;p&gt;PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.&lt;/p&gt;
-
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-588"><a href="https://github.com/TheFehr/n8n-nodes-pocketbase">Pocketbase n8n node</a></h3>
-<style>
-.favicon-588 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>This is a n8n community node. It lets you use PocketBase in your n8n workflows.</p>
-<p>PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.</p>
-
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GoCron</title>
-      <link>https://deuts.org/x/587-gocron/</link>
-      <pubDate>Fri, 22 Aug 2025 22:02:37 +0800</pubDate>
-      <guid>https://deuts.org/x/587-gocron/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-587&#34;&gt;&lt;a href=&#34;https://github.com/flohoss/gocron&#34;&gt;GoCron&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-587 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A go based task scheduler with GUI.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-587"><a href="https://github.com/flohoss/gocron">GoCron</a></h3>
-<style>
-.favicon-587 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A go based task scheduler with GUI.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sousous personal finance</title>
-      <link>https://deuts.org/x/586-sousous-personal-finance/</link>
-      <pubDate>Fri, 22 Aug 2025 21:59:57 +0800</pubDate>
-      <guid>https://deuts.org/x/586-sousous-personal-finance/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-586&#34;&gt;&lt;a href=&#34;https://codeberg.org/tdelorge/sousous&#34;&gt;Sousous personal finance&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-586 {
-    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Sousous is a clean and lightweight personal finance app. It helps you track your expenses, categorize them, and get a quick view of your budget.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-586"><a href="https://codeberg.org/tdelorge/sousous">Sousous personal finance</a></h3>
-<style>
-.favicon-586 {
-    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Sousous is a clean and lightweight personal finance app. It helps you track your expenses, categorize them, and get a quick view of your budget.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Newsletterr</title>
-      <link>https://deuts.org/x/585-newsletterr/</link>
-      <pubDate>Fri, 22 Aug 2025 21:56:00 +0800</pubDate>
-      <guid>https://deuts.org/x/585-newsletterr/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-585&#34;&gt;&lt;a href=&#34;https://github.com/jma1ice/newsletterr&#34;&gt;Newsletterr&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-585 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Sometimes it&amp;rsquo;s too boring to stick to just Tautulli&amp;rsquo;s &lt;code&gt;Recently Added&lt;/code&gt; Newsletter.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-585"><a href="https://github.com/jma1ice/newsletterr">Newsletterr</a></h3>
-<style>
-.favicon-585 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
-</blockquote>
-  
-<div class="linkding-notes">
-    Sometimes it&rsquo;s too boring to stick to just Tautulli&rsquo;s <code>Recently Added</code> Newsletter.
 </div>
   
 ]]></content:encoded>

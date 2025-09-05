@@ -16,16 +16,49 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/2025-09-05-23-08-12-01k4d6qf7sc0hkyyjxnze8m6nd/</loc>
+    <lastmod>2025-09-05T23:08:12+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-08-30T01:47:01+08:00</lastmod>
+    <lastmod>2025-09-05T23:08:12+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-08-30T01:47:01+08:00</lastmod>
+    <lastmod>2025-09-05T23:08:12+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/productivity/</loc>
-    <lastmod>2025-08-30T01:47:01+08:00</lastmod>
+    <loc>https://deuts.org/k/cloudflare/</loc>
+    <lastmod>2025-09-04T13:05:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/604-deploy-a-static-wordpress-site-on-cloudflare-pages/</loc>
+    <lastmod>2025-09-04T13:05:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/wordpress/</loc>
+    <lastmod>2025-09-04T13:05:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/602-intellidollar-budget-tracker/</loc>
+    <lastmod>2025-08-30T02:01:39+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-08-30T02:01:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-08-30T02:01:39+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/nginx/</loc>
+    <lastmod>2025-08-30T02:01:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/601-nginx-server-manager/</loc>
+    <lastmod>2025-08-30T02:01:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/reverseproxy/</loc>
+    <lastmod>2025-08-30T02:01:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/ssg/</loc>
+    <lastmod>2025-08-30T01:58:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/600-stencilbox/</loc>
+    <lastmod>2025-08-30T01:58:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/productivity/</loc>
     <lastmod>2025-08-30T01:47:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/599-time-tracker/</loc>
@@ -50,9 +83,6 @@
     <lastmod>2025-08-29T07:42:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/python/</loc>
-    <lastmod>2025-08-29T07:42:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/reverseproxy/</loc>
     <lastmod>2025-08-29T07:42:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/592-colocrossing-s-labor-day-sale-dedicated-servers-from-99-year-vps-with-2x-bandwidth-storage/</loc>
@@ -89,9 +119,6 @@
     <lastmod>2025-08-22T22:02:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/accounting/</loc>
-    <lastmod>2025-08-22T21:59:57+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
     <lastmod>2025-08-22T21:59:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/586-sousous-personal-finance/</loc>
@@ -278,9 +305,6 @@
     <lastmod>2025-08-02T00:40:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/documentation/</loc>
-    <lastmod>2025-08-02T00:40:56+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/ssg/</loc>
     <lastmod>2025-08-02T00:40:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/560-docker-wakeup/</loc>
@@ -851,9 +875,6 @@
     <lastmod>2025-05-06T11:09:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/json/</loc>
-    <lastmod>2025-05-06T11:09:44+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/wordpress/</loc>
     <lastmod>2025-05-06T11:09:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/wp_plugins/</loc>
@@ -1680,9 +1701,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-01-11-13-49-43-01jh9yjh27q8tr3xq47rgkfgqf/</loc>
     <lastmod>2025-01-11T13:49:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/cloudflare/</loc>
-    <lastmod>2025-01-11T00:55:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/335-sink-url-shortener/</loc>
     <lastmod>2025-01-11T00:55:44+08:00</lastmod>
