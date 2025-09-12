@@ -7,8 +7,73 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 00:59:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 00:58:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pocket 2FA</title>
+      <link>https://deuts.org/x/614-pocket-2fa/</link>
+      <pubDate>Sat, 13 Sep 2025 00:58:32 +0800</pubDate>
+      <guid>https://deuts.org/x/614-pocket-2fa/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-614&#34;&gt;&lt;a href=&#34;https://github.com/gmag11/Pocket2FA&#34;&gt;Pocket 2FA&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-614 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Mobile client for secure offline access to two-factor authentication codes with 2FAuth server synchronization.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This can be installed on your Android phone or Windows computer.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-614"><a href="https://github.com/gmag11/Pocket2FA">Pocket 2FA</a></h3>
+<style>
+.favicon-614 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Mobile client for secure offline access to two-factor authentication codes with 2FAuth server synchronization.
+</blockquote>
+  
+<div class="linkding-notes">
+    This can be installed on your Android phone or Windows computer.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K4RG2A8JVT8Q5H2Z4TTX5X5F</title>
+      <link>https://deuts.org/x/2025-09-10-08-23-03-01k4rg2a8jvt8q5h2z4ttx5x5f/</link>
+      <pubDate>Wed, 10 Sep 2025 08:23:03 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-09-10-08-23-03-01k4rg2a8jvt8q5h2z4ttx5x5f/</guid>
+      <description>&lt;p&gt;Finally took the plunge on the Samsung Galaxy S24 Ultra… in 2025. At ₱41,490 (down from its ₱84,990 launch price), the 18-month wait was worth it. Still flagship specs, but at half the cost.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Finally took the plunge on the Samsung Galaxy S24 Ultra… in 2025. At ₱41,490 (down from its ₱84,990 launch price), the 18-month wait was worth it. Still flagship specs, but at half the cost.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K4FPKXG4A939Z7RQFKG2NCFP</title>
+      <link>https://deuts.org/x/2025-09-06-22-24-22-01k4fpkxg4a939z7rqfkg2ncfp/</link>
+      <pubDate>Sat, 06 Sep 2025 22:24:22 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-09-06-22-24-22-01k4fpkxg4a939z7rqfkg2ncfp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://weaknotes.com/@david&#34;&gt;@david&lt;/a&gt; Thanks. I was just worried something is wrong with how I run it. Apparently that&amp;rsquo;s normal. Thanks anyway.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://weaknotes.com/@david">@david</a> Thanks. I was just worried something is wrong with how I run it. Apparently that&rsquo;s normal. Thanks anyway.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01K4FPHH8CSR9WNGB6KSM7PKWK</title>
+      <link>https://deuts.org/x/2025-09-06-22-23-03-01k4fphh8csr9wngb6ksm7pkwk/</link>
+      <pubDate>Sat, 06 Sep 2025 22:23:03 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-09-06-22-23-03-01k4fphh8csr9wngb6ksm7pkwk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gofer.social/@daj&#34;&gt;@daj&lt;/a&gt; I&amp;rsquo;m just wondering if that&amp;rsquo;s normal. Apparently it is. Thanks.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://gofer.social/@daj">@daj</a> I&rsquo;m just wondering if that&rsquo;s normal. Apparently it is. Thanks.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Sprout Track</title>
       <link>https://deuts.org/x/612-sprout-track/</link>
@@ -158,142 +223,6 @@
 <blockquote class="linkding-description">
     A self-hosted budget tracking web app by Intellidwell
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Nginx Server Manager</title>
-      <link>https://deuts.org/x/601-nginx-server-manager/</link>
-      <pubDate>Sat, 30 Aug 2025 02:01:02 +0800</pubDate>
-      <guid>https://deuts.org/x/601-nginx-server-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-601&#34;&gt;&lt;a href=&#34;https://github.com/Adewagold/nginx-server-manager&#34;&gt;Nginx Server Manager&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-601 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A modern, web-based nginx management platform for effortless site deployment, SSL certificate management, and file operations
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Basically, a direct alternative to NPM (Nginx Proxy Manager)
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-601"><a href="https://github.com/Adewagold/nginx-server-manager">Nginx Server Manager</a></h3>
-<style>
-.favicon-601 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A modern, web-based nginx management platform for effortless site deployment, SSL certificate management, and file operations
-</blockquote>
-  
-<div class="linkding-notes">
-    Basically, a direct alternative to NPM (Nginx Proxy Manager)
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>StencilBox</title>
-      <link>https://deuts.org/x/600-stencilbox/</link>
-      <pubDate>Sat, 30 Aug 2025 01:58:21 +0800</pubDate>
-      <guid>https://deuts.org/x/600-stencilbox/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-600&#34;&gt;&lt;a href=&#34;https://github.com/jamesread/StencilBox&#34;&gt;StencilBox&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-600 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Build YAML into super speedy simple static sites, with sleek templates.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-600"><a href="https://github.com/jamesread/StencilBox">StencilBox</a></h3>
-<style>
-.favicon-600 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Build YAML into super speedy simple static sites, with sleek templates.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Time Tracker</title>
-      <link>https://deuts.org/x/599-time-tracker/</link>
-      <pubDate>Sat, 30 Aug 2025 01:47:01 +0800</pubDate>
-      <guid>https://deuts.org/x/599-time-tracker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-599&#34;&gt;&lt;a href=&#34;https://github.com/DRYTRIX/TimeTracker&#34;&gt;Time Tracker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-599 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-599"><a href="https://github.com/DRYTRIX/TimeTracker">Time Tracker</a></h3>
-<style>
-.favicon-599 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A robust, self-hosted time tracking application designed for teams and freelancers who need reliable time management without cloud dependencies. Built with Flask and optimized for Raspberry Pi deployment, TimeTracker provides persistent timers, comprehensive reporting, and a modern web interface.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Watch Digest</title>
-      <link>https://deuts.org/x/598-watch-digest/</link>
-      <pubDate>Sat, 30 Aug 2025 01:36:47 +0800</pubDate>
-      <guid>https://deuts.org/x/598-watch-digest/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-598&#34;&gt;&lt;a href=&#34;https://github.com/2boom-ua/watchdigest&#34;&gt;Watch Digest&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-598 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    WatchDigest is a monitoring tool that scans local Docker containers, checks whether their images are outdated, and optionally updates those images. It can notify you across a wide range of messaging platforms when updates are available or have been applied.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Watchtower has not been updated for a while now. Maybe this is a good alternative then.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-598"><a href="https://github.com/2boom-ua/watchdigest">Watch Digest</a></h3>
-<style>
-.favicon-598 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    WatchDigest is a monitoring tool that scans local Docker containers, checks whether their images are outdated, and optionally updates those images. It can notify you across a wide range of messaging platforms when updates are available or have been applied.
-</blockquote>
-  
-<div class="linkding-notes">
-    Watchtower has not been updated for a while now. Maybe this is a good alternative then.
-</div>
   
 ]]></content:encoded>
     </item>

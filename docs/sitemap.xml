@@ -16,13 +16,28 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-09-06T00:59:21+08:00</lastmod>
+    <loc>https://deuts.org/k/2fa/</loc>
+    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/babies/</loc>
-    <lastmod>2025-09-06T00:59:21+08:00</lastmod>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/614-pocket-2fa/</loc>
+    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-09-10-08-23-03-01k4rg2a8jvt8q5h2z4ttx5x5f/</loc>
+    <lastmod>2025-09-10T08:23:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-09-06-22-24-22-01k4fpkxg4a939z7rqfkg2ncfp/</loc>
+    <lastmod>2025-09-06T22:24:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-09-06-22-23-03-01k4fphh8csr9wngb6ksm7pkwk/</loc>
+    <lastmod>2025-09-06T22:23:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/babies/</loc>
     <lastmod>2025-09-06T00:59:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/selfhosting/</loc>
@@ -396,6 +411,12 @@
   </url><url>
     <loc>https://deuts.org/k/rsync/</loc>
     <lastmod>2025-07-17T13:05:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/calendar/</loc>
+    <lastmod>2025-07-17T09:45:08+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/549-task-notes/</loc>
+    <lastmod>2025-07-17T09:45:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-07-17-00-26-15-01k0a0xqxkzv3vm07vbr1m1akz/</loc>
     <lastmod>2025-07-17T00:26:15+08:00</lastmod>
@@ -2602,6 +2623,9 @@
     <loc>https://deuts.org/x/262-opengist-is-a-self-hosted-pastebin-powered-by-git/</loc>
     <lastmod>2024-11-22T23:27:05+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/261-wedding-share/</loc>
+    <lastmod>2024-11-22T23:13:53+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/260-super-simple-url-shortener-service-ssurlss/</loc>
     <lastmod>2024-11-22T23:07:36+08:00</lastmod>
   </url><url>
@@ -3243,9 +3267,6 @@
   </url><url>
     <loc>https://deuts.org/x/129-baby-buddy-documentation/</loc>
     <lastmod>2024-07-11T12:12:01+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/2fa/</loc>
-    <lastmod>2024-07-11T09:11:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/128-ente-private-cloud-storage-for-your-photos-videos-and-more/</loc>
     <lastmod>2024-07-11T09:11:37+08:00</lastmod>
