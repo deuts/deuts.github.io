@@ -16,13 +16,19 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/2fa/</loc>
-    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-09-13T00:58:32+08:00</lastmod>
+    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/grist/</loc>
+    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/617-grist-attachment-viewer-widget/</loc>
+    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/2fa/</loc>
     <lastmod>2025-09-13T00:58:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/614-pocket-2fa/</loc>
@@ -630,9 +636,6 @@
   </url><url>
     <loc>https://deuts.org/t/power-query/</loc>
     <lastmod>2025-06-18T19:26:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/grist/</loc>
-    <lastmod>2025-06-18T09:38:25+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/512-grist-omnibus/</loc>
     <lastmod>2025-06-18T09:38:25+08:00</lastmod>
