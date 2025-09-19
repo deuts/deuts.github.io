@@ -7,8 +7,286 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 19 Sep 2025 23:55:28 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 00:37:11 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Superset</title>
+      <link>https://deuts.org/x/628-superset/</link>
+      <pubDate>Sat, 20 Sep 2025 00:37:11 +0800</pubDate>
+      <guid>https://deuts.org/x/628-superset/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-628&#34;&gt;&lt;a href=&#34;https://github.com/apache/superset&#34;&gt;Superset&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-628 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Apache Superset is a Data Visualization and Data Exploration Platform
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-628"><a href="https://github.com/apache/superset">Superset</a></h3>
+<style>
+.favicon-628 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Apache Superset is a Data Visualization and Data Exploration Platform
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Chhoto-URL</title>
+      <link>https://deuts.org/x/627-chhoto-url/</link>
+      <pubDate>Sat, 20 Sep 2025 00:35:50 +0800</pubDate>
+      <guid>https://deuts.org/x/627-chhoto-url/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-627&#34;&gt;&lt;a href=&#34;https://github.com/SinTan1729/chhoto-url&#34;&gt;Chhoto-URL&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-627 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-627"><a href="https://github.com/SinTan1729/chhoto-url">Chhoto-URL</a></h3>
+<style>
+.favicon-627 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FileSync</title>
+      <link>https://deuts.org/x/626-filesync/</link>
+      <pubDate>Sat, 20 Sep 2025 00:33:13 +0800</pubDate>
+      <guid>https://deuts.org/x/626-filesync/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-626&#34;&gt;&lt;a href=&#34;https://github.com/polius/FileSync?ref=selfh.st&#34;&gt;FileSync&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-626 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Send files from one device to many in real-time.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-626"><a href="https://github.com/polius/FileSync?ref=selfh.st">FileSync</a></h3>
+<style>
+.favicon-626 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Send files from one device to many in real-time.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Netgoat</title>
+      <link>https://deuts.org/x/625-netgoat/</link>
+      <pubDate>Sat, 20 Sep 2025 00:30:07 +0800</pubDate>
+      <guid>https://deuts.org/x/625-netgoat/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-625&#34;&gt;&lt;a href=&#34;https://github.com/cloudable-dev/netgoat?ref=selfh.st&#34;&gt;Netgoat&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-625 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-625"><a href="https://github.com/cloudable-dev/netgoat?ref=selfh.st">Netgoat</a></h3>
+<style>
+.favicon-625 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Visual DB — Web front end for your database</title>
+      <link>https://deuts.org/x/624-visual-db-web-front-end-for-your-database/</link>
+      <pubDate>Sat, 20 Sep 2025 00:28:33 +0800</pubDate>
+      <guid>https://deuts.org/x/624-visual-db-web-front-end-for-your-database/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-624&#34;&gt;&lt;a href=&#34;https://visualdb.com/&#34;&gt;Visual DB — Web front end for your database&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-624 {
+    background: url(&#39;https://bm.deuts.org/static/https_visualdb_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Visual DB empowers business users to create data entry forms, sheets and reports using a drag-and-drop interface.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wonder if this is one of those Airtable/NoCoDB alternatives? Or maybe that of Budibase?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-624"><a href="https://visualdb.com/">Visual DB — Web front end for your database</a></h3>
+<style>
+.favicon-624 {
+    background: url('https://bm.deuts.org/static/https_visualdb_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Visual DB empowers business users to create data entry forms, sheets and reports using a drag-and-drop interface.
+</blockquote>
+  
+<div class="linkding-notes">
+    I wonder if this is one of those Airtable/NoCoDB alternatives? Or maybe that of Budibase?
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Youtarr</title>
+      <link>https://deuts.org/x/623-youtarr/</link>
+      <pubDate>Sat, 20 Sep 2025 00:17:44 +0800</pubDate>
+      <guid>https://deuts.org/x/623-youtarr/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-623&#34;&gt;&lt;a href=&#34;https://github.com/DialmasterOrg/Youtarr?ref=selfh.st&#34;&gt;Youtarr&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-623 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An application to automate downloading of Youtube videos for Plex
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-623"><a href="https://github.com/DialmasterOrg/Youtarr?ref=selfh.st">Youtarr</a></h3>
+<style>
+.favicon-623 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An application to automate downloading of Youtube videos for Plex
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Invio</title>
+      <link>https://deuts.org/x/622-invio/</link>
+      <pubDate>Sat, 20 Sep 2025 00:12:40 +0800</pubDate>
+      <guid>https://deuts.org/x/622-invio/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-622&#34;&gt;&lt;a href=&#34;https://github.com/kittendevv/Invio?tab=readme-ov-file&#34;&gt;Invio&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-622 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open source minimalist invoice software.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-622"><a href="https://github.com/kittendevv/Invio?tab=readme-ov-file">Invio</a></h3>
+<style>
+.favicon-622 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open source minimalist invoice software.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HomeTube</title>
+      <link>https://deuts.org/x/621-hometube/</link>
+      <pubDate>Sat, 20 Sep 2025 00:10:57 +0800</pubDate>
+      <guid>https://deuts.org/x/621-hometube/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-621&#34;&gt;&lt;a href=&#34;https://github.com/EgalitarianMonkey/hometube?tab=readme-ov-file&#34;&gt;HomeTube&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-621 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    HomeTube is a featured friendly video downloader managing video URL into organized content for home media library.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-621"><a href="https://github.com/EgalitarianMonkey/hometube?tab=readme-ov-file">HomeTube</a></h3>
+<style>
+.favicon-621 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    HomeTube is a featured friendly video downloader managing video URL into organized content for home media library.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GitHub - mlapaglia/Borgitory: Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync</title>
+      <link>https://deuts.org/x/620-github-mlapaglia-borgitory-web-ui-for-managing-borgbackup-repositories-with-scheduling-monitoring-and-cloud-sync/</link>
+      <pubDate>Fri, 19 Sep 2025 23:58:06 +0800</pubDate>
+      <guid>https://deuts.org/x/620-github-mlapaglia-borgitory-web-ui-for-managing-borgbackup-repositories-with-scheduling-monitoring-and-cloud-sync/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-620&#34;&gt;&lt;a href=&#34;https://github.com/mlapaglia/Borgitory&#34;&gt;GitHub - mlapaglia/Borgitory: Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-620 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-620"><a href="https://github.com/mlapaglia/Borgitory">GitHub - mlapaglia/Borgitory: Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync</a></h3>
+<style>
+.favicon-620 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Diun Dash</title>
       <link>https://deuts.org/x/619-diun-dash/</link>
@@ -35,237 +313,6 @@
 
 <blockquote class="linkding-description">
     A web-based dashboard to visualize and manage Docker image update notifications from Diun
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Guide: Obsidian with free, self-hosted, instant sync</title>
-      <link>https://deuts.org/x/618-guide-obsidian-with-free-self-hosted-instant-sync/</link>
-      <pubDate>Fri, 19 Sep 2025 07:36:30 +0800</pubDate>
-      <guid>https://deuts.org/x/618-guide-obsidian-with-free-self-hosted-instant-sync/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-618&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/M6sfs6NVDk&#34;&gt;Guide: Obsidian with free, self-hosted, instant sync&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-618 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I&amp;rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&amp;rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&amp;rsquo;m doing, so take my guide with a pinch of salt.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-618"><a href="https://www.reddit.com/r/selfhosted/s/M6sfs6NVDk">Guide: Obsidian with free, self-hosted, instant sync</a></h3>
-<style>
-.favicon-618 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I&rsquo;ve been using Obsidian with the LiveSync plugin by vrtmrz for over a month now and not counting the Arr stack, this plugin is without a doubt, the single-best self-hosted service that I run on my server. I use it multiple times a day and at this point I can&rsquo;t live without it. So I decided to contribute back to the community, which has taught me so much, by sharing my experience and also writing a detailed guide. I found that most guides gloss over crucial steps, but then again I rarely know what I&rsquo;m doing, so take my guide with a pinch of salt.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Grist attachment viewer widget</title>
-      <link>https://deuts.org/x/617-grist-attachment-viewer-widget/</link>
-      <pubDate>Tue, 16 Sep 2025 00:16:58 +0800</pubDate>
-      <guid>https://deuts.org/x/617-grist-attachment-viewer-widget/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-617&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/attachment-viewer-widget-needed/11558/3&#34;&gt;Grist attachment viewer widget&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-617 {
-    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I’m really surprised that there’s no built-in custom widget for viewing attachments.  It was easy enough for ChatGPT to make one for me with the Custom Widget Builder, but given the existence of the image viewer widget, it seems like something like this should be built-in.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-617"><a href="https://community.getgrist.com/t/attachment-viewer-widget-needed/11558/3">Grist attachment viewer widget</a></h3>
-<style>
-.favicon-617 {
-    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I’m really surprised that there’s no built-in custom widget for viewing attachments.  It was easy enough for ChatGPT to make one for me with the Custom Widget Builder, but given the existence of the image viewer widget, it seems like something like this should be built-in.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PSE Data Scraper</title>
-      <link>https://deuts.org/x/616-pse-data-scraper/</link>
-      <pubDate>Sun, 14 Sep 2025 20:03:18 +0800</pubDate>
-      <guid>https://deuts.org/x/616-pse-data-scraper/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-616&#34;&gt;&lt;a href=&#34;https://github.com/mmangkad/pse-data-scraper&#34;&gt;PSE Data Scraper&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-616 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Python scripts for retrieving PSE stocks data via API.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Serves to me like a reference for my n8n workflow.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-616"><a href="https://github.com/mmangkad/pse-data-scraper">PSE Data Scraper</a></h3>
-<style>
-.favicon-616 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Python scripts for retrieving PSE stocks data via API.
-</blockquote>
-  
-<div class="linkding-notes">
-    Serves to me like a reference for my n8n workflow.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pocket 2FA</title>
-      <link>https://deuts.org/x/614-pocket-2fa/</link>
-      <pubDate>Sat, 13 Sep 2025 00:58:32 +0800</pubDate>
-      <guid>https://deuts.org/x/614-pocket-2fa/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-614&#34;&gt;&lt;a href=&#34;https://github.com/gmag11/Pocket2FA&#34;&gt;Pocket 2FA&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-614 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Mobile client for secure offline access to two-factor authentication codes with 2FAuth server synchronization.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This can be installed on your Android phone or Windows computer.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-614"><a href="https://github.com/gmag11/Pocket2FA">Pocket 2FA</a></h3>
-<style>
-.favicon-614 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Mobile client for secure offline access to two-factor authentication codes with 2FAuth server synchronization.
-</blockquote>
-  
-<div class="linkding-notes">
-    This can be installed on your Android phone or Windows computer.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K4RG2A8JVT8Q5H2Z4TTX5X5F</title>
-      <link>https://deuts.org/x/2025-09-10-08-23-03-01k4rg2a8jvt8q5h2z4ttx5x5f/</link>
-      <pubDate>Wed, 10 Sep 2025 08:23:03 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-09-10-08-23-03-01k4rg2a8jvt8q5h2z4ttx5x5f/</guid>
-      <description>&lt;p&gt;Finally took the plunge on the Samsung Galaxy S24 Ultra… in 2025. At ₱41,490 (down from its ₱84,990 launch price), the 18-month wait was worth it. Still flagship specs, but at half the cost.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Finally took the plunge on the Samsung Galaxy S24 Ultra… in 2025. At ₱41,490 (down from its ₱84,990 launch price), the 18-month wait was worth it. Still flagship specs, but at half the cost.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K4FPKXG4A939Z7RQFKG2NCFP</title>
-      <link>https://deuts.org/x/2025-09-06-22-24-22-01k4fpkxg4a939z7rqfkg2ncfp/</link>
-      <pubDate>Sat, 06 Sep 2025 22:24:22 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-09-06-22-24-22-01k4fpkxg4a939z7rqfkg2ncfp/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://weaknotes.com/@david&#34;&gt;@david&lt;/a&gt; Thanks. I was just worried something is wrong with how I run it. Apparently that&amp;rsquo;s normal. Thanks anyway.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://weaknotes.com/@david">@david</a> Thanks. I was just worried something is wrong with how I run it. Apparently that&rsquo;s normal. Thanks anyway.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01K4FPHH8CSR9WNGB6KSM7PKWK</title>
-      <link>https://deuts.org/x/2025-09-06-22-23-03-01k4fphh8csr9wngb6ksm7pkwk/</link>
-      <pubDate>Sat, 06 Sep 2025 22:23:03 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-09-06-22-23-03-01k4fphh8csr9wngb6ksm7pkwk/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://gofer.social/@daj&#34;&gt;@daj&lt;/a&gt; I&amp;rsquo;m just wondering if that&amp;rsquo;s normal. Apparently it is. Thanks.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://gofer.social/@daj">@daj</a> I&rsquo;m just wondering if that&rsquo;s normal. Apparently it is. Thanks.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sprout Track</title>
-      <link>https://deuts.org/x/612-sprout-track/</link>
-      <pubDate>Sat, 06 Sep 2025 00:59:21 +0800</pubDate>
-      <guid>https://deuts.org/x/612-sprout-track/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-612&#34;&gt;&lt;a href=&#34;https://github.com/Oak-and-Sprout/sprout-track&#34;&gt;Sprout Track&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-612 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A tracker to track baby diapers, feedings, naps, pumping, and other activities.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Alternative to Baby Buddy?
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-612"><a href="https://github.com/Oak-and-Sprout/sprout-track">Sprout Track</a></h3>
-<style>
-.favicon-612 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A tracker to track baby diapers, feedings, naps, pumping, and other activities.
-</blockquote>
-  
-<div class="linkding-notes">
-    Alternative to Baby Buddy?
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Budget Board</title>
-      <link>https://deuts.org/x/611-budget-board/</link>
-      <pubDate>Sat, 06 Sep 2025 00:45:13 +0800</pubDate>
-      <guid>https://deuts.org/x/611-budget-board/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-611&#34;&gt;&lt;a href=&#34;https://github.com/teelur/budget-board&#34;&gt;Budget Board&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-611 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple app for tracking monthly spending and working towards financial goals.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-611"><a href="https://github.com/teelur/budget-board">Budget Board</a></h3>
-<style>
-.favicon-611 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simple app for tracking monthly spending and working towards financial goals.
 </blockquote>
   
 ]]></content:encoded>
