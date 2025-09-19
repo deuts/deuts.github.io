@@ -17,16 +17,43 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+    <lastmod>2025-09-19T23:55:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+    <lastmod>2025-09-19T23:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/619-diun-dash/</loc>
+    <lastmod>2025-09-19T23:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-09-19T23:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-09-19T23:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/618-guide-obsidian-with-free-self-hosted-instant-sync/</loc>
+    <lastmod>2025-09-19T07:36:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/obsidian/</loc>
+    <lastmod>2025-09-19T07:36:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/grist/</loc>
     <lastmod>2025-09-16T00:16:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/617-grist-attachment-viewer-widget/</loc>
     <lastmod>2025-09-16T00:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pse/</loc>
+    <lastmod>2025-09-14T20:03:18+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/616-pse-data-scraper/</loc>
+    <lastmod>2025-09-14T20:03:18+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2025-09-14T20:03:18+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/stocks/</loc>
+    <lastmod>2025-09-14T20:03:18+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/2fa/</loc>
     <lastmod>2025-09-13T00:58:32+08:00</lastmod>
@@ -44,9 +71,6 @@
     <lastmod>2025-09-06T22:23:03+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/babies/</loc>
-    <lastmod>2025-09-06T00:59:21+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-09-06T00:59:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/612-sprout-track/</loc>
@@ -97,9 +121,6 @@
     <loc>https://deuts.org/x/599-time-tracker/</loc>
     <lastmod>2025-08-30T01:47:01+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-08-30T01:36:47+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/598-watch-digest/</loc>
     <lastmod>2025-08-30T01:36:47+08:00</lastmod>
   </url><url>
@@ -113,9 +134,6 @@
     <lastmod>2025-08-30T01:25:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/593-pangolin-rule-updater/</loc>
-    <lastmod>2025-08-29T07:42:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/python/</loc>
     <lastmod>2025-08-29T07:42:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/592-colocrossing-s-labor-day-sale-dedicated-servers-from-99-year-vps-with-2x-bandwidth-storage/</loc>
@@ -200,9 +218,6 @@
     <lastmod>2025-08-21T17:59:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/blogging/</loc>
-    <lastmod>2025-08-19T10:52:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/obsidian/</loc>
     <lastmod>2025-08-19T10:52:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/579-obsidian-writeas-plugin/</loc>
