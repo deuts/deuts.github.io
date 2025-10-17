@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 23:08:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 23:34:33 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YaTHS - Yet another Tiny HTTP-Server</title>
+      <link>https://deuts.org/x/653-yaths-yet-another-tiny-http-server/</link>
+      <pubDate>Fri, 17 Oct 2025 23:34:33 +0800</pubDate>
+      <guid>https://deuts.org/x/653-yaths-yet-another-tiny-http-server/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-653&#34;&gt;&lt;a href=&#34;https://github.com/al-sca/yaths&#34;&gt;YaTHS - Yet another Tiny HTTP-Server&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-653 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Ultra-lightweight HTTP file server for directory browsing and local development - al-sca/yaths
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-653"><a href="https://github.com/al-sca/yaths">YaTHS - Yet another Tiny HTTP-Server</a></h3>
+<style>
+.favicon-653 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Ultra-lightweight HTTP file server for directory browsing and local development - al-sca/yaths
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Poznote</title>
       <link>https://deuts.org/x/652-poznote/</link>
@@ -283,36 +313,6 @@
 
 <blockquote class="linkding-description">
     Modern Docker container monitoring with auto-restart and alerts
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>4ev.link</title>
-      <link>https://deuts.org/x/635-4ev-link/</link>
-      <pubDate>Sat, 04 Oct 2025 01:07:52 +0800</pubDate>
-      <guid>https://deuts.org/x/635-4ev-link/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-635&#34;&gt;&lt;a href=&#34;https://github.com/4ev-link/4ev.link&#34;&gt;4ev.link&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-635 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    If you want short custom urls, like url shortening to a custom slug
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-635"><a href="https://github.com/4ev-link/4ev.link">4ev.link</a></h3>
-<style>
-.favicon-635 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    If you want short custom urls, like url shortening to a custom slug
 </blockquote>
   
 ]]></content:encoded>
