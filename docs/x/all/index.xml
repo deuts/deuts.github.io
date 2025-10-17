@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 10:46:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 23:08:07 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poznote</title>
+      <link>https://deuts.org/x/652-poznote/</link>
+      <pubDate>Fri, 17 Oct 2025 23:08:07 +0800</pubDate>
+      <guid>https://deuts.org/x/652-poznote/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-652&#34;&gt;&lt;a href=&#34;https://github.com/timothepoznanski/poznote&#34;&gt;Poznote&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-652 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Poznote is a personal, free, self-hosted, simple and intuitive note manager.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-652"><a href="https://github.com/timothepoznanski/poznote">Poznote</a></h3>
+<style>
+.favicon-652 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Poznote is a personal, free, self-hosted, simple and intuitive note manager.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>DediRock Launches STORAGE WARS! Get Ultra-Cheap (And We Do Mean Ultra-Cheap) Pricing on Huge Storage Boxes!</title>
       <link>https://deuts.org/x/648-dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/</link>
@@ -283,36 +313,6 @@
 
 <blockquote class="linkding-description">
     If you want short custom urls, like url shortening to a custom slug
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pgbackweb</title>
-      <link>https://deuts.org/x/634-pgbackweb/</link>
-      <pubDate>Sat, 04 Oct 2025 00:59:09 +0800</pubDate>
-      <guid>https://deuts.org/x/634-pgbackweb/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-634&#34;&gt;&lt;a href=&#34;https://github.com/eduardolat/pgbackweb&#34;&gt;Pgbackweb&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-634 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Effortless PostgreSQL backups with a user-friendly web interface
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-634"><a href="https://github.com/eduardolat/pgbackweb">Pgbackweb</a></h3>
-<style>
-.favicon-634 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Effortless PostgreSQL backups with a user-friendly web interface
 </blockquote>
   
 ]]></content:encoded>
