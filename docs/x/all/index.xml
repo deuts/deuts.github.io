@@ -7,8 +7,240 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 23:34:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 11:23:33 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rachoon</title>
+      <link>https://deuts.org/x/665-rachoon/</link>
+      <pubDate>Mon, 03 Nov 2025 11:23:33 +0800</pubDate>
+      <guid>https://deuts.org/x/665-rachoon/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-665&#34;&gt;&lt;a href=&#34;https://github.com/ad-on-is/rachoon&#34;&gt;Rachoon&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-665 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hostable way to handle invoices
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-665"><a href="https://github.com/ad-on-is/rachoon">Rachoon</a></h3>
+<style>
+.favicon-665 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hostable way to handle invoices
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Alexandrie Notes</title>
+      <link>https://deuts.org/x/664-alexandrie-notes/</link>
+      <pubDate>Mon, 03 Nov 2025 11:21:29 +0800</pubDate>
+      <guid>https://deuts.org/x/664-alexandrie-notes/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-664&#34;&gt;&lt;a href=&#34;https://github.com/Smaug6739/Alexandrie&#34;&gt;Alexandrie Notes&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-664 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A fast, open-source Markdown note-taking app for students and creators
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another one of those Obsidian-style note-taking app.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-664"><a href="https://github.com/Smaug6739/Alexandrie">Alexandrie Notes</a></h3>
+<style>
+.favicon-664 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A fast, open-source Markdown note-taking app for students and creators
+</blockquote>
+  
+<div class="linkding-notes">
+    Another one of those Obsidian-style note-taking app.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Favicon API</title>
+      <link>https://deuts.org/x/663-favicon-api/</link>
+      <pubDate>Mon, 03 Nov 2025 11:12:52 +0800</pubDate>
+      <guid>https://deuts.org/x/663-favicon-api/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-663&#34;&gt;&lt;a href=&#34;https://github.com/vemetric/favicon-api&#34;&gt;Favicon API&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-663 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Free and open-source API to fetch favicons from any website.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-663"><a href="https://github.com/vemetric/favicon-api">Favicon API</a></h3>
+<style>
+.favicon-663 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Free and open-source API to fetch favicons from any website.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Grist CTL</title>
+      <link>https://deuts.org/x/662-grist-ctl/</link>
+      <pubDate>Mon, 03 Nov 2025 10:58:46 +0800</pubDate>
+      <guid>https://deuts.org/x/662-grist-ctl/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-662&#34;&gt;&lt;a href=&#34;https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl&#34;&gt;Grist CTL&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-662 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Command-line tool for interacting with Grist.&lt;/p&gt;
+&lt;p&gt;Grist is a versatile platform for creating and managing custom data applications. It blends the capabilities of a relational database with the adaptability of a spreadsheet, empowering users to design advanced data workflows, collaborate in real-time, and automate tasks—all without requiring code.&lt;/p&gt;
+
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-662"><a href="https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl">Grist CTL</a></h3>
+<style>
+.favicon-662 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Command-line tool for interacting with Grist.</p>
+<p>Grist is a versatile platform for creating and managing custom data applications. It blends the capabilities of a relational database with the adaptability of a spreadsheet, empowering users to design advanced data workflows, collaborate in real-time, and automate tasks—all without requiring code.</p>
+
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators</title>
+      <link>https://deuts.org/x/661-how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg-showcase-grist-creators/</link>
+      <pubDate>Mon, 03 Nov 2025 10:44:57 +0800</pubDate>
+      <guid>https://deuts.org/x/661-how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg-showcase-grist-creators/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-661&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg/12284&#34;&gt;How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-661 {
+    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    First, excuse my English for I’m a French Grist enthusiast. I searched for weeks a way to send a PDF file once a form has been submitted in order the user gets a ready-to-print summary of what he’d just filled.&lt;br&gt;
+Thanks t…
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is what we might have been needing all along, automatic creation of PDF from our Grist data. We need to explore this further.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-661"><a href="https://community.getgrist.com/t/how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg/12284">How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators</a></h3>
+<style>
+.favicon-661 {
+    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    First, excuse my English for I’m a French Grist enthusiast. I searched for weeks a way to send a PDF file once a form has been submitted in order the user gets a ready-to-print summary of what he’d just filled.<br>
+Thanks t…
+</blockquote>
+  
+<div class="linkding-notes">
+    This is what we might have been needing all along, automatic creation of PDF from our Grist data. We need to explore this further.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Service ticketing systems</title>
+      <link>https://deuts.org/x/655-service-ticketing-systems/</link>
+      <pubDate>Fri, 24 Oct 2025 23:57:15 +0800</pubDate>
+      <guid>https://deuts.org/x/655-service-ticketing-systems/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-655&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/sysadmin/s/JhxchJXaZF&#34;&gt;Service ticketing systems&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-655 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Hesk, redmine, zammad
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-655"><a href="https://www.reddit.com/r/sysadmin/s/JhxchJXaZF">Service ticketing systems</a></h3>
+<style>
+.favicon-655 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Hesk, redmine, zammad
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Notebook Navigator - Modern File Explorer for Obsidian</title>
+      <link>https://deuts.org/x/654-notebook-navigator-modern-file-explorer-for-obsidian/</link>
+      <pubDate>Wed, 22 Oct 2025 16:48:23 +0800</pubDate>
+      <guid>https://deuts.org/x/654-notebook-navigator-modern-file-explorer-for-obsidian/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-654&#34;&gt;&lt;a href=&#34;https://notebooknavigator.com/&#34;&gt;Notebook Navigator - Modern File Explorer for Obsidian&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-654 {
+    background: url(&#39;https://bm.deuts.org/static/https_notebooknavigator_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Transform your Obsidian workflow with dual-pane navigation, rich previews, and powerful organization features.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-654"><a href="https://notebooknavigator.com/">Notebook Navigator - Modern File Explorer for Obsidian</a></h3>
+<style>
+.favicon-654 {
+    background: url('https://bm.deuts.org/static/https_notebooknavigator_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Transform your Obsidian workflow with dual-pane navigation, rich previews, and powerful organization features.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>YaTHS - Yet another Tiny HTTP-Server</title>
       <link>https://deuts.org/x/653-yaths-yet-another-tiny-http-server/</link>
@@ -95,224 +327,6 @@
 
 <blockquote class="linkding-description">
     Find the best cheap server hosting and the best cheap vps hosting, where you only pay a few dollars a month, exclusively on LowEndBox
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pangolin Crowdsec IP Whitelist</title>
-      <link>https://deuts.org/x/646-pangolin-crowdsec-ip-whitelist/</link>
-      <pubDate>Sun, 12 Oct 2025 10:01:38 +0800</pubDate>
-      <guid>https://deuts.org/x/646-pangolin-crowdsec-ip-whitelist/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-646&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/PangolinReverseProxy/s/MGgjKnAhvb&#34;&gt;Pangolin Crowdsec IP Whitelist&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-646 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Discussing IP whitelisting for Crowdsec in Pangolin Tunnel.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-646"><a href="https://www.reddit.com/r/PangolinReverseProxy/s/MGgjKnAhvb">Pangolin Crowdsec IP Whitelist</a></h3>
-<style>
-.favicon-646 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Discussing IP whitelisting for Crowdsec in Pangolin Tunnel.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitHub - blackholll/loonflow: A Intelligent and Visual Process Automation System</title>
-      <link>https://deuts.org/x/644-github-blackholll-loonflow-a-intelligent-and-visual-process-automation-system/</link>
-      <pubDate>Fri, 10 Oct 2025 16:37:56 +0800</pubDate>
-      <guid>https://deuts.org/x/644-github-blackholll-loonflow-a-intelligent-and-visual-process-automation-system/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-644&#34;&gt;&lt;a href=&#34;https://github.com/blackholll/loonflow?tab=readme-ov-file&#34;&gt;GitHub - blackholll/loonflow: A Intelligent and Visual Process Automation System&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-644 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Intelligent and Visual Process Automation System - blackholll/loonflow
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-644"><a href="https://github.com/blackholll/loonflow?tab=readme-ov-file">GitHub - blackholll/loonflow: A Intelligent and Visual Process Automation System</a></h3>
-<style>
-.favicon-644 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Intelligent and Visual Process Automation System - blackholll/loonflow
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pro Git</title>
-      <link>https://deuts.org/x/640-pro-git/</link>
-      <pubDate>Mon, 06 Oct 2025 21:00:04 +0800</pubDate>
-      <guid>https://deuts.org/x/640-pro-git/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-640&#34;&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2&#34;&gt;Pro Git&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-640 {
-    background: url(&#39;https://bm.deuts.org/static/https_git_scm_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-640"><a href="https://git-scm.com/book/en/v2">Pro Git</a></h3>
-<style>
-.favicon-640 {
-    background: url('https://bm.deuts.org/static/https_git_scm_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Youtarr</title>
-      <link>https://deuts.org/x/639-youtarr/</link>
-      <pubDate>Sat, 04 Oct 2025 01:25:05 +0800</pubDate>
-      <guid>https://deuts.org/x/639-youtarr/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-639&#34;&gt;&lt;a href=&#34;https://github.com/DialmasterOrg/Youtarr&#34;&gt;Youtarr&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-639 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Youtarr is a self-hosted YouTube downloader that automatically downloads videos from your favorite channels or specific URLs. With optional Plex integration, it can refresh your media library for a seamless, ad-free viewing experience.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-639"><a href="https://github.com/DialmasterOrg/Youtarr">Youtarr</a></h3>
-<style>
-.favicon-639 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Youtarr is a self-hosted YouTube downloader that automatically downloads videos from your favorite channels or specific URLs. With optional Plex integration, it can refresh your media library for a seamless, ad-free viewing experience.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>nextExplorer</title>
-      <link>https://deuts.org/x/638-nextexplorer/</link>
-      <pubDate>Sat, 04 Oct 2025 01:22:31 +0800</pubDate>
-      <guid>https://deuts.org/x/638-nextexplorer/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-638&#34;&gt;&lt;a href=&#34;https://github.com/vikramsoni2/nextExplorer&#34;&gt;nextExplorer&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-638 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Web based File Explorer.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This looks like a good alternative to Filebrowser.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-638"><a href="https://github.com/vikramsoni2/nextExplorer">nextExplorer</a></h3>
-<style>
-.favicon-638 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Web based File Explorer.
-</blockquote>
-  
-<div class="linkding-notes">
-    This looks like a good alternative to Filebrowser.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>It&#39;s MyTabs</title>
-      <link>https://deuts.org/x/637-it-s-mytabs/</link>
-      <pubDate>Sat, 04 Oct 2025 01:19:20 +0800</pubDate>
-      <guid>https://deuts.org/x/637-it-s-mytabs/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-637&#34;&gt;&lt;a href=&#34;https://github.com/louislam/its-mytabs&#34;&gt;It&amp;#39;s MyTabs&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-637 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-637"><a href="https://github.com/louislam/its-mytabs">It&#39;s MyTabs</a></h3>
-<style>
-.favicon-637 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Dockmon</title>
-      <link>https://deuts.org/x/636-dockmon/</link>
-      <pubDate>Sat, 04 Oct 2025 01:10:00 +0800</pubDate>
-      <guid>https://deuts.org/x/636-dockmon/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-636&#34;&gt;&lt;a href=&#34;https://github.com/darthnorse/dockmon&#34;&gt;Dockmon&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-636 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Modern Docker container monitoring with auto-restart and alerts
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-636"><a href="https://github.com/darthnorse/dockmon">Dockmon</a></h3>
-<style>
-.favicon-636 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Modern Docker container monitoring with auto-restart and alerts
 </blockquote>
   
 ]]></content:encoded>
