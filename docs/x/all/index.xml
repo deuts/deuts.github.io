@@ -7,8 +7,98 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 11:23:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 18:27:06 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lenovo Legion Tab 8.8 Gen 3 (2025)</title>
+      <link>https://deuts.org/x/667-lenovo-legion-tab-8-8-gen-3-2025/</link>
+      <pubDate>Wed, 05 Nov 2025 18:27:06 +0800</pubDate>
+      <guid>https://deuts.org/x/667-lenovo-legion-tab-8-8-gen-3-2025/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-667&#34;&gt;&lt;a href=&#34;https://www.yugatech.com/gadget-reviews/lenovo-legion-tab-8-8-gen-3-2025-review-compact-formfactor-big-power/&#34;&gt;Lenovo Legion Tab 8.8 Gen 3 (2025)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-667 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_yugatech_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lenovo Legion Tab 8.8 Gen 3 specs: &lt;br&gt;
+8.8-inch 2.5K (2560×1600) LTPS, 165Hz, 900 nits (HBM), Dolby Vision, HDR10  &lt;br&gt;
+Qualcomm Snapdragon 8 Gen 3 &lt;br&gt;
+12GB LPDDR5X RAM &lt;br&gt;
+256GB UFS 4.0 internal storage &lt;br&gt;
+Rear Cameras: 13MP main + 2MP macro &lt;br&gt;
+Front Camera: 8MP &lt;br&gt;
+6,550mAh Li-Polymer &lt;br&gt;
+STEREO speakers (Dolby Atmos) &lt;br&gt;
+Wi-Fi 7 &lt;br&gt;
+Bluetooth 5.4 &lt;br&gt;
+2x USB-C (10Gbps + 2.0), DP Out, OTG, Audio &lt;br&gt;
+OS: Android 14 (3 OS upgrades, 4 years of security updates) &lt;br&gt;
+Dimensions: 208.54 × 129.46 × 7.79 mm &lt;br&gt;
+Weight: 350g &lt;br&gt;
+Color: Eclipse Black
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-667"><a href="https://www.yugatech.com/gadget-reviews/lenovo-legion-tab-8-8-gen-3-2025-review-compact-formfactor-big-power/">Lenovo Legion Tab 8.8 Gen 3 (2025)</a></h3>
+<style>
+.favicon-667 {
+    background: url('https://bm.deuts.org/static/https_www_yugatech_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lenovo Legion Tab 8.8 Gen 3 specs: <br>
+8.8-inch 2.5K (2560×1600) LTPS, 165Hz, 900 nits (HBM), Dolby Vision, HDR10  <br>
+Qualcomm Snapdragon 8 Gen 3 <br>
+12GB LPDDR5X RAM <br>
+256GB UFS 4.0 internal storage <br>
+Rear Cameras: 13MP main + 2MP macro <br>
+Front Camera: 8MP <br>
+6,550mAh Li-Polymer <br>
+STEREO speakers (Dolby Atmos) <br>
+Wi-Fi 7 <br>
+Bluetooth 5.4 <br>
+2x USB-C (10Gbps + 2.0), DP Out, OTG, Audio <br>
+OS: Android 14 (3 OS upgrades, 4 years of security updates) <br>
+Dimensions: 208.54 × 129.46 × 7.79 mm <br>
+Weight: 350g <br>
+Color: Eclipse Black
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GrapeJS</title>
+      <link>https://deuts.org/x/666-grapejs/</link>
+      <pubDate>Mon, 03 Nov 2025 15:28:05 +0800</pubDate>
+      <guid>https://deuts.org/x/666-grapejs/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-666&#34;&gt;&lt;a href=&#34;https://github.com/GrapesJS/grapesjs&#34;&gt;GrapeJS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-666 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-666"><a href="https://github.com/GrapesJS/grapesjs">GrapeJS</a></h3>
+<style>
+.favicon-666 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Rachoon</title>
       <link>https://deuts.org/x/665-rachoon/</link>
@@ -267,66 +357,6 @@ Thanks t…
 
 <blockquote class="linkding-description">
     Ultra-lightweight HTTP file server for directory browsing and local development - al-sca/yaths
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Poznote</title>
-      <link>https://deuts.org/x/652-poznote/</link>
-      <pubDate>Fri, 17 Oct 2025 23:08:07 +0800</pubDate>
-      <guid>https://deuts.org/x/652-poznote/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-652&#34;&gt;&lt;a href=&#34;https://github.com/timothepoznanski/poznote&#34;&gt;Poznote&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-652 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Poznote is a personal, free, self-hosted, simple and intuitive note manager.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-652"><a href="https://github.com/timothepoznanski/poznote">Poznote</a></h3>
-<style>
-.favicon-652 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Poznote is a personal, free, self-hosted, simple and intuitive note manager.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>DediRock Launches STORAGE WARS! Get Ultra-Cheap (And We Do Mean Ultra-Cheap) Pricing on Huge Storage Boxes!</title>
-      <link>https://deuts.org/x/648-dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/</link>
-      <pubDate>Mon, 13 Oct 2025 10:46:38 +0800</pubDate>
-      <guid>https://deuts.org/x/648-dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-648&#34;&gt;&lt;a href=&#34;https://lowendbox.com/blog/dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/&#34;&gt;DediRock Launches STORAGE WARS! Get Ultra-Cheap (And We Do Mean Ultra-Cheap) Pricing on Huge Storage Boxes!&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-648 {
-    background: url(&#39;https://bm.deuts.org/static/https_lowendbox_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Find the best cheap server hosting and the best cheap vps hosting, where you only pay a few dollars a month, exclusively on LowEndBox
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-648"><a href="https://lowendbox.com/blog/dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/">DediRock Launches STORAGE WARS! Get Ultra-Cheap (And We Do Mean Ultra-Cheap) Pricing on Huge Storage Boxes!</a></h3>
-<style>
-.favicon-648 {
-    background: url('https://bm.deuts.org/static/https_lowendbox_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Find the best cheap server hosting and the best cheap vps hosting, where you only pay a few dollars a month, exclusively on LowEndBox
 </blockquote>
   
 ]]></content:encoded>
