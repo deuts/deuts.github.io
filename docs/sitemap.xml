@@ -17,21 +17,24 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-11-05T18:27:06+08:00</lastmod>
+    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-11-05T18:27:06+08:00</lastmod>
+    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/lenovo/</loc>
+    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/668-lenovo-legion-tab-8-8-gen-3-on-datablitz/</loc>
+    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/tablet/</loc>
+    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/ipad/</loc>
     <lastmod>2025-11-05T18:27:06+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/lenovo/</loc>
-    <lastmod>2025-11-05T18:27:06+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/667-lenovo-legion-tab-8-8-gen-3-2025/</loc>
-    <lastmod>2025-11-05T18:27:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/tablet/</loc>
     <lastmod>2025-11-05T18:27:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/666-grapejs/</loc>
@@ -331,6 +334,12 @@
     <loc>https://deuts.org/k/media-sharing/</loc>
     <lastmod>2025-08-30T01:25:43+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/595-authelia-admin/</loc>
+    <lastmod>2025-08-30T01:02:42+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/authentication/</loc>
+    <lastmod>2025-08-30T01:02:42+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/593-pangolin-rule-updater/</loc>
     <lastmod>2025-08-29T07:42:24+08:00</lastmod>
   </url><url>
@@ -435,6 +444,15 @@
   </url><url>
     <loc>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</loc>
     <lastmod>2025-08-16T15:25:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/chat/</loc>
+    <lastmod>2025-08-16T15:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/teams/</loc>
+    <lastmod>2025-08-16T15:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/576-zulip/</loc>
+    <lastmod>2025-08-16T15:13:13+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/spotify/</loc>
     <lastmod>2025-08-15T23:08:40+08:00</lastmod>
@@ -1605,9 +1623,6 @@
   </url><url>
     <loc>https://deuts.org/x/384-what-actually-happened-in-the-gotosocial-update-issue/</loc>
     <lastmod>2025-02-13T23:36:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/authentication/</loc>
-    <lastmod>2025-02-13T00:07:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/383-oauth2-proxy/</loc>
     <lastmod>2025-02-13T00:07:02+08:00</lastmod>
@@ -3577,6 +3592,9 @@
     <loc>https://deuts.org/k/mysql/</loc>
     <lastmod>2024-05-30T18:09:37+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/77-npm-plus/</loc>
+    <lastmod>2024-05-30T07:11:39+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/76-12-things-you-didn-t-know-the-instant-pot-could-do-youtube/</loc>
     <lastmod>2024-05-29T22:05:01+08:00</lastmod>
   </url><url>
@@ -3645,6 +3663,12 @@
   </url><url>
     <loc>https://deuts.org/x/57-mimic-a-switch-function-in-power-query-using-record-fieldordefault-youtube/</loc>
     <lastmod>2024-04-22T21:02:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/email/</loc>
+    <lastmod>2024-04-21T14:12:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/56-purelymail/</loc>
+    <lastmod>2024-04-21T14:12:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/55-solved-responsive-design-one-container-goes-below-an-ot-power-platform-community/</loc>
     <lastmod>2024-04-20T19:36:55+08:00</lastmod>
