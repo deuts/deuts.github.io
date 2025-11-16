@@ -16,11 +16,53 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</loc>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-11-06T23:28:53+08:00</lastmod>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/traefik/</loc>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/watchtower/</loc>
+    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/database/</loc>
+    <lastmod>2025-11-14T08:08:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/673-pocketbase-vs-trailbase/</loc>
+    <lastmod>2025-11-14T08:08:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/sqlite/</loc>
+    <lastmod>2025-11-14T08:08:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</loc>
+    <lastmod>2025-11-09T23:42:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-11-08T00:27:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/670-wygiwyh/</loc>
+    <lastmod>2025-11-08T00:27:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/669-note-discovery/</loc>
+    <lastmod>2025-11-08T00:18:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2025-11-08T00:18:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/obsidian/</loc>
+    <lastmod>2025-11-08T00:18:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/lenovo/</loc>
     <lastmod>2025-11-06T23:28:53+08:00</lastmod>
@@ -43,9 +85,6 @@
     <loc>https://deuts.org/k/pagedesigner/</loc>
     <lastmod>2025-11-03T15:28:05+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2025-11-03T15:28:05+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/webbuilder/</loc>
     <lastmod>2025-11-03T15:28:05+08:00</lastmod>
   </url><url>
@@ -56,12 +95,6 @@
     <lastmod>2025-11-03T11:23:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/664-alexandrie-notes/</loc>
-    <lastmod>2025-11-03T11:21:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
-    <lastmod>2025-11-03T11:21:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/obsidian/</loc>
     <lastmod>2025-11-03T11:21:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/api/</loc>
@@ -154,9 +187,6 @@
     <loc>https://deuts.org/k/music/</loc>
     <lastmod>2025-10-04T01:19:20+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-10-04T01:10:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/636-dockmon/</loc>
     <lastmod>2025-10-04T01:10:00+08:00</lastmod>
   </url><url>
@@ -170,9 +200,6 @@
     <lastmod>2025-10-04T01:07:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-10-04T00:59:09+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/database/</loc>
     <lastmod>2025-10-04T00:59:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/634-pgbackweb/</loc>
@@ -230,9 +257,6 @@
     <lastmod>2025-09-20T00:12:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/622-invio/</loc>
-    <lastmod>2025-09-20T00:12:40+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
     <lastmod>2025-09-20T00:12:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/621-hometube/</loc>
@@ -600,12 +624,6 @@
   </url><url>
     <loc>https://deuts.org/x/553-personalaccounter/</loc>
     <lastmod>2025-07-18T23:20:25+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bookkeeping/</loc>
-    <lastmod>2025-07-18T22:15:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/x/552-ez-book-keeping/</loc>
-    <lastmod>2025-07-18T22:15:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/datatable/</loc>
     <lastmod>2025-07-18T14:38:39+08:00</lastmod>
@@ -1720,9 +1738,6 @@
     <loc>https://deuts.org/x/2025-01-28-11-39-05-01jjnfvhdwh3t01pgjvr7tg0gq/</loc>
     <lastmod>2025-01-28T11:39:05+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/sqlite/</loc>
-    <lastmod>2025-01-28T07:00:54+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/373-sqlook-sqlite-database-viewer-and-generator/</loc>
     <lastmod>2025-01-28T07:00:54+08:00</lastmod>
   </url><url>
@@ -1868,9 +1883,6 @@
     <lastmod>2025-01-13T10:35:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/343-the-ultimate-guide-to-setting-up-traefik/</loc>
-    <lastmod>2025-01-13T07:40:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/traefik/</loc>
     <lastmod>2025-01-13T07:40:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/342-go-pushover/</loc>
@@ -2772,9 +2784,6 @@
   </url><url>
     <loc>https://deuts.org/x/266-xmin-hugo-theme/</loc>
     <lastmod>2024-11-25T23:58:30+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/watchtower/</loc>
-    <lastmod>2024-11-25T11:41:54+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/265-watchtower-and-telegram-notifications/</loc>
     <lastmod>2024-11-25T11:41:54+08:00</lastmod>

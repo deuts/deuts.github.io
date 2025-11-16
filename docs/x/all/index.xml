@@ -7,8 +7,145 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 23:28:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 21:49:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</title>
+      <link>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</link>
+      <pubDate>Sun, 16 Nov 2025 21:49:00 +0800</pubDate>
+      <guid>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-678&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/a2FZg4gw09&#34;&gt;&amp;#39;Breaking&amp;#39; change from Docker v29 (API 1.44 mandatory)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-678 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per say, but it can break interaction with Traefik and Watchtower for example.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-678"><a href="https://www.reddit.com/r/selfhosted/s/a2FZg4gw09">&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</a></h3>
+<style>
+.favicon-678 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per say, but it can break interaction with Traefik and Watchtower for example.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PocketBase vs. TrailBase</title>
+      <link>https://deuts.org/x/673-pocketbase-vs-trailbase/</link>
+      <pubDate>Fri, 14 Nov 2025 08:08:53 +0800</pubDate>
+      <guid>https://deuts.org/x/673-pocketbase-vs-trailbase/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-673&#34;&gt;&lt;a href=&#34;https://trailbase.io/comparison/pocketbase/&#34;&gt;PocketBase vs. TrailBase&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-673 {
+    background: url(&#39;https://bm.deuts.org/static/https_trailbase_io.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Comparing TrailBase &amp;amp; PocketBase.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-673"><a href="https://trailbase.io/comparison/pocketbase/">PocketBase vs. TrailBase</a></h3>
+<style>
+.favicon-673 {
+    background: url('https://bm.deuts.org/static/https_trailbase_io.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Comparing TrailBase &amp; PocketBase.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts.hamili.net 3m57h3acfb22g</title>
+      <link>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</link>
+      <pubDate>Sun, 09 Nov 2025 23:42:00 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</guid>
+      <description>&lt;p&gt;I loved Racknerd. But I might just need to let go of some of my services I have hosted with them. I just needed to streamline all my VPS and shared server subscriptions.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I loved Racknerd. But I might just need to let go of some of my services I have hosted with them. I just needed to streamline all my VPS and shared server subscriptions.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>WYGIWYH</title>
+      <link>https://deuts.org/x/670-wygiwyh/</link>
+      <pubDate>Sat, 08 Nov 2025 00:27:19 +0800</pubDate>
+      <guid>https://deuts.org/x/670-wygiwyh/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-670&#34;&gt;&lt;a href=&#34;https://github.com/eitchtee/WYGIWYH&#34;&gt;WYGIWYH&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-670 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A simple but powerful self-hosted finance tracker.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Great! Another finance tracking personal finance app.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-670"><a href="https://github.com/eitchtee/WYGIWYH">WYGIWYH</a></h3>
+<style>
+.favicon-670 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A simple but powerful self-hosted finance tracker.
+</blockquote>
+  
+<div class="linkding-notes">
+    Great! Another finance tracking personal finance app.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Note Discovery</title>
+      <link>https://deuts.org/x/669-note-discovery/</link>
+      <pubDate>Sat, 08 Nov 2025 00:18:49 +0800</pubDate>
+      <guid>https://deuts.org/x/669-note-discovery/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-669&#34;&gt;&lt;a href=&#34;https://github.com/gamosoft/NoteDiscovery?tab=readme-ov-file&#34;&gt;Note Discovery&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-669 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Your Self-Hosted Knowledge Base.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-669"><a href="https://github.com/gamosoft/NoteDiscovery?tab=readme-ov-file">Note Discovery</a></h3>
+<style>
+.favicon-669 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Your Self-Hosted Knowledge Base.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Lenovo Legion Tab 8.8 Gen 3 on Datablitz</title>
       <link>https://deuts.org/x/668-lenovo-legion-tab-8-8-gen-3-on-datablitz/</link>
@@ -194,170 +331,6 @@ Color: Eclipse Black
 <div class="linkding-notes">
     Another one of those Obsidian-style note-taking app.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Favicon API</title>
-      <link>https://deuts.org/x/663-favicon-api/</link>
-      <pubDate>Mon, 03 Nov 2025 11:12:52 +0800</pubDate>
-      <guid>https://deuts.org/x/663-favicon-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-663&#34;&gt;&lt;a href=&#34;https://github.com/vemetric/favicon-api&#34;&gt;Favicon API&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-663 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Free and open-source API to fetch favicons from any website.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-663"><a href="https://github.com/vemetric/favicon-api">Favicon API</a></h3>
-<style>
-.favicon-663 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Free and open-source API to fetch favicons from any website.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Grist CTL</title>
-      <link>https://deuts.org/x/662-grist-ctl/</link>
-      <pubDate>Mon, 03 Nov 2025 10:58:46 +0800</pubDate>
-      <guid>https://deuts.org/x/662-grist-ctl/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-662&#34;&gt;&lt;a href=&#34;https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl&#34;&gt;Grist CTL&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-662 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Command-line tool for interacting with Grist.&lt;/p&gt;
-&lt;p&gt;Grist is a versatile platform for creating and managing custom data applications. It blends the capabilities of a relational database with the adaptability of a spreadsheet, empowering users to design advanced data workflows, collaborate in real-time, and automate tasks—all without requiring code.&lt;/p&gt;
-
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-662"><a href="https://github.com/Ville-Eurometropole-Strasbourg/grist-ctl">Grist CTL</a></h3>
-<style>
-.favicon-662 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Command-line tool for interacting with Grist.</p>
-<p>Grist is a versatile platform for creating and managing custom data applications. It blends the capabilities of a relational database with the adaptability of a spreadsheet, empowering users to design advanced data workflows, collaborate in real-time, and automate tasks—all without requiring code.</p>
-
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators</title>
-      <link>https://deuts.org/x/661-how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg-showcase-grist-creators/</link>
-      <pubDate>Mon, 03 Nov 2025 10:44:57 +0800</pubDate>
-      <guid>https://deuts.org/x/661-how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg-showcase-grist-creators/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-661&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg/12284&#34;&gt;How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-661 {
-    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    First, excuse my English for I’m a French Grist enthusiast. I searched for weeks a way to send a PDF file once a form has been submitted in order the user gets a ready-to-print summary of what he’d just filled.&lt;br&gt;
-Thanks t…
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is what we might have been needing all along, automatic creation of PDF from our Grist data. We need to explore this further.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-661"><a href="https://community.getgrist.com/t/how-to-generate-and-send-by-email-a-sum-up-pdf-after-the-completion-of-a-form-with-n8n-and-gotenborg/12284">How to generate and send by email a sum-up PDF after the completion of a form (with n8n and Gotenborg) - Showcase - Grist Creators</a></h3>
-<style>
-.favicon-661 {
-    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    First, excuse my English for I’m a French Grist enthusiast. I searched for weeks a way to send a PDF file once a form has been submitted in order the user gets a ready-to-print summary of what he’d just filled.<br>
-Thanks t…
-</blockquote>
-  
-<div class="linkding-notes">
-    This is what we might have been needing all along, automatic creation of PDF from our Grist data. We need to explore this further.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Service ticketing systems</title>
-      <link>https://deuts.org/x/655-service-ticketing-systems/</link>
-      <pubDate>Fri, 24 Oct 2025 23:57:15 +0800</pubDate>
-      <guid>https://deuts.org/x/655-service-ticketing-systems/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-655&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/sysadmin/s/JhxchJXaZF&#34;&gt;Service ticketing systems&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-655 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Hesk, redmine, zammad
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-655"><a href="https://www.reddit.com/r/sysadmin/s/JhxchJXaZF">Service ticketing systems</a></h3>
-<style>
-.favicon-655 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Hesk, redmine, zammad
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Notebook Navigator - Modern File Explorer for Obsidian</title>
-      <link>https://deuts.org/x/654-notebook-navigator-modern-file-explorer-for-obsidian/</link>
-      <pubDate>Wed, 22 Oct 2025 16:48:23 +0800</pubDate>
-      <guid>https://deuts.org/x/654-notebook-navigator-modern-file-explorer-for-obsidian/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-654&#34;&gt;&lt;a href=&#34;https://notebooknavigator.com/&#34;&gt;Notebook Navigator - Modern File Explorer for Obsidian&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-654 {
-    background: url(&#39;https://bm.deuts.org/static/https_notebooknavigator_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Transform your Obsidian workflow with dual-pane navigation, rich previews, and powerful organization features.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-654"><a href="https://notebooknavigator.com/">Notebook Navigator - Modern File Explorer for Obsidian</a></h3>
-<style>
-.favicon-654 {
-    background: url('https://bm.deuts.org/static/https_notebooknavigator_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Transform your Obsidian workflow with dual-pane navigation, rich previews, and powerful organization features.
-</blockquote>
   
 ]]></content:encoded>
     </item>
