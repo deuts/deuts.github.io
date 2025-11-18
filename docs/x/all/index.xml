@@ -7,8 +7,29 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 17 Nov 2025 22:41:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:08:39 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KABR5FPRP9WXHZ0TP6R8M3QN</title>
+      <link>https://deuts.org/x/2025-11-18-23-08-39-01kabr5fprp9wxhz0tp6r8m3qn/</link>
+      <pubDate>Tue, 18 Nov 2025 23:08:39 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-18-23-08-39-01kabr5fprp9wxhz0tp6r8m3qn/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://fediwall.social/?tags=CloudflareDown&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CloudflareDown&#34;&gt;#CloudflareDown&lt;/a&gt; for like 3 hours today, it&amp;rsquo;s time to re-think my relying too much on &lt;a href=&#34;https://fediwall.social/?tags=Cloudflare&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Cloudflare&#34;&gt;#Cloudflare&lt;/a&gt;. I&amp;rsquo;m not using X/Twitter any longer, but here&amp;rsquo;s how this downtime affected my life today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPT&lt;/li&gt;
+&lt;li&gt;client.pushover.net&lt;/li&gt;
+&lt;li&gt;Online banking&lt;/li&gt;
+&lt;li&gt;My own domains (and subdomains) that have my DNS record proxied (orange toggle) on Cloudflare&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>With <a href="https://fediwall.social/?tags=CloudflareDown&amp;accounts=&amp;lang=en&amp;title=%23CloudflareDown">#CloudflareDown</a> for like 3 hours today, it&rsquo;s time to re-think my relying too much on <a href="https://fediwall.social/?tags=Cloudflare&amp;accounts=&amp;lang=en&amp;title=%23Cloudflare">#Cloudflare</a>. I&rsquo;m not using X/Twitter any longer, but here&rsquo;s how this downtime affected my life today:</p>
+<ul>
+<li>ChatGPT</li>
+<li>client.pushover.net</li>
+<li>Online banking</li>
+<li>My own domains (and subdomains) that have my DNS record proxied (orange toggle) on Cloudflare</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>How to Run Python Scripts and Apps in n8n!</title>
       <link>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</link>
@@ -292,36 +313,6 @@ OS: Android 14 (3 OS upgrades, 4 years of security updates) <br>
 Dimensions: 208.54 × 129.46 × 7.79 mm <br>
 Weight: 350g <br>
 Color: Eclipse Black
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GrapeJS</title>
-      <link>https://deuts.org/x/666-grapejs/</link>
-      <pubDate>Mon, 03 Nov 2025 15:28:05 +0800</pubDate>
-      <guid>https://deuts.org/x/666-grapejs/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-666&#34;&gt;&lt;a href=&#34;https://github.com/GrapesJS/grapesjs&#34;&gt;GrapeJS&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-666 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-666"><a href="https://github.com/GrapesJS/grapesjs">GrapeJS</a></h3>
-<style>
-.favicon-666 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 </blockquote>
   
 ]]></content:encoded>
