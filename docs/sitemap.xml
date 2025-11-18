@@ -16,19 +16,34 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/automation/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/n8n/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</loc>
+    <lastmod>2025-11-17T13:20:51+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</loc>
     <lastmod>2025-11-16T21:49:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/</loc>
-    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2025-11-16T21:49:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-11-16T21:49:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/traefik/</loc>
@@ -217,12 +232,6 @@
     <loc>https://deuts.org/k/sgs24u/</loc>
     <lastmod>2025-09-29T20:51:48+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2025-09-28T13:38:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/n8n/</loc>
-    <lastmod>2025-09-28T13:38:29+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/632-n8n-disable-tracking/</loc>
     <lastmod>2025-09-28T13:38:29+08:00</lastmod>
   </url><url>
@@ -278,9 +287,6 @@
     <lastmod>2025-09-14T20:03:18+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/616-pse-data-scraper/</loc>
-    <lastmod>2025-09-14T20:03:18+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/python/</loc>
     <lastmod>2025-09-14T20:03:18+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/stocks/</loc>

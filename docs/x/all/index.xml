@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 21:49:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 22:41:30 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Run Python Scripts and Apps in n8n!</title>
+      <link>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</link>
+      <pubDate>Mon, 17 Nov 2025 22:41:30 +0800</pubDate>
+      <guid>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-680&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z-3rY3Rku20&#34;&gt;How to Run Python Scripts and Apps in n8n!&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-680 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Unlock the power of Python within your n8n workflows! This tutorial demonstrates how to seamlessly integrate Python scripts and applications into your n8n instance.  Learn how to run Python code directly within n8n, opening up a world of possibilities for automation and data processing.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-680"><a href="https://www.youtube.com/watch?v=Z-3rY3Rku20">How to Run Python Scripts and Apps in n8n!</a></h3>
+<style>
+.favicon-680 {
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Unlock the power of Python within your n8n workflows! This tutorial demonstrates how to seamlessly integrate Python scripts and applications into your n8n instance.  Learn how to run Python code directly within n8n, opening up a world of possibilities for automation and data processing.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Performance tuning in n8n: Practical wins before you SCALE - LumaDock</title>
+      <link>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</link>
+      <pubDate>Mon, 17 Nov 2025 13:20:51 +0800</pubDate>
+      <guid>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-679&#34;&gt;&lt;a href=&#34;https://lumadock.com/blog/tutorials/n8n-performance-tuning/&#34;&gt;Performance tuning in n8n: Practical wins before you SCALE - LumaDock&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-679 {
+    background: url(&#39;https://bm.deuts.org/static/https_lumadock_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A practical guide to n8n performance tuning on a VPS. Faster workflows, safer scaling, fewer stalls. It&amp;rsquo;s easy - I promise :)
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-679"><a href="https://lumadock.com/blog/tutorials/n8n-performance-tuning/">Performance tuning in n8n: Practical wins before you SCALE - LumaDock</a></h3>
+<style>
+.favicon-679 {
+    background: url('https://bm.deuts.org/static/https_lumadock_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A practical guide to n8n performance tuning on a VPS. Faster workflows, safer scaling, fewer stalls. It&rsquo;s easy - I promise :)
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</title>
       <link>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</link>
@@ -23,7 +83,7 @@
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per say, but it can break interaction with Traefik and Watchtower for example.
+    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per se, but it can break interaction with Traefik and Watchtower for example.
 &lt;/blockquote&gt;</description>
       <content:encoded><![CDATA[<h3 class="linkding-title favicon-678"><a href="https://www.reddit.com/r/selfhosted/s/a2FZg4gw09">&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</a></h3>
 <style>
@@ -34,7 +94,7 @@
 </style>
 
 <blockquote class="linkding-description">
-    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per say, but it can break interaction with Traefik and Watchtower for example.
+    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per se, but it can break interaction with Traefik and Watchtower for example.
 </blockquote>
   
 ]]></content:encoded>
@@ -263,74 +323,6 @@ Color: Eclipse Black
 <blockquote class="linkding-description">
     Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Rachoon</title>
-      <link>https://deuts.org/x/665-rachoon/</link>
-      <pubDate>Mon, 03 Nov 2025 11:23:33 +0800</pubDate>
-      <guid>https://deuts.org/x/665-rachoon/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-665&#34;&gt;&lt;a href=&#34;https://github.com/ad-on-is/rachoon&#34;&gt;Rachoon&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-665 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A self-hostable way to handle invoices
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-665"><a href="https://github.com/ad-on-is/rachoon">Rachoon</a></h3>
-<style>
-.favicon-665 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A self-hostable way to handle invoices
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Alexandrie Notes</title>
-      <link>https://deuts.org/x/664-alexandrie-notes/</link>
-      <pubDate>Mon, 03 Nov 2025 11:21:29 +0800</pubDate>
-      <guid>https://deuts.org/x/664-alexandrie-notes/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-664&#34;&gt;&lt;a href=&#34;https://github.com/Smaug6739/Alexandrie&#34;&gt;Alexandrie Notes&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-664 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A fast, open-source Markdown note-taking app for students and creators
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another one of those Obsidian-style note-taking app.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-664"><a href="https://github.com/Smaug6739/Alexandrie">Alexandrie Notes</a></h3>
-<style>
-.favicon-664 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A fast, open-source Markdown note-taking app for students and creators
-</blockquote>
-  
-<div class="linkding-notes">
-    Another one of those Obsidian-style note-taking app.
-</div>
   
 ]]></content:encoded>
     </item>
