@@ -7,234 +7,280 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 19 Nov 2025 23:05:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 22:42:21 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Velld Database Backup</title>
-      <link>https://deuts.org/x/682-velld-database-backup/</link>
-      <pubDate>Wed, 19 Nov 2025 23:05:50 +0800</pubDate>
-      <guid>https://deuts.org/x/682-velld-database-backup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-682&#34;&gt;&lt;a href=&#34;https://github.com/dendianugerah/velld&#34;&gt;Velld Database Backup&lt;/a&gt;&lt;/h3&gt;
+      <title>@deuts@deuts.one 01KAP086S1MXCSZJZPFP60QWGR</title>
+      <link>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</link>
+      <pubDate>Sat, 22 Nov 2025 22:42:21 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ultracrepidarian.mysteriar.ch/@the&#34;&gt;@the&lt;/a&gt; Sure! Sent a join request that the group chat you shared.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://ultracrepidarian.mysteriar.ch/@the">@the</a> Sure! Sent a join request that the group chat you shared.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Zerobyte backup</title>
+      <link>https://deuts.org/x/691-zerobyte-backup/</link>
+      <pubDate>Sat, 22 Nov 2025 02:05:24 +0800</pubDate>
+      <guid>https://deuts.org/x/691-zerobyte-backup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-691&#34;&gt;&lt;a href=&#34;https://github.com/nicotsx/zerobyte&#34;&gt;Zerobyte backup&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-682 {
+.favicon-691 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A database backup management and automation tool.
+    Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides an modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-682"><a href="https://github.com/dendianugerah/velld">Velld Database Backup</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-691"><a href="https://github.com/nicotsx/zerobyte">Zerobyte backup</a></h3>
 <style>
-.favicon-682 {
+.favicon-691 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A database backup management and automation tool.
+    Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides an modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>Homie</title>
-      <link>https://deuts.org/x/681-homie/</link>
-      <pubDate>Wed, 19 Nov 2025 23:01:00 +0800</pubDate>
-      <guid>https://deuts.org/x/681-homie/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-681&#34;&gt;&lt;a href=&#34;https://github.com/Brramble/homie&#34;&gt;Homie&lt;/a&gt;&lt;/h3&gt;
+      <title>SpendSpentSpent</title>
+      <link>https://deuts.org/x/690-spendspentspent/</link>
+      <pubDate>Sat, 22 Nov 2025 02:03:01 +0800</pubDate>
+      <guid>https://deuts.org/x/690-spendspentspent/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-690&#34;&gt;&lt;a href=&#34;https://github.com/lamarios/SpendSpentSpent&#34;&gt;SpendSpentSpent&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-681 {
+.favicon-690 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple family utility app for managing household tasks with secure authentication. Features: shopping lists, chores, subscription expiration tracking, bills, mobile-friendly
+    An expense  tracking web application designed to be easy to use
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-681"><a href="https://github.com/Brramble/homie">Homie</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-690"><a href="https://github.com/lamarios/SpendSpentSpent">SpendSpentSpent</a></h3>
 <style>
-.favicon-681 {
+.favicon-690 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A simple family utility app for managing household tasks with secure authentication. Features: shopping lists, chores, subscription expiration tracking, bills, mobile-friendly
+    An expense  tracking web application designed to be easy to use
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01KABRPPNN57EA6WRAAKEMSJ0G</title>
-      <link>https://deuts.org/x/2025-11-18-23-18-03-01kabrppnn57ea6wraakemsj0g/</link>
-      <pubDate>Tue, 18 Nov 2025 23:18:03 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-11-18-23-18-03-01kabrppnn57ea6wraakemsj0g/</guid>
-      <description>&lt;p&gt;With &lt;a href=&#34;https://fediwall.social/?tags=CloudflareDown&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CloudflareDown&#34;&gt;#CloudflareDown&lt;/a&gt; I wonder if &lt;a href=&#34;https://fediwall.social/?tags=Cloudflare&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Cloudflare&#34;&gt;#Cloudflare&lt;/a&gt; purposely did it to test its reach? Who&amp;rsquo;s next? &lt;a href=&#34;https://fediwall.social/?tags=Github&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Github&#34;&gt;#Github&lt;/a&gt;?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>With <a href="https://fediwall.social/?tags=CloudflareDown&amp;accounts=&amp;lang=en&amp;title=%23CloudflareDown">#CloudflareDown</a> I wonder if <a href="https://fediwall.social/?tags=Cloudflare&amp;accounts=&amp;lang=en&amp;title=%23Cloudflare">#Cloudflare</a> purposely did it to test its reach? Who&rsquo;s next? <a href="https://fediwall.social/?tags=Github&amp;accounts=&amp;lang=en&amp;title=%23Github">#Github</a>?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KABRHN7YP5GZG58D8EF6XGQC</title>
-      <link>https://deuts.org/x/2025-11-18-23-15-18-01kabrhn7yp5gzg58d8ef6xgqc/</link>
-      <pubDate>Tue, 18 Nov 2025 23:15:18 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-11-18-23-15-18-01kabrhn7yp5gzg58d8ef6xgqc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ultracrepidarian.mysteriar.ch/@the&#34;&gt;@the&lt;/a&gt; Found your status because of &lt;a href=&#34;https://fediwall.social/?tags=Cloudflare&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Cloudflare&#34;&gt;#Cloudflare&lt;/a&gt;, but your username made me re-think: I should have used &lt;a href=&#34;https://deuts.one/@the&#34;&gt;@the&lt;/a&gt; instead.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://ultracrepidarian.mysteriar.ch/@the">@the</a> Found your status because of <a href="https://fediwall.social/?tags=Cloudflare&amp;accounts=&amp;lang=en&amp;title=%23Cloudflare">#Cloudflare</a>, but your username made me re-think: I should have used <a href="https://deuts.one/@the">@the</a> instead.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KABR5FPRP9WXHZ0TP6R8M3QN</title>
-      <link>https://deuts.org/x/2025-11-18-23-08-39-01kabr5fprp9wxhz0tp6r8m3qn/</link>
-      <pubDate>Tue, 18 Nov 2025 23:08:39 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-11-18-23-08-39-01kabr5fprp9wxhz0tp6r8m3qn/</guid>
-      <description>&lt;p&gt;With &lt;a href=&#34;https://fediwall.social/?tags=CloudflareDown&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23CloudflareDown&#34;&gt;#CloudflareDown&lt;/a&gt; for like 3 hours today, it&amp;rsquo;s time to re-think my relying too much on &lt;a href=&#34;https://fediwall.social/?tags=Cloudflare&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Cloudflare&#34;&gt;#Cloudflare&lt;/a&gt;. I&amp;rsquo;m not using X/Twitter any longer, but here&amp;rsquo;s how this downtime affected my life today:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ChatGPT&lt;/li&gt;
-&lt;li&gt;client.pushover.net&lt;/li&gt;
-&lt;li&gt;Online banking&lt;/li&gt;
-&lt;li&gt;My own domains (and subdomains) that have my DNS record proxied (orange toggle) on Cloudflare&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>With <a href="https://fediwall.social/?tags=CloudflareDown&amp;accounts=&amp;lang=en&amp;title=%23CloudflareDown">#CloudflareDown</a> for like 3 hours today, it&rsquo;s time to re-think my relying too much on <a href="https://fediwall.social/?tags=Cloudflare&amp;accounts=&amp;lang=en&amp;title=%23Cloudflare">#Cloudflare</a>. I&rsquo;m not using X/Twitter any longer, but here&rsquo;s how this downtime affected my life today:</p>
-<ul>
-<li>ChatGPT</li>
-<li>client.pushover.net</li>
-<li>Online banking</li>
-<li>My own domains (and subdomains) that have my DNS record proxied (orange toggle) on Cloudflare</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How to Run Python Scripts and Apps in n8n!</title>
-      <link>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</link>
-      <pubDate>Mon, 17 Nov 2025 22:41:30 +0800</pubDate>
-      <guid>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-680&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z-3rY3Rku20&#34;&gt;How to Run Python Scripts and Apps in n8n!&lt;/a&gt;&lt;/h3&gt;
+      <title>Ocular Personal Finance App</title>
+      <link>https://deuts.org/x/689-ocular-personal-finance-app/</link>
+      <pubDate>Sat, 22 Nov 2025 01:57:19 +0800</pubDate>
+      <guid>https://deuts.org/x/689-ocular-personal-finance-app/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-689&#34;&gt;&lt;a href=&#34;https://github.com/simonwep/ocular&#34;&gt;Ocular Personal Finance App&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-680 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+.favicon-689 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Unlock the power of Python within your n8n workflows! This tutorial demonstrates how to seamlessly integrate Python scripts and applications into your n8n instance.  Learn how to run Python code directly within n8n, opening up a world of possibilities for automation and data processing.
+    Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-680"><a href="https://www.youtube.com/watch?v=Z-3rY3Rku20">How to Run Python Scripts and Apps in n8n!</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-689"><a href="https://github.com/simonwep/ocular">Ocular Personal Finance App</a></h3>
 <style>
-.favicon-680 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+.favicon-689 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    Unlock the power of Python within your n8n workflows! This tutorial demonstrates how to seamlessly integrate Python scripts and applications into your n8n instance.  Learn how to run Python code directly within n8n, opening up a world of possibilities for automation and data processing.
+    Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>Performance tuning in n8n: Practical wins before you SCALE - LumaDock</title>
-      <link>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</link>
-      <pubDate>Mon, 17 Nov 2025 13:20:51 +0800</pubDate>
-      <guid>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-679&#34;&gt;&lt;a href=&#34;https://lumadock.com/blog/tutorials/n8n-performance-tuning/&#34;&gt;Performance tuning in n8n: Practical wins before you SCALE - LumaDock&lt;/a&gt;&lt;/h3&gt;
+      <title>Stegodon Activitypub Blogging</title>
+      <link>https://deuts.org/x/688-stegodon-activitypub-blogging/</link>
+      <pubDate>Sat, 22 Nov 2025 01:53:16 +0800</pubDate>
+      <guid>https://deuts.org/x/688-stegodon-activitypub-blogging/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-688&#34;&gt;&lt;a href=&#34;https://github.com/deemkeen/stegodon&#34;&gt;Stegodon Activitypub Blogging&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-679 {
-    background: url(&#39;https://bm.deuts.org/static/https_lumadock_com.png&#39;) no-repeat;
+.favicon-688 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A practical guide to n8n performance tuning on a VPS. Faster workflows, safer scaling, fewer stalls. It&amp;rsquo;s easy - I promise :)
+    stegodon is an SSH-first federated blogging platform. Users connect via SSH to create notes in a terminal interface. Notes federate to the Fediverse via ActivityPub and are available through RSS feeds and a web interface.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-679"><a href="https://lumadock.com/blog/tutorials/n8n-performance-tuning/">Performance tuning in n8n: Practical wins before you SCALE - LumaDock</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-688"><a href="https://github.com/deemkeen/stegodon">Stegodon Activitypub Blogging</a></h3>
 <style>
-.favicon-679 {
-    background: url('https://bm.deuts.org/static/https_lumadock_com.png') no-repeat;
+.favicon-688 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A practical guide to n8n performance tuning on a VPS. Faster workflows, safer scaling, fewer stalls. It&rsquo;s easy - I promise :)
+    stegodon is an SSH-first federated blogging platform. Users connect via SSH to create notes in a terminal interface. Notes federate to the Fediverse via ActivityPub and are available through RSS feeds and a web interface.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</title>
-      <link>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</link>
-      <pubDate>Sun, 16 Nov 2025 21:49:00 +0800</pubDate>
-      <guid>https://deuts.org/x/678-breaking-change-from-docker-v29-api-1-44-mandatory/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-678&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/a2FZg4gw09&#34;&gt;&amp;#39;Breaking&amp;#39; change from Docker v29 (API 1.44 mandatory)&lt;/a&gt;&lt;/h3&gt;
+      <title>Journiv - Private Journal</title>
+      <link>https://deuts.org/x/687-journiv-private-journal/</link>
+      <pubDate>Sat, 22 Nov 2025 01:52:16 +0800</pubDate>
+      <guid>https://deuts.org/x/687-journiv-private-journal/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-687&#34;&gt;&lt;a href=&#34;https://github.com/journiv/journiv-app&#34;&gt;Journiv - Private Journal&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-678 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+.favicon-687 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per se, but it can break interaction with Traefik and Watchtower for example.
+    Journiv - Self hosted private journaling app.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-678"><a href="https://www.reddit.com/r/selfhosted/s/a2FZg4gw09">&#39;Breaking&#39; change from Docker v29 (API 1.44 mandatory)</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-687"><a href="https://github.com/journiv/journiv-app">Journiv - Private Journal</a></h3>
 <style>
-.favicon-678 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+.favicon-687 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    The last docker version v29 makes it mandatory to use API version 1.44 or newer. It is not a breaking change per se, but it can break interaction with Traefik and Watchtower for example.
+    Journiv - Self hosted private journaling app.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>PocketBase vs. TrailBase</title>
-      <link>https://deuts.org/x/673-pocketbase-vs-trailbase/</link>
-      <pubDate>Fri, 14 Nov 2025 08:08:53 +0800</pubDate>
-      <guid>https://deuts.org/x/673-pocketbase-vs-trailbase/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-673&#34;&gt;&lt;a href=&#34;https://trailbase.io/comparison/pocketbase/&#34;&gt;PocketBase vs. TrailBase&lt;/a&gt;&lt;/h3&gt;
+      <title>@deuts@deuts.one 01KAKQCXCPM15WR5KJPV1K486H</title>
+      <link>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</link>
+      <pubDate>Sat, 22 Nov 2025 01:29:09 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stegodon.social/@stegodon&#34;&gt;@stegodon&lt;/a&gt; trying to follow your project. But I can&amp;rsquo;t seem to see your posts in my instance.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://stegodon.social/@stegodon">@stegodon</a> trying to follow your project. But I can&rsquo;t seem to see your posts in my instance.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MemeLord</title>
+      <link>https://deuts.org/x/686-memelord/</link>
+      <pubDate>Sat, 22 Nov 2025 01:21:50 +0800</pubDate>
+      <guid>https://deuts.org/x/686-memelord/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-686&#34;&gt;&lt;a href=&#34;https://github.com/l4rm4nd/MemeLord&#34;&gt;MemeLord&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-673 {
-    background: url(&#39;https://bm.deuts.org/static/https_trailbase_io.png&#39;) no-repeat;
+.favicon-686 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Comparing TrailBase &amp;amp; PocketBase.
+    A Python Django Image Board. Web-based meme board for images, GIFs and videos
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-673"><a href="https://trailbase.io/comparison/pocketbase/">PocketBase vs. TrailBase</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-686"><a href="https://github.com/l4rm4nd/MemeLord">MemeLord</a></h3>
 <style>
-.favicon-673 {
-    background: url('https://bm.deuts.org/static/https_trailbase_io.png') no-repeat;
+.favicon-686 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    Comparing TrailBase &amp; PocketBase.
+    A Python Django Image Board. Web-based meme board for images, GIFs and videos
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts.hamili.net 3m57h3acfb22g</title>
-      <link>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</link>
-      <pubDate>Sun, 09 Nov 2025 23:42:00 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</guid>
-      <description>&lt;p&gt;I loved Racknerd. But I might just need to let go of some of my services I have hosted with them. I just needed to streamline all my VPS and shared server subscriptions.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I loved Racknerd. But I might just need to let go of some of my services I have hosted with them. I just needed to streamline all my VPS and shared server subscriptions.</p>
+      <title>Secret Santa</title>
+      <link>https://deuts.org/x/685-secret-santa/</link>
+      <pubDate>Sat, 22 Nov 2025 01:19:33 +0800</pubDate>
+      <guid>https://deuts.org/x/685-secret-santa/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-685&#34;&gt;&lt;a href=&#34;https://github.com/richard1912/SecretSanta&#34;&gt;Secret Santa&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-685 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A festive Secret Santa party organizer with Christmas theme and snow animations.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I should have know of this app before our draw lots we held earlier today.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-685"><a href="https://github.com/richard1912/SecretSanta">Secret Santa</a></h3>
+<style>
+.favicon-685 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A festive Secret Santa party organizer with Christmas theme and snow animations.
+</blockquote>
+  
+<div class="linkding-notes">
+    I should have know of this app before our draw lots we held earlier today.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Crowdsec Manager</title>
+      <link>https://deuts.org/x/684-crowdsec-manager/</link>
+      <pubDate>Sat, 22 Nov 2025 01:14:00 +0800</pubDate>
+      <guid>https://deuts.org/x/684-crowdsec-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-684&#34;&gt;&lt;a href=&#34;https://github.com/hhftechnology/crowdsec_manager&#34;&gt;Crowdsec Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-684 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A web-based management interface for CrowdSec security stack with Pangolin integration. This project provides a modern, user-friendly web UI built with Go and React for managing your CrowdSec security infrastructure.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This Pangolin stack keeps getting better and better. I hope I have the time to keep up.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-684"><a href="https://github.com/hhftechnology/crowdsec_manager">Crowdsec Manager</a></h3>
+<style>
+.favicon-684 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A web-based management interface for CrowdSec security stack with Pangolin integration. This project provides a modern, user-friendly web UI built with Go and React for managing your CrowdSec security infrastructure.
+</blockquote>
+  
+<div class="linkding-notes">
+    This Pangolin stack keeps getting better and better. I hope I have the time to keep up.
+</div>
+  
 ]]></content:encoded>
     </item>
   </channel>

@@ -16,28 +16,91 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</loc>
+    <lastmod>2025-11-22T22:42:21+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/database/</loc>
-    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
+    <lastmod>2025-11-22T22:42:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
+    <lastmod>2025-11-22T22:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/691-zerobyte-backup/</loc>
+    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/budgeting/</loc>
+    <lastmod>2025-11-22T02:03:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-11-22T02:03:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/690-spendspentspent/</loc>
+    <lastmod>2025-11-22T02:03:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/689-ocular-personal-finance-app/</loc>
+    <lastmod>2025-11-22T01:57:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/activitypub/</loc>
+    <lastmod>2025-11-22T01:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/blogging/</loc>
+    <lastmod>2025-11-22T01:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fediverse/</loc>
+    <lastmod>2025-11-22T01:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/688-stegodon-activitypub-blogging/</loc>
+    <lastmod>2025-11-22T01:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/journals/</loc>
+    <lastmod>2025-11-22T01:52:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/687-journiv-private-journal/</loc>
+    <lastmod>2025-11-22T01:52:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2025-11-22T01:52:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</loc>
+    <lastmod>2025-11-22T01:29:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/images/</loc>
+    <lastmod>2025-11-22T01:21:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/686-memelord/</loc>
+    <lastmod>2025-11-22T01:21:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/memes/</loc>
+    <lastmod>2025-11-22T01:21:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/christmas/</loc>
+    <lastmod>2025-11-22T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/685-secret-santa/</loc>
+    <lastmod>2025-11-22T01:19:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/crowdsec/</loc>
+    <lastmod>2025-11-22T01:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/684-crowdsec-manager/</loc>
+    <lastmod>2025-11-22T01:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pangolin/</loc>
+    <lastmod>2025-11-22T01:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/database/</loc>
     <lastmod>2025-11-19T23:05:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/682-velld-database-backup/</loc>
     <lastmod>2025-11-19T23:05:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/bills/</loc>
-    <lastmod>2025-11-19T23:01:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/budgeting/</loc>
     <lastmod>2025-11-19T23:01:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/681-homie/</loc>
@@ -91,16 +154,10 @@
     <loc>https://deuts.org/x/2025-11-09-23-42-3m57h3acfb22g/</loc>
     <lastmod>2025-11-09T23:42:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2025-11-08T00:27:19+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/670-wygiwyh/</loc>
     <lastmod>2025-11-08T00:27:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/669-note-discovery/</loc>
-    <lastmod>2025-11-08T00:18:49+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2025-11-08T00:18:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/obsidian/</loc>
@@ -189,12 +246,6 @@
   </url><url>
     <loc>https://deuts.org/k/vpsstorage/</loc>
     <lastmod>2025-10-13T10:46:38+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/crowdsec/</loc>
-    <lastmod>2025-10-12T10:01:38+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/pangolin/</loc>
-    <lastmod>2025-10-12T10:01:38+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/646-pangolin-crowdsec-ip-whitelist/</loc>
     <lastmod>2025-10-12T10:01:38+08:00</lastmod>
@@ -469,9 +520,6 @@
     <loc>https://deuts.org/x/580-lichess-docker-image/</loc>
     <lastmod>2025-08-21T17:59:09+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/blogging/</loc>
-    <lastmod>2025-08-19T10:52:15+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/579-obsidian-writeas-plugin/</loc>
     <lastmod>2025-08-19T10:52:15+08:00</lastmod>
   </url><url>
@@ -552,9 +600,6 @@
   </url><url>
     <loc>https://deuts.org/k/jellyfin/</loc>
     <lastmod>2025-08-09T00:27:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fediverse/</loc>
-    <lastmod>2025-08-08T23:46:12+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
@@ -1891,9 +1936,6 @@
     <loc>https://deuts.org/x/2025-01-14-11-09-3lfobmaofqc2v/</loc>
     <lastmod>2025-01-14T11:09:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/activitypub/</loc>
-    <lastmod>2025-01-14T00:30:36+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/354-fediwall/</loc>
     <lastmod>2025-01-14T00:30:36+08:00</lastmod>
   </url><url>
@@ -2607,9 +2649,6 @@
   </url><url>
     <loc>https://deuts.org/x/2024-12-12-00-10-3ld25ebq5ic2q/</loc>
     <lastmod>2024-12-12T00:10:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/images/</loc>
-    <lastmod>2024-12-11T23:34:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/286-reubah/</loc>
     <lastmod>2024-12-11T23:34:33+08:00</lastmod>
