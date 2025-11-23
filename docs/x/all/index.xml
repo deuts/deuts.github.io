@@ -7,8 +7,27 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 22 Nov 2025 22:42:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 13:07:38 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KAQHRJRZCGBVKNC88VRP3ZMC</title>
+      <link>https://deuts.org/x/2025-11-23-13-07-38-01kaqhrjrzcgbvknc88vrp3zmc/</link>
+      <pubDate>Sun, 23 Nov 2025 13:07:38 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-23-13-07-38-01kaqhrjrzcgbvknc88vrp3zmc/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m still torn as to which note taking app to stick to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Memos&lt;/li&gt;
+&lt;li&gt;Obsidian&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;m still torn as to which note taking app to stick to:</p>
+<ul>
+<li>Outline</li>
+<li>Memos</li>
+<li>Obsidian</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KAP086S1MXCSZJZPFP60QWGR</title>
       <link>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</link>
@@ -241,44 +260,6 @@
   
 <div class="linkding-notes">
     I should have know of this app before our draw lots we held earlier today.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Crowdsec Manager</title>
-      <link>https://deuts.org/x/684-crowdsec-manager/</link>
-      <pubDate>Sat, 22 Nov 2025 01:14:00 +0800</pubDate>
-      <guid>https://deuts.org/x/684-crowdsec-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-684&#34;&gt;&lt;a href=&#34;https://github.com/hhftechnology/crowdsec_manager&#34;&gt;Crowdsec Manager&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-684 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A web-based management interface for CrowdSec security stack with Pangolin integration. This project provides a modern, user-friendly web UI built with Go and React for managing your CrowdSec security infrastructure.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This Pangolin stack keeps getting better and better. I hope I have the time to keep up.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-684"><a href="https://github.com/hhftechnology/crowdsec_manager">Crowdsec Manager</a></h3>
-<style>
-.favicon-684 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A web-based management interface for CrowdSec security stack with Pangolin integration. This project provides a modern, user-friendly web UI built with Go and React for managing your CrowdSec security infrastructure.
-</blockquote>
-  
-<div class="linkding-notes">
-    This Pangolin stack keeps getting better and better. I hope I have the time to keep up.
 </div>
   
 ]]></content:encoded>
