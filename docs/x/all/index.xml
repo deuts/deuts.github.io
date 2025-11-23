@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Nov 2025 13:07:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 16:09:56 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KAQW6C26C3689N31QDP8FDN7</title>
+      <link>https://deuts.org/x/2025-11-23-16-09-56-01kaqw6c26c3689n31qdp8fdn7/</link>
+      <pubDate>Sun, 23 Nov 2025 16:09:56 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-11-23-16-09-56-01kaqw6c26c3689n31qdp8fdn7/</guid>
+      <description>&lt;p&gt;It’s hard to ignore that Signal remains unreliable in the Philippines, especially during registration. Local carriers may be part of the problem, but Signal’s own system clearly doesn’t cope well with inconsistent SMS delivery. Verification fails, “Call me” never appears, and users get stuck. Until this is resolved, widespread adoption here will stay difficult.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>It’s hard to ignore that Signal remains unreliable in the Philippines, especially during registration. Local carriers may be part of the problem, but Signal’s own system clearly doesn’t cope well with inconsistent SMS delivery. Verification fails, “Call me” never appears, and users get stuck. Until this is resolved, widespread adoption here will stay difficult.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KAQHRJRZCGBVKNC88VRP3ZMC</title>
       <link>https://deuts.org/x/2025-11-23-13-07-38-01kaqhrjrzcgbvknc88vrp3zmc/</link>
@@ -223,44 +232,6 @@
 <blockquote class="linkding-description">
     A Python Django Image Board. Web-based meme board for images, GIFs and videos
 </blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Secret Santa</title>
-      <link>https://deuts.org/x/685-secret-santa/</link>
-      <pubDate>Sat, 22 Nov 2025 01:19:33 +0800</pubDate>
-      <guid>https://deuts.org/x/685-secret-santa/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-685&#34;&gt;&lt;a href=&#34;https://github.com/richard1912/SecretSanta&#34;&gt;Secret Santa&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-685 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A festive Secret Santa party organizer with Christmas theme and snow animations.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I should have know of this app before our draw lots we held earlier today.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-685"><a href="https://github.com/richard1912/SecretSanta">Secret Santa</a></h3>
-<style>
-.favicon-685 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A festive Secret Santa party organizer with Christmas theme and snow animations.
-</blockquote>
-  
-<div class="linkding-notes">
-    I should have know of this app before our draw lots we held earlier today.
-</div>
   
 ]]></content:encoded>
     </item>
