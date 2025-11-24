@@ -7,8 +7,50 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 23 Nov 2025 16:09:56 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 22:30:29 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hetzner Account Rejection - Resort</title>
+      <link>https://deuts.org/x/692-hetzner-account-rejection-resort/</link>
+      <pubDate>Mon, 24 Nov 2025 22:30:29 +0800</pubDate>
+      <guid>https://deuts.org/x/692-hetzner-account-rejection-resort/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-692&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/hetzner/comments/1cmhvzs/new_account_problems_read_this_standalone_posts/&#34;&gt;Hetzner Account Rejection - Resort&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-692 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    &lt;p&gt;Was your new account rejected?&lt;/p&gt;
+&lt;p&gt;You can write a DM to us at u/Hetzner_OL and give us your account number or email address that you used for creating the account. We will then ask a colleague to check on the account for you.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is our last resort if every we&amp;rsquo;ll get rejected again in the future.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-692"><a href="https://www.reddit.com/r/hetzner/comments/1cmhvzs/new_account_problems_read_this_standalone_posts/">Hetzner Account Rejection - Resort</a></h3>
+<style>
+.favicon-692 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    <p>Was your new account rejected?</p>
+<p>You can write a DM to us at u/Hetzner_OL and give us your account number or email address that you used for creating the account. We will then ask a colleague to check on the account for you.</p>
+
+</blockquote>
+  
+<div class="linkding-notes">
+    This is our last resort if every we&rsquo;ll get rejected again in the future.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KAQW6C26C3689N31QDP8FDN7</title>
       <link>https://deuts.org/x/2025-11-23-16-09-56-01kaqw6c26c3689n31qdp8fdn7/</link>
@@ -203,36 +245,6 @@
       <guid>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://stegodon.social/@stegodon&#34;&gt;@stegodon&lt;/a&gt; trying to follow your project. But I can&amp;rsquo;t seem to see your posts in my instance.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://stegodon.social/@stegodon">@stegodon</a> trying to follow your project. But I can&rsquo;t seem to see your posts in my instance.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MemeLord</title>
-      <link>https://deuts.org/x/686-memelord/</link>
-      <pubDate>Sat, 22 Nov 2025 01:21:50 +0800</pubDate>
-      <guid>https://deuts.org/x/686-memelord/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-686&#34;&gt;&lt;a href=&#34;https://github.com/l4rm4nd/MemeLord&#34;&gt;MemeLord&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-686 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Python Django Image Board. Web-based meme board for images, GIFs and videos
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-686"><a href="https://github.com/l4rm4nd/MemeLord">MemeLord</a></h3>
-<style>
-.favicon-686 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Python Django Image Board. Web-based meme board for images, GIFs and videos
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>

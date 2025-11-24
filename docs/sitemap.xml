@@ -16,13 +16,28 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2025-11-23-16-09-56-01kaqw6c26c3689n31qdp8fdn7/</loc>
-    <lastmod>2025-11-23T16:09:56+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-11-23T16:09:56+08:00</lastmod>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hetzner/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/692-hetzner-account-rejection-resort/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/vps/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/vpsoffers/</loc>
+    <lastmod>2025-11-24T22:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2025-11-23-16-09-56-01kaqw6c26c3689n31qdp8fdn7/</loc>
     <lastmod>2025-11-23T16:09:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-11-23-13-07-38-01kaqhrjrzcgbvknc88vrp3zmc/</loc>
@@ -32,9 +47,6 @@
     <lastmod>2025-11-22T22:42:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-11-22T02:05:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/691-zerobyte-backup/</loc>
@@ -245,9 +257,6 @@
     <lastmod>2025-10-17T23:08:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/648-dedirock-launches-storage-wars-get-ultra-cheap-and-we-do-mean-ultra-cheap-pricing-on-huge-storage-boxes/</loc>
-    <lastmod>2025-10-13T10:46:38+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/vpsoffers/</loc>
     <lastmod>2025-10-13T10:46:38+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/vpsstorage/</loc>
@@ -576,9 +585,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-08-13-23-05-06-01k2hzd8hsc0hewr31s2a4ydtq/</loc>
     <lastmod>2025-08-13T23:05:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/vps/</loc>
-    <lastmod>2025-08-13T10:29:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/574-vps-monitor/</loc>
     <lastmod>2025-08-13T10:29:00+08:00</lastmod>
@@ -1032,9 +1038,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-06-04-19-17-23-01jwxaj00ghgtpdfqk6b6qg0dh/</loc>
     <lastmod>2025-06-04T19:17:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/hetzner/</loc>
-    <lastmod>2025-06-04T19:02:18+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/494-install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/</loc>
     <lastmod>2025-06-04T19:02:18+08:00</lastmod>
