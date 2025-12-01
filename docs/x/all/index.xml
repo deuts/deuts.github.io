@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 21:35:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 08:35:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to deploy a complete n8n AI stack in 15 minutes instead of a whole day</title>
+      <link>https://deuts.org/x/699-how-to-deploy-a-complete-n8n-ai-stack-in-15-minutes-instead-of-a-whole-day/</link>
+      <pubDate>Mon, 01 Dec 2025 08:35:48 +0800</pubDate>
+      <guid>https://deuts.org/x/699-how-to-deploy-a-complete-n8n-ai-stack-in-15-minutes-instead-of-a-whole-day/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-699&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/n8n/s/LK4SgXtStE&#34;&gt;How to deploy a complete n8n AI stack in 15 minutes instead of a whole day&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-699 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Reference material for some of our n8n installation.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-699"><a href="https://www.reddit.com/r/n8n/s/LK4SgXtStE">How to deploy a complete n8n AI stack in 15 minutes instead of a whole day</a></h3>
+<style>
+.favicon-699 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<div class="linkding-notes">
+    Reference material for some of our n8n installation.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KB2RCNPBVFQ7X26RD20SNJTA</title>
       <link>https://deuts.org/x/2025-11-27-21-35-06-01kb2rcnpbvfq7x26rd20snjta/</link>
@@ -192,36 +222,6 @@
 
 <blockquote class="linkding-description">
     Ocular - A simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Stegodon Activitypub Blogging</title>
-      <link>https://deuts.org/x/688-stegodon-activitypub-blogging/</link>
-      <pubDate>Sat, 22 Nov 2025 01:53:16 +0800</pubDate>
-      <guid>https://deuts.org/x/688-stegodon-activitypub-blogging/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-688&#34;&gt;&lt;a href=&#34;https://github.com/deemkeen/stegodon&#34;&gt;Stegodon Activitypub Blogging&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-688 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    stegodon is an SSH-first federated blogging platform. Users connect via SSH to create notes in a terminal interface. Notes federate to the Fediverse via ActivityPub and are available through RSS feeds and a web interface.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-688"><a href="https://github.com/deemkeen/stegodon">Stegodon Activitypub Blogging</a></h3>
-<style>
-.favicon-688 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    stegodon is an SSH-first federated blogging platform. Users connect via SSH to create notes in a terminal interface. Notes federate to the Fediverse via ActivityPub and are available through RSS feeds and a web interface.
 </blockquote>
   
 ]]></content:encoded>
