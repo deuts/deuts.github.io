@@ -16,11 +16,23 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/2025-12-13-01-58-28-01kc9vdns8ebndtjzmwv4vkd06/</loc>
+    <lastmod>2025-12-13T01:58:28+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-12-07T09:10:36+08:00</lastmod>
+    <lastmod>2025-12-13T01:58:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-12-07T09:10:36+08:00</lastmod>
+    <lastmod>2025-12-13T01:58:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/kde/</loc>
+    <lastmod>2025-12-13T01:23:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/linux/</loc>
+    <lastmod>2025-12-13T01:23:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/723-make-your-kde-sweet-customizing-kde-plasma/</loc>
+    <lastmod>2025-12-13T01:23:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/personalfinance/</loc>
     <lastmod>2025-12-07T09:10:36+08:00</lastmod>
@@ -66,12 +78,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</loc>
     <lastmod>2025-11-22T22:42:21+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/x/691-zerobyte-backup/</loc>
-    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/budgeting/</loc>
     <lastmod>2025-11-22T02:03:01+08:00</lastmod>
@@ -129,6 +135,9 @@
   </url><url>
     <loc>https://deuts.org/k/pangolin/</loc>
     <lastmod>2025-11-22T01:14:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/database/</loc>
     <lastmod>2025-11-19T23:05:50+08:00</lastmod>
@@ -1316,9 +1325,6 @@
     <lastmod>2025-04-26T22:14:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/437-keepalive-alternative-to-wake-on-lan/</loc>
-    <lastmod>2025-04-24T07:27:16+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/linux/</loc>
     <lastmod>2025-04-24T07:27:16+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/436-i-gave-up-on-kindle-and-built-my-own-ebook-server-with-calibre/</loc>

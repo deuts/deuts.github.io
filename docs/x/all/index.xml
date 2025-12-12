@@ -7,8 +7,49 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 07 Dec 2025 09:10:36 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:58:28 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KC9VDNS8EBNDTJZMWV4VKD06</title>
+      <link>https://deuts.org/x/2025-12-13-01-58-28-01kc9vdns8ebndtjzmwv4vkd06/</link>
+      <pubDate>Sat, 13 Dec 2025 01:58:28 +0800</pubDate>
+      <guid>https://deuts.org/x/2025-12-13-01-58-28-01kc9vdns8ebndtjzmwv4vkd06/</guid>
+      <description>&lt;p&gt;My experience so far with &lt;a href=&#34;https://fediwall.social/?tags=ArcaneDocker&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ArcaneDocker&#34;&gt;#ArcaneDocker&lt;/a&gt; is it&amp;rsquo;s so buggy.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>My experience so far with <a href="https://fediwall.social/?tags=ArcaneDocker&amp;accounts=&amp;lang=en&amp;title=%23ArcaneDocker">#ArcaneDocker</a> is it&rsquo;s so buggy.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Make your KDE Sweet | Customizing KDE Plasma</title>
+      <link>https://deuts.org/x/723-make-your-kde-sweet-customizing-kde-plasma/</link>
+      <pubDate>Sat, 13 Dec 2025 01:23:50 +0800</pubDate>
+      <guid>https://deuts.org/x/723-make-your-kde-sweet-customizing-kde-plasma/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-723&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PyyxQYkloLo&#34;&gt;Make your KDE Sweet | Customizing KDE Plasma&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-723 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In this video, I’ll guide you step-by-step on how to make your KDE desktop look clean, modern, and visually stunning.&lt;br&gt;
+From setting up beautiful wallpapers and custom fonts to tweaking blur effects, animations, and the Alt-Tab switcher, everything is covered to help you personalize your KDE experience just the way you like it.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-723"><a href="https://www.youtube.com/watch?v=PyyxQYkloLo">Make your KDE Sweet | Customizing KDE Plasma</a></h3>
+<style>
+.favicon-723 {
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In this video, I’ll guide you step-by-step on how to make your KDE desktop look clean, modern, and visually stunning.<br>
+From setting up beautiful wallpapers and custom fonts to tweaking blur effects, animations, and the Alt-Tab switcher, everything is covered to help you personalize your KDE experience just the way you like it.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Sure personal finance app</title>
       <link>https://deuts.org/x/720-sure-personal-finance-app/</link>
@@ -185,45 +226,6 @@
 <li>Memos</li>
 <li>Obsidian</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KAP086S1MXCSZJZPFP60QWGR</title>
-      <link>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</link>
-      <pubDate>Sat, 22 Nov 2025 22:42:21 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ultracrepidarian.mysteriar.ch/@the&#34;&gt;@the&lt;/a&gt; Sure! Sent a join request that the group chat you shared.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://ultracrepidarian.mysteriar.ch/@the">@the</a> Sure! Sent a join request that the group chat you shared.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Zerobyte backup</title>
-      <link>https://deuts.org/x/691-zerobyte-backup/</link>
-      <pubDate>Sat, 22 Nov 2025 02:05:24 +0800</pubDate>
-      <guid>https://deuts.org/x/691-zerobyte-backup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-691&#34;&gt;&lt;a href=&#34;https://github.com/nicotsx/zerobyte&#34;&gt;Zerobyte backup&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-691 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides an modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-691"><a href="https://github.com/nicotsx/zerobyte">Zerobyte backup</a></h3>
-<style>
-.favicon-691 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides an modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
