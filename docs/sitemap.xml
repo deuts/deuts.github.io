@@ -17,10 +17,55 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-12-24T14:31:36+08:00</lastmod>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-12-24T14:31:36+08:00</lastmod>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/kvm/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/linux/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/os/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/virtualization/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/734-winboat-run-windows-apps-on-linux-with-seamless-integration/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/windows/</loc>
+    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/actual/</loc>
+    <lastmod>2025-12-27T23:52:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/733-actual-http-api/</loc>
+    <lastmod>2025-12-27T23:52:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/api/</loc>
+    <lastmod>2025-12-27T23:52:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-12-27T23:52:27+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/crm/</loc>
+    <lastmod>2025-12-27T01:36:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/732-pivor/</loc>
+    <lastmod>2025-12-27T01:36:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2025-12-27T01:36:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/731-backapp/</loc>
+    <lastmod>2025-12-27T01:33:42+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2025-12-27T01:33:42+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/obsidian/</loc>
     <lastmod>2025-12-24T14:31:36+08:00</lastmod>
@@ -35,9 +80,6 @@
     <lastmod>2025-12-22T00:26:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/728-idhamsy-openshortlink-openshort-link-is-the-all-in-one-open-source-serverless-url-shortener-it-runs-100-on-cloudflare-and-offers-one-click-installation/</loc>
-    <lastmod>2025-12-22T00:26:08+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2025-12-22T00:26:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/urlshortener/</loc>
@@ -82,20 +124,11 @@
     <loc>https://deuts.org/k/kde/</loc>
     <lastmod>2025-12-13T01:23:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/linux/</loc>
-    <lastmod>2025-12-13T01:23:50+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/723-make-your-kde-sweet-customizing-kde-plasma/</loc>
     <lastmod>2025-12-13T01:23:50+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2025-12-07T09:10:36+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/720-sure-personal-finance-app/</loc>
     <lastmod>2025-12-07T09:10:36+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/crm/</loc>
-    <lastmod>2025-12-01T22:49:25+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/700-relaticle-crm/</loc>
     <lastmod>2025-12-01T22:49:25+08:00</lastmod>
@@ -186,9 +219,6 @@
   </url><url>
     <loc>https://deuts.org/k/pangolin/</loc>
     <lastmod>2025-11-22T01:14:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2025-11-19T23:05:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/database/</loc>
     <lastmod>2025-11-19T23:05:50+08:00</lastmod>
@@ -285,9 +315,6 @@
   </url><url>
     <loc>https://deuts.org/x/664-alexandrie-notes/</loc>
     <lastmod>2025-11-03T11:21:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/api/</loc>
-    <lastmod>2025-11-03T11:12:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/favicon/</loc>
     <lastmod>2025-11-03T11:12:52+08:00</lastmod>
@@ -1060,9 +1087,6 @@
     <loc>https://deuts.org/k/kms/</loc>
     <lastmod>2025-06-05T23:14:38+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/windows/</loc>
-    <lastmod>2025-06-05T23:14:38+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/500-kms-docker-server/</loc>
     <lastmod>2025-06-05T23:00:00+08:00</lastmod>
   </url><url>
@@ -1122,9 +1146,6 @@
   </url><url>
     <loc>https://deuts.org/k/webhooks/</loc>
     <lastmod>2025-06-02T23:59:50+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/os/</loc>
-    <lastmod>2025-06-02T22:44:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/puter/</loc>
     <lastmod>2025-06-02T22:44:15+08:00</lastmod>
@@ -1506,9 +1527,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/</loc>
     <lastmod>2025-03-15T14:05:22+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/actual/</loc>
-    <lastmod>2025-03-15T00:13:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/411-dollar-dollar/</loc>
     <lastmod>2025-03-15T00:13:56+08:00</lastmod>
@@ -3548,12 +3566,6 @@
     <lastmod>2024-07-15T18:36:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/132-install-windows-server-on-any-vps-or-dedicated-server-without-kvm-ilo-or-ipmi/</loc>
-    <lastmod>2024-07-13T00:44:38+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/kvm/</loc>
-    <lastmod>2024-07-13T00:44:38+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/virtualization/</loc>
     <lastmod>2024-07-13T00:44:38+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/windowsvps/</loc>
