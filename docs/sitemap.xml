@@ -17,10 +17,79 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/automation/</loc>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2025-12-28T23:53:48+08:00</lastmod>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/n8n/</loc>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/746-n8n-auto-scaling/</loc>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/745-pingora-proxy-manager/</loc>
+    <lastmod>2026-01-05T20:11:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/reverseproxy/</loc>
+    <lastmod>2026-01-05T20:11:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/qbittorrent/</loc>
+    <lastmod>2026-01-05T01:17:08+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/743-qbitwebui/</loc>
+    <lastmod>2026-01-05T01:17:08+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/torrenting/</loc>
+    <lastmod>2026-01-05T01:17:08+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/calendar/</loc>
+    <lastmod>2026-01-05T01:15:06+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/742-keeper-sh-calendar-synchronization/</loc>
+    <lastmod>2026-01-05T01:15:06+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2026-01-05T01:13:24+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/kopia/</loc>
+    <lastmod>2026-01-05T01:13:24+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/741-kopia-alternative-ui/</loc>
+    <lastmod>2026-01-05T01:13:24+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/740-jotty/</loc>
+    <lastmod>2026-01-05T01:11:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-01-05T01:11:52+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/739-invoice-builder/</loc>
+    <lastmod>2026-01-05T01:11:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/invoicing/</loc>
+    <lastmod>2026-01-05T01:11:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/helpdesk/</loc>
+    <lastmod>2026-01-05T01:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/738-pepperminto/</loc>
+    <lastmod>2026-01-05T01:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/ticketing/</loc>
+    <lastmod>2026-01-05T01:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/737-budget-board/</loc>
+    <lastmod>2025-12-31T12:16:15+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2025-12-31T12:16:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/kvm/</loc>
     <lastmod>2025-12-28T23:53:48+08:00</lastmod>
@@ -49,22 +118,13 @@
     <loc>https://deuts.org/k/api/</loc>
     <lastmod>2025-12-27T23:52:27+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2025-12-27T23:52:27+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/crm/</loc>
     <lastmod>2025-12-27T01:36:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/732-pivor/</loc>
     <lastmod>2025-12-27T01:36:04+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2025-12-27T01:36:04+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/731-backapp/</loc>
-    <lastmod>2025-12-27T01:33:42+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
     <lastmod>2025-12-27T01:33:42+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/obsidian/</loc>
@@ -113,9 +173,6 @@
     <lastmod>2025-12-15T07:47:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/725-gmail-and-n8n-setup/</loc>
-    <lastmod>2025-12-15T07:47:39+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/n8n/</loc>
     <lastmod>2025-12-15T07:47:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-12-13-01-58-28-01kc9vdns8ebndtjzmwv4vkd06/</loc>
@@ -190,9 +247,6 @@
     <loc>https://deuts.org/x/687-journiv-private-journal/</loc>
     <lastmod>2025-11-22T01:52:16+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
-    <lastmod>2025-11-22T01:52:16+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</loc>
     <lastmod>2025-11-22T01:29:09+08:00</lastmod>
   </url><url>
@@ -243,9 +297,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-11-18-23-08-39-01kabr5fprp9wxhz0tp6r8m3qn/</loc>
     <lastmod>2025-11-18T23:08:39+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</loc>
     <lastmod>2025-11-17T22:41:30+08:00</lastmod>
@@ -307,9 +358,6 @@
     <loc>https://deuts.org/k/webbuilder/</loc>
     <lastmod>2025-11-03T15:28:05+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/invoicing/</loc>
-    <lastmod>2025-11-03T11:23:33+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/665-rachoon/</loc>
     <lastmod>2025-11-03T11:23:33+08:00</lastmod>
   </url><url>
@@ -335,9 +383,6 @@
     <lastmod>2025-11-03T10:44:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/655-service-ticketing-systems/</loc>
-    <lastmod>2025-10-24T23:57:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/ticketing/</loc>
     <lastmod>2025-10-24T23:57:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/654-notebook-navigator-modern-file-explorer-for-obsidian/</loc>
@@ -440,9 +485,6 @@
     <lastmod>2025-09-20T00:33:13+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/625-netgoat/</loc>
-    <lastmod>2025-09-20T00:30:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/reverseproxy/</loc>
     <lastmod>2025-09-20T00:30:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/download/</loc>
@@ -819,9 +861,6 @@
   </url><url>
     <loc>https://deuts.org/k/rsync/</loc>
     <lastmod>2025-07-17T13:05:10+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/calendar/</loc>
-    <lastmod>2025-07-17T09:45:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/549-task-notes/</loc>
     <lastmod>2025-07-17T09:45:08+08:00</lastmod>
@@ -1491,9 +1530,6 @@
   </url><url>
     <loc>https://deuts.org/x/418-how-to-install-uvdesk-on-your-synology-nas/</loc>
     <lastmod>2025-03-19T15:14:53+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/helpdesk/</loc>
-    <lastmod>2025-03-18T22:44:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/417-self-hosted-ticketing-with-peppermint-open-source-helpdesk-setup/</loc>
     <lastmod>2025-03-18T22:44:09+08:00</lastmod>
@@ -3864,9 +3900,6 @@
   </url><url>
     <loc>https://deuts.org/x/42-why-wordpress-won-the-cms-war-on-reddit/</loc>
     <lastmod>2024-04-08T07:42:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/kopia/</loc>
-    <lastmod>2024-04-07T00:04:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/39-offsite-docker-backups-with-kopia-gurucomputing-blog/</loc>
     <lastmod>2024-04-07T00:04:11+08:00</lastmod>

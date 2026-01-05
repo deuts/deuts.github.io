@@ -7,8 +7,302 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 28 Dec 2025 23:53:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 07:14:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>N8n auto scaling</title>
+      <link>https://deuts.org/x/746-n8n-auto-scaling/</link>
+      <pubDate>Tue, 06 Jan 2026 07:14:31 +0800</pubDate>
+      <guid>https://deuts.org/x/746-n8n-auto-scaling/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-746&#34;&gt;&lt;a href=&#34;https://github.com/conor-is-my-name/n8n-autoscaling&#34;&gt;N8n auto scaling&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-746 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    n8n queue mode build with automatic worker scaling and puppeteer
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We might need to explore this should our use case for n8n becomes significantly bigger in the future.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-746"><a href="https://github.com/conor-is-my-name/n8n-autoscaling">N8n auto scaling</a></h3>
+<style>
+.favicon-746 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    n8n queue mode build with automatic worker scaling and puppeteer
+</blockquote>
+  
+<div class="linkding-notes">
+    We might need to explore this should our use case for n8n becomes significantly bigger in the future.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Pingora Proxy Manager</title>
+      <link>https://deuts.org/x/745-pingora-proxy-manager/</link>
+      <pubDate>Mon, 05 Jan 2026 20:11:31 +0800</pubDate>
+      <guid>https://deuts.org/x/745-pingora-proxy-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-745&#34;&gt;&lt;a href=&#34;https://github.com/DDULDDUCK/pingora-proxy-manager&#34;&gt;Pingora Proxy Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-745 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A high-performance, zero-downtime reverse proxy manager built on Cloudflare&amp;rsquo;s Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL &amp;amp; TCP/UDP Streams!
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Pretty much like a clone of Nginx Proxy Manager, but looks better.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-745"><a href="https://github.com/DDULDDUCK/pingora-proxy-manager">Pingora Proxy Manager</a></h3>
+<style>
+.favicon-745 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A high-performance, zero-downtime reverse proxy manager built on Cloudflare&rsquo;s Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL &amp; TCP/UDP Streams!
+</blockquote>
+  
+<div class="linkding-notes">
+    Pretty much like a clone of Nginx Proxy Manager, but looks better.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>QbitWebUI</title>
+      <link>https://deuts.org/x/743-qbitwebui/</link>
+      <pubDate>Mon, 05 Jan 2026 01:17:08 +0800</pubDate>
+      <guid>https://deuts.org/x/743-qbitwebui/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-743&#34;&gt;&lt;a href=&#34;https://github.com/Maciejonos/qbitwebui&#34;&gt;QbitWebUI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-743 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A modern web interface for managing multiple qBittorrent instances.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-743"><a href="https://github.com/Maciejonos/qbitwebui">QbitWebUI</a></h3>
+<style>
+.favicon-743 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A modern web interface for managing multiple qBittorrent instances.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Keeper.sh Calendar Synchronization</title>
+      <link>https://deuts.org/x/742-keeper-sh-calendar-synchronization/</link>
+      <pubDate>Mon, 05 Jan 2026 01:15:06 +0800</pubDate>
+      <guid>https://deuts.org/x/742-keeper-sh-calendar-synchronization/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-742&#34;&gt;&lt;a href=&#34;https://github.com/ridafkih/keeper.sh&#34;&gt;Keeper.sh Calendar Synchronization&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-742 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A monorepository for (time)keeper—an open-source calendar synchronization and booking tool.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-742"><a href="https://github.com/ridafkih/keeper.sh">Keeper.sh Calendar Synchronization</a></h3>
+<style>
+.favicon-742 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A monorepository for (time)keeper—an open-source calendar synchronization and booking tool.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kopia Alternative UI</title>
+      <link>https://deuts.org/x/741-kopia-alternative-ui/</link>
+      <pubDate>Mon, 05 Jan 2026 01:13:24 +0800</pubDate>
+      <guid>https://deuts.org/x/741-kopia-alternative-ui/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-741&#34;&gt;&lt;a href=&#34;https://github.com/joachimdalen/kopia-alternate-ui&#34;&gt;Kopia Alternative UI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-741 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An alternative drop-in place web interface for Kopia
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-741"><a href="https://github.com/joachimdalen/kopia-alternate-ui">Kopia Alternative UI</a></h3>
+<style>
+.favicon-741 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An alternative drop-in place web interface for Kopia
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Jotty</title>
+      <link>https://deuts.org/x/740-jotty/</link>
+      <pubDate>Mon, 05 Jan 2026 01:11:52 +0800</pubDate>
+      <guid>https://deuts.org/x/740-jotty/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-740&#34;&gt;&lt;a href=&#34;https://github.com/fccview/jotty?tab=readme-ov-file&#34;&gt;Jotty&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-740 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-740"><a href="https://github.com/fccview/jotty?tab=readme-ov-file">Jotty</a></h3>
+<style>
+.favicon-740 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Invoice Builder</title>
+      <link>https://deuts.org/x/739-invoice-builder/</link>
+      <pubDate>Mon, 05 Jan 2026 01:11:22 +0800</pubDate>
+      <guid>https://deuts.org/x/739-invoice-builder/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-739&#34;&gt;&lt;a href=&#34;https://github.com/piratuks/invoice-builder&#34;&gt;Invoice Builder&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-739 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-739"><a href="https://github.com/piratuks/invoice-builder">Invoice Builder</a></h3>
+<style>
+.favicon-739 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Pepperminto</title>
+      <link>https://deuts.org/x/738-pepperminto/</link>
+      <pubDate>Mon, 05 Jan 2026 01:08:40 +0800</pubDate>
+      <guid>https://deuts.org/x/738-pepperminto/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-738&#34;&gt;&lt;a href=&#34;https://github.com/nulldoubt/pepperminto&#34;&gt;Pepperminto&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-738 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An open source issue management &amp;amp; help desk solution. A zendesk &amp;amp; jira alternative, a fork of Peppermint.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Now I wonder if this features custom fields already.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-738"><a href="https://github.com/nulldoubt/pepperminto">Pepperminto</a></h3>
+<style>
+.favicon-738 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An open source issue management &amp; help desk solution. A zendesk &amp; jira alternative, a fork of Peppermint.
+</blockquote>
+  
+<div class="linkding-notes">
+    Now I wonder if this features custom fields already.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Budget Board</title>
+      <link>https://deuts.org/x/737-budget-board/</link>
+      <pubDate>Wed, 31 Dec 2025 12:16:15 +0800</pubDate>
+      <guid>https://deuts.org/x/737-budget-board/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-737&#34;&gt;&lt;a href=&#34;https://budgetboard.net/&#34;&gt;Budget Board&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-737 {
+    background: url(&#39;https://bm.deuts.org/static/https_budgetboard_net.jpg&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    BudgetBoard is an open-source personal finance application designed to help users track their monthly spending and work towards financial goals. It offers a user-friendly interface, robust budgeting tools, and seamless integration with various financial institutions via sync providers like SimpleFIN.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-737"><a href="https://budgetboard.net/">Budget Board</a></h3>
+<style>
+.favicon-737 {
+    background: url('https://bm.deuts.org/static/https_budgetboard_net.jpg') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    BudgetBoard is an open-source personal finance application designed to help users track their monthly spending and work towards financial goals. It offers a user-friendly interface, robust budgeting tools, and seamless integration with various financial institutions via sync providers like SimpleFIN.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>WinBoat - Run Windows Apps on Linux with Seamless Integration</title>
       <link>https://deuts.org/x/734-winboat-run-windows-apps-on-linux-with-seamless-integration/</link>
@@ -37,231 +331,6 @@
     WinBoat lets you run any Windows application on Linux with seamless desktop integration. Elegant interface, automated installs, filesystem integration, and native OS-level windows.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Actual HTTP API</title>
-      <link>https://deuts.org/x/733-actual-http-api/</link>
-      <pubDate>Sat, 27 Dec 2025 23:52:27 +0800</pubDate>
-      <guid>https://deuts.org/x/733-actual-http-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-733&#34;&gt;&lt;a href=&#34;https://github.com/jhonderson/actual-http-api&#34;&gt;Actual HTTP API&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-733 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Basic Actual Budget API exposed through HTTP endpoints
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is going to be the best implementation if we are to automate our Actual data via n8n.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-733"><a href="https://github.com/jhonderson/actual-http-api">Actual HTTP API</a></h3>
-<style>
-.favicon-733 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Basic Actual Budget API exposed through HTTP endpoints
-</blockquote>
-  
-<div class="linkding-notes">
-    This is going to be the best implementation if we are to automate our Actual data via n8n.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pivor</title>
-      <link>https://deuts.org/x/732-pivor/</link>
-      <pubDate>Sat, 27 Dec 2025 01:36:04 +0800</pubDate>
-      <guid>https://deuts.org/x/732-pivor/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-732&#34;&gt;&lt;a href=&#34;https://github.com/Lexaro-Software/pivor&#34;&gt;Pivor&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-732 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A CRM that respects your independence. Manage clients, contacts, and communications, on your own terms. Open source, self-hosted, built for the long haul.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-732"><a href="https://github.com/Lexaro-Software/pivor">Pivor</a></h3>
-<style>
-.favicon-732 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A CRM that respects your independence. Manage clients, contacts, and communications, on your own terms. Open source, self-hosted, built for the long haul.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>BackApp</title>
-      <link>https://deuts.org/x/731-backapp/</link>
-      <pubDate>Sat, 27 Dec 2025 01:33:42 +0800</pubDate>
-      <guid>https://deuts.org/x/731-backapp/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-731&#34;&gt;&lt;a href=&#34;https://github.com/Dennis960/BackApp&#34;&gt;BackApp&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-731 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary &amp;lt; 50 MB
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-731"><a href="https://github.com/Dennis960/BackApp">BackApp</a></h3>
-<style>
-.favicon-731 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary &lt; 50 MB
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Obsidian Plugins you discovered in 2025</title>
-      <link>https://deuts.org/x/730-obsidian-plugins-you-discovered-in-2025/</link>
-      <pubDate>Wed, 24 Dec 2025 14:31:36 +0800</pubDate>
-      <guid>https://deuts.org/x/730-obsidian-plugins-you-discovered-in-2025/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-730&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/ObsidianMD/s/1Am5agZcZ1&#34;&gt;Obsidian Plugins you discovered in 2025&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-730 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;Journal Review: One of my vaults is a diary, and this plugin helps me find out what happened on this day X months/years ago.&lt;/p&gt;
-&lt;p&gt;Pixel Banner: This plugin paired with 8-bit GIFs made my vault look cozy and beautiful.&lt;/p&gt;
-&lt;p&gt;TimeStamper: Creates timestamps (duh). I usually use this when I finish a task to record at what time I&amp;rsquo;ve finished it.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-730"><a href="https://www.reddit.com/r/ObsidianMD/s/1Am5agZcZ1">Obsidian Plugins you discovered in 2025</a></h3>
-<style>
-.favicon-730 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>Journal Review: One of my vaults is a diary, and this plugin helps me find out what happened on this day X months/years ago.</p>
-<p>Pixel Banner: This plugin paired with 8-bit GIFs made my vault look cozy and beautiful.</p>
-<p>TimeStamper: Creates timestamps (duh). I usually use this when I finish a task to record at what time I&rsquo;ve finished it.</p>
-<p>Plugin Update Tracker: This feels like it should be a core plugin. Keeps track and updates plugins for you.</p>
-<p>Pretty Properties: Makes properties, well&hellip; Prettier!</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;m interested to check Journal, Tasknotes and Pretty Properties.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>idhamsy/openshortlink: OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.</title>
-      <link>https://deuts.org/x/728-idhamsy-openshortlink-openshort-link-is-the-all-in-one-open-source-serverless-url-shortener-it-runs-100-on-cloudflare-and-offers-one-click-installation/</link>
-      <pubDate>Mon, 22 Dec 2025 00:26:08 +0800</pubDate>
-      <guid>https://deuts.org/x/728-idhamsy-openshortlink-openshort-link-is-the-all-in-one-open-source-serverless-url-shortener-it-runs-100-on-cloudflare-and-offers-one-click-installation/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-728&#34;&gt;&lt;a href=&#34;https://github.com/idhamsy/openshortlink&#34;&gt;idhamsy/openshortlink: OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-728 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation. - idhamsy/openshortlink
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-728"><a href="https://github.com/idhamsy/openshortlink">idhamsy/openshortlink: OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.</a></h3>
-<style>
-.favicon-728 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation. - idhamsy/openshortlink
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ZTE F50 5G: Tips &amp; Tricks | Band and Cell ID locking</title>
-      <link>https://deuts.org/x/726-zte-f50-5g-tips-tricks-band-and-cell-id-locking/</link>
-      <pubDate>Thu, 18 Dec 2025 09:49:32 +0800</pubDate>
-      <guid>https://deuts.org/x/726-zte-f50-5g-tips-tricks-band-and-cell-id-locking/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-726&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kYruB8SEq4Y&#34;&gt;ZTE F50 5G: Tips &amp;amp; Tricks | Band and Cell ID locking&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-726 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    ZTE F50 5G: Tips &amp;amp; Tricks | Band and Cell ID lockingHi Guys! Here&amp;rsquo;s a quick 5 Tips and Tricks (plus 2 bonus tips) for the ZTE F50 5G pocket wifi. Let us know&amp;hellip;
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-726"><a href="https://www.youtube.com/watch?v=kYruB8SEq4Y">ZTE F50 5G: Tips &amp; Tricks | Band and Cell ID locking</a></h3>
-<style>
-.favicon-726 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    ZTE F50 5G: Tips &amp; Tricks | Band and Cell ID lockingHi Guys! Here&rsquo;s a quick 5 Tips and Tricks (plus 2 bonus tips) for the ZTE F50 5G pocket wifi. Let us know&hellip;
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KCJ68SQK2FW52TRJHMG9TPP5</title>
-      <link>https://deuts.org/x/2025-12-16-07-41-58-01kcj68sqk2fw52trjhmg9tpp5/</link>
-      <pubDate>Tue, 16 Dec 2025 07:41:58 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-12-16-07-41-58-01kcj68sqk2fw52trjhmg9tpp5/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@BartV&#34;&gt;@BartV&lt;/a&gt; yes to this please!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://mastodon.social/@BartV">@BartV</a> yes to this please!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KCHHFSW6KNWQZXA2FMKK4RZ5</title>
-      <link>https://deuts.org/x/2025-12-16-01-38-47-01kchhfsw6knwqzxa2fmkk4rz5/</link>
-      <pubDate>Tue, 16 Dec 2025 01:38:47 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-12-16-01-38-47-01kchhfsw6knwqzxa2fmkk4rz5/</guid>
-      <description>&lt;p&gt;Installed Debian 13 and KDE on my Beelink EQR6. I wonder why I have been avoiding KDE recently, I mean for the last like 15 years? Apparently, a lot of things has changed since then, and my experience is great so far. It actually has a lot of customization options than Gnome. I also think Pop!_OS Cosmic DE is not ready yet for prime time.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Installed Debian 13 and KDE on my Beelink EQR6. I wonder why I have been avoiding KDE recently, I mean for the last like 15 years? Apparently, a lot of things has changed since then, and my experience is great so far. It actually has a lot of customization options than Gnome. I also think Pop!_OS Cosmic DE is not ready yet for prime time.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KCHH89YQ9ZYFGGYXQBR4XRB4</title>
-      <link>https://deuts.org/x/2025-12-16-01-34-42-01kchh89yq9zyfggyxqbr4xrb4/</link>
-      <pubDate>Tue, 16 Dec 2025 01:34:42 +0800</pubDate>
-      <guid>https://deuts.org/x/2025-12-16-01-34-42-01kchh89yq9zyfggyxqbr4xrb4/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s an appreciation post for &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt;. For me, it is the best and the most underappreciated low code tool out there, especially when you&amp;rsquo;re &lt;a href=&#34;https://fediwall.social/?tags=Selfhosting&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Selfhosting&#34;&gt;#Selfhosting&lt;/a&gt;. I do hope for more people to notice this project and its community to strive further. Can someone start a subreddit community already?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Here&rsquo;s an appreciation post for <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a>. For me, it is the best and the most underappreciated low code tool out there, especially when you&rsquo;re <a href="https://fediwall.social/?tags=Selfhosting&amp;accounts=&amp;lang=en&amp;title=%23Selfhosting">#Selfhosting</a>. I do hope for more people to notice this project and its community to strive further. Can someone start a subreddit community already?</p>
 ]]></content:encoded>
     </item>
   </channel>
