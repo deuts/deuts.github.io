@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 07:14:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:13:40 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkdinger</title>
+      <link>https://deuts.org/x/748-linkdinger/</link>
+      <pubDate>Fri, 09 Jan 2026 23:13:40 +0800</pubDate>
+      <guid>https://deuts.org/x/748-linkdinger/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-748&#34;&gt;&lt;a href=&#34;https://github.com/lmmendes/linkdinger&#34;&gt;Linkdinger&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-748 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A Telegram bot that saves links directly to your Linkding bookmark manager
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-748"><a href="https://github.com/lmmendes/linkdinger">Linkdinger</a></h3>
+<style>
+.favicon-748 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A Telegram bot that saves links directly to your Linkding bookmark manager
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>N8n auto scaling</title>
       <link>https://deuts.org/x/746-n8n-auto-scaling/</link>
@@ -299,36 +329,6 @@
 
 <blockquote class="linkding-description">
     BudgetBoard is an open-source personal finance application designed to help users track their monthly spending and work towards financial goals. It offers a user-friendly interface, robust budgeting tools, and seamless integration with various financial institutions via sync providers like SimpleFIN.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>WinBoat - Run Windows Apps on Linux with Seamless Integration</title>
-      <link>https://deuts.org/x/734-winboat-run-windows-apps-on-linux-with-seamless-integration/</link>
-      <pubDate>Sun, 28 Dec 2025 23:53:48 +0800</pubDate>
-      <guid>https://deuts.org/x/734-winboat-run-windows-apps-on-linux-with-seamless-integration/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-734&#34;&gt;&lt;a href=&#34;https://www.winboat.app/&#34;&gt;WinBoat - Run Windows Apps on Linux with Seamless Integration&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-734 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_winboat_app.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    WinBoat lets you run any Windows application on Linux with seamless desktop integration. Elegant interface, automated installs, filesystem integration, and native OS-level windows.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-734"><a href="https://www.winboat.app/">WinBoat - Run Windows Apps on Linux with Seamless Integration</a></h3>
-<style>
-.favicon-734 {
-    background: url('https://bm.deuts.org/static/https_www_winboat_app.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    WinBoat lets you run any Windows application on Linux with seamless desktop integration. Elegant interface, automated installs, filesystem integration, and native OS-level windows.
 </blockquote>
   
 ]]></content:encoded>
