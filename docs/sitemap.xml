@@ -16,22 +16,34 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2026-01-11-16-23-45-01kep2ex52n50c5awn54sfh7r6/</loc>
-    <lastmod>2026-01-11T16:23:45+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-01-11T16:23:45+08:00</lastmod>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/crowdsec/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/749-discussion-on-pangolin-and-crowdsec-issue/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pangolin/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/reverseproxy/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-01-11-16-23-45-01kep2ex52n50c5awn54sfh7r6/</loc>
     <lastmod>2026-01-11T16:23:45+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/linkding/</loc>
     <lastmod>2026-01-09T23:13:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/748-linkdinger/</loc>
-    <lastmod>2026-01-09T23:13:40+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-01-09T23:13:40+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/telegram/</loc>
@@ -47,9 +59,6 @@
     <lastmod>2026-01-06T07:14:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/745-pingora-proxy-manager/</loc>
-    <lastmod>2026-01-05T20:11:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/reverseproxy/</loc>
     <lastmod>2026-01-05T20:11:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/qbittorrent/</loc>
@@ -310,13 +319,7 @@
     <loc>https://deuts.org/x/685-secret-santa/</loc>
     <lastmod>2025-11-22T01:19:33+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/crowdsec/</loc>
-    <lastmod>2025-11-22T01:14:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/684-crowdsec-manager/</loc>
-    <lastmod>2025-11-22T01:14:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/pangolin/</loc>
     <lastmod>2025-11-22T01:14:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/database/</loc>
