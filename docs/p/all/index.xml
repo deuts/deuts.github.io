@@ -7,8 +7,56 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 14:26:26 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:14:57 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trigger a Webhook After a Successful Kopia Backup</title>
+      <link>https://deuts.org/p/trigger-webhook-kopia-backup/</link>
+      <pubDate>Tue, 13 Jan 2026 19:14:57 +0800</pubDate>
+      <guid>https://deuts.org/p/trigger-webhook-kopia-backup/</guid>
+      <description>Learn how to enable Kopia snapshot actions and run a post-backup command to ping a webhook such as Healthchecks after a successful snapshot.</description>
+      <content:encoded><![CDATA[<p>Kopia can run custom commands after a snapshot completes. This allows you to ping a webhook (for example, Healthchecks) to confirm that a backup finished successfully. The important thing to remember here is to enable snapshot actions.</p>
+<h3 id="enable-snapshot-actions">Enable Snapshot Actions</h3>
+<p>Snapshot actions are disabled by default.</p>
+<ol>
+<li>
+<p>Edit <code>repository.config</code></p>
+</li>
+<li>
+<p>Set:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span><span style="color:#e6db74">&#34;enableActions&#34;</span><span style="color:#960050;background-color:#1e0010">:</span> <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div></li>
+<li>
+<p>Fully restart Kopia:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose down
+</span></span><span style="display:flex;"><span>docker compose up -d
+</span></span></code></pre></div></li>
+</ol>
+<p>A full shutdown is required for this setting to take effect.</p>
+<h3 id="configure-the-after-snapshot-action">Configure the After-Snapshot Action</h3>
+<ol>
+<li>
+<p>Open the Kopia web UI</p>
+</li>
+<li>
+<p>Go to your snapshot policy</p>
+</li>
+<li>
+<p>Open <strong>Snapshot Actions</strong></p>
+</li>
+<li>
+<p>Under <strong>After Snapshot</strong>, add:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -fsS --retry <span style="color:#ae81ff">3</span> https://&lt;your-webhook-url&gt;
+</span></span></code></pre></div></li>
+<li>
+<p>Save the policy</p>
+</li>
+</ol>
+<h3 id="test">Test</h3>
+<p>Run <strong>Snapshot Now</strong>. Once the backup completes, Kopia will execute the command and ping your webhook.</p>
+<p>That’s all that’s required to notify an external service after a successful Kopia backup.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Grist vs NocoDB: A Practical Comparison for Data-Driven Workflows</title>
       <link>https://deuts.org/p/grist-vs-nocodb/</link>
@@ -792,99 +840,6 @@ The features listed in the table below are the ones I find important to me perso
 </ul>
 <h3 id="conclusion">Conclusion</h3>
 <p>For now, my priority is mature ecosystem, document-centric approach, and polished experienced. Thus, Obsidian it is.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>SharePoint Folder vs. SharePoint List as a Power Apps Data Source</title>
-      <link>https://deuts.org/p/sharepoint-folder-vs-list-power-apps/</link>
-      <pubDate>Tue, 25 Feb 2025 16:08:02 +0800</pubDate>
-      <guid>https://deuts.org/p/sharepoint-folder-vs-list-power-apps/</guid>
-      <description>Explore the differences between using a SharePoint folder and a SharePoint list as a data source in Power Apps. Understand key limitations, such as delegation, filtering, patching, and metadata handling, to make the right choice for your app.</description>
-      <content:encoded><![CDATA[<p>When building apps with <strong>Power Apps</strong>, many users like me who don&rsquo;t have premium licenses choose <strong>SharePoint</strong> as a data source. However, selecting between a <strong>SharePoint folder (document library)</strong> and a <strong>SharePoint list</strong> can significantly impact performance and functionality. This post explores the key differences and limitations when using a <strong>SharePoint folder</strong> compared to a <strong>SharePoint list</strong> in Power Apps.</p>
-<h2 id="1-delegation-limits"><strong>1. Delegation Limits</strong></h2>
-<p>Power Apps supports <strong>delegation</strong> for both SharePoint <strong>lists</strong> and <strong>document libraries</strong>, but with some key differences:</p>
-<ul>
-<li><strong>SharePoint lists</strong> support delegation for most column types, including <strong>Number, Choice, Text, and Date/Time</strong>.</li>
-<li><strong>SharePoint document libraries</strong> also support delegation for <strong>custom columns</strong> (Number, Choice, Text, Date/Time, etc.).</li>
-<li><strong>However, the <code>Name</code> (file name) and <code>Folder path</code> columns are NOT delegable</strong>, meaning Power Apps retrieves only a limited number of records (default: <strong>500</strong>, max: <strong>2,000</strong>).</li>
-</ul>
-<p>If you need to work with thousands of records and need to filter by <strong>file names or folder paths</strong>, a SharePoint <strong>list</strong> is the better choice. However, if filtering by <strong>custom columns</strong>, document libraries are still a valid option.</p>
-<h2 id="2-filtering--sorting"><strong>2. Filtering &amp; Sorting</strong></h2>
-<ul>
-<li>In <strong>SharePoint lists</strong>, filtering and sorting are handled on the backend, making them efficient.</li>
-<li>In <strong>SharePoint document libraries</strong>, filtering and sorting by <strong>custom columns</strong> (e.g., Number, Choice, Date) are delegable, but filtering by <strong>file name or folder path</strong> is not.</li>
-</ul>
-<h2 id="3-patch-support"><strong>3. Patch() Support</strong></h2>
-<p>The <code>Patch()</code> function in Power Apps allows direct updates to <strong>SharePoint lists</strong>, making it easy to modify data without additional automation. <strong>For document libraries:</strong></p>
-<ul>
-<li><strong>You CAN patch custom columns</strong> (e.g., Number, Choice, Date/Time) directly.</li>
-<li><strong>You CANNOT patch system columns like <code>Name</code> or <code>Folder path</code>.</strong></li>
-<li>Workarounds require <strong>Power Automate</strong> to handle updates for system columns.</li>
-</ul>
-<h2 id="4-limited-file-handling"><strong>4. Limited File Handling</strong></h2>
-<p>Power Apps can <strong>list files</strong> from a SharePoint folder but has no built-in file management capabilities. You <strong>cannot</strong>:</p>
-<ul>
-<li>Move files between folders.</li>
-<li>Rename or delete files within Power Apps.</li>
-</ul>
-<p>Instead, you need <strong>Power Automate</strong> for these actions.</p>
-<h2 id="5-performance-considerations"><strong>5. Performance Considerations</strong></h2>
-<p>SharePoint has a <strong>list view threshold</strong> of <strong>5,000 items</strong>, which affects document libraries when viewed directly in <strong>SharePoint</strong>. However, in <strong>Power Apps</strong>, this limit can be bypassed using <strong>delegable queries</strong>.</p>
-<ul>
-<li>If using <strong>delegable functions</strong> (e.g., <code>Filter</code>, <code>Search</code>, <code>Sort</code> on supported columns), Power Apps can efficiently retrieve large datasets.</li>
-<li>If querying non-delegable columns like <strong>file name (<code>Name</code>) or folder path (<code>Folder Path</code>)</strong>, Power Apps can only retrieve a limited number of records (500/2000 items).</li>
-<li><strong>Indexed columns</strong> and optimized views in SharePoint can improve performance in both SharePoint and Power Apps.</li>
-</ul>
-<h2 id="6-metadata-handling"><strong>6. Metadata Handling</strong></h2>
-<ul>
-<li><strong>SharePoint lists</strong> have structured columns, relationships, and lookups, making data manipulation easier.</li>
-<li><strong>SharePoint document libraries</strong> store metadata, and filtering by <strong>custom metadata columns</strong> is <strong>delegable</strong>, but accessing and modifying it from Power Apps requires additional effort.</li>
-</ul>
-<h2 id="when-to-use-sharepoint-lists-vs-folders-in-power-apps"><strong>When to Use SharePoint Lists vs. Folders in Power Apps</strong></h2>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>SharePoint List</th>
-          <th>SharePoint Folder (Document Library)</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Delegation</td>
-          <td>✅ Yes</td>
-          <td>✅ Yes (except <code>Name</code> and <code>Folder path</code>)</td>
-      </tr>
-      <tr>
-          <td>Filtering &amp; Sorting</td>
-          <td>✅ Efficient</td>
-          <td>✅ Efficient for custom columns (❌ Not for <code>Name</code> &amp; <code>Folder path</code>)</td>
-      </tr>
-      <tr>
-          <td>Supports <code>Patch()</code></td>
-          <td>✅ Yes</td>
-          <td>✅ Yes (for custom columns) / ❌ No (for <code>Name</code> &amp; <code>Folder path</code>)</td>
-      </tr>
-      <tr>
-          <td>File Management</td>
-          <td>❌ No files, only data</td>
-          <td>❌ Limited (No move/rename/delete)</td>
-      </tr>
-      <tr>
-          <td>Large Data Support</td>
-          <td>✅ Optimized with indexes</td>
-          <td>✅ Yes (with delegable queries) / ❌ No (for <code>Name</code> &amp; <code>Folder path</code>)</td>
-      </tr>
-      <tr>
-          <td>Metadata Handling</td>
-          <td>✅ Structured &amp; easy to update</td>
-          <td>✅ Delegable for custom columns, ❌ Not for <code>Name</code> &amp; <code>Folder path</code></td>
-      </tr>
-  </tbody>
-</table>
-<h3 id="final-thoughts"><strong>Final Thoughts</strong></h3>
-<p>If your Power Apps solution requires <strong>structured data</strong>, complex filtering, and efficient data management, a <strong>SharePoint list</strong> is the best choice. However, if you need to work with <strong>files</strong>, be prepared for <strong>limitations in filtering by file names and folder paths</strong> when using a SharePoint folder.</p>
-<p>For advanced file handling, consider integrating <strong>Power Automate</strong> to manage document library operations while using Power Apps for display and interaction.</p>
 ]]></content:encoded>
     </item>
   </channel>

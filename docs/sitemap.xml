@@ -16,7 +16,25 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/t/backup/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/docker/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/healthchecks/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/a/kopia/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/selfhosting/</loc>
+    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/p/trigger-webhook-kopia-backup/</loc>
     <lastmod>2026-01-13T19:14:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
@@ -866,9 +884,6 @@
     <lastmod>2025-08-01T14:26:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/nocodb/</loc>
-    <lastmod>2025-08-01T14:26:26+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/selfhosting/</loc>
     <lastmod>2025-08-01T14:26:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-07-29-21-46-07-01k1b6xvpmfa4rtfwstmysm18t/</loc>
@@ -3000,9 +3015,6 @@
   </url><url>
     <loc>https://deuts.org/t/vps-deals/</loc>
     <lastmod>2024-11-28T08:40:14+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/docker/</loc>
-    <lastmod>2024-11-27T00:13:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/enclosed/</loc>
     <lastmod>2024-11-27T00:13:09+08:00</lastmod>
