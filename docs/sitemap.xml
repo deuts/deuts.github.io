@@ -16,10 +16,25 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/backup/</loc>
-    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
+    <loc>https://deuts.org/x/2026-01-16-00-07-28-01kf16jw6as6tmfthjrjkkndq5/</loc>
+    <lastmod>2026-01-16T00:07:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2026-01-16T00:07:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-01-16T00:07:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/paperless/</loc>
+    <lastmod>2026-01-14T21:28:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-01-14T21:28:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/750-simple-dms/</loc>
+    <lastmod>2026-01-14T21:28:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/backup/</loc>
     <lastmod>2026-01-13T19:14:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/docker/</loc>
@@ -37,9 +52,6 @@
     <loc>https://deuts.org/p/trigger-webhook-kopia-backup/</loc>
     <lastmod>2026-01-13T19:14:57+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/crowdsec/</loc>
     <lastmod>2026-01-12T23:45:09+08:00</lastmod>
   </url><url>
@@ -50,9 +62,6 @@
     <lastmod>2026-01-12T23:45:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/reverseproxy/</loc>
-    <lastmod>2026-01-12T23:45:09+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-01-12T23:45:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-01-11-16-23-45-01kep2ex52n50c5awn54sfh7r6/</loc>
@@ -294,6 +303,9 @@
   </url><url>
     <loc>https://deuts.org/x/2025-11-22-22-42-21-01kap086s1mxcszjzpfp60qwgr/</loc>
     <lastmod>2025-11-22T22:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/691-zerobyte/</loc>
+    <lastmod>2025-11-22T02:05:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/budgeting/</loc>
     <lastmod>2025-11-22T02:03:01+08:00</lastmod>
@@ -988,18 +1000,6 @@
     <loc>https://deuts.org/x/544-signal-cli-rest-api/</loc>
     <lastmod>2025-07-11T07:12:35+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/movies/</loc>
-    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/trakt/</loc>
-    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/tvshows/</loc>
-    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/x/543-yamtrack/</loc>
-    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</loc>
     <lastmod>2025-07-06T22:14:55+08:00</lastmod>
   </url><url>
@@ -1205,6 +1205,9 @@
     <lastmod>2025-06-05T14:27:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/498-make-your-own-streaming-tv-channel-with-plex-and-ersatztv/</loc>
+    <lastmod>2025-06-05T14:27:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/tvshows/</loc>
     <lastmod>2025-06-05T14:27:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/497-switch-to-windows-10-ltsc-heres-how-i-set-it-up/</loc>
@@ -1663,6 +1666,9 @@
     <loc>https://deuts.org/k/ai/</loc>
     <lastmod>2025-03-10T21:47:34+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/movies/</loc>
+    <lastmod>2025-03-10T21:47:34+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/k/openai/</loc>
     <lastmod>2025-03-10T21:47:34+08:00</lastmod>
   </url><url>
@@ -1913,6 +1919,9 @@
     <lastmod>2025-02-13T00:07:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/382-movary/</loc>
+    <lastmod>2025-02-12T00:08:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/trakt/</loc>
     <lastmod>2025-02-12T00:08:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/381-mediatracker/</loc>
@@ -2331,9 +2340,6 @@
   </url><url>
     <loc>https://deuts.org/k/ssh/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/paperless/</loc>
-    <lastmod>2025-01-06T10:14:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/316-paperless-ai/</loc>
     <lastmod>2025-01-06T10:14:35+08:00</lastmod>

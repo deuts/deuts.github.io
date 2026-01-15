@@ -7,8 +7,55 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 23:45:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:07:28 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KF16JW6AS6TMFTHJRJKKNDQ5</title>
+      <link>https://deuts.org/x/2026-01-16-00-07-28-01kf16jw6as6tmfthjrjkkndq5/</link>
+      <pubDate>Fri, 16 Jan 2026 00:07:28 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-16-00-07-28-01kf16jw6as6tmfthjrjkkndq5/</guid>
+      <description>&lt;p&gt;Looking at the support channel of &lt;a href=&#34;https://fediwall.social/?tags=ActualBudget&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ActualBudget&#34;&gt;#ActualBudget&lt;/a&gt; on Discord, a lot of issues is about the bank sync. Is this really the selling point of Actual? Do you really have a lot of bank or credit card transactions that you can&amp;rsquo;t keep up with just manually encoding them? If that&amp;rsquo;s the case, can&amp;rsquo;t you just download the csv, transform them accordingly and upload to Actual instead?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Looking at the support channel of <a href="https://fediwall.social/?tags=ActualBudget&amp;accounts=&amp;lang=en&amp;title=%23ActualBudget">#ActualBudget</a> on Discord, a lot of issues is about the bank sync. Is this really the selling point of Actual? Do you really have a lot of bank or credit card transactions that you can&rsquo;t keep up with just manually encoding them? If that&rsquo;s the case, can&rsquo;t you just download the csv, transform them accordingly and upload to Actual instead?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Simple DMS</title>
+      <link>https://deuts.org/x/750-simple-dms/</link>
+      <pubDate>Wed, 14 Jan 2026 21:28:23 +0800</pubDate>
+      <guid>https://deuts.org/x/750-simple-dms/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-750&#34;&gt;&lt;a href=&#34;https://github.com/simpledms/simpledms&#34;&gt;Simple DMS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-750 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Document management for small businesses.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Is this a good Paperless NGX alternative?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-750"><a href="https://github.com/simpledms/simpledms">Simple DMS</a></h3>
+<style>
+.favicon-750 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Document management for small businesses.
+</blockquote>
+  
+<div class="linkding-notes">
+    Is this a good Paperless NGX alternative?
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Discussion on Pangolin and Crowdsec Issue</title>
       <link>https://deuts.org/x/749-discussion-on-pangolin-and-crowdsec-issue/</link>
@@ -252,66 +299,6 @@
 
 <blockquote class="linkding-description">
     An alternative drop-in place web interface for Kopia
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Jotty</title>
-      <link>https://deuts.org/x/740-jotty/</link>
-      <pubDate>Mon, 05 Jan 2026 01:11:52 +0800</pubDate>
-      <guid>https://deuts.org/x/740-jotty/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-740&#34;&gt;&lt;a href=&#34;https://github.com/fccview/jotty?tab=readme-ov-file&#34;&gt;Jotty&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-740 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-740"><a href="https://github.com/fccview/jotty?tab=readme-ov-file">Jotty</a></h3>
-<style>
-.favicon-740 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Invoice Builder</title>
-      <link>https://deuts.org/x/739-invoice-builder/</link>
-      <pubDate>Mon, 05 Jan 2026 01:11:22 +0800</pubDate>
-      <guid>https://deuts.org/x/739-invoice-builder/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-739&#34;&gt;&lt;a href=&#34;https://github.com/piratuks/invoice-builder&#34;&gt;Invoice Builder&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-739 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-739"><a href="https://github.com/piratuks/invoice-builder">Invoice Builder</a></h3>
-<style>
-.favicon-739 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
 </blockquote>
   
 ]]></content:encoded>
