@@ -7,8 +7,98 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 16 Jan 2026 08:54:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 16:22:46 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSON Crack</title>
+      <link>https://deuts.org/x/756-json-crack/</link>
+      <pubDate>Sat, 17 Jan 2026 16:22:46 +0800</pubDate>
+      <guid>https://deuts.org/x/756-json-crack/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-756&#34;&gt;&lt;a href=&#34;https://jsoncrack.com/&#34;&gt;JSON Crack&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-756 {
+    background: url(&#39;https://bm.deuts.org/static/https_jsoncrack_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-756"><a href="https://jsoncrack.com/">JSON Crack</a></h3>
+<style>
+.favicon-756 {
+    background: url('https://bm.deuts.org/static/https_jsoncrack_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Anchor notes</title>
+      <link>https://deuts.org/x/754-anchor-notes/</link>
+      <pubDate>Fri, 16 Jan 2026 23:08:35 +0800</pubDate>
+      <guid>https://deuts.org/x/754-anchor-notes/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-754&#34;&gt;&lt;a href=&#34;https://github.com/ZhFahim/anchor&#34;&gt;Anchor notes&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-754 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Offline first, self hostable note taking application. Anchor focuses on speed, privacy, simplicity, and reliability across mobile and web. Notes are stored locally, editable offline, and synced across devices when online.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-754"><a href="https://github.com/ZhFahim/anchor">Anchor notes</a></h3>
+<style>
+.favicon-754 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Offline first, self hostable note taking application. Anchor focuses on speed, privacy, simplicity, and reliability across mobile and web. Notes are stored locally, editable offline, and synced across devices when online.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Any Sync Bundle</title>
+      <link>https://deuts.org/x/753-any-sync-bundle/</link>
+      <pubDate>Fri, 16 Jan 2026 23:02:20 +0800</pubDate>
+      <guid>https://deuts.org/x/753-any-sync-bundle/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-753&#34;&gt;&lt;a href=&#34;https://github.com/grishy/any-sync-bundle&#34;&gt;Any Sync Bundle&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-753 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    any-sync-bundle is a prepackaged, all-in-one self-hosted server for Anytype – a local-first, privacy-focused alternative to Notion. It merges all official Anytype sync modules into a single binary for simplified deployment. Think of it as &amp;ldquo;K3s for Any Sync&amp;rdquo;.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-753"><a href="https://github.com/grishy/any-sync-bundle">Any Sync Bundle</a></h3>
+<style>
+.favicon-753 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    any-sync-bundle is a prepackaged, all-in-one self-hosted server for Anytype – a local-first, privacy-focused alternative to Notion. It merges all official Anytype sync modules into a single binary for simplified deployment. Think of it as &ldquo;K3s for Any Sync&rdquo;.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Jotty</title>
       <link>https://deuts.org/x/752-jotty/</link>
@@ -176,112 +266,6 @@
 <li>Sunday 4:30 PM (Tagalog)</li>
 <li>Sunday 6PM (Tagalog)</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Linkdinger</title>
-      <link>https://deuts.org/x/748-linkdinger/</link>
-      <pubDate>Fri, 09 Jan 2026 23:13:40 +0800</pubDate>
-      <guid>https://deuts.org/x/748-linkdinger/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-748&#34;&gt;&lt;a href=&#34;https://github.com/lmmendes/linkdinger&#34;&gt;Linkdinger&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-748 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Telegram bot that saves links directly to your Linkding bookmark manager
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-748"><a href="https://github.com/lmmendes/linkdinger">Linkdinger</a></h3>
-<style>
-.favicon-748 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Telegram bot that saves links directly to your Linkding bookmark manager
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>N8n auto scaling</title>
-      <link>https://deuts.org/x/746-n8n-auto-scaling/</link>
-      <pubDate>Tue, 06 Jan 2026 07:14:31 +0800</pubDate>
-      <guid>https://deuts.org/x/746-n8n-auto-scaling/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-746&#34;&gt;&lt;a href=&#34;https://github.com/conor-is-my-name/n8n-autoscaling&#34;&gt;N8n auto scaling&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-746 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    n8n queue mode build with automatic worker scaling and puppeteer
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    We might need to explore this should our use case for n8n becomes significantly bigger in the future.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-746"><a href="https://github.com/conor-is-my-name/n8n-autoscaling">N8n auto scaling</a></h3>
-<style>
-.favicon-746 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    n8n queue mode build with automatic worker scaling and puppeteer
-</blockquote>
-  
-<div class="linkding-notes">
-    We might need to explore this should our use case for n8n becomes significantly bigger in the future.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pingora Proxy Manager</title>
-      <link>https://deuts.org/x/745-pingora-proxy-manager/</link>
-      <pubDate>Mon, 05 Jan 2026 20:11:31 +0800</pubDate>
-      <guid>https://deuts.org/x/745-pingora-proxy-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-745&#34;&gt;&lt;a href=&#34;https://github.com/DDULDDUCK/pingora-proxy-manager&#34;&gt;Pingora Proxy Manager&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-745 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A high-performance, zero-downtime reverse proxy manager built on Cloudflare&amp;rsquo;s Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL &amp;amp; TCP/UDP Streams!
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Pretty much like a clone of Nginx Proxy Manager, but looks better.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-745"><a href="https://github.com/DDULDDUCK/pingora-proxy-manager">Pingora Proxy Manager</a></h3>
-<style>
-.favicon-745 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A high-performance, zero-downtime reverse proxy manager built on Cloudflare&rsquo;s Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL &amp; TCP/UDP Streams!
-</blockquote>
-  
-<div class="linkding-notes">
-    Pretty much like a clone of Nginx Proxy Manager, but looks better.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
