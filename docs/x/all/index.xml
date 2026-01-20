@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 17 Jan 2026 23:52:11 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:06:53 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KFDVNNJWM50JHVT6TS6WKPCV</title>
+      <link>https://deuts.org/x/2026-01-20-22-06-53-01kfdvnnjwm50jhvt6ts6wkpcv/</link>
+      <pubDate>Tue, 20 Jan 2026 22:06:53 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-20-22-06-53-01kfdvnnjwm50jhvt6ts6wkpcv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt; updated just an hour ago. Still no update on the feature I&amp;rsquo;ve been waiting for long now. Custom fields / properties. Always in backlog in their roadmap.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a> updated just an hour ago. Still no update on the feature I&rsquo;ve been waiting for long now. Custom fields / properties. Always in backlog in their roadmap.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Windows 11 QEMU/KVM Installation Guide in Linux Including TPM and Secure Boot</title>
       <link>https://deuts.org/x/757-windows-11-qemu-kvm-installation-guide-in-linux-including-tpm-and-secure-boot/</link>
@@ -244,36 +253,6 @@
 <div class="linkding-notes">
     Is this a good Paperless NGX alternative?
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Discussion on Pangolin and Crowdsec Issue</title>
-      <link>https://deuts.org/x/749-discussion-on-pangolin-and-crowdsec-issue/</link>
-      <pubDate>Mon, 12 Jan 2026 23:45:09 +0800</pubDate>
-      <guid>https://deuts.org/x/749-discussion-on-pangolin-and-crowdsec-issue/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-749&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/PangolinReverseProxy/s/PAlwQUv014&#34;&gt;Discussion on Pangolin and Crowdsec Issue&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-749 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    This is a reddit discussion about the issue and some helpful links on the workaround for Pangolin to play nicely with Crowdsec.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-749"><a href="https://www.reddit.com/r/PangolinReverseProxy/s/PAlwQUv014">Discussion on Pangolin and Crowdsec Issue</a></h3>
-<style>
-.favicon-749 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    This is a reddit discussion about the issue and some helpful links on the workaround for Pangolin to play nicely with Crowdsec.
-</blockquote>
   
 ]]></content:encoded>
     </item>
