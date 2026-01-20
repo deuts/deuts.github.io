@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 22:47:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:59:25 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KFDYNVXRM3B8CCWAXH15TE1P</title>
+      <link>https://deuts.org/x/2026-01-20-22-59-25-01kfdynvxrm3b8ccwaxh15te1p/</link>
+      <pubDate>Tue, 20 Jan 2026 22:59:25 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-20-22-59-25-01kfdynvxrm3b8ccwaxh15te1p/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://theres.life/@royal&#34;&gt;@royal&lt;/a&gt; &lt;a href=&#34;https://fosstodon.org/@grist&#34;&gt;@grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt; is probably the most underrated low-code tool out there. Not &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt;. Not &lt;a href=&#34;https://fediwall.social/?tags=NoCoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NoCoDB&#34;&gt;#NoCoDB&lt;/a&gt;. Not &lt;a href=&#34;https://fediwall.social/?tags=BaseRow&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BaseRow&#34;&gt;#BaseRow&lt;/a&gt;. Etc.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://theres.life/@royal">@royal</a> <a href="https://fosstodon.org/@grist">@grist</a> <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a> is probably the most underrated low-code tool out there. Not <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a>. Not <a href="https://fediwall.social/?tags=NoCoDB&amp;accounts=&amp;lang=en&amp;title=%23NoCoDB">#NoCoDB</a>. Not <a href="https://fediwall.social/?tags=BaseRow&amp;accounts=&amp;lang=en&amp;title=%23BaseRow">#BaseRow</a>. Etc.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KFDY08C0VMFK3E3SJF8SHQQ7</title>
       <link>https://deuts.org/x/2026-01-20-22-47-37-01kfdy08c0vmfk3e3sjf8shqq7/</link>
@@ -214,17 +223,6 @@
     Free selfhosted groceries list for families and shared households
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KF17MDEXJY4M271WB7FC372B</title>
-      <link>https://deuts.org/x/2026-01-16-00-25-47-01kf17mdexjy4m271wb7fc372b/</link>
-      <pubDate>Fri, 16 Jan 2026 00:25:47 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-16-00-25-47-01kf17mdexjy4m271wb7fc372b/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://theres.life/@royal&#34;&gt;@royal&lt;/a&gt; You can use multiple family members access and work on the same &lt;a href=&#34;https://fediwall.social/?tags=ActualBudget&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ActualBudget&#34;&gt;#ActualBudget&lt;/a&gt; budget file. However, there&amp;rsquo;s no indicator who added/edited what, regardless if you have OpenID enabled.&lt;/p&gt;
-&lt;p&gt;OpenID is necessary if you want different people to have different login credentials. But I think this is useful only if you want to restrict access of different users across different budget files.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://theres.life/@royal">@royal</a> You can use multiple family members access and work on the same <a href="https://fediwall.social/?tags=ActualBudget&amp;accounts=&amp;lang=en&amp;title=%23ActualBudget">#ActualBudget</a> budget file. However, there&rsquo;s no indicator who added/edited what, regardless if you have OpenID enabled.</p>
-<p>OpenID is necessary if you want different people to have different login credentials. But I think this is useful only if you want to restrict access of different users across different budget files.</p>
 ]]></content:encoded>
     </item>
   </channel>
