@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 22:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:47:37 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KFDY08C0VMFK3E3SJF8SHQQ7</title>
+      <link>https://deuts.org/x/2026-01-20-22-47-37-01kfdy08c0vmfk3e3sjf8shqq7/</link>
+      <pubDate>Tue, 20 Jan 2026 22:47:37 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-20-22-47-37-01kfdy08c0vmfk3e3sjf8shqq7/</guid>
+      <description>&lt;p&gt;A lot of the dislike for &lt;a href=&#34;https://fediwall.social/?tags=Seafile&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Seafile&#34;&gt;#Seafile&lt;/a&gt; seems to focus on its opaque server-side directory structure. But that’s just application-managed storage—if you want proper backups, you back up the entire Seafile instance, same as Paperless-ngx with its numeric filenames. Personally, I just want a responsive file-sharing app that’s light on resources and easy to maintain. That’s not how I’d describe &lt;a href=&#34;https://fediwall.social/?tags=Nextcloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Nextcloud&#34;&gt;#Nextcloud&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A lot of the dislike for <a href="https://fediwall.social/?tags=Seafile&amp;accounts=&amp;lang=en&amp;title=%23Seafile">#Seafile</a> seems to focus on its opaque server-side directory structure. But that’s just application-managed storage—if you want proper backups, you back up the entire Seafile instance, same as Paperless-ngx with its numeric filenames. Personally, I just want a responsive file-sharing app that’s light on resources and easy to maintain. That’s not how I’d describe <a href="https://fediwall.social/?tags=Nextcloud&amp;accounts=&amp;lang=en&amp;title=%23Nextcloud">#Nextcloud</a>.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KFDVZ0XX028R5Y65RBRR7D3A</title>
       <link>https://deuts.org/x/2026-01-20-22-12-00-01kfdvz0xx028r5y65rbrr7d3a/</link>
@@ -216,15 +225,6 @@
 &lt;p&gt;OpenID is necessary if you want different people to have different login credentials. But I think this is useful only if you want to restrict access of different users across different budget files.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://theres.life/@royal">@royal</a> You can use multiple family members access and work on the same <a href="https://fediwall.social/?tags=ActualBudget&amp;accounts=&amp;lang=en&amp;title=%23ActualBudget">#ActualBudget</a> budget file. However, there&rsquo;s no indicator who added/edited what, regardless if you have OpenID enabled.</p>
 <p>OpenID is necessary if you want different people to have different login credentials. But I think this is useful only if you want to restrict access of different users across different budget files.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KF16JW6AS6TMFTHJRJKKNDQ5</title>
-      <link>https://deuts.org/x/2026-01-16-00-07-28-01kf16jw6as6tmfthjrjkkndq5/</link>
-      <pubDate>Fri, 16 Jan 2026 00:07:28 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-16-00-07-28-01kf16jw6as6tmfthjrjkkndq5/</guid>
-      <description>&lt;p&gt;Looking at the support channel of &lt;a href=&#34;https://fediwall.social/?tags=ActualBudget&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ActualBudget&#34;&gt;#ActualBudget&lt;/a&gt; on Discord, a lot of issues is about the bank sync. Is this really the selling point of Actual? Do you really have a lot of bank or credit card transactions that you can&amp;rsquo;t keep up with just manually encoding them? If that&amp;rsquo;s the case, can&amp;rsquo;t you just download the csv, transform them accordingly and upload to Actual instead?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Looking at the support channel of <a href="https://fediwall.social/?tags=ActualBudget&amp;accounts=&amp;lang=en&amp;title=%23ActualBudget">#ActualBudget</a> on Discord, a lot of issues is about the bank sync. Is this really the selling point of Actual? Do you really have a lot of bank or credit card transactions that you can&rsquo;t keep up with just manually encoding them? If that&rsquo;s the case, can&rsquo;t you just download the csv, transform them accordingly and upload to Actual instead?</p>
 ]]></content:encoded>
     </item>
   </channel>
