@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 20:44:24 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 21:11:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KFJXA7J8EANMP6M3H6ESKFJS</title>
+      <link>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</link>
+      <pubDate>Thu, 22 Jan 2026 21:11:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://indieweb.social/@classicweb&#34;&gt;@classicweb&lt;/a&gt; I guess they had to write those pages in html then, minding all the syntax/markup.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://indieweb.social/@classicweb">@classicweb</a> I guess they had to write those pages in html then, minding all the syntax/markup.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KFJVR2R22NFA52Z7G0RCE0VE</title>
       <link>https://deuts.org/x/2026-01-22-20-44-24-01kfjvr2r22nfa52z7g0rce0ve/</link>
@@ -203,36 +212,6 @@
 <div class="linkding-notes">
     Not sure about security here, although it states it runs entirely in your browser. Wish there&rsquo;s a selfhosted alternative instead.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Windows 11 QEMU/KVM Installation Guide in Linux Including TPM and Secure Boot</title>
-      <link>https://deuts.org/x/757-windows-11-qemu-kvm-installation-guide-in-linux-including-tpm-and-secure-boot/</link>
-      <pubDate>Sat, 17 Jan 2026 23:52:11 +0800</pubDate>
-      <guid>https://deuts.org/x/757-windows-11-qemu-kvm-installation-guide-in-linux-including-tpm-and-secure-boot/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-757&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T68CTiudCVI&#34;&gt;Windows 11 QEMU/KVM Installation Guide in Linux Including TPM and Secure Boot&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-757 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    This video is a tutorial on how to install Windows 11 in a QEMU/KVM Virtual Machine. This is based on Ubuntu 24.04 as the host Linux system, using a Linux compatible Laptop (Lenovo Thinkpad X1 Carbon 2025), with a TPM emulator and UEFI/Secure Boot emulator.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-757"><a href="https://www.youtube.com/watch?v=T68CTiudCVI">Windows 11 QEMU/KVM Installation Guide in Linux Including TPM and Secure Boot</a></h3>
-<style>
-.favicon-757 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    This video is a tutorial on how to install Windows 11 in a QEMU/KVM Virtual Machine. This is based on Ubuntu 24.04 as the host Linux system, using a Linux compatible Laptop (Lenovo Thinkpad X1 Carbon 2025), with a TPM emulator and UEFI/Secure Boot emulator.
-</blockquote>
   
 ]]></content:encoded>
     </item>
