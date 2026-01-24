@@ -7,8 +7,212 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 20:01:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:37:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doppelganger - Browser automation for everyone</title>
+      <link>https://deuts.org/x/771-doppelganger-browser-automation-for-everyone/</link>
+      <pubDate>Sat, 24 Jan 2026 20:37:59 +0800</pubDate>
+      <guid>https://deuts.org/x/771-doppelganger-browser-automation-for-everyone/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-771&#34;&gt;&lt;a href=&#34;https://doppelgangerdev.com/&#34;&gt;Doppelganger - Browser automation for everyone&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-771 {
+    background: url(&#39;https://bm.deuts.org/static/https_doppelgangerdev_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Local-first browser automation platform with visual task builder, API access, and privacy-centric design.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I think this is a good Power Automate alternative.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-771"><a href="https://doppelgangerdev.com/">Doppelganger - Browser automation for everyone</a></h3>
+<style>
+.favicon-771 {
+    background: url('https://bm.deuts.org/static/https_doppelgangerdev_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Local-first browser automation platform with visual task builder, API access, and privacy-centric design.
+</blockquote>
+  
+<div class="linkding-notes">
+    I think this is a good Power Automate alternative.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sublogue</title>
+      <link>https://deuts.org/x/770-sublogue/</link>
+      <pubDate>Sat, 24 Jan 2026 20:32:54 +0800</pubDate>
+      <guid>https://deuts.org/x/770-sublogue/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-770&#34;&gt;&lt;a href=&#34;https://github.com/ponzischeme89/Sublogue&#34;&gt;Sublogue&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-770 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Sublogue injects IMDb/RT ratings, plot, cast, and runtimes into your SRTs — and scrubs out the rubbish while it’s there. Zero timing drift.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-770"><a href="https://github.com/ponzischeme89/Sublogue">Sublogue</a></h3>
+<style>
+.favicon-770 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Sublogue injects IMDb/RT ratings, plot, cast, and runtimes into your SRTs — and scrubs out the rubbish while it’s there. Zero timing drift.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Markstack</title>
+      <link>https://deuts.org/x/769-markstack/</link>
+      <pubDate>Sat, 24 Jan 2026 20:30:08 +0800</pubDate>
+      <guid>https://deuts.org/x/769-markstack/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-769&#34;&gt;&lt;a href=&#34;https://github.com/KineticEnforcer/MarkStack&#34;&gt;Markstack&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-769 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Fast, minimal static site generator that transforms markdown into searchable documentation sites. Built to run anywhere, even on a Raspberry Pi.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Another Hugo alternative.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-769"><a href="https://github.com/KineticEnforcer/MarkStack">Markstack</a></h3>
+<style>
+.favicon-769 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Fast, minimal static site generator that transforms markdown into searchable documentation sites. Built to run anywhere, even on a Raspberry Pi.
+</blockquote>
+  
+<div class="linkding-notes">
+    Another Hugo alternative.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docker Cloudflare Tunnel Sync</title>
+      <link>https://deuts.org/x/768-docker-cloudflare-tunnel-sync/</link>
+      <pubDate>Sat, 24 Jan 2026 20:19:25 +0800</pubDate>
+      <guid>https://deuts.org/x/768-docker-cloudflare-tunnel-sync/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-768&#34;&gt;&lt;a href=&#34;https://github.com/Darkdragon14/docker-cloudflare-tunnel-sync&#34;&gt;Docker Cloudflare Tunnel Sync&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-768 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Automatically synchronize Cloudflare Tunnels and routes from Docker container labels.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-768"><a href="https://github.com/Darkdragon14/docker-cloudflare-tunnel-sync">Docker Cloudflare Tunnel Sync</a></h3>
+<style>
+.favicon-768 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Automatically synchronize Cloudflare Tunnels and routes from Docker container labels.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Crooner</title>
+      <link>https://deuts.org/x/767-crooner/</link>
+      <pubDate>Sat, 24 Jan 2026 20:18:06 +0800</pubDate>
+      <guid>https://deuts.org/x/767-crooner/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-767&#34;&gt;&lt;a href=&#34;https://github.com/agjini/crooner&#34;&gt;Crooner&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-767 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A lightweight Docker-native cron scheduler written in Rust. Execute commands in other containers on schedule.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-767"><a href="https://github.com/agjini/crooner">Crooner</a></h3>
+<style>
+.favicon-767 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A lightweight Docker-native cron scheduler written in Rust. Execute commands in other containers on schedule.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Logic Paper</title>
+      <link>https://deuts.org/x/766-logic-paper/</link>
+      <pubDate>Sat, 24 Jan 2026 20:17:20 +0800</pubDate>
+      <guid>https://deuts.org/x/766-logic-paper/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-766&#34;&gt;&lt;a href=&#34;https://github.com/rubensbraz/logicPaper&#34;&gt;Logic Paper&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-766 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Batch document generation engine. Transforms raw Excel data into high-fidelity PDF, Word, and PowerPoint reports using Jinja2 templates and Headless LibreOffice. Features robust logic strategies, privacy masking, and real-time telemetry.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Now, this is what I&amp;rsquo;m talking about. I&amp;rsquo;m looking for a way to automate generating PDF documents from records from my Airtable or Grist or anywhere data. This is interesting.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-766"><a href="https://github.com/rubensbraz/logicPaper">Logic Paper</a></h3>
+<style>
+.favicon-766 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Batch document generation engine. Transforms raw Excel data into high-fidelity PDF, Word, and PowerPoint reports using Jinja2 templates and Headless LibreOffice. Features robust logic strategies, privacy masking, and real-time telemetry.
+</blockquote>
+  
+<div class="linkding-notes">
+    Now, this is what I&rsquo;m talking about. I&rsquo;m looking for a way to automate generating PDF documents from records from my Airtable or Grist or anywhere data. This is interesting.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Job Ops</title>
       <link>https://deuts.org/x/765-job-ops/</link>
@@ -118,118 +322,6 @@
     Export Airtable bases to an sqlite database
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFJXA7J8EANMP6M3H6ESKFJS</title>
-      <link>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</link>
-      <pubDate>Thu, 22 Jan 2026 21:11:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://indieweb.social/@classicweb&#34;&gt;@classicweb&lt;/a&gt; I guess they had to write those pages in html then, minding all the syntax/markup.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://indieweb.social/@classicweb">@classicweb</a> I guess they had to write those pages in html then, minding all the syntax/markup.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFJVR2R22NFA52Z7G0RCE0VE</title>
-      <link>https://deuts.org/x/2026-01-22-20-44-24-01kfjvr2r22nfa52z7g0rce0ve/</link>
-      <pubDate>Thu, 22 Jan 2026 20:44:24 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-22-20-44-24-01kfjvr2r22nfa52z7g0rce0ve/</guid>
-      <description>&lt;p&gt;I just noticed &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; attachment is not so reliable as say &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=Nocodb&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Nocodb&#34;&gt;#Nocodb&lt;/a&gt;. Pasting into a cell from a screenshot from the clipboard, for example, replaces any existing attachment. Plus, how come there&amp;rsquo;s no indication how many attachments you have in the field for that record? &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I just noticed <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> attachment is not so reliable as say <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a> or <a href="https://fediwall.social/?tags=Nocodb&amp;accounts=&amp;lang=en&amp;title=%23Nocodb">#Nocodb</a>. Pasting into a cell from a screenshot from the clipboard, for example, replaces any existing attachment. Plus, how come there&rsquo;s no indication how many attachments you have in the field for that record? <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Kan PocketID OIDC setup</title>
-      <link>https://deuts.org/x/762-kan-pocketid-oidc-setup/</link>
-      <pubDate>Thu, 22 Jan 2026 01:32:10 +0800</pubDate>
-      <guid>https://deuts.org/x/762-kan-pocketid-oidc-setup/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-762&#34;&gt;&lt;a href=&#34;https://github.com/kanbn/kan/issues/94&#34;&gt;Kan PocketID OIDC setup&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-762 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Callback: &lt;code&gt;/api/auth/oauth2/callback/oidc&lt;/code&gt;
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Gotta try this.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-762"><a href="https://github.com/kanbn/kan/issues/94">Kan PocketID OIDC setup</a></h3>
-<style>
-.favicon-762 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Callback: <code>/api/auth/oauth2/callback/oidc</code>
-</blockquote>
-  
-<div class="linkding-notes">
-    Gotta try this.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Cloudreve</title>
-      <link>https://deuts.org/x/761-cloudreve/</link>
-      <pubDate>Wed, 21 Jan 2026 12:38:29 +0800</pubDate>
-      <guid>https://deuts.org/x/761-cloudreve/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-761&#34;&gt;&lt;a href=&#34;https://github.com/cloudreve/cloudreve&#34;&gt;Cloudreve&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-761 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted file management and sharing system, supports multiple storage providers.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    One of those Nextcloud alternatives.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-761"><a href="https://github.com/cloudreve/cloudreve">Cloudreve</a></h3>
-<style>
-.favicon-761 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted file management and sharing system, supports multiple storage providers.
-</blockquote>
-  
-<div class="linkding-notes">
-    One of those Nextcloud alternatives.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFDYNVXRM3B8CCWAXH15TE1P</title>
-      <link>https://deuts.org/x/2026-01-20-22-59-25-01kfdynvxrm3b8ccwaxh15te1p/</link>
-      <pubDate>Tue, 20 Jan 2026 22:59:25 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-20-22-59-25-01kfdynvxrm3b8ccwaxh15te1p/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://theres.life/@royal&#34;&gt;@royal&lt;/a&gt; &lt;a href=&#34;https://fosstodon.org/@grist&#34;&gt;@grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt; is probably the most underrated low-code tool out there. Not &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt;. Not &lt;a href=&#34;https://fediwall.social/?tags=NoCoDB&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23NoCoDB&#34;&gt;#NoCoDB&lt;/a&gt;. Not &lt;a href=&#34;https://fediwall.social/?tags=BaseRow&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23BaseRow&#34;&gt;#BaseRow&lt;/a&gt;. Etc.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://theres.life/@royal">@royal</a> <a href="https://fosstodon.org/@grist">@grist</a> <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a> is probably the most underrated low-code tool out there. Not <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a>. Not <a href="https://fediwall.social/?tags=NoCoDB&amp;accounts=&amp;lang=en&amp;title=%23NoCoDB">#NoCoDB</a>. Not <a href="https://fediwall.social/?tags=BaseRow&amp;accounts=&amp;lang=en&amp;title=%23BaseRow">#BaseRow</a>. Etc.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFDY08C0VMFK3E3SJF8SHQQ7</title>
-      <link>https://deuts.org/x/2026-01-20-22-47-37-01kfdy08c0vmfk3e3sjf8shqq7/</link>
-      <pubDate>Tue, 20 Jan 2026 22:47:37 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-20-22-47-37-01kfdy08c0vmfk3e3sjf8shqq7/</guid>
-      <description>&lt;p&gt;A lot of the dislike for &lt;a href=&#34;https://fediwall.social/?tags=Seafile&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Seafile&#34;&gt;#Seafile&lt;/a&gt; seems to focus on its opaque server-side directory structure. But that’s just application-managed storage—if you want proper backups, you back up the entire Seafile instance, same as Paperless-ngx with its numeric filenames. Personally, I just want a responsive file-sharing app that’s light on resources and easy to maintain. That’s not how I’d describe &lt;a href=&#34;https://fediwall.social/?tags=Nextcloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Nextcloud&#34;&gt;#Nextcloud&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A lot of the dislike for <a href="https://fediwall.social/?tags=Seafile&amp;accounts=&amp;lang=en&amp;title=%23Seafile">#Seafile</a> seems to focus on its opaque server-side directory structure. But that’s just application-managed storage—if you want proper backups, you back up the entire Seafile instance, same as Paperless-ngx with its numeric filenames. Personally, I just want a responsive file-sharing app that’s light on resources and easy to maintain. That’s not how I’d describe <a href="https://fediwall.social/?tags=Nextcloud&amp;accounts=&amp;lang=en&amp;title=%23Nextcloud">#Nextcloud</a>.</p>
 ]]></content:encoded>
     </item>
   </channel>
