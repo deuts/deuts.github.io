@@ -7,8 +7,46 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 20:37:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:49:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reactive Resume</title>
+      <link>https://deuts.org/x/772-reactive-resume/</link>
+      <pubDate>Sat, 24 Jan 2026 20:49:31 +0800</pubDate>
+      <guid>https://deuts.org/x/772-reactive-resume/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-772&#34;&gt;&lt;a href=&#34;https://github.com/amruthpillai/reactive-resume&#34;&gt;Reactive Resume&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-772 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    I wonder if the latest version is still the same high on RAM/resources? Why do you need a lot of RAM when most of the times it&amp;rsquo;s just rendering a copy of your resume?
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-772"><a href="https://github.com/amruthpillai/reactive-resume">Reactive Resume</a></h3>
+<style>
+.favicon-772 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+</blockquote>
+  
+<div class="linkding-notes">
+    I wonder if the latest version is still the same high on RAM/resources? Why do you need a lot of RAM when most of the times it&rsquo;s just rendering a copy of your resume?
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Doppelganger - Browser automation for everyone</title>
       <link>https://deuts.org/x/771-doppelganger-browser-automation-for-everyone/</link>
@@ -292,36 +330,6 @@
       <guid>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</guid>
       <description>&lt;p&gt;Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps &lt;a href=&#34;https://fediwall.social/?tags=Kan&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Kan&#34;&gt;#Kan&lt;/a&gt; vs. &lt;a href=&#34;https://fediwall.social/?tags=Tududi&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Tududi&#34;&gt;#Tududi&lt;/a&gt;. Huge difference!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps <a href="https://fediwall.social/?tags=Kan&amp;accounts=&amp;lang=en&amp;title=%23Kan">#Kan</a> vs. <a href="https://fediwall.social/?tags=Tududi&amp;accounts=&amp;lang=en&amp;title=%23Tududi">#Tududi</a>. Huge difference!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Airtable to Sqlite Python Script</title>
-      <link>https://deuts.org/x/763-airtable-to-sqlite-python-script/</link>
-      <pubDate>Thu, 22 Jan 2026 21:21:43 +0800</pubDate>
-      <guid>https://deuts.org/x/763-airtable-to-sqlite-python-script/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-763&#34;&gt;&lt;a href=&#34;https://pypi.org/project/airtable-to-sqlite/&#34;&gt;Airtable to Sqlite Python Script&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-763 {
-    background: url(&#39;https://bm.deuts.org/static/https_pypi_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Export Airtable bases to an sqlite database
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-763"><a href="https://pypi.org/project/airtable-to-sqlite/">Airtable to Sqlite Python Script</a></h3>
-<style>
-.favicon-763 {
-    background: url('https://bm.deuts.org/static/https_pypi_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Export Airtable bases to an sqlite database
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
