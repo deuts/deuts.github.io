@@ -16,13 +16,28 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</loc>
-    <lastmod>2026-01-22T21:11:48+08:00</lastmod>
+    <loc>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</loc>
+    <lastmod>2026-01-24T18:46:05+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-01-22T21:11:48+08:00</lastmod>
+    <lastmod>2026-01-24T18:46:05+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-01-24T18:46:05+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/airtable/</loc>
+    <lastmod>2026-01-22T21:21:43+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/763-airtable-to-sqlite-python-script/</loc>
+    <lastmod>2026-01-22T21:21:43+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2026-01-22T21:21:43+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-01-22T21:21:43+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</loc>
     <lastmod>2026-01-22T21:11:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-01-22-20-44-24-01kfjvr2r22nfa52z7g0rce0ve/</loc>
@@ -35,9 +50,6 @@
     <lastmod>2026-01-22T01:32:10+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/pocketid/</loc>
-    <lastmod>2026-01-22T01:32:10+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-01-22T01:32:10+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/761-cloudreve/</loc>
@@ -458,9 +470,6 @@
     <lastmod>2025-11-18T23:08:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/680-how-to-run-python-scripts-and-apps-in-n8n/</loc>
-    <lastmod>2025-11-17T22:41:30+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/python/</loc>
     <lastmod>2025-11-17T22:41:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/679-performance-tuning-in-n8n-practical-wins-before-you-scale-lumadock/</loc>
@@ -3594,9 +3603,6 @@
   </url><url>
     <loc>https://deuts.org/x/168-home-an-otter-wiki/</loc>
     <lastmod>2024-08-21T17:56:54+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/airtable/</loc>
-    <lastmod>2024-08-20T23:52:09+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/167-github-teableio-teable-the-next-gen-airtable-alternative-no-code-postgres/</loc>
     <lastmod>2024-08-20T23:52:09+08:00</lastmod>

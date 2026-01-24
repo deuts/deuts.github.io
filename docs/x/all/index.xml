@@ -7,8 +7,47 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 21:11:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 18:46:05 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KFQSRW4HESHMCRMKDGXB2R7V</title>
+      <link>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</link>
+      <pubDate>Sat, 24 Jan 2026 18:46:05 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</guid>
+      <description>&lt;p&gt;Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps &lt;a href=&#34;https://fediwall.social/?tags=Kan&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Kan&#34;&gt;#Kan&lt;/a&gt; vs. &lt;a href=&#34;https://fediwall.social/?tags=Tududi&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Tududi&#34;&gt;#Tududi&lt;/a&gt;. Huge difference!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps <a href="https://fediwall.social/?tags=Kan&amp;accounts=&amp;lang=en&amp;title=%23Kan">#Kan</a> vs. <a href="https://fediwall.social/?tags=Tududi&amp;accounts=&amp;lang=en&amp;title=%23Tududi">#Tududi</a>. Huge difference!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Airtable to Sqlite Python Script</title>
+      <link>https://deuts.org/x/763-airtable-to-sqlite-python-script/</link>
+      <pubDate>Thu, 22 Jan 2026 21:21:43 +0800</pubDate>
+      <guid>https://deuts.org/x/763-airtable-to-sqlite-python-script/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-763&#34;&gt;&lt;a href=&#34;https://pypi.org/project/airtable-to-sqlite/&#34;&gt;Airtable to Sqlite Python Script&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-763 {
+    background: url(&#39;https://bm.deuts.org/static/https_pypi_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Export Airtable bases to an sqlite database
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-763"><a href="https://pypi.org/project/airtable-to-sqlite/">Airtable to Sqlite Python Script</a></h3>
+<style>
+.favicon-763 {
+    background: url('https://bm.deuts.org/static/https_pypi_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Export Airtable bases to an sqlite database
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KFJXA7J8EANMP6M3H6ESKFJS</title>
       <link>https://deuts.org/x/2026-01-22-21-11-48-01kfjxa7j8eanmp6m3h6eskfjs/</link>
@@ -166,53 +205,6 @@
       <guid>https://deuts.org/x/2026-01-20-22-12-00-01kfdvz0xx028r5y65rbrr7d3a/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://techhub.social/@oxidand&#34;&gt;@oxidand&lt;/a&gt; and I also need custom fields and the ability to move documents across organizations. Been waiting for these &lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt; features for a while now.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://techhub.social/@oxidand">@oxidand</a> and I also need custom fields and the ability to move documents across organizations. Been waiting for these <a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a> features for a while now.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFDVNNJWM50JHVT6TS6WKPCV</title>
-      <link>https://deuts.org/x/2026-01-20-22-06-53-01kfdvnnjwm50jhvt6ts6wkpcv/</link>
-      <pubDate>Tue, 20 Jan 2026 22:06:53 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-20-22-06-53-01kfdvnnjwm50jhvt6ts6wkpcv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt; updated just an hour ago. Still no update on the feature I&amp;rsquo;ve been waiting for long now. Custom fields / properties. Always in backlog in their roadmap.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a> updated just an hour ago. Still no update on the feature I&rsquo;ve been waiting for long now. Custom fields / properties. Always in backlog in their roadmap.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>VizSQL - Visualize SQLite Schemas Instantly Online</title>
-      <link>https://deuts.org/x/758-vizsql-visualize-sqlite-schemas-instantly-online/</link>
-      <pubDate>Mon, 19 Jan 2026 09:35:19 +0800</pubDate>
-      <guid>https://deuts.org/x/758-vizsql-visualize-sqlite-schemas-instantly-online/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-758&#34;&gt;&lt;a href=&#34;https://www.vizsql.io/sqlite/&#34;&gt;VizSQL - Visualize SQLite Schemas Instantly Online&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-758 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_vizsql_io.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Drop your .sqlite file to generate interactive ER diagrams. No login, 100% private, runs entirely in your browser.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Not sure about security here, although it states it runs entirely in your browser. Wish there&amp;rsquo;s a selfhosted alternative instead.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-758"><a href="https://www.vizsql.io/sqlite/">VizSQL - Visualize SQLite Schemas Instantly Online</a></h3>
-<style>
-.favicon-758 {
-    background: url('https://bm.deuts.org/static/https_www_vizsql_io.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Drop your .sqlite file to generate interactive ER diagrams. No login, 100% private, runs entirely in your browser.
-</blockquote>
-  
-<div class="linkding-notes">
-    Not sure about security here, although it states it runs entirely in your browser. Wish there&rsquo;s a selfhosted alternative instead.
-</div>
-  
 ]]></content:encoded>
     </item>
   </channel>
