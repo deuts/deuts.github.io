@@ -7,8 +7,85 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 20:49:31 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 02:11:01 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grist: More Action Button Widget Explanation</title>
+      <link>https://deuts.org/x/774-grist-more-action-button-widget-explanation/</link>
+      <pubDate>Wed, 28 Jan 2026 02:11:01 +0800</pubDate>
+      <guid>https://deuts.org/x/774-grist-more-action-button-widget-explanation/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-774&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/a-complete-guide-for-useractions-and-the-action-button-widget/13484&#34;&gt;Grist: More Action Button Widget Explanation&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-774 {
+    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Grist has an extremely useful feature: User Actions. Unfortunately, there is almost no documentation on this subject. This post is my attempt to solve this problem, and empower more people (both user and developers) to use them.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-774"><a href="https://community.getgrist.com/t/a-complete-guide-for-useractions-and-the-action-button-widget/13484">Grist: More Action Button Widget Explanation</a></h3>
+<style>
+.favicon-774 {
+    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Grist has an extremely useful feature: User Actions. Unfortunately, there is almost no documentation on this subject. This post is my attempt to solve this problem, and empower more people (both user and developers) to use them.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>lookupOrAddDerived Undocumented Grist Function</title>
+      <link>https://deuts.org/x/773-lookuporaddderived-undocumented-grist-function/</link>
+      <pubDate>Wed, 28 Jan 2026 02:06:25 +0800</pubDate>
+      <guid>https://deuts.org/x/773-lookuporaddderived-undocumented-grist-function/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-773&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/table-inheritance/13533/2&#34;&gt;lookupOrAddDerived Undocumented Grist Function&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-773 {
+    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    There is an undocumented method lookupOrAddDerived, which behaves like lookupOne but creates a matching record if one isn’t found.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    We need to explore this function. This cound be useful for several of our use cases.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-773"><a href="https://community.getgrist.com/t/table-inheritance/13533/2">lookupOrAddDerived Undocumented Grist Function</a></h3>
+<style>
+.favicon-773 {
+    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    There is an undocumented method lookupOrAddDerived, which behaves like lookupOne but creates a matching record if one isn’t found.
+</blockquote>
+  
+<div class="linkding-notes">
+    We need to explore this function. This cound be useful for several of our use cases.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KFXF3C8MYCCTQRCSEK93FD1C</title>
+      <link>https://deuts.org/x/2026-01-26-23-35-02-01kfxf3c8mycctqrcsek93fd1c/</link>
+      <pubDate>Mon, 26 Jan 2026 23:35:02 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-01-26-23-35-02-01kfxf3c8mycctqrcsek93fd1c/</guid>
+      <description>&lt;p&gt;Is &lt;a href=&#34;https://fediwall.social/?tags=Airtable&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Airtable&#34;&gt;#Airtable&lt;/a&gt; down again right now?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Is <a href="https://fediwall.social/?tags=Airtable&amp;accounts=&amp;lang=en&amp;title=%23Airtable">#Airtable</a> down again right now?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Reactive Resume</title>
       <link>https://deuts.org/x/772-reactive-resume/</link>
@@ -249,87 +326,6 @@
     Now, this is what I&rsquo;m talking about. I&rsquo;m looking for a way to automate generating PDF documents from records from my Airtable or Grist or anywhere data. This is interesting.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Job Ops</title>
-      <link>https://deuts.org/x/765-job-ops/</link>
-      <pubDate>Sat, 24 Jan 2026 20:01:35 +0800</pubDate>
-      <guid>https://deuts.org/x/765-job-ops/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-765&#34;&gt;&lt;a href=&#34;https://github.com/DaKheera47/job-ops&#34;&gt;Job Ops&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-765 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;DevOps thinking applied to job hunting.&lt;/p&gt;
-&lt;p&gt;AI-powered job discovery and tailored resume/CV generation.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Looking at the README though I think it&amp;rsquo;s tailored for IT jobs only? Wish it could do Finance job opportunities as well.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-765"><a href="https://github.com/DaKheera47/job-ops">Job Ops</a></h3>
-<style>
-.favicon-765 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>DevOps thinking applied to job hunting.</p>
-<p>AI-powered job discovery and tailored resume/CV generation.</p>
-
-</blockquote>
-  
-<div class="linkding-notes">
-    Looking at the README though I think it&rsquo;s tailored for IT jobs only? Wish it could do Finance job opportunities as well.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bmus - Back Me Up Scotty</title>
-      <link>https://deuts.org/x/764-bmus-back-me-up-scotty/</link>
-      <pubDate>Sat, 24 Jan 2026 19:56:43 +0800</pubDate>
-      <guid>https://deuts.org/x/764-bmus-back-me-up-scotty/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-764&#34;&gt;&lt;a href=&#34;https://github.com/back-me-up-scotty/bmus&#34;&gt;Bmus - Back Me Up Scotty&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-764 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    BmuS is a powerful free bash based enterprise level backup program for the automated backup of files, directories, and MySQL databases from a Linux system to a NAS or NAS to NAS. With the Docker version you can also backup Win and Mac system. It features encryption, cloud backup, deduplication, multi language support and much more.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-764"><a href="https://github.com/back-me-up-scotty/bmus">Bmus - Back Me Up Scotty</a></h3>
-<style>
-.favicon-764 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    BmuS is a powerful free bash based enterprise level backup program for the automated backup of files, directories, and MySQL databases from a Linux system to a NAS or NAS to NAS. With the Docker version you can also backup Win and Mac system. It features encryption, cloud backup, deduplication, multi language support and much more.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KFQSRW4HESHMCRMKDGXB2R7V</title>
-      <link>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</link>
-      <pubDate>Sat, 24 Jan 2026 18:46:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-01-24-18-46-05-01kfqsrw4heshmcrmkdgxb2r7v/</guid>
-      <description>&lt;p&gt;Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps &lt;a href=&#34;https://fediwall.social/?tags=Kan&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Kan&#34;&gt;#Kan&lt;/a&gt; vs. &lt;a href=&#34;https://fediwall.social/?tags=Tududi&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Tududi&#34;&gt;#Tududi&lt;/a&gt;. Huge difference!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Resource usage makes a lot of difference when deciding between two alternative apps. Take for example this comparison for productivity apps <a href="https://fediwall.social/?tags=Kan&amp;accounts=&amp;lang=en&amp;title=%23Kan">#Kan</a> vs. <a href="https://fediwall.social/?tags=Tududi&amp;accounts=&amp;lang=en&amp;title=%23Tududi">#Tududi</a>. Huge difference!</p>
 ]]></content:encoded>
     </item>
   </channel>
