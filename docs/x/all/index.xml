@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 30 Jan 2026 23:00:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 01:15:36 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spreadsheet</title>
+      <link>https://deuts.org/x/778-spreadsheet/</link>
+      <pubDate>Sat, 31 Jan 2026 01:15:36 +0800</pubDate>
+      <guid>https://deuts.org/x/778-spreadsheet/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-778&#34;&gt;&lt;a href=&#34;https://github.com/supunlakmal/spreadsheet&#34;&gt;Spreadsheet&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-778 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing, No backend required. Optional AES-GCM password protection keeps shared links locked without a server
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-778"><a href="https://github.com/supunlakmal/spreadsheet">Spreadsheet</a></h3>
+<style>
+.favicon-778 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing, No backend required. Optional AES-GCM password protection keeps shared links locked without a server
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hash Calendar</title>
+      <link>https://deuts.org/x/777-hash-calendar/</link>
+      <pubDate>Sat, 31 Jan 2026 01:14:44 +0800</pubDate>
+      <guid>https://deuts.org/x/777-hash-calendar/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-777&#34;&gt;&lt;a href=&#34;https://github.com/supunlakmal/hash-calendar&#34;&gt;Hash Calendar&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-777 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight, client-only calendar web application. All data persists in the URL hash for instant sharing, No backend required. Optional AES-GCM password protection keeps shared links locked without a server.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-777"><a href="https://github.com/supunlakmal/hash-calendar">Hash Calendar</a></h3>
+<style>
+.favicon-777 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight, client-only calendar web application. All data persists in the URL hash for instant sharing, No backend required. Optional AES-GCM password protection keeps shared links locked without a server.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>🇵🇭 Ultimate List of Job Portals for Finding Remote Work in the Philippines (2026)</title>
       <link>https://deuts.org/x/776-ultimate-list-of-job-portals-for-finding-remote-work-in-the-philippines-2026/</link>
@@ -256,74 +316,6 @@
 
 <blockquote class="linkding-description">
     Sublogue injects IMDb/RT ratings, plot, cast, and runtimes into your SRTs — and scrubs out the rubbish while it’s there. Zero timing drift.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Markstack</title>
-      <link>https://deuts.org/x/769-markstack/</link>
-      <pubDate>Sat, 24 Jan 2026 20:30:08 +0800</pubDate>
-      <guid>https://deuts.org/x/769-markstack/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-769&#34;&gt;&lt;a href=&#34;https://github.com/KineticEnforcer/MarkStack&#34;&gt;Markstack&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-769 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Fast, minimal static site generator that transforms markdown into searchable documentation sites. Built to run anywhere, even on a Raspberry Pi.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Another Hugo alternative.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-769"><a href="https://github.com/KineticEnforcer/MarkStack">Markstack</a></h3>
-<style>
-.favicon-769 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Fast, minimal static site generator that transforms markdown into searchable documentation sites. Built to run anywhere, even on a Raspberry Pi.
-</blockquote>
-  
-<div class="linkding-notes">
-    Another Hugo alternative.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Docker Cloudflare Tunnel Sync</title>
-      <link>https://deuts.org/x/768-docker-cloudflare-tunnel-sync/</link>
-      <pubDate>Sat, 24 Jan 2026 20:19:25 +0800</pubDate>
-      <guid>https://deuts.org/x/768-docker-cloudflare-tunnel-sync/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-768&#34;&gt;&lt;a href=&#34;https://github.com/Darkdragon14/docker-cloudflare-tunnel-sync&#34;&gt;Docker Cloudflare Tunnel Sync&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-768 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Automatically synchronize Cloudflare Tunnels and routes from Docker container labels.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-768"><a href="https://github.com/Darkdragon14/docker-cloudflare-tunnel-sync">Docker Cloudflare Tunnel Sync</a></h3>
-<style>
-.favicon-768 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Automatically synchronize Cloudflare Tunnels and routes from Docker container labels.
 </blockquote>
   
 ]]></content:encoded>
