@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 01:15:36 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 01:25:00 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last Signal</title>
+      <link>https://deuts.org/x/779-last-signal/</link>
+      <pubDate>Sat, 31 Jan 2026 01:25:00 +0800</pubDate>
+      <guid>https://deuts.org/x/779-last-signal/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-779&#34;&gt;&lt;a href=&#34;https://github.com/giovantenne/lastsignal?tab=readme-ov-file&#34;&gt;Last Signal&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-779 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted dead man&amp;rsquo;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&amp;rsquo;re gone or unresponsive.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-779"><a href="https://github.com/giovantenne/lastsignal?tab=readme-ov-file">Last Signal</a></h3>
+<style>
+.favicon-779 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted dead man&rsquo;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&rsquo;re gone or unresponsive.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Spreadsheet</title>
       <link>https://deuts.org/x/778-spreadsheet/</link>
@@ -287,36 +317,6 @@
 <div class="linkding-notes">
     I think this is a good Power Automate alternative.
 </div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sublogue</title>
-      <link>https://deuts.org/x/770-sublogue/</link>
-      <pubDate>Sat, 24 Jan 2026 20:32:54 +0800</pubDate>
-      <guid>https://deuts.org/x/770-sublogue/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-770&#34;&gt;&lt;a href=&#34;https://github.com/ponzischeme89/Sublogue&#34;&gt;Sublogue&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-770 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Sublogue injects IMDb/RT ratings, plot, cast, and runtimes into your SRTs — and scrubs out the rubbish while it’s there. Zero timing drift.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-770"><a href="https://github.com/ponzischeme89/Sublogue">Sublogue</a></h3>
-<style>
-.favicon-770 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Sublogue injects IMDb/RT ratings, plot, cast, and runtimes into your SRTs — and scrubs out the rubbish while it’s there. Zero timing drift.
-</blockquote>
   
 ]]></content:encoded>
     </item>
