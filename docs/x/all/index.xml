@@ -7,8 +7,234 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 00:06:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 11:15:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ignidash</title>
+      <link>https://deuts.org/x/801-ignidash/</link>
+      <pubDate>Mon, 16 Feb 2026 11:15:32 +0800</pubDate>
+      <guid>https://deuts.org/x/801-ignidash/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-801&#34;&gt;&lt;a href=&#34;https://github.com/schelskedevco/ignidash&#34;&gt;Ignidash&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-801 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances. Features include monte carlo simulations, historical backtesting, US tax estimation, and AI chat &amp;amp; insights.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-801"><a href="https://github.com/schelskedevco/ignidash">Ignidash</a></h3>
+<style>
+.favicon-801 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances. Features include monte carlo simulations, historical backtesting, US tax estimation, and AI chat &amp; insights.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>RustFS</title>
+      <link>https://deuts.org/x/800-rustfs/</link>
+      <pubDate>Mon, 16 Feb 2026 11:13:29 +0800</pubDate>
+      <guid>https://deuts.org/x/800-rustfs/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-800&#34;&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34;&gt;RustFS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-800 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-800"><a href="https://github.com/rustfs/rustfs">RustFS</a></h3>
+<style>
+.favicon-800 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Will be done</title>
+      <link>https://deuts.org/x/799-will-be-done/</link>
+      <pubDate>Mon, 16 Feb 2026 11:12:02 +0800</pubDate>
+      <guid>https://deuts.org/x/799-will-be-done/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-799&#34;&gt;&lt;a href=&#34;https://github.com/will-be-done/will-be-done&#34;&gt;Will be done&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-799 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted, offline-first, open source kanban task manager for visual weekly planning with drag &amp;amp; drop everything and vim keybindings.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-799"><a href="https://github.com/will-be-done/will-be-done">Will be done</a></h3>
+<style>
+.favicon-799 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted, offline-first, open source kanban task manager for visual weekly planning with drag &amp; drop everything and vim keybindings.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FrankMD</title>
+      <link>https://deuts.org/x/798-frankmd/</link>
+      <pubDate>Mon, 16 Feb 2026 11:06:43 +0800</pubDate>
+      <guid>https://deuts.org/x/798-frankmd/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-798&#34;&gt;&lt;a href=&#34;https://github.com/akitaonrails/FrankMD&#34;&gt;FrankMD&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-798 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted, Simple Markdown Web Editor and Notes Organizer.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    With Hugo blog post support - create posts with proper directory structure.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-798"><a href="https://github.com/akitaonrails/FrankMD">FrankMD</a></h3>
+<style>
+.favicon-798 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted, Simple Markdown Web Editor and Notes Organizer.
+</blockquote>
+  
+<div class="linkding-notes">
+    With Hugo blog post support - create posts with proper directory structure.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Haven</title>
+      <link>https://deuts.org/x/797-haven/</link>
+      <pubDate>Mon, 16 Feb 2026 11:03:03 +0800</pubDate>
+      <guid>https://deuts.org/x/797-haven/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-797&#34;&gt;&lt;a href=&#34;https://github.com/ancsemi/Haven&#34;&gt;Haven&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-797 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-797"><a href="https://github.com/ancsemi/Haven">Haven</a></h3>
+<style>
+.favicon-797 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docktail</title>
+      <link>https://deuts.org/x/796-docktail/</link>
+      <pubDate>Mon, 16 Feb 2026 11:01:19 +0800</pubDate>
+      <guid>https://deuts.org/x/796-docktail/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-796&#34;&gt;&lt;a href=&#34;https://github.com/marvinvr/docktail&#34;&gt;Docktail&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-796 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Expose Docker containers as Tailscale Services using label-based configuration.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is probably the docker image we&amp;rsquo;ve been waiting for. Easily expose docker containers to tailscale. No need for Tailscale sidecar.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-796"><a href="https://github.com/marvinvr/docktail">Docktail</a></h3>
+<style>
+.favicon-796 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Expose Docker containers as Tailscale Services using label-based configuration.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is probably the docker image we&rsquo;ve been waiting for. Easily expose docker containers to tailscale. No need for Tailscale sidecar.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Oxi Cloud</title>
+      <link>https://deuts.org/x/795-oxi-cloud/</link>
+      <pubDate>Thu, 12 Feb 2026 22:13:19 +0800</pubDate>
+      <guid>https://deuts.org/x/795-oxi-cloud/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-795&#34;&gt;&lt;a href=&#34;https://github.com/DioCrafts/OxiCloud&#34;&gt;Oxi Cloud&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-795 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    ☁️ Ultra-fast, secure &amp;amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp;amp; contacts, all in one place. Built in Rust.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-795"><a href="https://github.com/DioCrafts/OxiCloud">Oxi Cloud</a></h3>
+<style>
+.favicon-795 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    ☁️ Ultra-fast, secure &amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp; contacts, all in one place. Built in Rust.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>OpenWA - WhatsApp API gateway</title>
       <link>https://deuts.org/x/794-openwa-whatsapp-api-gateway/</link>
@@ -95,225 +321,6 @@
 
 <blockquote class="linkding-description">
     Ironpad is a local-first, file-based project management system I&rsquo;ve been building with AI. Rust backend (Axum), Vue 3 frontend, markdown files as the database, Git integration for versioning.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KGKSKWXST76HJ25DR89WEWE3</title>
-      <link>https://deuts.org/x/2026-02-04-15-42-06-01kgkskwxst76hj25dr89wewe3/</link>
-      <pubDate>Wed, 04 Feb 2026 15:42:06 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-02-04-15-42-06-01kgkskwxst76hj25dr89wewe3/</guid>
-      <description>&lt;p&gt;The data quality issues I noted in May 2025 are still present in the Google Spreadsheets maintained by BAP for the daily BAP PHP/USD rates. &lt;a href=&#34;https://deuts.org/p/bap-rates-data-issues/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The data quality issues I noted in May 2025 are still present in the Google Spreadsheets maintained by BAP for the daily BAP PHP/USD rates. <a href="https://deuts.org/p/bap-rates-data-issues/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Enable Geo-blocking - Pangolin Docs</title>
-      <link>https://deuts.org/x/791-enable-geo-blocking-pangolin-docs/</link>
-      <pubDate>Wed, 04 Feb 2026 10:31:25 +0800</pubDate>
-      <guid>https://deuts.org/x/791-enable-geo-blocking-pangolin-docs/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-791&#34;&gt;&lt;a href=&#34;https://docs.pangolin.net/self-host/advanced/enable-geoblocking&#34;&gt;Enable Geo-blocking - Pangolin Docs&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-791 {
-    background: url(&#39;https://bm.deuts.org/static/https_docs_pangolin_net.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Configuration requirements to enable geoblocking in Pangolin
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    I might need to install this soon to secure my Pangolin setup better.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-791"><a href="https://docs.pangolin.net/self-host/advanced/enable-geoblocking">Enable Geo-blocking - Pangolin Docs</a></h3>
-<style>
-.favicon-791 {
-    background: url('https://bm.deuts.org/static/https_docs_pangolin_net.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Configuration requirements to enable geoblocking in Pangolin
-</blockquote>
-  
-<div class="linkding-notes">
-    I might need to install this soon to secure my Pangolin setup better.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Reddit discussion on Cloudreve and other Nextcloud alternatives</title>
-      <link>https://deuts.org/x/790-reddit-discussion-on-cloudreve-and-other-nextcloud-alternatives/</link>
-      <pubDate>Tue, 03 Feb 2026 07:43:16 +0800</pubDate>
-      <guid>https://deuts.org/x/790-reddit-discussion-on-cloudreve-and-other-nextcloud-alternatives/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-790&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfhosted/s/7e0xgLC8Vg&#34;&gt;Reddit discussion on Cloudreve and other Nextcloud alternatives&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-790 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I honestly don&amp;rsquo;t get why nobody talks about cloudreve here. I’ve been using it on my Raspberry Pi and it’s a game changer compared to Nextcloud for file storage. NC is so bloated and slow, while this thing is written in Go, super snappy, and the UI is actually beautiful.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-790"><a href="https://www.reddit.com/r/selfhosted/s/7e0xgLC8Vg">Reddit discussion on Cloudreve and other Nextcloud alternatives</a></h3>
-<style>
-.favicon-790 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I honestly don&rsquo;t get why nobody talks about cloudreve here. I’ve been using it on my Raspberry Pi and it’s a game changer compared to Nextcloud for file storage. NC is so bloated and slow, while this thing is written in Go, super snappy, and the UI is actually beautiful.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Free cronjobs - from minutely to once a year. - cron-job.org</title>
-      <link>https://deuts.org/x/789-free-cronjobs-from-minutely-to-once-a-year-cron-job-org/</link>
-      <pubDate>Tue, 03 Feb 2026 07:39:29 +0800</pubDate>
-      <guid>https://deuts.org/x/789-free-cronjobs-from-minutely-to-once-a-year-cron-job-org/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-789&#34;&gt;&lt;a href=&#34;https://cron-job.org/en/&#34;&gt;Free cronjobs - from minutely to once a year. - cron-job.org&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-789 {
-    background: url(&#39;https://bm.deuts.org/static/https_cron_job_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Scheduled execution of your websites and scripts. Just in time or in flexible intervals, from minute-by-minute to once in a year. Absolutely free.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    Free hosted service for cron schedules. Might be useful for not so private executions.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-789"><a href="https://cron-job.org/en/">Free cronjobs - from minutely to once a year. - cron-job.org</a></h3>
-<style>
-.favicon-789 {
-    background: url('https://bm.deuts.org/static/https_cron_job_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Scheduled execution of your websites and scripts. Just in time or in flexible intervals, from minute-by-minute to once in a year. Absolutely free.
-</blockquote>
-  
-<div class="linkding-notes">
-    Free hosted service for cron schedules. Might be useful for not so private executions.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Reddit Discussion: Remittance alternatives to Philippines</title>
-      <link>https://deuts.org/x/788-reddit-discussion-remittance-alternatives-to-philippines/</link>
-      <pubDate>Tue, 03 Feb 2026 07:34:36 +0800</pubDate>
-      <guid>https://deuts.org/x/788-reddit-discussion-remittance-alternatives-to-philippines/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-788&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/Philippines/s/w0T3jV4EVG&#34;&gt;Reddit Discussion: Remittance alternatives to Philippines&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-788 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    &lt;p&gt;My relatives keep asking which service their contacts abroad should use for padala so I finally did a comparison myself. Sent $500 CAD through five different services on the same day to see the actual PHP received.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Western union: PHP 20,150, took about an hour but needed a physical location visit&lt;/li&gt;
-&lt;li&gt;Wise: PHP 20,380, took 18 hours to arrive in gcash&lt;/li&gt;
-&lt;li&gt;Taptapsend: PHP 20,410, around 15 minutes, no fees on this amount&lt;/li&gt;
-&lt;li&gt;Remitly: PHP 20,290, about 2 hours, had a promo rate though&lt;/li&gt;
-&lt;li&gt;Xoom: PHP 20,210, 30 minutes, simple app&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-788"><a href="https://www.reddit.com/r/Philippines/s/w0T3jV4EVG">Reddit Discussion: Remittance alternatives to Philippines</a></h3>
-<style>
-.favicon-788 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    <p>My relatives keep asking which service their contacts abroad should use for padala so I finally did a comparison myself. Sent $500 CAD through five different services on the same day to see the actual PHP received.</p>
-<ul>
-<li>Western union: PHP 20,150, took about an hour but needed a physical location visit</li>
-<li>Wise: PHP 20,380, took 18 hours to arrive in gcash</li>
-<li>Taptapsend: PHP 20,410, around 15 minutes, no fees on this amount</li>
-<li>Remitly: PHP 20,290, about 2 hours, had a promo rate though</li>
-<li>Xoom: PHP 20,210, 30 minutes, simple app</li>
-</ul>
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Marimo widget : run python notebooks inside Grist!</title>
-      <link>https://deuts.org/x/787-marimo-widget-run-python-notebooks-inside-grist/</link>
-      <pubDate>Sun, 01 Feb 2026 15:23:42 +0800</pubDate>
-      <guid>https://deuts.org/x/787-marimo-widget-run-python-notebooks-inside-grist/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-787&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/marimo-widget-run-python-notebooks-inside-grist/13611&#34;&gt;Marimo widget : run python notebooks inside Grist!&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-787 {
-    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I’m extremely happy to announce the creation of a new widget: “Marimo in Grist”. Marimo is a modern alternative to Jupyter notebooks that let you edit, run, share and play with Python scripts.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-787"><a href="https://community.getgrist.com/t/marimo-widget-run-python-notebooks-inside-grist/13611">Marimo widget : run python notebooks inside Grist!</a></h3>
-<style>
-.favicon-787 {
-    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I’m extremely happy to announce the creation of a new widget: “Marimo in Grist”. Marimo is a modern alternative to Jupyter notebooks that let you edit, run, share and play with Python scripts.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Upload attachment from custom widget</title>
-      <link>https://deuts.org/x/786-upload-attachment-from-custom-widget/</link>
-      <pubDate>Sun, 01 Feb 2026 15:22:36 +0800</pubDate>
-      <guid>https://deuts.org/x/786-upload-attachment-from-custom-widget/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-786&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/upload-attachment-from-custom-widget/13612&#34;&gt;Upload attachment from custom widget&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-786 {
-    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simple custom widget to upload attachment.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-786"><a href="https://community.getgrist.com/t/upload-attachment-from-custom-widget/13612">Upload attachment from custom widget</a></h3>
-<style>
-.favicon-786 {
-    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simple custom widget to upload attachment.
 </blockquote>
   
 ]]></content:encoded>
