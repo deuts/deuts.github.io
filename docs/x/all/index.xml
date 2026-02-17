@@ -7,8 +7,36 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 11:15:32 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 01:22:55 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KHPA0QEKGXQHJRJWG3NDHB8Q</title>
+      <link>https://deuts.org/x/2026-02-18-01-22-55-01khpa0qekgxqhjrjwg3ndhb8q/</link>
+      <pubDate>Wed, 18 Feb 2026 01:22:55 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-02-18-01-22-55-01khpa0qekgxqhjrjwg3ndhb8q/</guid>
+      <description>&lt;p&gt;Another &lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt; update drops today, but none of the updates that mattered to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom document properties (metadata), not just tags&lt;/li&gt;
+&lt;li&gt;Ability to move documents between organizations&lt;/li&gt;
+&lt;li&gt;Search for organization names&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Another <a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a> update drops today, but none of the updates that mattered to me:</p>
+<ul>
+<li>Custom document properties (metadata), not just tags</li>
+<li>Ability to move documents between organizations</li>
+<li>Search for organization names</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KHNYT6HZXA4D9GM7C8WCMXE9</title>
+      <link>https://deuts.org/x/2026-02-17-22-07-06-01khnyt6hzxa4d9gm7c8wcmxe9/</link>
+      <pubDate>Tue, 17 Feb 2026 22:07:06 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-02-17-22-07-06-01khnyt6hzxa4d9gm7c8wcmxe9/</guid>
+      <description>&lt;p&gt;This looks like not a bad deal for a 32gb ram dedicated server from &lt;a href=&#34;https://fediwall.social/?tags=OVHCloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OVHCloud&#34;&gt;#OVHCloud&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This looks like not a bad deal for a 32gb ram dedicated server from <a href="https://fediwall.social/?tags=OVHCloud&amp;accounts=&amp;lang=en&amp;title=%23OVHCloud">#OVHCloud</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Ignidash</title>
       <link>https://deuts.org/x/801-ignidash/</link>
@@ -261,66 +289,6 @@
 
 <blockquote class="linkding-description">
     OpenWA is a free, open-source WhatsApp API Gateway designed for developers who need full control over their messaging infrastructure—without vendor lock-in or hidden paywalls.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>May - Fuel Log Monitor</title>
-      <link>https://deuts.org/x/793-may-fuel-log-monitor/</link>
-      <pubDate>Fri, 06 Feb 2026 23:59:58 +0800</pubDate>
-      <guid>https://deuts.org/x/793-may-fuel-log-monitor/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-793&#34;&gt;&lt;a href=&#34;https://github.com/dannymcc/may?tab=readme-ov-file&#34;&gt;May - Fuel Log Monitor&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-793 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    May is a web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles. The application has full multi-user support, as well as multiple vehicles per user. Whenever you fill-up your car or motorcycle, keep the receipt and record the data in May.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-793"><a href="https://github.com/dannymcc/may?tab=readme-ov-file">May - Fuel Log Monitor</a></h3>
-<style>
-.favicon-793 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    May is a web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles. The application has full multi-user support, as well as multiple vehicles per user. Whenever you fill-up your car or motorcycle, keep the receipt and record the data in May.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Iron Pad</title>
-      <link>https://deuts.org/x/792-iron-pad/</link>
-      <pubDate>Fri, 06 Feb 2026 23:52:48 +0800</pubDate>
-      <guid>https://deuts.org/x/792-iron-pad/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-792&#34;&gt;&lt;a href=&#34;https://github.com/OlaProeis/ironPad&#34;&gt;Iron Pad&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-792 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Ironpad is a local-first, file-based project management system I&amp;rsquo;ve been building with AI. Rust backend (Axum), Vue 3 frontend, markdown files as the database, Git integration for versioning.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-792"><a href="https://github.com/OlaProeis/ironPad">Iron Pad</a></h3>
-<style>
-.favicon-792 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Ironpad is a local-first, file-based project management system I&rsquo;ve been building with AI. Rust backend (Axum), Vue 3 frontend, markdown files as the database, Git integration for versioning.
 </blockquote>
   
 ]]></content:encoded>
