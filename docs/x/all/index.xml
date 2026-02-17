@@ -7,8 +7,29 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 01:22:55 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 01:30:34 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KHPAER0QZ2M4DTMBGB9ZJGDP</title>
+      <link>https://deuts.org/x/2026-02-18-01-30-34-01khpaer0qz2m4dtmbgb9zjgdp/</link>
+      <pubDate>Wed, 18 Feb 2026 01:30:34 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-02-18-01-30-34-01khpaer0qz2m4dtmbgb9zjgdp/</guid>
+      <description>&lt;h3 id=&#34;why-i-really-want-seafile-to-work-for-me&#34;&gt;Why I really want &lt;a href=&#34;https://fediwall.social/?tags=Seafile&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Seafile&#34;&gt;#Seafile&lt;/a&gt; to work for me&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A lot of users report that &lt;strong&gt;Seafile sync is significantly faster than &lt;a href=&#34;https://fediwall.social/?tags=Nextcloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Nextcloud&#34;&gt;#Nextcloud&lt;/a&gt;&lt;/strong&gt;, especially for large libraries.&lt;/li&gt;
+&lt;li&gt;I genuinely like Seafile’s &lt;strong&gt;extended properties (metadata)&lt;/strong&gt; feature — it feels more structured and usable compared to Nextcloud.&lt;/li&gt;
+&lt;li&gt;Unlike &lt;a href=&#34;https://fediwall.social/?tags=PaperlessNGX&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessNGX&#34;&gt;#PaperlessNGX&lt;/a&gt; / &lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt;, I can &lt;strong&gt;directly edit Office files&lt;/strong&gt;, which makes it more than just a document archive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m really hoping this setup works out, because on paper it checks all the right boxes for my workflow.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 id="why-i-really-want-seafile-to-work-for-me">Why I really want <a href="https://fediwall.social/?tags=Seafile&amp;accounts=&amp;lang=en&amp;title=%23Seafile">#Seafile</a> to work for me</h3>
+<ul>
+<li>A lot of users report that <strong>Seafile sync is significantly faster than <a href="https://fediwall.social/?tags=Nextcloud&amp;accounts=&amp;lang=en&amp;title=%23Nextcloud">#Nextcloud</a></strong>, especially for large libraries.</li>
+<li>I genuinely like Seafile’s <strong>extended properties (metadata)</strong> feature — it feels more structured and usable compared to Nextcloud.</li>
+<li>Unlike <a href="https://fediwall.social/?tags=PaperlessNGX&amp;accounts=&amp;lang=en&amp;title=%23PaperlessNGX">#PaperlessNGX</a> / <a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a>, I can <strong>directly edit Office files</strong>, which makes it more than just a document archive.</li>
+</ul>
+<p>I’m really hoping this setup works out, because on paper it checks all the right boxes for my workflow.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KHPA0QEKGXQHJRJWG3NDHB8Q</title>
       <link>https://deuts.org/x/2026-02-18-01-22-55-01khpa0qekgxqhjrjwg3ndhb8q/</link>
@@ -259,36 +280,6 @@
 
 <blockquote class="linkding-description">
     ☁️ Ultra-fast, secure &amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp; contacts, all in one place. Built in Rust.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenWA - WhatsApp API gateway</title>
-      <link>https://deuts.org/x/794-openwa-whatsapp-api-gateway/</link>
-      <pubDate>Sat, 07 Feb 2026 00:06:35 +0800</pubDate>
-      <guid>https://deuts.org/x/794-openwa-whatsapp-api-gateway/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-794&#34;&gt;&lt;a href=&#34;https://github.com/rmyndharis/OpenWA&#34;&gt;OpenWA - WhatsApp API gateway&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-794 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    OpenWA is a free, open-source WhatsApp API Gateway designed for developers who need full control over their messaging infrastructure—without vendor lock-in or hidden paywalls.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-794"><a href="https://github.com/rmyndharis/OpenWA">OpenWA - WhatsApp API gateway</a></h3>
-<style>
-.favicon-794 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    OpenWA is a free, open-source WhatsApp API Gateway designed for developers who need full control over their messaging infrastructure—without vendor lock-in or hidden paywalls.
 </blockquote>
   
 ]]></content:encoded>
