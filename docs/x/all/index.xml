@@ -7,8 +7,256 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 01:30:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:18:15 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rauthy</title>
+      <link>https://deuts.org/x/809-rauthy/</link>
+      <pubDate>Sat, 28 Feb 2026 02:18:15 +0800</pubDate>
+      <guid>https://deuts.org/x/809-rauthy/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-809&#34;&gt;&lt;a href=&#34;https://github.com/sebadob/rauthy?tab=readme-ov-file&#34;&gt;Rauthy&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-809 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Single Sign-On Identity &amp;amp; Access Management via OpenID Connect, OAuth 2.0 and PAM
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-809"><a href="https://github.com/sebadob/rauthy?tab=readme-ov-file">Rauthy</a></h3>
+<style>
+.favicon-809 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Single Sign-On Identity &amp; Access Management via OpenID Connect, OAuth 2.0 and PAM
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MediKeep</title>
+      <link>https://deuts.org/x/808-medikeep/</link>
+      <pubDate>Sat, 28 Feb 2026 02:15:46 +0800</pubDate>
+      <guid>https://deuts.org/x/808-medikeep/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-808&#34;&gt;&lt;a href=&#34;https://github.com/afairgiant/MediKeep&#34;&gt;MediKeep&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-808 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A lightweight, self-hosted application for managing your personal medical information. Keep your health records organized and accessible while maintaining complete control over your data privacy.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-808"><a href="https://github.com/afairgiant/MediKeep">MediKeep</a></h3>
+<style>
+.favicon-808 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A lightweight, self-hosted application for managing your personal medical information. Keep your health records organized and accessible while maintaining complete control over your data privacy.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Rahoot</title>
+      <link>https://deuts.org/x/807-rahoot/</link>
+      <pubDate>Sat, 28 Feb 2026 00:59:28 +0800</pubDate>
+      <guid>https://deuts.org/x/807-rahoot/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-807&#34;&gt;&lt;a href=&#34;https://github.com/Ralex91/Rahoot&#34;&gt;Rahoot&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-807 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-807"><a href="https://github.com/Ralex91/Rahoot">Rahoot</a></h3>
+<style>
+.favicon-807 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dashma</title>
+      <link>https://deuts.org/x/806-dashma/</link>
+      <pubDate>Sat, 28 Feb 2026 00:57:12 +0800</pubDate>
+      <guid>https://deuts.org/x/806-dashma/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-806&#34;&gt;&lt;a href=&#34;https://github.com/Lungshot/dashma&#34;&gt;Dashma&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-806 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A minimal, zen-inspired link dashboard homepage. Fast, lightweight, and fully configurable.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-806"><a href="https://github.com/Lungshot/dashma">Dashma</a></h3>
+<style>
+.favicon-806 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A minimal, zen-inspired link dashboard homepage. Fast, lightweight, and fully configurable.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HS5</title>
+      <link>https://deuts.org/x/805-hs5/</link>
+      <pubDate>Mon, 23 Feb 2026 00:01:24 +0800</pubDate>
+      <guid>https://deuts.org/x/805-hs5/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-805&#34;&gt;&lt;a href=&#34;https://github.com/uroni/hs5&#34;&gt;HS5&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-805 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    High-performance scale-up self-hosted simple storage service (hs5)
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-805"><a href="https://github.com/uroni/hs5">HS5</a></h3>
+<style>
+.favicon-805 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    High-performance scale-up self-hosted simple storage service (hs5)
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>NocoBase</title>
+      <link>https://deuts.org/x/804-nocobase/</link>
+      <pubDate>Sun, 22 Feb 2026 23:57:32 +0800</pubDate>
+      <guid>https://deuts.org/x/804-nocobase/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-804&#34;&gt;&lt;a href=&#34;https://github.com/nocobase/nocobase&#34;&gt;NocoBase&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-804 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-804"><a href="https://github.com/nocobase/nocobase">NocoBase</a></h3>
+<style>
+.favicon-804 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Aeterna</title>
+      <link>https://deuts.org/x/803-aeterna/</link>
+      <pubDate>Sun, 22 Feb 2026 23:37:33 +0800</pubDate>
+      <guid>https://deuts.org/x/803-aeterna/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-803&#34;&gt;&lt;a href=&#34;https://github.com/alpyxn/aeterna&#34;&gt;Aeterna&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-803 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Aeterna: A Lightweight, Self-Hosted Dead Man&amp;rsquo;s Switch
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-803"><a href="https://github.com/alpyxn/aeterna">Aeterna</a></h3>
+<style>
+.favicon-803 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Aeterna: A Lightweight, Self-Hosted Dead Man&rsquo;s Switch
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Seerr</title>
+      <link>https://deuts.org/x/802-seerr/</link>
+      <pubDate>Sun, 22 Feb 2026 22:55:32 +0800</pubDate>
+      <guid>https://deuts.org/x/802-seerr/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-802&#34;&gt;&lt;a href=&#34;https://github.com/seerr-team/seerr&#34;&gt;Seerr&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-802 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This now replaces Overseerr.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-802"><a href="https://github.com/seerr-team/seerr">Seerr</a></h3>
+<style>
+.favicon-802 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+</blockquote>
+  
+<div class="linkding-notes">
+    This now replaces Overseerr.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KHPAER0QZ2M4DTMBGB9ZJGDP</title>
       <link>https://deuts.org/x/2026-02-18-01-30-34-01khpaer0qz2m4dtmbgb9zjgdp/</link>
@@ -47,241 +295,6 @@
 <li>Ability to move documents between organizations</li>
 <li>Search for organization names</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KHNYT6HZXA4D9GM7C8WCMXE9</title>
-      <link>https://deuts.org/x/2026-02-17-22-07-06-01khnyt6hzxa4d9gm7c8wcmxe9/</link>
-      <pubDate>Tue, 17 Feb 2026 22:07:06 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-02-17-22-07-06-01khnyt6hzxa4d9gm7c8wcmxe9/</guid>
-      <description>&lt;p&gt;This looks like not a bad deal for a 32gb ram dedicated server from &lt;a href=&#34;https://fediwall.social/?tags=OVHCloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OVHCloud&#34;&gt;#OVHCloud&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This looks like not a bad deal for a 32gb ram dedicated server from <a href="https://fediwall.social/?tags=OVHCloud&amp;accounts=&amp;lang=en&amp;title=%23OVHCloud">#OVHCloud</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Ignidash</title>
-      <link>https://deuts.org/x/801-ignidash/</link>
-      <pubDate>Mon, 16 Feb 2026 11:15:32 +0800</pubDate>
-      <guid>https://deuts.org/x/801-ignidash/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-801&#34;&gt;&lt;a href=&#34;https://github.com/schelskedevco/ignidash&#34;&gt;Ignidash&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-801 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances. Features include monte carlo simulations, historical backtesting, US tax estimation, and AI chat &amp;amp; insights.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-801"><a href="https://github.com/schelskedevco/ignidash">Ignidash</a></h3>
-<style>
-.favicon-801 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances. Features include monte carlo simulations, historical backtesting, US tax estimation, and AI chat &amp; insights.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>RustFS</title>
-      <link>https://deuts.org/x/800-rustfs/</link>
-      <pubDate>Mon, 16 Feb 2026 11:13:29 +0800</pubDate>
-      <guid>https://deuts.org/x/800-rustfs/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-800&#34;&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34;&gt;RustFS&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-800 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-800"><a href="https://github.com/rustfs/rustfs">RustFS</a></h3>
-<style>
-.favicon-800 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Will be done</title>
-      <link>https://deuts.org/x/799-will-be-done/</link>
-      <pubDate>Mon, 16 Feb 2026 11:12:02 +0800</pubDate>
-      <guid>https://deuts.org/x/799-will-be-done/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-799&#34;&gt;&lt;a href=&#34;https://github.com/will-be-done/will-be-done&#34;&gt;Will be done&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-799 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted, offline-first, open source kanban task manager for visual weekly planning with drag &amp;amp; drop everything and vim keybindings.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-799"><a href="https://github.com/will-be-done/will-be-done">Will be done</a></h3>
-<style>
-.favicon-799 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted, offline-first, open source kanban task manager for visual weekly planning with drag &amp; drop everything and vim keybindings.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>FrankMD</title>
-      <link>https://deuts.org/x/798-frankmd/</link>
-      <pubDate>Mon, 16 Feb 2026 11:06:43 +0800</pubDate>
-      <guid>https://deuts.org/x/798-frankmd/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-798&#34;&gt;&lt;a href=&#34;https://github.com/akitaonrails/FrankMD&#34;&gt;FrankMD&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-798 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted, Simple Markdown Web Editor and Notes Organizer.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    With Hugo blog post support - create posts with proper directory structure.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-798"><a href="https://github.com/akitaonrails/FrankMD">FrankMD</a></h3>
-<style>
-.favicon-798 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted, Simple Markdown Web Editor and Notes Organizer.
-</blockquote>
-  
-<div class="linkding-notes">
-    With Hugo blog post support - create posts with proper directory structure.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Haven</title>
-      <link>https://deuts.org/x/797-haven/</link>
-      <pubDate>Mon, 16 Feb 2026 11:03:03 +0800</pubDate>
-      <guid>https://deuts.org/x/797-haven/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-797&#34;&gt;&lt;a href=&#34;https://github.com/ancsemi/Haven&#34;&gt;Haven&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-797 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-797"><a href="https://github.com/ancsemi/Haven">Haven</a></h3>
-<style>
-.favicon-797 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Docktail</title>
-      <link>https://deuts.org/x/796-docktail/</link>
-      <pubDate>Mon, 16 Feb 2026 11:01:19 +0800</pubDate>
-      <guid>https://deuts.org/x/796-docktail/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-796&#34;&gt;&lt;a href=&#34;https://github.com/marvinvr/docktail&#34;&gt;Docktail&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-796 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Expose Docker containers as Tailscale Services using label-based configuration.
-&lt;/blockquote&gt;
-  
-&lt;div class=&#34;linkding-notes&#34;&gt;
-    This is probably the docker image we&amp;rsquo;ve been waiting for. Easily expose docker containers to tailscale. No need for Tailscale sidecar.
-&lt;/div&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-796"><a href="https://github.com/marvinvr/docktail">Docktail</a></h3>
-<style>
-.favicon-796 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Expose Docker containers as Tailscale Services using label-based configuration.
-</blockquote>
-  
-<div class="linkding-notes">
-    This is probably the docker image we&rsquo;ve been waiting for. Easily expose docker containers to tailscale. No need for Tailscale sidecar.
-</div>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Oxi Cloud</title>
-      <link>https://deuts.org/x/795-oxi-cloud/</link>
-      <pubDate>Thu, 12 Feb 2026 22:13:19 +0800</pubDate>
-      <guid>https://deuts.org/x/795-oxi-cloud/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-795&#34;&gt;&lt;a href=&#34;https://github.com/DioCrafts/OxiCloud&#34;&gt;Oxi Cloud&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-795 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    ☁️ Ultra-fast, secure &amp;amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp;amp; contacts, all in one place. Built in Rust.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-795"><a href="https://github.com/DioCrafts/OxiCloud">Oxi Cloud</a></h3>
-<style>
-.favicon-795 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    ☁️ Ultra-fast, secure &amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp; contacts, all in one place. Built in Rust.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
