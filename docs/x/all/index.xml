@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 00:28:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 08:42:16 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vykar</title>
+      <link>https://deuts.org/x/812-vykar/</link>
+      <pubDate>Wed, 04 Mar 2026 08:42:16 +0800</pubDate>
+      <guid>https://deuts.org/x/812-vykar/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-812&#34;&gt;&lt;a href=&#34;https://github.com/borgbase/vykar&#34;&gt;Vykar&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-812 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-812"><a href="https://github.com/borgbase/vykar">Vykar</a></h3>
+<style>
+.favicon-812 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Copyparty</title>
       <link>https://deuts.org/x/810-copyparty/</link>
@@ -285,27 +315,6 @@
     This now replaces Overseerr.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KHPAER0QZ2M4DTMBGB9ZJGDP</title>
-      <link>https://deuts.org/x/2026-02-18-01-30-34-01khpaer0qz2m4dtmbgb9zjgdp/</link>
-      <pubDate>Wed, 18 Feb 2026 01:30:34 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-02-18-01-30-34-01khpaer0qz2m4dtmbgb9zjgdp/</guid>
-      <description>&lt;h3 id=&#34;why-i-really-want-seafile-to-work-for-me&#34;&gt;Why I really want &lt;a href=&#34;https://fediwall.social/?tags=Seafile&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Seafile&#34;&gt;#Seafile&lt;/a&gt; to work for me&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;A lot of users report that &lt;strong&gt;Seafile sync is significantly faster than &lt;a href=&#34;https://fediwall.social/?tags=Nextcloud&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Nextcloud&#34;&gt;#Nextcloud&lt;/a&gt;&lt;/strong&gt;, especially for large libraries.&lt;/li&gt;
-&lt;li&gt;I genuinely like Seafile’s &lt;strong&gt;extended properties (metadata)&lt;/strong&gt; feature — it feels more structured and usable compared to Nextcloud.&lt;/li&gt;
-&lt;li&gt;Unlike &lt;a href=&#34;https://fediwall.social/?tags=PaperlessNGX&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PaperlessNGX&#34;&gt;#PaperlessNGX&lt;/a&gt; / &lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt;, I can &lt;strong&gt;directly edit Office files&lt;/strong&gt;, which makes it more than just a document archive.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I’m really hoping this setup works out, because on paper it checks all the right boxes for my workflow.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h3 id="why-i-really-want-seafile-to-work-for-me">Why I really want <a href="https://fediwall.social/?tags=Seafile&amp;accounts=&amp;lang=en&amp;title=%23Seafile">#Seafile</a> to work for me</h3>
-<ul>
-<li>A lot of users report that <strong>Seafile sync is significantly faster than <a href="https://fediwall.social/?tags=Nextcloud&amp;accounts=&amp;lang=en&amp;title=%23Nextcloud">#Nextcloud</a></strong>, especially for large libraries.</li>
-<li>I genuinely like Seafile’s <strong>extended properties (metadata)</strong> feature — it feels more structured and usable compared to Nextcloud.</li>
-<li>Unlike <a href="https://fediwall.social/?tags=PaperlessNGX&amp;accounts=&amp;lang=en&amp;title=%23PaperlessNGX">#PaperlessNGX</a> / <a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a>, I can <strong>directly edit Office files</strong>, which makes it more than just a document archive.</li>
-</ul>
-<p>I’m really hoping this setup works out, because on paper it checks all the right boxes for my workflow.</p>
 ]]></content:encoded>
     </item>
   </channel>
