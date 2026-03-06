@@ -7,8 +7,218 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 22:21:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 01:12:07 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figranium (Formerly Doppelganger)</title>
+      <link>https://deuts.org/x/821-figranium-formerly-doppelganger/</link>
+      <pubDate>Sat, 07 Mar 2026 01:12:07 +0800</pubDate>
+      <guid>https://deuts.org/x/821-figranium-formerly-doppelganger/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-821&#34;&gt;&lt;a href=&#34;https://github.com/figranium/figranium&#34;&gt;Figranium (Formerly Doppelganger)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-821 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Figranium is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-821"><a href="https://github.com/figranium/figranium">Figranium (Formerly Doppelganger)</a></h3>
+<style>
+.favicon-821 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Figranium is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Drivebase</title>
+      <link>https://deuts.org/x/820-drivebase/</link>
+      <pubDate>Sat, 07 Mar 2026 01:10:41 +0800</pubDate>
+      <guid>https://deuts.org/x/820-drivebase/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-820&#34;&gt;&lt;a href=&#34;https://github.com/drivebase/drivebase&#34;&gt;Drivebase&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-820 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-820"><a href="https://github.com/drivebase/drivebase">Drivebase</a></h3>
+<style>
+.favicon-820 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Versitygw</title>
+      <link>https://deuts.org/x/819-versitygw/</link>
+      <pubDate>Sat, 07 Mar 2026 01:09:00 +0800</pubDate>
+      <guid>https://deuts.org/x/819-versitygw/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-819&#34;&gt;&lt;a href=&#34;https://github.com/versity/versitygw&#34;&gt;Versitygw&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-819 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    versity s3 gateway.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-819"><a href="https://github.com/versity/versitygw">Versitygw</a></h3>
+<style>
+.favicon-819 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    versity s3 gateway.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Moneystill</title>
+      <link>https://deuts.org/x/818-moneystill/</link>
+      <pubDate>Sat, 07 Mar 2026 01:03:44 +0800</pubDate>
+      <guid>https://deuts.org/x/818-moneystill/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-818&#34;&gt;&lt;a href=&#34;https://github.com/krisauseu/moneystill&#34;&gt;Moneystill&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-818 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Family-centric financial planning with interactive money flow visualization and privacy-first architecture.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-818"><a href="https://github.com/krisauseu/moneystill">Moneystill</a></h3>
+<style>
+.favicon-818 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Family-centric financial planning with interactive money flow visualization and privacy-first architecture.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Maintenant</title>
+      <link>https://deuts.org/x/817-maintenant/</link>
+      <pubDate>Sat, 07 Mar 2026 00:59:41 +0800</pubDate>
+      <guid>https://deuts.org/x/817-maintenant/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-817&#34;&gt;&lt;a href=&#34;https://github.com/kOlapsis/maintenant&#34;&gt;Maintenant&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-817 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Monitor everything. Manage nothing.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-817"><a href="https://github.com/kOlapsis/maintenant">Maintenant</a></h3>
+<style>
+.favicon-817 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Monitor everything. Manage nothing.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Habitat</title>
+      <link>https://deuts.org/x/816-habitat/</link>
+      <pubDate>Sat, 07 Mar 2026 00:57:58 +0800</pubDate>
+      <guid>https://deuts.org/x/816-habitat/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-816&#34;&gt;&lt;a href=&#34;https://github.com/carlnewton/habitat&#34;&gt;Habitat&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-816 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Habitat is a free and open source self-hosted social platform for local communities
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-816"><a href="https://github.com/carlnewton/habitat">Habitat</a></h3>
+<style>
+.favicon-816 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Habitat is a free and open source self-hosted social platform for local communities
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Daylog</title>
+      <link>https://deuts.org/x/815-daylog/</link>
+      <pubDate>Sat, 07 Mar 2026 00:53:57 +0800</pubDate>
+      <guid>https://deuts.org/x/815-daylog/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-815&#34;&gt;&lt;a href=&#34;https://github.com/artifacts-oss/daylog&#34;&gt;Daylog&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-815 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted board-based simple text and markdown note taking web application.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-815"><a href="https://github.com/artifacts-oss/daylog">Daylog</a></h3>
+<style>
+.favicon-815 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted board-based simple text and markdown note taking web application.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>9 Advanced PostgreSQL Features I Wish I Knew Sooner</title>
       <link>https://deuts.org/x/814-9-advanced-postgresql-features-i-wish-i-knew-sooner/</link>
@@ -95,216 +305,6 @@
 
 <blockquote class="linkding-description">
     Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Copyparty</title>
-      <link>https://deuts.org/x/810-copyparty/</link>
-      <pubDate>Tue, 03 Mar 2026 00:28:40 +0800</pubDate>
-      <guid>https://deuts.org/x/810-copyparty/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-810&#34;&gt;&lt;a href=&#34;https://github.com/9001/copyparty&#34;&gt;Copyparty&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-810 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-810"><a href="https://github.com/9001/copyparty">Copyparty</a></h3>
-<style>
-.favicon-810 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Rauthy</title>
-      <link>https://deuts.org/x/809-rauthy/</link>
-      <pubDate>Sat, 28 Feb 2026 02:18:15 +0800</pubDate>
-      <guid>https://deuts.org/x/809-rauthy/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-809&#34;&gt;&lt;a href=&#34;https://github.com/sebadob/rauthy?tab=readme-ov-file&#34;&gt;Rauthy&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-809 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Single Sign-On Identity &amp;amp; Access Management via OpenID Connect, OAuth 2.0 and PAM
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-809"><a href="https://github.com/sebadob/rauthy?tab=readme-ov-file">Rauthy</a></h3>
-<style>
-.favicon-809 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Single Sign-On Identity &amp; Access Management via OpenID Connect, OAuth 2.0 and PAM
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>MediKeep</title>
-      <link>https://deuts.org/x/808-medikeep/</link>
-      <pubDate>Sat, 28 Feb 2026 02:15:46 +0800</pubDate>
-      <guid>https://deuts.org/x/808-medikeep/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-808&#34;&gt;&lt;a href=&#34;https://github.com/afairgiant/MediKeep&#34;&gt;MediKeep&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-808 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A lightweight, self-hosted application for managing your personal medical information. Keep your health records organized and accessible while maintaining complete control over your data privacy.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-808"><a href="https://github.com/afairgiant/MediKeep">MediKeep</a></h3>
-<style>
-.favicon-808 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A lightweight, self-hosted application for managing your personal medical information. Keep your health records organized and accessible while maintaining complete control over your data privacy.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Rahoot</title>
-      <link>https://deuts.org/x/807-rahoot/</link>
-      <pubDate>Sat, 28 Feb 2026 00:59:28 +0800</pubDate>
-      <guid>https://deuts.org/x/807-rahoot/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-807&#34;&gt;&lt;a href=&#34;https://github.com/Ralex91/Rahoot&#34;&gt;Rahoot&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-807 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-807"><a href="https://github.com/Ralex91/Rahoot">Rahoot</a></h3>
-<style>
-.favicon-807 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Dashma</title>
-      <link>https://deuts.org/x/806-dashma/</link>
-      <pubDate>Sat, 28 Feb 2026 00:57:12 +0800</pubDate>
-      <guid>https://deuts.org/x/806-dashma/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-806&#34;&gt;&lt;a href=&#34;https://github.com/Lungshot/dashma&#34;&gt;Dashma&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-806 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A minimal, zen-inspired link dashboard homepage. Fast, lightweight, and fully configurable.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-806"><a href="https://github.com/Lungshot/dashma">Dashma</a></h3>
-<style>
-.favicon-806 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A minimal, zen-inspired link dashboard homepage. Fast, lightweight, and fully configurable.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>HS5</title>
-      <link>https://deuts.org/x/805-hs5/</link>
-      <pubDate>Mon, 23 Feb 2026 00:01:24 +0800</pubDate>
-      <guid>https://deuts.org/x/805-hs5/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-805&#34;&gt;&lt;a href=&#34;https://github.com/uroni/hs5&#34;&gt;HS5&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-805 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    High-performance scale-up self-hosted simple storage service (hs5)
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-805"><a href="https://github.com/uroni/hs5">HS5</a></h3>
-<style>
-.favicon-805 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    High-performance scale-up self-hosted simple storage service (hs5)
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>NocoBase</title>
-      <link>https://deuts.org/x/804-nocobase/</link>
-      <pubDate>Sun, 22 Feb 2026 23:57:32 +0800</pubDate>
-      <guid>https://deuts.org/x/804-nocobase/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-804&#34;&gt;&lt;a href=&#34;https://github.com/nocobase/nocobase&#34;&gt;NocoBase&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-804 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-804"><a href="https://github.com/nocobase/nocobase">NocoBase</a></h3>
-<style>
-.favicon-804 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 </blockquote>
   
 ]]></content:encoded>

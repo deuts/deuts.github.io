@@ -16,22 +16,70 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/814-9-advanced-postgresql-features-i-wish-i-knew-sooner/</loc>
-    <lastmod>2026-03-05T22:21:43+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/automation/</loc>
+    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/</loc>
+    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/821-figranium-formerly-doppelganger/</loc>
+    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/cloud/</loc>
+    <lastmod>2026-03-07T01:10:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/cloudserver/</loc>
+    <lastmod>2026-03-07T01:10:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/820-drivebase/</loc>
+    <lastmod>2026-03-07T01:10:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/minio/</loc>
+    <lastmod>2026-03-07T01:09:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/s3/</loc>
+    <lastmod>2026-03-07T01:09:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/819-versitygw/</loc>
+    <lastmod>2026-03-07T01:09:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/818-moneystill/</loc>
+    <lastmod>2026-03-07T01:03:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2026-03-07T01:03:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/817-maintenant/</loc>
+    <lastmod>2026-03-07T00:59:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/uptime/</loc>
+    <lastmod>2026-03-07T00:59:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/816-habitat/</loc>
+    <lastmod>2026-03-07T00:57:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/socialmedia/</loc>
+    <lastmod>2026-03-07T00:57:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/815-daylog/</loc>
+    <lastmod>2026-03-07T00:53:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-03-07T00:53:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/814-9-advanced-postgresql-features-i-wish-i-knew-sooner/</loc>
     <lastmod>2026-03-05T22:21:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/database/</loc>
     <lastmod>2026-03-05T22:21:43+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/</loc>
-    <lastmod>2026-03-05T22:21:43+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/postgres/</loc>
-    <lastmod>2026-03-05T22:21:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-03-05T22:21:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/sql/</loc>
@@ -85,12 +133,6 @@
     <loc>https://deuts.org/x/805-hs5/</loc>
     <lastmod>2026-02-23T00:01:24+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/minio/</loc>
-    <lastmod>2026-02-23T00:01:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/s3/</loc>
-    <lastmod>2026-02-23T00:01:24+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/airtable/</loc>
     <lastmod>2026-02-22T23:57:32+08:00</lastmod>
   </url><url>
@@ -121,9 +163,6 @@
     <loc>https://deuts.org/x/801-ignidash/</loc>
     <lastmod>2026-02-16T11:15:32+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2026-02-16T11:15:32+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/800-rustfs/</loc>
     <lastmod>2026-02-16T11:13:29+08:00</lastmod>
   </url><url>
@@ -146,9 +185,6 @@
     <lastmod>2026-02-16T11:06:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/markdown/</loc>
-    <lastmod>2026-02-16T11:06:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-02-16T11:06:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/discord/</loc>
@@ -306,9 +342,6 @@
   </url><url>
     <loc>https://deuts.org/k/resume/</loc>
     <lastmod>2026-01-24T20:49:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2026-01-24T20:37:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/771-doppelganger-browser-automation-for-everyone/</loc>
     <lastmod>2026-01-24T20:37:59+08:00</lastmod>
@@ -1077,9 +1110,6 @@
   </url><url>
     <loc>https://deuts.org/x/582-wally/</loc>
     <lastmod>2025-08-22T10:38:19+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/cloud/</loc>
-    <lastmod>2025-08-22T10:34:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/581-stellaris-cloud/</loc>
     <lastmod>2025-08-22T10:34:52+08:00</lastmod>
@@ -3393,9 +3423,6 @@
   </url><url>
     <loc>https://deuts.org/p/understanding-hugo-sections-index/</loc>
     <lastmod>2024-11-21T13:53:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/uptime/</loc>
-    <lastmod>2024-11-21T09:15:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/258-uptime-kuma-cloudflare-service-token-authentication/</loc>
     <lastmod>2024-11-21T09:15:26+08:00</lastmod>
