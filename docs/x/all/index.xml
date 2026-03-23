@@ -7,8 +7,98 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 11:57:47 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:15:58 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7 MUST-HAVE Apps for Every Windows 11 Install (2026)</title>
+      <link>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</link>
+      <pubDate>Mon, 23 Mar 2026 22:15:58 +0800</pubDate>
+      <guid>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-828&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I2QxKrw3dhE&#34;&gt;7 MUST-HAVE Apps for Every Windows 11 Install (2026)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-828 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A fresh install of Windows 11 is only 50% finished. To unlock the true potential of your PC and kill the bloat, you need the right toolkit.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-828"><a href="https://www.youtube.com/watch?v=I2QxKrw3dhE">7 MUST-HAVE Apps for Every Windows 11 Install (2026)</a></h3>
+<style>
+.favicon-828 {
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A fresh install of Windows 11 is only 50% finished. To unlock the true potential of your PC and kill the bloat, you need the right toolkit.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Collabmd</title>
+      <link>https://deuts.org/x/827-collabmd/</link>
+      <pubDate>Sun, 22 Mar 2026 23:23:38 +0800</pubDate>
+      <guid>https://deuts.org/x/827-collabmd/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-827&#34;&gt;&lt;a href=&#34;https://github.com/andes90/collabmd&#34;&gt;Collabmd&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-827 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Realtime collaboration for markdown folders, diagrams, and git-backed docs.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-827"><a href="https://github.com/andes90/collabmd">Collabmd</a></h3>
+<style>
+.favicon-827 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Realtime collaboration for markdown folders, diagrams, and git-backed docs.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>BAT-Torrent</title>
+      <link>https://deuts.org/x/826-bat-torrent/</link>
+      <pubDate>Sun, 22 Mar 2026 23:10:50 +0800</pubDate>
+      <guid>https://deuts.org/x/826-bat-torrent/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-826&#34;&gt;&lt;a href=&#34;https://github.com/Mateuscruz19/BAT-Torrent&#34;&gt;BAT-Torrent&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-826 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A lightweight BitTorrent client built with C++, Qt 6, and libtorrent-rasterbar.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-826"><a href="https://github.com/Mateuscruz19/BAT-Torrent">BAT-Torrent</a></h3>
+<style>
+.favicon-826 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A lightweight BitTorrent client built with C++, Qt 6, and libtorrent-rasterbar.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KM23W2H7GNFKGDAJS57FJWXY</title>
       <link>https://deuts.org/x/2026-03-19-11-57-47-01km23w2h7gnfkgdajs57fjwxy/</link>
@@ -16,6 +106,36 @@
       <guid>https://deuts.org/x/2026-03-19-11-57-47-01km23w2h7gnfkgdajs57fjwxy/</guid>
       <description>&lt;p&gt;The docker image size of &lt;a href=&#34;https://fediwall.social/?tags=Termix&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Termix&#34;&gt;#Termix&lt;/a&gt; (&lt;code&gt;ghcr.io/lukegus/termix&lt;/code&gt;) stands at 1.04GB. Why?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The docker image size of <a href="https://fediwall.social/?tags=Termix&amp;accounts=&amp;lang=en&amp;title=%23Termix">#Termix</a> (<code>ghcr.io/lukegus/termix</code>) stands at 1.04GB. Why?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s</title>
+      <link>https://deuts.org/x/825-lenovo-thinkpad-t14-gen-6-laptop-ram-ssd-upgrade-amd-or-p14s/</link>
+      <pubDate>Mon, 16 Mar 2026 19:24:45 +0800</pubDate>
+      <guid>https://deuts.org/x/825-lenovo-thinkpad-t14-gen-6-laptop-ram-ssd-upgrade-amd-or-p14s/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-825&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=D2Q8xo2y4C4&amp;amp;si=Q38ejxIlm-OyKtBb&#34;&gt;Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-825 {
+    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lenovo Thinkpad T14 or P14s Gen 6 laptop RAM and SSD Upgrade.  NOT the &amp;ldquo;T14s&amp;rdquo; which has soldered RAM and is not upgradable.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-825"><a href="https://youtube.com/watch?v=D2Q8xo2y4C4&amp;si=Q38ejxIlm-OyKtBb">Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s</a></h3>
+<style>
+.favicon-825 {
+    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lenovo Thinkpad T14 or P14s Gen 6 laptop RAM and SSD Upgrade.  NOT the &ldquo;T14s&rdquo; which has soldered RAM and is not upgradable.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
@@ -170,126 +290,6 @@
 
 <blockquote class="linkding-description">
     Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Versitygw</title>
-      <link>https://deuts.org/x/819-versitygw/</link>
-      <pubDate>Sat, 07 Mar 2026 01:09:00 +0800</pubDate>
-      <guid>https://deuts.org/x/819-versitygw/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-819&#34;&gt;&lt;a href=&#34;https://github.com/versity/versitygw&#34;&gt;Versitygw&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-819 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    versity s3 gateway.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-819"><a href="https://github.com/versity/versitygw">Versitygw</a></h3>
-<style>
-.favicon-819 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    versity s3 gateway.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Moneystill</title>
-      <link>https://deuts.org/x/818-moneystill/</link>
-      <pubDate>Sat, 07 Mar 2026 01:03:44 +0800</pubDate>
-      <guid>https://deuts.org/x/818-moneystill/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-818&#34;&gt;&lt;a href=&#34;https://github.com/krisauseu/moneystill&#34;&gt;Moneystill&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-818 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Family-centric financial planning with interactive money flow visualization and privacy-first architecture.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-818"><a href="https://github.com/krisauseu/moneystill">Moneystill</a></h3>
-<style>
-.favicon-818 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Family-centric financial planning with interactive money flow visualization and privacy-first architecture.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Maintenant</title>
-      <link>https://deuts.org/x/817-maintenant/</link>
-      <pubDate>Sat, 07 Mar 2026 00:59:41 +0800</pubDate>
-      <guid>https://deuts.org/x/817-maintenant/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-817&#34;&gt;&lt;a href=&#34;https://github.com/kOlapsis/maintenant&#34;&gt;Maintenant&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-817 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Monitor everything. Manage nothing.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-817"><a href="https://github.com/kOlapsis/maintenant">Maintenant</a></h3>
-<style>
-.favicon-817 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Monitor everything. Manage nothing.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Habitat</title>
-      <link>https://deuts.org/x/816-habitat/</link>
-      <pubDate>Sat, 07 Mar 2026 00:57:58 +0800</pubDate>
-      <guid>https://deuts.org/x/816-habitat/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-816&#34;&gt;&lt;a href=&#34;https://github.com/carlnewton/habitat&#34;&gt;Habitat&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-816 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Habitat is a free and open source self-hosted social platform for local communities
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-816"><a href="https://github.com/carlnewton/habitat">Habitat</a></h3>
-<style>
-.favicon-816 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Habitat is a free and open source self-hosted social platform for local communities
 </blockquote>
   
 ]]></content:encoded>
