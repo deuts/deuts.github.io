@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 22:15:58 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 00:59:43 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work Folk</title>
+      <link>https://deuts.org/x/830-work-folk/</link>
+      <pubDate>Wed, 25 Mar 2026 00:59:43 +0800</pubDate>
+      <guid>https://deuts.org/x/830-work-folk/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-830&#34;&gt;&lt;a href=&#34;https://www.workfolk.ph/&#34;&gt;Work Folk&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-830 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_workfolk_ph.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Coworking space in M1 Tower, Salcedo Village, Makati.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-830"><a href="https://www.workfolk.ph/">Work Folk</a></h3>
+<style>
+.favicon-830 {
+    background: url('https://bm.deuts.org/static/https_www_workfolk_ph.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Coworking space in M1 Tower, Salcedo Village, Makati.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My honest review of Makati coworking spaces</title>
+      <link>https://deuts.org/x/829-my-honest-review-of-makati-coworking-spaces/</link>
+      <pubDate>Tue, 24 Mar 2026 12:06:17 +0800</pubDate>
+      <guid>https://deuts.org/x/829-my-honest-review-of-makati-coworking-spaces/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-829&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/makati/comments/1mubx5h/my_honest_review_of_makati_coworking_spaces_not/&#34;&gt;My honest review of Makati coworking spaces&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-829 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Coworking space in Makati and reviews
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-829"><a href="https://www.reddit.com/r/makati/comments/1mubx5h/my_honest_review_of_makati_coworking_spaces_not/">My honest review of Makati coworking spaces</a></h3>
+<style>
+.favicon-829 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Coworking space in Makati and reviews
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>7 MUST-HAVE Apps for Every Windows 11 Install (2026)</title>
       <link>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</link>
@@ -230,66 +290,6 @@
 
 <blockquote class="linkding-description">
     List of brand new and second hand laptops for sale available at Jasz Laptop store in Greenhills. The list is hosted on Google Sheets.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Figranium (Formerly Doppelganger)</title>
-      <link>https://deuts.org/x/821-figranium-formerly-doppelganger/</link>
-      <pubDate>Sat, 07 Mar 2026 01:12:07 +0800</pubDate>
-      <guid>https://deuts.org/x/821-figranium-formerly-doppelganger/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-821&#34;&gt;&lt;a href=&#34;https://github.com/figranium/figranium&#34;&gt;Figranium (Formerly Doppelganger)&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-821 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Figranium is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-821"><a href="https://github.com/figranium/figranium">Figranium (Formerly Doppelganger)</a></h3>
-<style>
-.favicon-821 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Figranium is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Drivebase</title>
-      <link>https://deuts.org/x/820-drivebase/</link>
-      <pubDate>Sat, 07 Mar 2026 01:10:41 +0800</pubDate>
-      <guid>https://deuts.org/x/820-drivebase/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-820&#34;&gt;&lt;a href=&#34;https://github.com/drivebase/drivebase&#34;&gt;Drivebase&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-820 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-820"><a href="https://github.com/drivebase/drivebase">Drivebase</a></h3>
-<style>
-.favicon-820 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers.
 </blockquote>
   
 ]]></content:encoded>
