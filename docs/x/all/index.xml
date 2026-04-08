@@ -7,8 +7,188 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 00:49:42 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 06:29:25 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaletail</title>
+      <link>https://deuts.org/x/839-scaletail/</link>
+      <pubDate>Sun, 05 Apr 2026 06:29:25 +0800</pubDate>
+      <guid>https://deuts.org/x/839-scaletail/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-839&#34;&gt;&lt;a href=&#34;https://github.com/tailscale-dev/ScaleTail&#34;&gt;Scaletail&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-839 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Tailscale Sidecar Configurations for Docker.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-839"><a href="https://github.com/tailscale-dev/ScaleTail">Scaletail</a></h3>
+<style>
+.favicon-839 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Tailscale Sidecar Configurations for Docker.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Domain Locker</title>
+      <link>https://deuts.org/x/838-domain-locker/</link>
+      <pubDate>Sat, 04 Apr 2026 16:33:29 +0800</pubDate>
+      <guid>https://deuts.org/x/838-domain-locker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-838&#34;&gt;&lt;a href=&#34;https://github.com/Lissy93/domain-locker&#34;&gt;Domain Locker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-838 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-838"><a href="https://github.com/Lissy93/domain-locker">Domain Locker</a></h3>
+<style>
+.favicon-838 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Pluton Backup</title>
+      <link>https://deuts.org/x/837-pluton-backup/</link>
+      <pubDate>Sat, 04 Apr 2026 16:26:52 +0800</pubDate>
+      <guid>https://deuts.org/x/837-pluton-backup/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-837&#34;&gt;&lt;a href=&#34;https://github.com/plutonhq/pluton&#34;&gt;Pluton Backup&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-837 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-837"><a href="https://github.com/plutonhq/pluton">Pluton Backup</a></h3>
+<style>
+.favicon-837 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ShellHub</title>
+      <link>https://deuts.org/x/836-shellhub/</link>
+      <pubDate>Sat, 04 Apr 2026 16:08:13 +0800</pubDate>
+      <guid>https://deuts.org/x/836-shellhub/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-836&#34;&gt;&lt;a href=&#34;https://github.com/shellhub-io/shellhub&#34;&gt;ShellHub&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-836 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    ShellHub is a centralized SSH gateway that allows users to remotely access and manage their servers and devices from anywhere, using a web browser or mobile app. It offers a secure and convenient way to connect and control your servers and devices.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-836"><a href="https://github.com/shellhub-io/shellhub">ShellHub</a></h3>
+<style>
+.favicon-836 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    ShellHub is a centralized SSH gateway that allows users to remotely access and manage their servers and devices from anywhere, using a web browser or mobile app. It offers a secure and convenient way to connect and control your servers and devices.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Report Design – Jet Reports</title>
+      <link>https://deuts.org/x/835-report-design-jet-reports/</link>
+      <pubDate>Thu, 02 Apr 2026 00:46:50 +0800</pubDate>
+      <guid>https://deuts.org/x/835-report-design-jet-reports/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-835&#34;&gt;&lt;a href=&#34;https://docs.jet.insightsoftware.com/hc/en-us/sections/30466925313037-Report-Design&#34;&gt;Report Design – Jet Reports&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-835 {
+    background: url(&#39;https://bm.deuts.org/static/https_docs_jet_insightsoftware_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Jet Reports - Reports Design documentation.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-835"><a href="https://docs.jet.insightsoftware.com/hc/en-us/sections/30466925313037-Report-Design">Report Design – Jet Reports</a></h3>
+<style>
+.favicon-835 {
+    background: url('https://bm.deuts.org/static/https_docs_jet_insightsoftware_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Jet Reports - Reports Design documentation.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Introduction to Jet Reports</title>
+      <link>https://deuts.org/x/834-introduction-to-jet-reports/</link>
+      <pubDate>Tue, 31 Mar 2026 13:27:55 +0800</pubDate>
+      <guid>https://deuts.org/x/834-introduction-to-jet-reports/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-834&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8yl-4nSLAzw&#34;&gt;Introduction to Jet Reports&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-834 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    In our latest video, our Dynamics 365 Business Central Consultant, Ben Rogers takes you through some of the basic features of Jet Reports along with a practical demonstration of Jet Reports in action.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-834"><a href="https://www.youtube.com/watch?v=8yl-4nSLAzw">Introduction to Jet Reports</a></h3>
+<style>
+.favicon-834 {
+    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    In our latest video, our Dynamics 365 Business Central Consultant, Ben Rogers takes you through some of the basic features of Jet Reports along with a practical demonstration of Jet Reports in action.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KMR377EZE8T7QM4WJ0533HQG</title>
       <link>https://deuts.org/x/2026-03-28-00-49-42-01kmr377eze8t7qm4wj0533hqg/</link>
@@ -108,165 +288,6 @@
 
 <blockquote class="linkding-description">
     Coworking space in M1 Tower, Salcedo Village, Makati.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>My honest review of Makati coworking spaces</title>
-      <link>https://deuts.org/x/829-my-honest-review-of-makati-coworking-spaces/</link>
-      <pubDate>Tue, 24 Mar 2026 12:06:17 +0800</pubDate>
-      <guid>https://deuts.org/x/829-my-honest-review-of-makati-coworking-spaces/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-829&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/makati/comments/1mubx5h/my_honest_review_of_makati_coworking_spaces_not/&#34;&gt;My honest review of Makati coworking spaces&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-829 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Coworking space in Makati and reviews
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-829"><a href="https://www.reddit.com/r/makati/comments/1mubx5h/my_honest_review_of_makati_coworking_spaces_not/">My honest review of Makati coworking spaces</a></h3>
-<style>
-.favicon-829 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Coworking space in Makati and reviews
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>7 MUST-HAVE Apps for Every Windows 11 Install (2026)</title>
-      <link>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</link>
-      <pubDate>Mon, 23 Mar 2026 22:15:58 +0800</pubDate>
-      <guid>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-828&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I2QxKrw3dhE&#34;&gt;7 MUST-HAVE Apps for Every Windows 11 Install (2026)&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-828 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A fresh install of Windows 11 is only 50% finished. To unlock the true potential of your PC and kill the bloat, you need the right toolkit.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-828"><a href="https://www.youtube.com/watch?v=I2QxKrw3dhE">7 MUST-HAVE Apps for Every Windows 11 Install (2026)</a></h3>
-<style>
-.favicon-828 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A fresh install of Windows 11 is only 50% finished. To unlock the true potential of your PC and kill the bloat, you need the right toolkit.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Collabmd</title>
-      <link>https://deuts.org/x/827-collabmd/</link>
-      <pubDate>Sun, 22 Mar 2026 23:23:38 +0800</pubDate>
-      <guid>https://deuts.org/x/827-collabmd/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-827&#34;&gt;&lt;a href=&#34;https://github.com/andes90/collabmd&#34;&gt;Collabmd&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-827 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Realtime collaboration for markdown folders, diagrams, and git-backed docs.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-827"><a href="https://github.com/andes90/collabmd">Collabmd</a></h3>
-<style>
-.favicon-827 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Realtime collaboration for markdown folders, diagrams, and git-backed docs.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>BAT-Torrent</title>
-      <link>https://deuts.org/x/826-bat-torrent/</link>
-      <pubDate>Sun, 22 Mar 2026 23:10:50 +0800</pubDate>
-      <guid>https://deuts.org/x/826-bat-torrent/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-826&#34;&gt;&lt;a href=&#34;https://github.com/Mateuscruz19/BAT-Torrent&#34;&gt;BAT-Torrent&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-826 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A lightweight BitTorrent client built with C++, Qt 6, and libtorrent-rasterbar.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-826"><a href="https://github.com/Mateuscruz19/BAT-Torrent">BAT-Torrent</a></h3>
-<style>
-.favicon-826 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A lightweight BitTorrent client built with C++, Qt 6, and libtorrent-rasterbar.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KM23W2H7GNFKGDAJS57FJWXY</title>
-      <link>https://deuts.org/x/2026-03-19-11-57-47-01km23w2h7gnfkgdajs57fjwxy/</link>
-      <pubDate>Thu, 19 Mar 2026 11:57:47 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-03-19-11-57-47-01km23w2h7gnfkgdajs57fjwxy/</guid>
-      <description>&lt;p&gt;The docker image size of &lt;a href=&#34;https://fediwall.social/?tags=Termix&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Termix&#34;&gt;#Termix&lt;/a&gt; (&lt;code&gt;ghcr.io/lukegus/termix&lt;/code&gt;) stands at 1.04GB. Why?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The docker image size of <a href="https://fediwall.social/?tags=Termix&amp;accounts=&amp;lang=en&amp;title=%23Termix">#Termix</a> (<code>ghcr.io/lukegus/termix</code>) stands at 1.04GB. Why?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s</title>
-      <link>https://deuts.org/x/825-lenovo-thinkpad-t14-gen-6-laptop-ram-ssd-upgrade-amd-or-p14s/</link>
-      <pubDate>Mon, 16 Mar 2026 19:24:45 +0800</pubDate>
-      <guid>https://deuts.org/x/825-lenovo-thinkpad-t14-gen-6-laptop-ram-ssd-upgrade-amd-or-p14s/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-825&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=D2Q8xo2y4C4&amp;amp;si=Q38ejxIlm-OyKtBb&#34;&gt;Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-825 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Lenovo Thinkpad T14 or P14s Gen 6 laptop RAM and SSD Upgrade.  NOT the &amp;ldquo;T14s&amp;rdquo; which has soldered RAM and is not upgradable.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-825"><a href="https://youtube.com/watch?v=D2Q8xo2y4C4&amp;si=Q38ejxIlm-OyKtBb">Lenovo Thinkpad T14 Gen 6 Laptop RAM/SSD Upgrade - AMD or P14s</a></h3>
-<style>
-.favicon-825 {
-    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Lenovo Thinkpad T14 or P14s Gen 6 laptop RAM and SSD Upgrade.  NOT the &ldquo;T14s&rdquo; which has soldered RAM and is not upgradable.
 </blockquote>
   
 ]]></content:encoded>
