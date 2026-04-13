@@ -16,19 +16,70 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/845-chibisafe/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanager/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fileserver/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filesharing/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/plex/</loc>
+    <lastmod>2026-04-13T11:14:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/844-plex-prerolls/</loc>
+    <lastmod>2026-04-13T11:14:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/prerolls/</loc>
+    <lastmod>2026-04-13T11:14:54+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/automation/</loc>
+    <lastmod>2026-04-13T11:12:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/843-flow-like/</loc>
+    <lastmod>2026-04-13T11:12:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/n8n/</loc>
+    <lastmod>2026-04-13T11:12:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/rclone/</loc>
+    <lastmod>2026-04-13T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/842-yet-another-rclone-dashboard/</loc>
+    <lastmod>2026-04-13T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/images/</loc>
+    <lastmod>2026-04-13T11:02:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/841-stirling-image/</loc>
+    <lastmod>2026-04-13T11:02:44+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/couchdb/</loc>
+    <lastmod>2026-04-09T13:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/obsidian/</loc>
+    <lastmod>2026-04-09T13:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/840-obsidian-livesync-docker-installation/</loc>
+    <lastmod>2026-04-09T13:57:53+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/2026-04-09-09-25-44-01knqxgr4c9paa4d5dht717jy7/</loc>
     <lastmod>2026-04-09T09:25:44+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-04-09T09:25:44+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/</loc>
-    <lastmod>2026-04-09T09:25:44+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/839-scaletail/</loc>
-    <lastmod>2026-04-05T06:29:25+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-04-05T06:29:25+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/tailscale/</loc>
@@ -118,9 +169,6 @@
     <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-03-22T23:23:38+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/obsidian/</loc>
-    <lastmod>2026-03-22T23:23:38+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/826-bat-torrent/</loc>
     <lastmod>2026-03-22T23:10:50+08:00</lastmod>
   </url><url>
@@ -157,20 +205,11 @@
     <loc>https://deuts.org/x/823-dropsync/</loc>
     <lastmod>2026-03-13T22:59:27+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/fileserver/</loc>
-    <lastmod>2026-03-13T22:59:27+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filesharing/</loc>
-    <lastmod>2026-03-13T22:59:27+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/822-jasz-available-laptop-units/</loc>
     <lastmod>2026-03-09T22:12:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/laptops/</loc>
     <lastmod>2026-03-09T22:12:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2026-03-07T01:12:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/821-figranium-formerly-doppelganger/</loc>
     <lastmod>2026-03-07T01:12:07+08:00</lastmod>
@@ -634,9 +673,6 @@
     <loc>https://deuts.org/k/telegram/</loc>
     <lastmod>2026-01-09T23:13:40+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/n8n/</loc>
-    <lastmod>2026-01-06T07:14:31+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/746-n8n-auto-scaling/</loc>
     <lastmod>2026-01-06T07:14:31+08:00</lastmod>
   </url><url>
@@ -802,6 +838,12 @@
     <loc>https://deuts.org/x/699-how-to-deploy-a-complete-n8n-ai-stack-in-15-minutes-instead-of-a-whole-day/</loc>
     <lastmod>2025-12-01T08:35:48+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/borg/</loc>
+    <lastmod>2025-11-28T21:23:39+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/693-borg-ui/</loc>
+    <lastmod>2025-11-28T21:23:39+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/2025-11-27-21-35-06-01kb2rcnpbvfq7x26rd20snjta/</loc>
     <lastmod>2025-11-27T21:35:06+08:00</lastmod>
   </url><url>
@@ -858,9 +900,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-11-22-01-29-09-01kakqcxcpm15wr5kjpv1k486h/</loc>
     <lastmod>2025-11-22T01:29:09+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/images/</loc>
-    <lastmod>2025-11-22T01:21:50+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/686-memelord/</loc>
     <lastmod>2025-11-22T01:21:50+08:00</lastmod>
@@ -1017,9 +1056,6 @@
   </url><url>
     <loc>https://deuts.org/k/youtube/</loc>
     <lastmod>2025-10-04T01:25:05+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2025-10-04T01:22:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/638-nextexplorer/</loc>
     <lastmod>2025-10-04T01:22:31+08:00</lastmod>
@@ -1208,9 +1244,6 @@
     <lastmod>2025-08-22T21:56:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/585-newsletterr/</loc>
-    <lastmod>2025-08-22T21:56:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/plex/</loc>
     <lastmod>2025-08-22T21:56:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/tautulli/</loc>
@@ -2193,9 +2226,6 @@
   </url><url>
     <loc>https://deuts.org/x/2025-03-03-10-29-51-01jncxd6s5cewwz079xy1nwhz2/</loc>
     <lastmod>2025-03-03T10:29:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/couchdb/</loc>
-    <lastmod>2025-03-02T13:50:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/397-guide-obsidian-with-free-self-hosted-instant-sync/</loc>
     <lastmod>2025-03-02T13:50:07+08:00</lastmod>
@@ -3696,9 +3726,6 @@
   </url><url>
     <loc>https://deuts.org/x/246-telegram-drive/</loc>
     <lastmod>2024-11-04T21:40:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/rclone/</loc>
-    <lastmod>2024-11-04T21:39:41+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/245-rclone-docker-backup/</loc>
     <lastmod>2024-11-04T21:39:41+08:00</lastmod>

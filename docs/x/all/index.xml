@@ -7,8 +7,188 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 09:25:44 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:15:28 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chibisafe</title>
+      <link>https://deuts.org/x/845-chibisafe/</link>
+      <pubDate>Mon, 13 Apr 2026 11:15:28 +0800</pubDate>
+      <guid>https://deuts.org/x/845-chibisafe/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-845&#34;&gt;&lt;a href=&#34;https://github.com/chibisafe/chibisafe&#34;&gt;Chibisafe&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-845 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Blazing fast file vault written in TypeScript!
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-845"><a href="https://github.com/chibisafe/chibisafe">Chibisafe</a></h3>
+<style>
+.favicon-845 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Blazing fast file vault written in TypeScript!
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Plex Prerolls</title>
+      <link>https://deuts.org/x/844-plex-prerolls/</link>
+      <pubDate>Mon, 13 Apr 2026 11:14:54 +0800</pubDate>
+      <guid>https://deuts.org/x/844-plex-prerolls/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-844&#34;&gt;&lt;a href=&#34;https://codeberg.org/nwithan8/plex-prerolls&#34;&gt;Plex Prerolls&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-844 {
+    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A script to automate management of Plex pre-rolls.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-844"><a href="https://codeberg.org/nwithan8/plex-prerolls">Plex Prerolls</a></h3>
+<style>
+.favicon-844 {
+    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A script to automate management of Plex pre-rolls.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Flow-Like</title>
+      <link>https://deuts.org/x/843-flow-like/</link>
+      <pubDate>Mon, 13 Apr 2026 11:12:10 +0800</pubDate>
+      <guid>https://deuts.org/x/843-flow-like/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-843&#34;&gt;&lt;a href=&#34;https://github.com/TM9657/flow-like&#34;&gt;Flow-Like&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-843 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-843"><a href="https://github.com/TM9657/flow-like">Flow-Like</a></h3>
+<style>
+.favicon-843 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Yet Another RClone Dashboard</title>
+      <link>https://deuts.org/x/842-yet-another-rclone-dashboard/</link>
+      <pubDate>Mon, 13 Apr 2026 11:04:00 +0800</pubDate>
+      <guid>https://deuts.org/x/842-yet-another-rclone-dashboard/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-842&#34;&gt;&lt;a href=&#34;https://github.com/outlook84/yet-another-rclone-dashboard&#34;&gt;Yet Another RClone Dashboard&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-842 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Modern Web Dashboard for Rclone.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-842"><a href="https://github.com/outlook84/yet-another-rclone-dashboard">Yet Another RClone Dashboard</a></h3>
+<style>
+.favicon-842 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Modern Web Dashboard for Rclone.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stirling Image</title>
+      <link>https://deuts.org/x/841-stirling-image/</link>
+      <pubDate>Mon, 13 Apr 2026 11:02:44 +0800</pubDate>
+      <guid>https://deuts.org/x/841-stirling-image/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-841&#34;&gt;&lt;a href=&#34;https://github.com/stirling-image/stirling-image&#34;&gt;Stirling Image&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-841 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.  - stirling-image/stirling-image: Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-841"><a href="https://github.com/stirling-image/stirling-image">Stirling Image</a></h3>
+<style>
+.favicon-841 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.  - stirling-image/stirling-image: Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Obsidian Livesync Docker Installation</title>
+      <link>https://deuts.org/x/840-obsidian-livesync-docker-installation/</link>
+      <pubDate>Thu, 09 Apr 2026 13:57:53 +0800</pubDate>
+      <guid>https://deuts.org/x/840-obsidian-livesync-docker-installation/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-840&#34;&gt;&lt;a href=&#34;https://leduccc.medium.com/setup-self-hosted-synchronization-for-obsidian-cba121166d5e&#34;&gt;Obsidian Livesync Docker Installation&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-840 {
+    background: url(&#39;https://bm.deuts.org/static/https_leduccc_medium_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Setup self-hosted synchronization for Obsidian The SaaS sync feature for Obsidian is rather expensive at $5 USD per month for a single vault and a tiny 1GB storage limit (However …
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-840"><a href="https://leduccc.medium.com/setup-self-hosted-synchronization-for-obsidian-cba121166d5e">Obsidian Livesync Docker Installation</a></h3>
+<style>
+.favicon-840 {
+    background: url('https://bm.deuts.org/static/https_leduccc_medium_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Setup self-hosted synchronization for Obsidian The SaaS sync feature for Obsidian is rather expensive at $5 USD per month for a single vault and a tiny 1GB storage limit (However …
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KNQXGR4C9PAA4D5DHT717JY7</title>
       <link>https://deuts.org/x/2026-04-09-09-25-44-01knqxgr4c9paa4d5dht717jy7/</link>
@@ -104,169 +284,6 @@
 
 <blockquote class="linkding-description">
     A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ShellHub</title>
-      <link>https://deuts.org/x/836-shellhub/</link>
-      <pubDate>Sat, 04 Apr 2026 16:08:13 +0800</pubDate>
-      <guid>https://deuts.org/x/836-shellhub/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-836&#34;&gt;&lt;a href=&#34;https://github.com/shellhub-io/shellhub&#34;&gt;ShellHub&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-836 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    ShellHub is a centralized SSH gateway that allows users to remotely access and manage their servers and devices from anywhere, using a web browser or mobile app. It offers a secure and convenient way to connect and control your servers and devices.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-836"><a href="https://github.com/shellhub-io/shellhub">ShellHub</a></h3>
-<style>
-.favicon-836 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    ShellHub is a centralized SSH gateway that allows users to remotely access and manage their servers and devices from anywhere, using a web browser or mobile app. It offers a secure and convenient way to connect and control your servers and devices.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Report Design – Jet Reports</title>
-      <link>https://deuts.org/x/835-report-design-jet-reports/</link>
-      <pubDate>Thu, 02 Apr 2026 00:46:50 +0800</pubDate>
-      <guid>https://deuts.org/x/835-report-design-jet-reports/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-835&#34;&gt;&lt;a href=&#34;https://docs.jet.insightsoftware.com/hc/en-us/sections/30466925313037-Report-Design&#34;&gt;Report Design – Jet Reports&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-835 {
-    background: url(&#39;https://bm.deuts.org/static/https_docs_jet_insightsoftware_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Jet Reports - Reports Design documentation.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-835"><a href="https://docs.jet.insightsoftware.com/hc/en-us/sections/30466925313037-Report-Design">Report Design – Jet Reports</a></h3>
-<style>
-.favicon-835 {
-    background: url('https://bm.deuts.org/static/https_docs_jet_insightsoftware_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Jet Reports - Reports Design documentation.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Introduction to Jet Reports</title>
-      <link>https://deuts.org/x/834-introduction-to-jet-reports/</link>
-      <pubDate>Tue, 31 Mar 2026 13:27:55 +0800</pubDate>
-      <guid>https://deuts.org/x/834-introduction-to-jet-reports/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-834&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8yl-4nSLAzw&#34;&gt;Introduction to Jet Reports&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-834 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    In our latest video, our Dynamics 365 Business Central Consultant, Ben Rogers takes you through some of the basic features of Jet Reports along with a practical demonstration of Jet Reports in action.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-834"><a href="https://www.youtube.com/watch?v=8yl-4nSLAzw">Introduction to Jet Reports</a></h3>
-<style>
-.favicon-834 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    In our latest video, our Dynamics 365 Business Central Consultant, Ben Rogers takes you through some of the basic features of Jet Reports along with a practical demonstration of Jet Reports in action.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KMR377EZE8T7QM4WJ0533HQG</title>
-      <link>https://deuts.org/x/2026-03-28-00-49-42-01kmr377eze8t7qm4wj0533hqg/</link>
-      <pubDate>Sat, 28 Mar 2026 00:49:42 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-03-28-00-49-42-01kmr377eze8t7qm4wj0533hqg/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Papra&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Papra&#34;&gt;#Papra&lt;/a&gt; now has custom properties feature!
-&lt;a href=&#34;https://github.com/papra-hq/papra/releases/tag/%40papra/app%4026.3.0&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Now, please give me the ability to transfer/move documents between organizations please!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Papra&amp;accounts=&amp;lang=en&amp;title=%23Papra">#Papra</a> now has custom properties feature!
-<a href="https://github.com/papra-hq/papra/releases/tag/%40papra/app%4026.3.0">github.com/∞</a></p>
-<p>Now, please give me the ability to transfer/move documents between organizations please!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Mailvelope: PGP for Gmail &amp; Webmail</title>
-      <link>https://deuts.org/x/833-mailvelope-pgp-for-gmail-webmail/</link>
-      <pubDate>Fri, 27 Mar 2026 05:49:13 +0800</pubDate>
-      <guid>https://deuts.org/x/833-mailvelope-pgp-for-gmail-webmail/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-833&#34;&gt;&lt;a href=&#34;https://mailvelope.com/en&#34;&gt;Mailvelope: PGP for Gmail &amp;amp; Webmail&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-833 {
-    background: url(&#39;https://bm.deuts.org/static/https_mailvelope_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    The envelope for your emails! Mailvelope adds end-to-end encryption to your webmail address.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-833"><a href="https://mailvelope.com/en">Mailvelope: PGP for Gmail &amp; Webmail</a></h3>
-<style>
-.favicon-833 {
-    background: url('https://bm.deuts.org/static/https_mailvelope_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    The envelope for your emails! Mailvelope adds end-to-end encryption to your webmail address.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Grist Widget Grouped Views</title>
-      <link>https://deuts.org/x/831-grist-widget-grouped-views/</link>
-      <pubDate>Wed, 25 Mar 2026 11:26:10 +0800</pubDate>
-      <guid>https://deuts.org/x/831-grist-widget-grouped-views/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-831&#34;&gt;&lt;a href=&#34;https://github.com/maximelacoste/grist-widget-grouped-view&#34;&gt;Grist Widget Grouped Views&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-831 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A Grist custom widget that displays table records grouped by any column value, similar to Notion or Airtable grouped views.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-831"><a href="https://github.com/maximelacoste/grist-widget-grouped-view">Grist Widget Grouped Views</a></h3>
-<style>
-.favicon-831 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Grist custom widget that displays table records grouped by any column value, similar to Notion or Airtable grouped views.
 </blockquote>
   
 ]]></content:encoded>
