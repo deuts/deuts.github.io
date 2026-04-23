@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 23 Apr 2026 14:18:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:46:56 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KPWHEYNAEQR2628GR7EM1BNQ</title>
+      <link>https://deuts.org/x/2026-04-23-14-46-56-01kpwheynaeqr2628gr7em1bnq/</link>
+      <pubDate>Thu, 23 Apr 2026 14:46:56 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-04-23-14-46-56-01kpwheynaeqr2628gr7em1bnq/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt; is a great software. Loving it over other reverse proxy apps. But this resource usage is just so annoying.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a> is a great software. Loving it over other reverse proxy apps. But this resource usage is just so annoying.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>n8n Workflow for LinkedIn Job Search</title>
       <link>https://deuts.org/x/849-n8n-workflow-for-linkedin-job-search/</link>
@@ -277,15 +286,6 @@
     Setup self-hosted synchronization for Obsidian The SaaS sync feature for Obsidian is rather expensive at $5 USD per month for a single vault and a tiny 1GB storage limit (However …
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KNQXGR4C9PAA4D5DHT717JY7</title>
-      <link>https://deuts.org/x/2026-04-09-09-25-44-01knqxgr4c9paa4d5dht717jy7/</link>
-      <pubDate>Thu, 09 Apr 2026 09:25:44 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-09-09-25-44-01knqxgr4c9paa4d5dht717jy7/</guid>
-      <description>&lt;p&gt;On &lt;a href=&#34;https://fediwall.social/?tags=Outline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Outline&#34;&gt;#Outline&lt;/a&gt; vs. &lt;a href=&#34;https://fediwall.social/?tags=Memos&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Memos&#34;&gt;#Memos&lt;/a&gt; &amp;ndash; it&amp;rsquo;s important for the option to hide/show the table of contents. I just don&amp;rsquo;t get the 500mb ram of Outline vs. 30mb for Memos. I get Outline takes 3 containers to run, that&amp;rsquo;s fine, but the main running at 500mb?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>On <a href="https://fediwall.social/?tags=Outline&amp;accounts=&amp;lang=en&amp;title=%23Outline">#Outline</a> vs. <a href="https://fediwall.social/?tags=Memos&amp;accounts=&amp;lang=en&amp;title=%23Memos">#Memos</a> &ndash; it&rsquo;s important for the option to hide/show the table of contents. I just don&rsquo;t get the 500mb ram of Outline vs. 30mb for Memos. I get Outline takes 3 containers to run, that&rsquo;s fine, but the main running at 500mb?</p>
 ]]></content:encoded>
     </item>
   </channel>
