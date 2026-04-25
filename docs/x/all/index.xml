@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 16:06:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 19:35:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KQ26SN2RP3NTGT3M169AJ8B9</title>
+      <link>https://deuts.org/x/2026-04-25-19-35-59-01kq26sn2rp3ntgt3m169aj8b9/</link>
+      <pubDate>Sat, 25 Apr 2026 19:35:59 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-04-25-19-35-59-01kq26sn2rp3ntgt3m169aj8b9/</guid>
+      <description>&lt;p&gt;This AI thing really gets confusing fast. &lt;a href=&#34;https://fediwall.social/?tags=ChatGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; / OpenAI or &lt;a href=&#34;https://fediwall.social/?tags=Claude&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Claude&#34;&gt;#Claude&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=Gemini&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Gemini&#34;&gt;#Gemini&lt;/a&gt;. If Claude: Chat, Cowork or Code. If Code: CLI, Desktop or VS Code. Then Pro etc. vs. API? Please, can we just have one good product and move on?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This AI thing really gets confusing fast. <a href="https://fediwall.social/?tags=ChatGPT&amp;accounts=&amp;lang=en&amp;title=%23ChatGPT">#ChatGPT</a> / OpenAI or <a href="https://fediwall.social/?tags=Claude&amp;accounts=&amp;lang=en&amp;title=%23Claude">#Claude</a> or <a href="https://fediwall.social/?tags=Gemini&amp;accounts=&amp;lang=en&amp;title=%23Gemini">#Gemini</a>. If Claude: Chat, Cowork or Code. If Code: CLI, Desktop or VS Code. Then Pro etc. vs. API? Please, can we just have one good product and move on?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KQ1TTDBDEW6EFGDF4GK31K68</title>
       <link>https://deuts.org/x/2026-04-25-16-06-41-01kq1ttdbdew6efgdf4gk31k68/</link>
@@ -233,36 +242,6 @@
 
 <blockquote class="linkding-description">
     Modern Web Dashboard for Rclone.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Stirling Image</title>
-      <link>https://deuts.org/x/841-stirling-image/</link>
-      <pubDate>Mon, 13 Apr 2026 11:02:44 +0800</pubDate>
-      <guid>https://deuts.org/x/841-stirling-image/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-841&#34;&gt;&lt;a href=&#34;https://github.com/stirling-image/stirling-image&#34;&gt;Stirling Image&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-841 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.  - stirling-image/stirling-image: Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-841"><a href="https://github.com/stirling-image/stirling-image">Stirling Image</a></h3>
-<style>
-.favicon-841 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.  - stirling-image/stirling-image: Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine.
 </blockquote>
   
 ]]></content:encoded>
