@@ -40,9 +40,9 @@
     <meta property="article:modified_time" content="2026-04-25T14:50:21+08:00">
     <meta property="article:tag" content="Wiki">
     <meta property="article:tag" content="Documentation">
-    <meta property="og:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.svg">
+    <meta property="og:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.svg">
+<meta name="twitter:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg">
 <meta name="twitter:title" content="Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation">
 <meta name="twitter:description" content="Compare Docmost and Outline across key features like authentication, API access, diagram support, and document sharing to decide which fits your workflow better.">
 
@@ -61,7 +61,7 @@
   "articleBody": "If you’re choosing a self-hosted knowledge base, two strong options are Outline and Docmost. Both are modern, clean, and Markdown-friendly—but they differ in ways that matter depending on how you work.\nHere’s a practical comparison based on actual usage.\nOutline vs. Docmost Authentication This is one of the biggest operational differences.\nOutline requires an external identity provider (Slack, Google, OIDC, etc.). This is flexible and production-ready, but adds setup overhead.\nDocmost includes built-in authentication, allowing you to get started without external services. However, SSO/OIDC support is only available on paid licenses.\nIf you’re running a homelab or small team setup, Docmost is simpler. For environments that require SSO or centralized identity management, Outline is more accessible since it supports OIDC even on free self-hosted installs.\nAPI and automation Outline provides a well-documented API (GraphQL) and supports webhooks, even on free self-hosted installs. It’s suitable for automation, integrations, and event-driven workflows.\nDocmost provides API access with documentation, but this is limited to paid licenses and does not currently include webhook support.\nIf automation and event-driven integrations are a priority, Outline is clearly ahead.\nPublic sharing and access control Both tools support public sharing, but with limitations and differences in granularity.\nFeature Outline Docmost Public sharing scope Collection level down to individual pages Page/document level (no workspace-level public sharing) Password protection for public links Not supported Not supported Internal sharing (same instance) Collection, page, and subpage level Workspace level only Public links can be generated in both tools, but neither supports adding a password layer, which would be useful for client-facing documents.\nFor internal collaboration, Outline offers more granular control by allowing sharing at the collection, page, and subpage level. In contrast, Docmost limits sharing to the workspace level, with no page-level permission control.\nDiagram support (Draw.io / diagrams.net / Excalidraw) Feature Outline Docmost diagrams.net (Draw.io) Supported via / command, opens external editor and syncs back Supported with similar workflow Excalidraw Not supported natively Built-in, can create and edit inline If you rely heavily on lightweight, embedded diagrams (especially Excalidraw), Docmost has an edge.\nDate insertion Using /date in both tools inserts a formatted date, but the output differs:\nOutline: 28 June 2025 Docmost: June 28, 2025 Neither tool currently allows customizing this format. This comes down to preference, but Docmost’s format may feel more natural if you’re used to US-style dates.\nFinal thoughts Choose Outline if you need:\nStrong API and automation (including webhooks) More granular access control and sharing Integration with existing identity providers (OIDC, Slack, etc.) without licensing restrictions A more mature and extensible ecosystem Choose Docmost if you want:\nFaster setup with built-in authentication Native Excalidraw support A simpler, more self-contained stack If you’re willing to spend time setting up OIDC or an external identity provider, Outline is the more capable long-term solution, especially for automation, structured collaboration, and SSO without additional licensing.\nDocmost is a solid option for simpler setups, but trades off flexibility and advanced features (like SSO and webhooks) behind paid tiers.\nDisclaimer\rThis post was drafted with the help of AI, based on my own notes and verification. All comparisons and conclusions reflect my actual usage and assessment. ",
   "wordCount" : "524",
   "inLanguage": "en",
-  "image":"https://deuts.org/p/docmost-vs-outline-comparison/cover.svg","datePublished": "2026-04-25T14:50:21+08:00",
+  "image":"https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg","datePublished": "2026-04-25T14:50:21+08:00",
   "dateModified": "2026-04-25T14:50:21+08:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -165,7 +165,9 @@
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" src="https://deuts.org/p/docmost-vs-outline-comparison/cover.svg" alt="">
+        <img loading="eager" srcset="https://deuts.org/p/docmost-vs-outline-comparison/cover_hu_1cc5a236b71cddc6.jpg 360w ,https://deuts.org/p/docmost-vs-outline-comparison/cover_hu_fd9d6131589ba6a0.jpg 480w ,https://deuts.org/p/docmost-vs-outline-comparison/cover_hu_200dc6bc5782f7.jpg 720w ,https://deuts.org/p/docmost-vs-outline-comparison/cover_hu_23e0c796c2594703.jpg 1080w ,https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg 1200w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg" alt="" 
+            width="1200" height="630">
         
 </figure><div class="toc">
     <details  open>
