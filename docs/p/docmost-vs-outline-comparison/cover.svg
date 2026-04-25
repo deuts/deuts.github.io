@@ -1,0 +1,178 @@
+<svg width="1200" height="630" viewBox="0 0 680 357" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation</title>
+<desc>Cover image showing Docmost and Outline compared across a dark split-panel background</desc>
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&amp;family=DM+Mono:wght@400;500&amp;display=swap');
+  </style>
+</defs>
+
+<!-- Base background -->
+<rect width="680" height="357" fill="#070B17"/>
+
+<!-- Left glow zones -->
+<ellipse cx="160" cy="178" rx="240" ry="200" fill="#062520" opacity="0.9"/>
+<ellipse cx="155" cy="178" rx="160" ry="140" fill="#083026" opacity="0.8"/>
+<ellipse cx="152" cy="178" rx="90" ry="80" fill="#0B3D2E" opacity="0.7"/>
+
+<!-- Right glow zones -->
+<ellipse cx="520" cy="178" rx="240" ry="200" fill="#0D0720" opacity="0.9"/>
+<ellipse cx="525" cy="178" rx="160" ry="140" fill="#170B32" opacity="0.8"/>
+<ellipse cx="528" cy="178" rx="90" ry="80" fill="#1E1040" opacity="0.7"/>
+
+<!-- Center vertical divider -->
+<line x1="340" y1="28" x2="340" y2="329" stroke="#1E2A4A" stroke-width="1"/>
+
+<!-- Dot texture left -->
+<g opacity="0.18">
+  <circle cx="56" cy="48" r="1.5" fill="#2DD4BF"/>
+  <circle cx="80" cy="48" r="1.5" fill="#2DD4BF"/>
+  <circle cx="104" cy="48" r="1.5" fill="#2DD4BF"/>
+  <circle cx="56" cy="72" r="1.5" fill="#2DD4BF"/>
+  <circle cx="80" cy="72" r="1.5" fill="#2DD4BF"/>
+  <circle cx="104" cy="72" r="1.5" fill="#2DD4BF"/>
+  <circle cx="56" cy="96" r="1.5" fill="#2DD4BF"/>
+  <circle cx="80" cy="96" r="1.5" fill="#2DD4BF"/>
+  <circle cx="104" cy="96" r="1.5" fill="#2DD4BF"/>
+  <circle cx="240" cy="290" r="1.5" fill="#2DD4BF"/>
+  <circle cx="264" cy="290" r="1.5" fill="#2DD4BF"/>
+  <circle cx="288" cy="290" r="1.5" fill="#2DD4BF"/>
+  <circle cx="240" cy="314" r="1.5" fill="#2DD4BF"/>
+  <circle cx="264" cy="314" r="1.5" fill="#2DD4BF"/>
+  <circle cx="288" cy="314" r="1.5" fill="#2DD4BF"/>
+</g>
+
+<!-- Dot texture right -->
+<g opacity="0.18">
+  <circle cx="576" cy="48" r="1.5" fill="#818CF8"/>
+  <circle cx="600" cy="48" r="1.5" fill="#818CF8"/>
+  <circle cx="624" cy="48" r="1.5" fill="#818CF8"/>
+  <circle cx="576" cy="72" r="1.5" fill="#818CF8"/>
+  <circle cx="600" cy="72" r="1.5" fill="#818CF8"/>
+  <circle cx="624" cy="72" r="1.5" fill="#818CF8"/>
+  <circle cx="576" cy="96" r="1.5" fill="#818CF8"/>
+  <circle cx="600" cy="96" r="1.5" fill="#818CF8"/>
+  <circle cx="624" cy="96" r="1.5" fill="#818CF8"/>
+  <circle cx="392" cy="290" r="1.5" fill="#818CF8"/>
+  <circle cx="416" cy="290" r="1.5" fill="#818CF8"/>
+  <circle cx="440" cy="290" r="1.5" fill="#818CF8"/>
+  <circle cx="392" cy="314" r="1.5" fill="#818CF8"/>
+  <circle cx="416" cy="314" r="1.5" fill="#818CF8"/>
+  <circle cx="440" cy="314" r="1.5" fill="#818CF8"/>
+</g>
+
+<!-- Decorative document icons – left -->
+<g opacity="0.22" transform="translate(258, 56) rotate(15)">
+  <rect width="36" height="44" rx="3" fill="none" stroke="#2DD4BF" stroke-width="1.2"/>
+  <line x1="7" y1="16" x2="29" y2="16" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="7" y1="23" x2="29" y2="23" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="7" y1="30" x2="22" y2="30" stroke="#2DD4BF" stroke-width="1"/>
+</g>
+<g opacity="0.16" transform="translate(44, 240) rotate(-8)">
+  <rect width="44" height="54" rx="3" fill="none" stroke="#2DD4BF" stroke-width="1.2"/>
+  <line x1="8" y1="18" x2="36" y2="18" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="8" y1="26" x2="36" y2="26" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="8" y1="34" x2="28" y2="34" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="8" y1="42" x2="32" y2="42" stroke="#2DD4BF" stroke-width="1"/>
+</g>
+<g opacity="0.12" transform="translate(190, 42) rotate(-12)">
+  <rect width="28" height="34" rx="2" fill="none" stroke="#2DD4BF" stroke-width="1"/>
+  <line x1="5" y1="12" x2="23" y2="12" stroke="#2DD4BF" stroke-width="0.8"/>
+  <line x1="5" y1="18" x2="23" y2="18" stroke="#2DD4BF" stroke-width="0.8"/>
+  <line x1="5" y1="24" x2="17" y2="24" stroke="#2DD4BF" stroke-width="0.8"/>
+</g>
+
+<!-- Decorative document icons – right -->
+<g opacity="0.22" transform="translate(384, 245) rotate(-14)">
+  <rect width="36" height="44" rx="3" fill="none" stroke="#818CF8" stroke-width="1.2"/>
+  <line x1="7" y1="16" x2="29" y2="16" stroke="#818CF8" stroke-width="1"/>
+  <line x1="7" y1="23" x2="29" y2="23" stroke="#818CF8" stroke-width="1"/>
+  <line x1="7" y1="30" x2="22" y2="30" stroke="#818CF8" stroke-width="1"/>
+</g>
+<g opacity="0.16" transform="translate(600, 228) rotate(10)">
+  <rect width="44" height="54" rx="3" fill="none" stroke="#818CF8" stroke-width="1.2"/>
+  <line x1="8" y1="18" x2="36" y2="18" stroke="#818CF8" stroke-width="1"/>
+  <line x1="8" y1="26" x2="36" y2="26" stroke="#818CF8" stroke-width="1"/>
+  <line x1="8" y1="34" x2="28" y2="34" stroke="#818CF8" stroke-width="1"/>
+  <line x1="8" y1="42" x2="32" y2="42" stroke="#818CF8" stroke-width="1"/>
+</g>
+<g opacity="0.12" transform="translate(462, 40) rotate(8)">
+  <rect width="28" height="34" rx="2" fill="none" stroke="#818CF8" stroke-width="1"/>
+  <line x1="5" y1="12" x2="23" y2="12" stroke="#818CF8" stroke-width="0.8"/>
+  <line x1="5" y1="18" x2="23" y2="18" stroke="#818CF8" stroke-width="0.8"/>
+  <line x1="5" y1="24" x2="17" y2="24" stroke="#818CF8" stroke-width="0.8"/>
+</g>
+
+<!-- DOCMOST -->
+<text x="170" y="196"
+  font-family="'DM Serif Display', Georgia, serif"
+  font-size="60"
+  font-weight="400"
+  fill="#2DD4BF"
+  text-anchor="middle"
+  letter-spacing="-1">Docmost</text>
+
+<!-- OUTLINE -->
+<text x="510" y="196"
+  font-family="'DM Serif Display', Georgia, serif"
+  font-size="60"
+  font-weight="400"
+  fill="#818CF8"
+  text-anchor="middle"
+  letter-spacing="-1">Outline</text>
+
+<!-- VS badge -->
+<rect x="314" y="160" width="52" height="36" rx="18" fill="#0F1525" stroke="#1E2A4A" stroke-width="1.5"/>
+<text x="340" y="184"
+  font-family="'DM Mono', 'Courier New', monospace"
+  font-size="14"
+  font-weight="500"
+  fill="#4B5680"
+  text-anchor="middle"
+  letter-spacing="1">vs</text>
+
+<!-- Taglines -->
+<text x="170" y="220"
+  font-family="'DM Mono', 'Courier New', monospace"
+  font-size="11"
+  font-weight="400"
+  fill="#1A5C52"
+  text-anchor="middle"
+  letter-spacing="2">BUILT-IN AUTH</text>
+
+<text x="510" y="220"
+  font-family="'DM Mono', 'Courier New', monospace"
+  font-size="11"
+  font-weight="400"
+  fill="#3A3A7C"
+  text-anchor="middle"
+  letter-spacing="2">API + WEBHOOKS</text>
+
+<!-- Accent lines -->
+<line x1="96" y1="229" x2="244" y2="229" stroke="#2DD4BF" stroke-width="0.8" opacity="0.4"/>
+<line x1="436" y1="229" x2="584" y2="229" stroke="#818CF8" stroke-width="0.8" opacity="0.4"/>
+
+<!-- Bottom subtitle -->
+<text x="340" y="302"
+  font-family="'DM Mono', 'Courier New', monospace"
+  font-size="11"
+  font-weight="400"
+  fill="#2E3858"
+  text-anchor="middle"
+  letter-spacing="3">SELF-HOSTED DOCUMENTATION</text>
+
+<!-- Top eyebrow -->
+<text x="340" y="52"
+  font-family="'DM Mono', 'Courier New', monospace"
+  font-size="10"
+  font-weight="400"
+  fill="#1A2240"
+  text-anchor="middle"
+  letter-spacing="4">A PRACTICAL COMPARISON</text>
+
+<!-- Border lines -->
+<line x1="40" y1="64" x2="300" y2="64" stroke="#0D2030" stroke-width="0.5"/>
+<line x1="380" y1="64" x2="640" y2="64" stroke="#160D30" stroke-width="0.5"/>
+<line x1="40" y1="293" x2="300" y2="293" stroke="#0D2030" stroke-width="0.5"/>
+<line x1="380" y1="293" x2="640" y2="293" stroke="#160D30" stroke-width="0.5"/>
+</svg>

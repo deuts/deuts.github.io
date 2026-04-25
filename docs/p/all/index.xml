@@ -7,8 +7,132 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 13 Jan 2026 19:14:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 14:50:21 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation</title>
+      <link>https://deuts.org/p/docmost-vs-outline-comparison/</link>
+      <pubDate>Sat, 25 Apr 2026 14:50:21 +0800</pubDate>
+      <guid>https://deuts.org/p/docmost-vs-outline-comparison/</guid>
+      <description>Compare Docmost and Outline across key features like authentication, API access, diagram support, and document sharing to decide which fits your workflow better.</description>
+      <content:encoded><![CDATA[<p>If you&rsquo;re choosing a self-hosted knowledge base, two strong options are Outline and Docmost. Both are modern, clean, and Markdown-friendly—but they differ in ways that matter depending on how you work.</p>
+<p>Here’s a practical comparison based on actual usage.</p>
+<h3 id="authentication">Authentication</h3>
+<p>This is one of the biggest operational differences.</p>
+<ul>
+<li>
+<p><strong>Outline</strong> requires an external identity provider (Slack, Google, OIDC, etc.).
+This is flexible and production-ready, but adds setup overhead.</p>
+</li>
+<li>
+<p><strong>Docmost</strong> includes built-in authentication, allowing you to get started without external services.
+However, SSO/OIDC support is only available on paid licenses.</p>
+</li>
+</ul>
+<p>If you’re running a homelab or small team setup, Docmost is simpler. For environments that require SSO or centralized identity management, Outline is more accessible since it supports OIDC even on free self-hosted installs.</p>
+<h3 id="api-and-automation">API and automation</h3>
+<ul>
+<li>
+<p><strong>Outline</strong> provides a well-documented API (GraphQL) and supports webhooks, even on free self-hosted installs.
+It’s suitable for automation, integrations, and event-driven workflows.</p>
+</li>
+<li>
+<p><strong>Docmost</strong> provides API access with documentation, but this is limited to paid licenses and does not currently include webhook support.</p>
+</li>
+</ul>
+<p>If automation and event-driven integrations are a priority, Outline is clearly ahead.</p>
+<h3 id="public-sharing-and-access-control">Public sharing and access control</h3>
+<p>Both tools support public sharing, but with limitations and differences in granularity.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Outline</th>
+          <th>Docmost</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Public sharing scope</td>
+          <td>Collection level down to individual pages</td>
+          <td>Page/document level (no workspace-level public sharing)</td>
+      </tr>
+      <tr>
+          <td>Password protection for public links</td>
+          <td>Not supported</td>
+          <td>Not supported</td>
+      </tr>
+      <tr>
+          <td>Internal sharing (same instance)</td>
+          <td>Collection, page, and subpage level</td>
+          <td>Workspace level only</td>
+      </tr>
+  </tbody>
+</table>
+<p>Public links can be generated in both tools, but neither supports adding a password layer, which would be useful for client-facing documents.</p>
+<p>For internal collaboration, Outline offers more granular control by allowing sharing at the collection, page, and subpage level. In contrast, Docmost limits sharing to the workspace level, with no page-level permission control.</p>
+<h3 id="diagram-support-drawio--diagramsnet--excalidraw">Diagram support (Draw.io / diagrams.net / Excalidraw)</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Outline</th>
+          <th>Docmost</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>diagrams.net (Draw.io)</td>
+          <td>Supported via <code>/</code> command, opens external editor and syncs back</td>
+          <td>Supported with similar workflow</td>
+      </tr>
+      <tr>
+          <td>Excalidraw</td>
+          <td>Not supported natively</td>
+          <td>Built-in, can create and edit inline</td>
+      </tr>
+  </tbody>
+</table>
+<p>If you rely heavily on lightweight, embedded diagrams (especially Excalidraw), Docmost has an edge.</p>
+<h3 id="date-insertion">Date insertion</h3>
+<p>Using <code>/date</code> in both tools inserts a formatted date, but the output differs:</p>
+<ul>
+<li><strong>Outline</strong>: <code>28 June 2025</code></li>
+<li><strong>Docmost</strong>: <code>June 28, 2025</code></li>
+</ul>
+<p>Neither tool currently allows customizing this format. This comes down to preference, but Docmost’s format may feel more natural if you’re used to US-style dates.</p>
+<h2 id="final-thoughts">Final thoughts</h2>
+<ul>
+<li>
+<p>Choose <strong>Outline</strong> if you need:</p>
+<ul>
+<li>Strong API and automation (including webhooks)</li>
+<li>More granular access control and sharing</li>
+<li>Integration with existing identity providers (OIDC, Slack, etc.) without licensing restrictions</li>
+<li>A more mature and extensible ecosystem</li>
+</ul>
+</li>
+<li>
+<p>Choose <strong>Docmost</strong> if you want:</p>
+<ul>
+<li>Faster setup with built-in authentication</li>
+<li>Native Excalidraw support</li>
+<li>A simpler, more self-contained stack</li>
+</ul>
+</li>
+</ul>
+<p>If you&rsquo;re willing to spend time setting up OIDC or an external identity provider, <strong>Outline is the more capable long-term solution</strong>, especially for automation, structured collaboration, and SSO without additional licensing.</p>
+<p>Docmost is a solid option for simpler setups, but trades off flexibility and advanced features (like SSO and webhooks) behind paid tiers.</p>
+<div class="callout info">
+  <div class="callout-content">
+    <strong>Disclaimer</strong>
+    <p>
+This post was drafted with the help of AI, based on my own notes and verification. All comparisons and conclusions reflect my actual usage and assessment.
+</p>
+  </div>
+</div>
+]]></content:encoded>
+    </item>
     <item>
       <title>Trigger a Webhook After a Successful Kopia Backup</title>
       <link>https://deuts.org/p/trigger-webhook-kopia-backup/</link>
@@ -730,116 +854,6 @@ The features listed in the table below are the ones I find important to me perso
 <li><strong>Choose MkDocs if</strong>: You want a quick setup, built-in search, and better <strong>Obsidian compatibility</strong>.</li>
 </ul>
 <p>For a pure documentation site, <strong>Material for MkDocs</strong> is simpler. For flexibility and scalability, <strong>Hugo</strong> is the way to go.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>How Logseq can be a better choice over Obsidian</title>
-      <link>https://deuts.org/p/logsec-vs-obsidian/</link>
-      <pubDate>Tue, 04 Mar 2025 23:28:25 +0800</pubDate>
-      <guid>https://deuts.org/p/logsec-vs-obsidian/</guid>
-      <description>Logseq provides an intuitive outliner-first experience, seamless bidirectional linking, and powerful task management—all in an open-source package. This post explores why Logseq might be a better alternative to Obsidian for organizing your notes and ideas.</description>
-      <content:encoded><![CDATA[<p>While both Logseq and Obsidian are excellent knowledge management tools, Logseq offers some distinct advantages that might make it more suitable for your workflow:</p>
-<h3 id="why-logseq-might-be-a-better-choice">Why Logseq might be a better choice</h3>
-<ul>
-<li>
-<p><strong>Outliner-First Approach</strong> - Logseq&rsquo;s hierarchical bullet-point structure makes organizing thoughts more intuitive. You can easily nest ideas and create structured content without worrying about formatting.</p>
-</li>
-<li>
-<p><strong>Bidirectional Linking by Default</strong> - While Obsidian has backlinks, Logseq treats every reference as truly bidirectional, making connections between ideas more seamless.</p>
-</li>
-<li>
-<p><strong>Daily Notes as Standard</strong> - Logseq automatically creates daily journals, encouraging regular documentation and making it easier to track thoughts chronologically.</p>
-</li>
-<li>
-<p><strong>Open Source Philosophy</strong> - Logseq is fully open-source, which means greater transparency and community involvement in its development.</p>
-</li>
-<li>
-<p><strong>Graph Database Backend</strong> - The underlying architecture makes complex queries and connections between your notes more powerful.</p>
-</li>
-<li>
-<p><strong>Block References</strong> - You can reference and embed specific blocks (not just pages) throughout your notes, creating more granular connections.</p>
-</li>
-<li>
-<p><strong>Task Management Built-In</strong> - Logseq has robust task management features with TODO states, priorities, and deadlines integrated directly into your notes.</p>
-</li>
-<li>
-<p><strong>Whiteboarding Capabilities</strong> - Recent updates have added excellent whiteboarding features that combine well with the outliner approach.</p>
-</li>
-</ul>
-<h3 id="summary-comparison">Summary Comparison</h3>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>Logseq</th>
-          <th>Obsidian</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Core Structure</td>
-          <td>Outliner-based (bullet points)</td>
-          <td>Document-based (markdown files)</td>
-      </tr>
-      <tr>
-          <td>Linking</td>
-          <td>Bidirectional by default</td>
-          <td>Backlinks as a feature</td>
-      </tr>
-      <tr>
-          <td>Daily Notes</td>
-          <td>Automatically created and integrated</td>
-          <td>Available as a plugin</td>
-      </tr>
-      <tr>
-          <td>Source Code</td>
-          <td>Fully open-source</td>
-          <td>Closed source with open plugin API</td>
-      </tr>
-      <tr>
-          <td>Backend</td>
-          <td>Graph database</td>
-          <td>File-based system</td>
-      </tr>
-      <tr>
-          <td>Referencing</td>
-          <td>Block-level references</td>
-          <td>Page-level references primarily</td>
-      </tr>
-      <tr>
-          <td>Task Management</td>
-          <td>Built-in TODO system with states</td>
-          <td>Requires plugins for robust task management</td>
-      </tr>
-      <tr>
-          <td>Whiteboarding</td>
-          <td>Integrated whiteboard capabilities</td>
-          <td>Available through plugins</td>
-      </tr>
-      <tr>
-          <td>Data Storage</td>
-          <td>Local plain text files (.md/.org)</td>
-          <td>Local plain text files (.md)</td>
-      </tr>
-      <tr>
-          <td>Pricing</td>
-          <td>Free, open-source</td>
-          <td>Free core, paid sync service</td>
-      </tr>
-  </tbody>
-</table>
-<h3 id="where-obsidian-still-shines">Where Obsidian Still Shines</h3>
-<p>It&rsquo;s important to acknowledge Obsidian&rsquo;s strengths that make this decision difficult:</p>
-<ul>
-<li><strong>Mature plugin ecosystem:</strong> Thousands of community plugins for customization</li>
-<li><strong>Document-centric approach:</strong> Better for long-form writing and publishing</li>
-<li><strong>Performance with large vaults:</strong> Generally handles massive collections better</li>
-<li><strong>Polished UI/UX:</strong> More refined interface and smoother experience</li>
-<li><strong>Themes and customization:</strong> More options for personalizing appearance</li>
-<li><strong>Mobile experience:</strong> Generally considered more mature on mobile devices</li>
-</ul>
-<h3 id="conclusion">Conclusion</h3>
-<p>For now, my priority is mature ecosystem, document-centric approach, and polished experienced. Thus, Obsidian it is.</p>
 ]]></content:encoded>
     </item>
   </channel>
