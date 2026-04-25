@@ -17,6 +17,7 @@
       <description>Compare Docmost and Outline across key features like authentication, API access, diagram support, and document sharing to decide which fits your workflow better.</description>
       <content:encoded><![CDATA[<p>If you&rsquo;re choosing a self-hosted knowledge base, two strong options are Outline and Docmost. Both are modern, clean, and Markdown-friendly—but they differ in ways that matter depending on how you work.</p>
 <p>Here’s a practical comparison based on actual usage.</p>
+<h2 id="outline-vs-docmost">Outline vs. Docmost</h2>
 <h3 id="authentication">Authentication</h3>
 <p>This is one of the biggest operational differences.</p>
 <ul>
@@ -101,7 +102,7 @@ It’s suitable for automation, integrations, and event-driven workflows.</p>
 <li><strong>Docmost</strong>: <code>June 28, 2025</code></li>
 </ul>
 <p>Neither tool currently allows customizing this format. This comes down to preference, but Docmost’s format may feel more natural if you’re used to US-style dates.</p>
-<h3 id="final-thoughts">Final thoughts</h3>
+<h2 id="final-thoughts">Final thoughts</h2>
 <ul>
 <li>
 <p>Choose <strong>Outline</strong> if you need:</p>
