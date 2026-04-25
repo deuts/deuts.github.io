@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 19:35:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 01:27:50 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KQ2TXWSDEGMGRM5TQMANDPV4</title>
+      <link>https://deuts.org/x/2026-04-26-01-27-50-01kq2txwsdegmgrm5tqmandpv4/</link>
+      <pubDate>Sun, 26 Apr 2026 01:27:50 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-04-26-01-27-50-01kq2txwsdegmgrm5tqmandpv4/</guid>
+      <description>&lt;p&gt;I subscribed to Amazon Prime because of NBA live coverage, but they apparently are not covering any live games for the rest of the first round of the 2026 Playoffs. What a waste of money!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I subscribed to Amazon Prime because of NBA live coverage, but they apparently are not covering any live games for the rest of the first round of the 2026 Playoffs. What a waste of money!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KQ26SN2RP3NTGT3M169AJ8B9</title>
       <link>https://deuts.org/x/2026-04-25-19-35-59-01kq26sn2rp3ntgt3m169aj8b9/</link>
@@ -212,36 +221,6 @@
 
 <blockquote class="linkding-description">
     Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Yet Another RClone Dashboard</title>
-      <link>https://deuts.org/x/842-yet-another-rclone-dashboard/</link>
-      <pubDate>Mon, 13 Apr 2026 11:04:00 +0800</pubDate>
-      <guid>https://deuts.org/x/842-yet-another-rclone-dashboard/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-842&#34;&gt;&lt;a href=&#34;https://github.com/outlook84/yet-another-rclone-dashboard&#34;&gt;Yet Another RClone Dashboard&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-842 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Modern Web Dashboard for Rclone.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-842"><a href="https://github.com/outlook84/yet-another-rclone-dashboard">Yet Another RClone Dashboard</a></h3>
-<style>
-.favicon-842 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Modern Web Dashboard for Rclone.
 </blockquote>
   
 ]]></content:encoded>
