@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 01:48:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:52:37 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Obsidian LiveSync with Couchdb</title>
+      <link>https://deuts.org/x/851-setting-up-obsidian-livesync-with-couchdb/</link>
+      <pubDate>Tue, 28 Apr 2026 01:52:37 +0800</pubDate>
+      <guid>https://deuts.org/x/851-setting-up-obsidian-livesync-with-couchdb/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-851&#34;&gt;&lt;a href=&#34;https://www.saltyoldgeek.com/posts/obsidian-livesync/&#34;&gt;Setting Up Obsidian LiveSync with Couchdb&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-851 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_saltyoldgeek_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Learn how to enable real-time sync for Obsidian using CouchDB on Ubuntu. This guide covers installation, user creation, and configuring the LiveSync plugin.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-851"><a href="https://www.saltyoldgeek.com/posts/obsidian-livesync/">Setting Up Obsidian LiveSync with Couchdb</a></h3>
+<style>
+.favicon-851 {
+    background: url('https://bm.deuts.org/static/https_www_saltyoldgeek_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Learn how to enable real-time sync for Obsidian using CouchDB on Ubuntu. This guide covers installation, user creation, and configuring the LiveSync plugin.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Setting Up Self-Hosted Obsidian LiveSync</title>
       <link>https://deuts.org/x/850-setting-up-self-hosted-obsidian-livesync/</link>
@@ -191,36 +221,6 @@
 
 <blockquote class="linkding-description">
     Blazing fast file vault written in TypeScript!
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Plex Prerolls</title>
-      <link>https://deuts.org/x/844-plex-prerolls/</link>
-      <pubDate>Mon, 13 Apr 2026 11:14:54 +0800</pubDate>
-      <guid>https://deuts.org/x/844-plex-prerolls/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-844&#34;&gt;&lt;a href=&#34;https://codeberg.org/nwithan8/plex-prerolls&#34;&gt;Plex Prerolls&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-844 {
-    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A script to automate management of Plex pre-rolls.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-844"><a href="https://codeberg.org/nwithan8/plex-prerolls">Plex Prerolls</a></h3>
-<style>
-.favicon-844 {
-    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A script to automate management of Plex pre-rolls.
 </blockquote>
   
 ]]></content:encoded>
