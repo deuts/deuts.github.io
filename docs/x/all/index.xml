@@ -7,8 +7,21 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 07:42:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:39:43 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KQ965KDH70B3YTGPJGW9Y3P5</title>
+      <link>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</link>
+      <pubDate>Tue, 28 Apr 2026 12:39:43 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;AFPSLAI declares an Expected Distribution Advance (EDA) rate of 13.5% per annum or 3.375% for the 1st Quarter 2026. EDA payout and release of checks representing excess CCA/EDA starts on April 27, 2026 (Monday).&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Sad news for AFPSLAI investors, dividend decreased from the previous 17% to 13.5% per annum.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>AFPSLAI declares an Expected Distribution Advance (EDA) rate of 13.5% per annum or 3.375% for the 1st Quarter 2026. EDA payout and release of checks representing excess CCA/EDA starts on April 27, 2026 (Monday).</p></blockquote>
+<p>Sad news for AFPSLAI investors, dividend decreased from the previous 17% to 13.5% per annum.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Obsidian LiveSync Settings to Configure</title>
       <link>https://deuts.org/x/852-obsidian-livesync-settings-to-configure/</link>
@@ -191,36 +204,6 @@
 
 <blockquote class="linkding-description">
     I used WordPress for years before switching to Hugo. Static HTML, no database, no plugins, 100/100 Lighthouse. Here is why I am not going back.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Beginner guide for anyone coming from ChatGPT who has never touched Claude before</title>
-      <link>https://deuts.org/x/846-beginner-guide-for-anyone-coming-from-chatgpt-who-has-never-touched-claude-before/</link>
-      <pubDate>Wed, 15 Apr 2026 00:57:07 +0800</pubDate>
-      <guid>https://deuts.org/x/846-beginner-guide-for-anyone-coming-from-chatgpt-who-has-never-touched-claude-before/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-846&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/ChatGPT/comments/1sku1ue/beginner_guide_for_anyone_coming_from_chatgpt_who/&#34;&gt;Beginner guide for anyone coming from ChatGPT who has never touched Claude before&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-846 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Go Claude!
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-846"><a href="https://www.reddit.com/r/ChatGPT/comments/1sku1ue/beginner_guide_for_anyone_coming_from_chatgpt_who/">Beginner guide for anyone coming from ChatGPT who has never touched Claude before</a></h3>
-<style>
-.favicon-846 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Go Claude!
 </blockquote>
   
 ]]></content:encoded>
