@@ -7,8 +7,21 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 14:50:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:32:36 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pushover new API usage limit</title>
+      <link>https://deuts.org/p/pushover-api-limit/</link>
+      <pubDate>Wed, 29 Apr 2026 00:32:36 +0800</pubDate>
+      <guid>https://deuts.org/p/pushover-api-limit/</guid>
+      <description>Pushover will enforce per-account API limits starting May 2026, changing how message quotas are shared across apps.</description>
+      <content:encoded><![CDATA[<p>Pushover posted on <a href="https://blog.pushover.net/posts/2026/4/app-limits">8 April 2026</a>:</p>
+<blockquote>
+<p>Starting May 1, 2026, Pushover’s API sending limitations and capacity upgrades will become per-account rather than per-application.</p></blockquote>
+<p>I can’t really fault Pushover for this change. It’s been a solid service for years, and the one-time $10 fee for lifetime access on Android and desktop has always felt more than fair.</p>
+<p>I’m unlikely to hit the 10,000-message per month limit across my apps anytime soon, but this does make me consider alternatives like ntfy or even Telegram for certain use cases.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation</title>
       <link>https://deuts.org/p/docmost-vs-outline-comparison/</link>
@@ -763,102 +776,6 @@ The features listed in the table below are the ones I find important to me perso
       <content:encoded><![CDATA[<p>Samsung’s FE (Fan Edition) line has always offered flagship-level features at a more reasonable price point, and the Galaxy S24 FE looks no different. With an expected blend of performance, camera upgrades, and Samsung’s trademark display quality, it&rsquo;s a compelling option for anyone looking to upgrade their smartphone.</p>
 <p>However, the current price tag of Php36,990 for the 256GB variant puts it out of the “value for money” range for many, especially for those already using a previous FE model like the Galaxy S20 FE—which still holds up decently in 2025.</p>
 <p>Should the Samsung Galaxy S24 FE with the 256GB storage become available at less than Php30,000.00, I’ll probably consider getting one, to replace my aging Samsung Galaxy S20 FE.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugo vs. Material for MkDocs</title>
-      <link>https://deuts.org/p/hugo-vs-mkdocs/</link>
-      <pubDate>Fri, 07 Mar 2025 09:05:12 +0800</pubDate>
-      <guid>https://deuts.org/p/hugo-vs-mkdocs/</guid>
-      <description>A comparison of Hugo and Material for MkDocs for documentation sites, covering installation, customization, Obsidian integration, and more.</description>
-      <content:encoded><![CDATA[<p>When building a documentation site, two popular options stand out: <strong>Hugo</strong> and <strong>Material for MkDocs</strong>. This post explores their key differences to help you decide which one suits your workflow best.</p>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>MkDocs (Material)</th>
-          <th>Hugo</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Main Purpose</strong></td>
-          <td>Built specifically for documentation sites</td>
-          <td>General-purpose static site generator</td>
-      </tr>
-      <tr>
-          <td><strong>Ease of Use</strong></td>
-          <td>Easier to set up and use, minimal configuration</td>
-          <td>More complex due to templating and structure</td>
-      </tr>
-      <tr>
-          <td><strong>Customization</strong></td>
-          <td>Limited (some via plugins or JavaScript)</td>
-          <td>Fully customizable via Go templating</td>
-      </tr>
-      <tr>
-          <td><strong>Frontmatter Support</strong></td>
-          <td>Supports frontmatter but with limited flexibility</td>
-          <td>Full frontmatter support with conditional logic</td>
-      </tr>
-      <tr>
-          <td><strong>Hiding Pages</strong></td>
-          <td><code>hidden: true</code> in frontmatter</td>
-          <td><code>draft: true</code> or excluding in menu templates</td>
-      </tr>
-      <tr>
-          <td><strong>Dynamic Page Behavior</strong></td>
-          <td>Limited (Markdown extensions, JavaScript, plugins)</td>
-          <td>Fully supports conditionals and templating</td>
-      </tr>
-      <tr>
-          <td><strong>Performance</strong></td>
-          <td>Fast for small-to-medium sites</td>
-          <td>Extremely fast, scales better for large sites</td>
-      </tr>
-      <tr>
-          <td><strong>Search</strong></td>
-          <td>Built-in instant search via Lunr.js</td>
-          <td>No built-in search; requires third-party solutions (e.g., Algolia)</td>
-      </tr>
-      <tr>
-          <td><strong>Image Handling</strong></td>
-          <td>Can store images next to Markdown files</td>
-          <td>Requires images outside <code>content/</code>, unless using page bundles</td>
-      </tr>
-      <tr>
-          <td><strong>Multilingual Support</strong></td>
-          <td>Basic support via MkDocs-Material extensions</td>
-          <td>Native multilingual support built-in</td>
-      </tr>
-      <tr>
-          <td><strong>Theme Customization</strong></td>
-          <td>Material theme is highly polished and customizable via CSS/JS</td>
-          <td>Requires modifying templates; themes vary in quality</td>
-      </tr>
-      <tr>
-          <td><strong>Plugins &amp; Extensions</strong></td>
-          <td>Supports plugins like <code>mkdocs-macros-plugin</code> and <code>mkdocs-material</code></td>
-          <td>Vast ecosystem of themes and custom shortcodes</td>
-      </tr>
-      <tr>
-          <td><strong>Obsidian Integration</strong></td>
-          <td>Supports <code>[[wikilinks]]</code> and embedded images with plugins</td>
-          <td>Requires converting <code>[[wikilinks]]</code>, no native embedded images</td>
-      </tr>
-      <tr>
-          <td><strong>Blogging &amp; Other Content</strong></td>
-          <td>Not ideal for non-documentation content</td>
-          <td>Flexible for mixing documentation with blogs, portfolios, etc.</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="final-recommendation"><strong>Final Recommendation</strong></h2>
-<ul>
-<li><strong>Choose Hugo if</strong>: You need full customization, multilingual support, and high performance.</li>
-<li><strong>Choose MkDocs if</strong>: You want a quick setup, built-in search, and better <strong>Obsidian compatibility</strong>.</li>
-</ul>
-<p>For a pure documentation site, <strong>Material for MkDocs</strong> is simpler. For flexibility and scalability, <strong>Hugo</strong> is the way to go.</p>
 ]]></content:encoded>
     </item>
   </channel>
