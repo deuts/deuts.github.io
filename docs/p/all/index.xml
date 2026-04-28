@@ -563,7 +563,7 @@ This post was drafted with the help of AI, based on my own notes and verificatio
       <pubDate>Wed, 21 May 2025 13:47:58 +0800</pubDate>
       <guid>https://deuts.org/p/bap-rates-data-issues/</guid>
       <description>An analysis of the BAP’s historical PHP/USD rates shows multiple anomalies, including lost records, typos, and logical errors in pricing data.</description>
-      <content:encoded><![CDATA[<p>Businesses often rely on the daily PHP/USD rates published by the <a href="https://bap.org.ph/"><strong>Bankers Association of the Philippines (BAP)</strong></a> for various financial decisions, from investment valuations to foreign exchange operations. Starting in <strong>June 2021</strong>, BAP began making their historical exchange rate data available through public <strong>Google Sheets</strong>, including not only daily rates but also trading volumes.</p>
+      <content:encoded><![CDATA[<p>Businesses often rely on the daily PHP/USD rates published by the <a href="https://bap.org.ph/"><strong>Bankers Association of the Philippines (BAP)</strong></a> for various financial decisions, from investment valuations to foreign exchange operations, and accounting for their foreign currency denominated transactions. Starting in <strong>June 2021</strong>, BAP began making their historical exchange rate data available through public <strong>Google Sheets</strong>, including not only daily rates but also trading volumes.</p>
 <p>While the move to publish historical data is a step toward transparency, their choice of format—Google Sheets—is notably out of touch with modern standards. Instead of offering a proper <strong>API endpoint</strong> for structured, automated access, BAP expects users to manually work with spreadsheets. This approach is inefficient and reflects a backward mentality that’s not commensurate with the needs of 21st-century data users. For a major financial industry player with such national relevance, adopting more developer-friendly, programmatic access methods is long overdue.</p>
 <p>To assess the quality of the published data, I consolidated all available sheets and performed a thorough analysis. Here are some of the most glaring issues I found:</p>
 <h3 id="unexplicable-data">Unexplicable Data</h3>
@@ -595,6 +595,10 @@ This post was drafted with the help of AI, based on my own notes and verificatio
 <h3 id="close-outside-of-high-and-low">Close Outside of High and Low</h3>
 <p>Similarly, <code>Close</code> should also fall within the daily high-low range, yet some entries show otherwise:</p>
 <p><img loading="lazy" src="/p/bap-rates-data-issues/close-outside.png"></p>
+<h3 id="update-28-april-2026">Update: 28 April 2026</h3>
+<p>BAP published a link to a different <a href="https://docs.google.com/spreadsheets/d/1Tk53BIwpT8B4Y7hIQx_dlj8zEW5JxoO-fX2rq5H0RZQ">2026 Google Sheets worksheet</a> today. Found errors in their <code>JANUARY</code> sheet, where data for January 19 and 20 moved to January 17 (a Saturday) and 18 (a Sunday), respectively:</p>
+<p><a href="january-2026.png"><img loading="lazy" src="/p/bap-rates-data-issues/january-2026.png"></a></p>
+<p>I wonder how businesses can take BAP seriously for these errors.</p>
 <hr>
 <p>These data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.</p>
 ]]></content:encoded>
