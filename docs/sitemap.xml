@@ -16,22 +16,67 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</loc>
-    <lastmod>2026-05-04T00:56:39+08:00</lastmod>
+    <loc>https://deuts.org/x/859-arkeep/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-05-04T00:56:39+08:00</lastmod>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/backup/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/rclone/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/rsync/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-05-04T01:22:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/digitalsignage/</loc>
+    <lastmod>2026-05-04T01:20:06+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/858-screentinker/</loc>
+    <lastmod>2026-05-04T01:20:06+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/media-server/</loc>
+    <lastmod>2026-05-04T01:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/media-sharing/</loc>
+    <lastmod>2026-05-04T01:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/podcasts/</loc>
+    <lastmod>2026-05-04T01:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/857-stashcast/</loc>
+    <lastmod>2026-05-04T01:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/youtube/</loc>
+    <lastmod>2026-05-04T01:18:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/borg/</loc>
+    <lastmod>2026-05-04T01:17:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/856-borg-backup-server/</loc>
+    <lastmod>2026-05-04T01:17:16+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/bookmarks/</loc>
+    <lastmod>2026-05-04T01:16:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/855-faved/</loc>
+    <lastmod>2026-05-04T01:16:01+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</loc>
     <lastmod>2026-05-04T00:56:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/jellyfin/</loc>
     <lastmod>2026-05-04T00:41:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/854-moonfin/</loc>
-    <lastmod>2026-05-04T00:41:19+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-05-04T00:41:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/encryption/</loc>
@@ -157,9 +202,6 @@
     <loc>https://deuts.org/x/843-flow-like/</loc>
     <lastmod>2026-04-13T11:12:10+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/rclone/</loc>
-    <lastmod>2026-04-13T11:04:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/842-yet-another-rclone-dashboard/</loc>
     <lastmod>2026-04-13T11:04:00+08:00</lastmod>
   </url><url>
@@ -186,9 +228,6 @@
   </url><url>
     <loc>https://deuts.org/k/domains/</loc>
     <lastmod>2026-04-04T16:33:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/backup/</loc>
-    <lastmod>2026-04-04T16:26:52+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/837-pluton-backup/</loc>
     <lastmod>2026-04-04T16:26:52+08:00</lastmod>
@@ -408,9 +447,6 @@
   </url><url>
     <loc>https://deuts.org/k/deathplan/</loc>
     <lastmod>2026-02-22T23:37:33+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/media-server/</loc>
-    <lastmod>2026-02-22T22:55:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/802-seerr/</loc>
     <lastmod>2026-02-22T22:55:32+08:00</lastmod>
@@ -928,9 +964,6 @@
     <loc>https://deuts.org/x/699-how-to-deploy-a-complete-n8n-ai-stack-in-15-minutes-instead-of-a-whole-day/</loc>
     <lastmod>2025-12-01T08:35:48+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/borg/</loc>
-    <lastmod>2025-11-28T21:23:39+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/693-borg-ui/</loc>
     <lastmod>2025-11-28T21:23:39+08:00</lastmod>
   </url><url>
@@ -1144,9 +1177,6 @@
     <loc>https://deuts.org/x/639-youtarr/</loc>
     <lastmod>2025-10-04T01:25:05+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/youtube/</loc>
-    <lastmod>2025-10-04T01:25:05+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/638-nextexplorer/</loc>
     <lastmod>2025-10-04T01:22:31+08:00</lastmod>
   </url><url>
@@ -1292,9 +1322,6 @@
     <lastmod>2025-08-30T01:25:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/597-immich-drop/</loc>
-    <lastmod>2025-08-30T01:25:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/media-sharing/</loc>
     <lastmod>2025-08-30T01:25:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/595-authelia-admin/</loc>
@@ -1538,9 +1565,6 @@
     <lastmod>2025-07-18T14:38:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/550-doonfrs-rsync-backup/</loc>
-    <lastmod>2025-07-17T13:05:10+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/rsync/</loc>
     <lastmod>2025-07-17T13:05:10+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/549-task-notes/</loc>
@@ -2172,9 +2196,6 @@
   </url><url>
     <loc>https://deuts.org/x/415-bitwarden-portal-backup-solution/</loc>
     <lastmod>2025-03-15T14:51:44+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bookmarks/</loc>
-    <lastmod>2025-03-15T14:48:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/414-uci-linkding-bookmarks/</loc>
     <lastmod>2025-03-15T14:48:00+08:00</lastmod>
@@ -3862,9 +3883,6 @@
     <loc>https://deuts.org/x/222-audiobookshelf-podcasts-are-not-automatically-downloading-recent-episodes/</loc>
     <lastmod>2024-10-16T20:38:51+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/podcasts/</loc>
-    <lastmod>2024-10-16T20:38:51+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/hub/</loc>
     <lastmod>2024-10-16T17:27:52+08:00</lastmod>
   </url><url>
@@ -4000,7 +4018,10 @@
     <loc>https://deuts.org/x/182-github-meeb-tubesync-syncs-youtube-channels-and-playlists-to-a-locally-hosted-media-server/</loc>
     <lastmod>2024-09-14T10:47:58+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/181-github-nandyalu-trailarr-at-selfh-st/</loc>
+    <loc>https://deuts.org/x/181-trailarr/</loc>
+    <lastmod>2024-09-14T09:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/trailer/</loc>
     <lastmod>2024-09-14T09:04:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/180-github-linuxserver-docker-planka/</loc>

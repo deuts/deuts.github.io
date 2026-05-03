@@ -7,8 +7,158 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Mon, 04 May 2026 00:56:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:22:30 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arkeep</title>
+      <link>https://deuts.org/x/859-arkeep/</link>
+      <pubDate>Mon, 04 May 2026 01:22:30 +0800</pubDate>
+      <guid>https://deuts.org/x/859-arkeep/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-859&#34;&gt;&lt;a href=&#34;https://github.com/arkeep-io/arkeep&#34;&gt;Arkeep&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-859 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Manage backups across all your servers from a single dashboard.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-859"><a href="https://github.com/arkeep-io/arkeep">Arkeep</a></h3>
+<style>
+.favicon-859 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Manage backups across all your servers from a single dashboard.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Screentinker</title>
+      <link>https://deuts.org/x/858-screentinker/</link>
+      <pubDate>Mon, 04 May 2026 01:20:06 +0800</pubDate>
+      <guid>https://deuts.org/x/858-screentinker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-858&#34;&gt;&lt;a href=&#34;https://github.com/screentinker/screentinker&#34;&gt;Screentinker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-858 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source digital signage management software. Control content on TVs, displays, and kiosks from anywhere.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-858"><a href="https://github.com/screentinker/screentinker">Screentinker</a></h3>
+<style>
+.favicon-858 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source digital signage management software. Control content on TVs, displays, and kiosks from anywhere.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stashcast</title>
+      <link>https://deuts.org/x/857-stashcast/</link>
+      <pubDate>Mon, 04 May 2026 01:18:22 +0800</pubDate>
+      <guid>https://deuts.org/x/857-stashcast/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-857&#34;&gt;&lt;a href=&#34;https://github.com/jonocodes/stashcast&#34;&gt;Stashcast&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-857 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Save video and audio for later offline use and generate super-custom podcast feeds
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-857"><a href="https://github.com/jonocodes/stashcast">Stashcast</a></h3>
+<style>
+.favicon-857 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Save video and audio for later offline use and generate super-custom podcast feeds
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Borg Backup Server</title>
+      <link>https://deuts.org/x/856-borg-backup-server/</link>
+      <pubDate>Mon, 04 May 2026 01:17:16 +0800</pubDate>
+      <guid>https://deuts.org/x/856-borg-backup-server/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-856&#34;&gt;&lt;a href=&#34;https://github.com/marcpope/borgbackupserver&#34;&gt;Borg Backup Server&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-856 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-856"><a href="https://github.com/marcpope/borgbackupserver">Borg Backup Server</a></h3>
+<style>
+.favicon-856 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Faved</title>
+      <link>https://deuts.org/x/855-faved/</link>
+      <pubDate>Mon, 04 May 2026 01:16:01 +0800</pubDate>
+      <guid>https://deuts.org/x/855-faved/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-855&#34;&gt;&lt;a href=&#34;https://github.com/denho/faved&#34;&gt;Faved&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-855 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-855"><a href="https://github.com/denho/faved">Faved</a></h3>
+<style>
+.favicon-855 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KQQCAJ35R3VQQFH7M8FB5Z5V</title>
       <link>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</link>
@@ -127,93 +277,6 @@
     This will sync Plugin settings as well.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Setting Up Obsidian LiveSync with Couchdb</title>
-      <link>https://deuts.org/x/851-setting-up-obsidian-livesync-with-couchdb/</link>
-      <pubDate>Tue, 28 Apr 2026 01:52:37 +0800</pubDate>
-      <guid>https://deuts.org/x/851-setting-up-obsidian-livesync-with-couchdb/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-851&#34;&gt;&lt;a href=&#34;https://www.saltyoldgeek.com/posts/obsidian-livesync/&#34;&gt;Setting Up Obsidian LiveSync with Couchdb&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-851 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_saltyoldgeek_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Learn how to enable real-time sync for Obsidian using CouchDB on Ubuntu. This guide covers installation, user creation, and configuring the LiveSync plugin.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-851"><a href="https://www.saltyoldgeek.com/posts/obsidian-livesync/">Setting Up Obsidian LiveSync with Couchdb</a></h3>
-<style>
-.favicon-851 {
-    background: url('https://bm.deuts.org/static/https_www_saltyoldgeek_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Learn how to enable real-time sync for Obsidian using CouchDB on Ubuntu. This guide covers installation, user creation, and configuring the LiveSync plugin.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Setting Up Self-Hosted Obsidian LiveSync</title>
-      <link>https://deuts.org/x/850-setting-up-self-hosted-obsidian-livesync/</link>
-      <pubDate>Tue, 28 Apr 2026 01:48:34 +0800</pubDate>
-      <guid>https://deuts.org/x/850-setting-up-self-hosted-obsidian-livesync/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-850&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OTATnswthcA&#34;&gt;Setting Up Self-Hosted Obsidian LiveSync&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-850 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    DB Tech shows how to set up Obsidian LiveSync using CouchDB via Docker.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-850"><a href="https://www.youtube.com/watch?v=OTATnswthcA">Setting Up Self-Hosted Obsidian LiveSync</a></h3>
-<style>
-.favicon-850 {
-    background: url('https://bm.deuts.org/static/https_www_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    DB Tech shows how to set up Obsidian LiveSync using CouchDB via Docker.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQ2TXWSDEGMGRM5TQMANDPV4</title>
-      <link>https://deuts.org/x/2026-04-26-01-27-50-01kq2txwsdegmgrm5tqmandpv4/</link>
-      <pubDate>Sun, 26 Apr 2026 01:27:50 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-26-01-27-50-01kq2txwsdegmgrm5tqmandpv4/</guid>
-      <description>&lt;p&gt;I subscribed to Amazon Prime because of NBA live coverage, but they apparently are not covering any live games for the rest of the first round of the 2026 Playoffs. What a waste of money!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I subscribed to Amazon Prime because of NBA live coverage, but they apparently are not covering any live games for the rest of the first round of the 2026 Playoffs. What a waste of money!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQ26SN2RP3NTGT3M169AJ8B9</title>
-      <link>https://deuts.org/x/2026-04-25-19-35-59-01kq26sn2rp3ntgt3m169aj8b9/</link>
-      <pubDate>Sat, 25 Apr 2026 19:35:59 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-25-19-35-59-01kq26sn2rp3ntgt3m169aj8b9/</guid>
-      <description>&lt;p&gt;This AI thing really gets confusing fast. &lt;a href=&#34;https://fediwall.social/?tags=ChatGPT&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23ChatGPT&#34;&gt;#ChatGPT&lt;/a&gt; / OpenAI or &lt;a href=&#34;https://fediwall.social/?tags=Claude&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Claude&#34;&gt;#Claude&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=Gemini&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Gemini&#34;&gt;#Gemini&lt;/a&gt;. If Claude: Chat, Cowork or Code. If Code: CLI, Desktop or VS Code. Then Pro etc. vs. API? Please, can we just have one good product and move on?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This AI thing really gets confusing fast. <a href="https://fediwall.social/?tags=ChatGPT&amp;accounts=&amp;lang=en&amp;title=%23ChatGPT">#ChatGPT</a> / OpenAI or <a href="https://fediwall.social/?tags=Claude&amp;accounts=&amp;lang=en&amp;title=%23Claude">#Claude</a> or <a href="https://fediwall.social/?tags=Gemini&amp;accounts=&amp;lang=en&amp;title=%23Gemini">#Gemini</a>. If Claude: Chat, Cowork or Code. If Code: CLI, Desktop or VS Code. Then Pro etc. vs. API? Please, can we just have one good product and move on?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQ1TTDBDEW6EFGDF4GK31K68</title>
-      <link>https://deuts.org/x/2026-04-25-16-06-41-01kq1ttdbdew6efgdf4gk31k68/</link>
-      <pubDate>Sat, 25 Apr 2026 16:06:41 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-25-16-06-41-01kq1ttdbdew6efgdf4gk31k68/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@nextgraph&#34;&gt;@nextgraph&lt;/a&gt; Sorry about that. The original link was to my publicly shared notes. I updated it based on the 2 app&amp;rsquo;s current capabilities, and made a blog post. You may check it here: &lt;a href=&#34;https://deuts.org/p/docmost-vs-outline-comparison/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@nextgraph">@nextgraph</a> Sorry about that. The original link was to my publicly shared notes. I updated it based on the 2 app&rsquo;s current capabilities, and made a blog post. You may check it here: <a href="https://deuts.org/p/docmost-vs-outline-comparison/">deuts.org/∞</a></p>
 ]]></content:encoded>
     </item>
   </channel>
