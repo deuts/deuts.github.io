@@ -7,8 +7,85 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 12:39:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:56:39 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KQQCAJ35R3VQQFH7M8FB5Z5V</title>
+      <link>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</link>
+      <pubDate>Mon, 04 May 2026 00:56:39 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</guid>
+      <description>&lt;p&gt;I hate it that almost all links in the Pangolin dashboard are behind the Enterprise paywall. Can&amp;rsquo;t we just use an app without these prompts to upgrade our accounts? I hate it!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I hate it that almost all links in the Pangolin dashboard are behind the Enterprise paywall. Can&rsquo;t we just use an app without these prompts to upgrade our accounts? I hate it!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Moonfin</title>
+      <link>https://deuts.org/x/854-moonfin/</link>
+      <pubDate>Mon, 04 May 2026 00:41:19 +0800</pubDate>
+      <guid>https://deuts.org/x/854-moonfin/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-854&#34;&gt;&lt;a href=&#34;https://github.com/Moonfin-Client/AndroidTV-FireTV&#34;&gt;Moonfin&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-854 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Moonfin for Android TV is an enhanced Jellyfin client derived from the official Jellyfin Android TV project, optimized for a different viewing experience on Android TV, Nvidia Shield, and Amazon Fire TV devices. Moonfin also supports Emby Server 4.8.0.0+, allowing you to connect to either Jellyfin or Emby from a single app.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-854"><a href="https://github.com/Moonfin-Client/AndroidTV-FireTV">Moonfin</a></h3>
+<style>
+.favicon-854 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Moonfin for Android TV is an enhanced Jellyfin client derived from the official Jellyfin Android TV project, optimized for a different viewing experience on Android TV, Nvidia Shield, and Amazon Fire TV devices. Moonfin also supports Emby Server 4.8.0.0+, allowing you to connect to either Jellyfin or Emby from a single app.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>SkySend | Encrypted File &amp; Note Sharing</title>
+      <link>https://deuts.org/x/853-skysend-encrypted-file-note-sharing/</link>
+      <pubDate>Mon, 04 May 2026 00:40:17 +0800</pubDate>
+      <guid>https://deuts.org/x/853-skysend-encrypted-file-note-sharing/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-853&#34;&gt;&lt;a href=&#34;https://skysend.ch/&#34;&gt;SkySend | Encrypted File &amp;amp; Note Sharing&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-853 {
+    background: url(&#39;https://bm.deuts.org/static/https_skysend_ch.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Share files and notes securely and encrypted with SkySend. Whether texts, passwords, SSH keys or code snippets - all end-to-end encrypted, automatically deleted, and completely free.
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    This is an alternative to Enclosed, but with API support. I wonder when will it offer username and password for admin, though.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-853"><a href="https://skysend.ch/">SkySend | Encrypted File &amp; Note Sharing</a></h3>
+<style>
+.favicon-853 {
+    background: url('https://bm.deuts.org/static/https_skysend_ch.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Share files and notes securely and encrypted with SkySend. Whether texts, passwords, SSH keys or code snippets - all end-to-end encrypted, automatically deleted, and completely free.
+</blockquote>
+  
+<div class="linkding-notes">
+    This is an alternative to Enclosed, but with API support. I wonder when will it offer username and password for admin, though.
+</div>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KQ965KDH70B3YTGPJGW9Y3P5</title>
       <link>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</link>
@@ -137,75 +214,6 @@
       <guid>https://deuts.org/x/2026-04-25-16-06-41-01kq1ttdbdew6efgdf4gk31k68/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fosstodon.org/@nextgraph&#34;&gt;@nextgraph&lt;/a&gt; Sorry about that. The original link was to my publicly shared notes. I updated it based on the 2 app&amp;rsquo;s current capabilities, and made a blog post. You may check it here: &lt;a href=&#34;https://deuts.org/p/docmost-vs-outline-comparison/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><a href="https://fosstodon.org/@nextgraph">@nextgraph</a> Sorry about that. The original link was to my publicly shared notes. I updated it based on the 2 app&rsquo;s current capabilities, and made a blog post. You may check it here: <a href="https://deuts.org/p/docmost-vs-outline-comparison/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KPWHEYNAEQR2628GR7EM1BNQ</title>
-      <link>https://deuts.org/x/2026-04-23-14-46-56-01kpwheynaeqr2628gr7em1bnq/</link>
-      <pubDate>Thu, 23 Apr 2026 14:46:56 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-23-14-46-56-01kpwheynaeqr2628gr7em1bnq/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt; is a great software. Loving it over other reverse proxy apps. But this resource usage is just so annoying.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a> is a great software. Loving it over other reverse proxy apps. But this resource usage is just so annoying.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>n8n Workflow for LinkedIn Job Search</title>
-      <link>https://deuts.org/x/849-n8n-workflow-for-linkedin-job-search/</link>
-      <pubDate>Thu, 23 Apr 2026 14:18:37 +0800</pubDate>
-      <guid>https://deuts.org/x/849-n8n-workflow-for-linkedin-job-search/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-849&#34;&gt;&lt;a href=&#34;https://github.com/CoderOO7/n8n-automate-job-apply&#34;&gt;n8n Workflow for LinkedIn Job Search&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-849 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An autonomous AI agent that runs every weekday morning, scrapes LinkedIn for fresh job postings, scores them against your profile, and delivers matched jobs with ready-to-send cold emails directly to your Google Sheet and inbox.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-849"><a href="https://github.com/CoderOO7/n8n-automate-job-apply">n8n Workflow for LinkedIn Job Search</a></h3>
-<style>
-.favicon-849 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An autonomous AI agent that runs every weekday morning, scrapes LinkedIn for fresh job postings, scores them against your profile, and delivers matched jobs with ready-to-send cold emails directly to your Google Sheet and inbox.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Why I Switched from WordPress to Hugo</title>
-      <link>https://deuts.org/x/847-why-i-switched-from-wordpress-to-hugo/</link>
-      <pubDate>Thu, 16 Apr 2026 07:22:48 +0800</pubDate>
-      <guid>https://deuts.org/x/847-why-i-switched-from-wordpress-to-hugo/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-847&#34;&gt;&lt;a href=&#34;https://hmmr.online/posts/why-hugo-not-wordpress/&#34;&gt;Why I Switched from WordPress to Hugo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-847 {
-    background: url(&#39;https://bm.deuts.org/static/https_hmmr_online.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    I used WordPress for years before switching to Hugo. Static HTML, no database, no plugins, 100/100 Lighthouse. Here is why I am not going back.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-847"><a href="https://hmmr.online/posts/why-hugo-not-wordpress/">Why I Switched from WordPress to Hugo</a></h3>
-<style>
-.favicon-847 {
-    background: url('https://bm.deuts.org/static/https_hmmr_online.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    I used WordPress for years before switching to Hugo. Static HTML, no database, no plugins, 100/100 Lighthouse. Here is why I am not going back.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>

@@ -16,10 +16,31 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/alerts/</loc>
-    <lastmod>2026-04-29T00:32:36+08:00</lastmod>
+    <loc>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</loc>
+    <lastmod>2026-05-04T00:56:39+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2026-05-04T00:56:39+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-05-04T00:56:39+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/jellyfin/</loc>
+    <lastmod>2026-05-04T00:41:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/854-moonfin/</loc>
+    <lastmod>2026-05-04T00:41:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-05-04T00:41:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/encryption/</loc>
+    <lastmod>2026-05-04T00:40:17+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/853-skysend-encrypted-file-note-sharing/</loc>
+    <lastmod>2026-05-04T00:40:17+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/t/alerts/</loc>
     <lastmod>2026-04-29T00:32:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/notification/</loc>
@@ -34,9 +55,6 @@
     <loc>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</loc>
     <lastmod>2026-04-28T12:39:43+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-04-28T12:39:43+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/livesync/</loc>
     <lastmod>2026-04-28T07:42:49+08:00</lastmod>
   </url><url>
@@ -47,9 +65,6 @@
     <lastmod>2026-04-28T07:42:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/couchdb/</loc>
-    <lastmod>2026-04-28T01:52:37+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-04-28T01:52:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/851-setting-up-obsidian-livesync-with-couchdb/</loc>
@@ -1414,9 +1429,6 @@
     <loc>https://deuts.org/x/570-finetic-jellyfin-client/</loc>
     <lastmod>2025-08-09T00:27:31+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/jellyfin/</loc>
-    <lastmod>2025-08-09T00:27:31+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/gotosocial/</loc>
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
   </url><url>
@@ -1866,9 +1878,6 @@
   </url><url>
     <loc>https://deuts.org/x/484-gomft-go-managed-file-transfer/</loc>
     <lastmod>2025-05-28T08:57:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/encryption/</loc>
-    <lastmod>2025-05-26T22:41:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/luks/</loc>
     <lastmod>2025-05-26T22:41:04+08:00</lastmod>
