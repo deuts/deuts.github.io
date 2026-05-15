@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 05 May 2026 07:19:52 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:47:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KRN2SZCN6W6K2TE5RG44AVM8</title>
+      <link>https://deuts.org/x/2026-05-15-13-47-32-01krn2szcn6w6k2te5rg44avm8/</link>
+      <pubDate>Fri, 15 May 2026 13:47:32 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-15-13-47-32-01krn2szcn6w6k2te5rg44avm8/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&amp;rsquo;m the oldest remote worker around.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&rsquo;m the oldest remote worker around.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KQTMMZ3QQKK61D9RPWKTGC2C</title>
       <link>https://deuts.org/x/2026-05-05-07-19-52-01kqtmmz3qqkk61d9rpwktgc2c/</link>
@@ -243,19 +252,6 @@
     This is an alternative to Enclosed, but with API support. I wonder when will it offer username and password for admin, though.
 </div>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQ965KDH70B3YTGPJGW9Y3P5</title>
-      <link>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</link>
-      <pubDate>Tue, 28 Apr 2026 12:39:43 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-04-28-12-39-43-01kq965kdh70b3ytgpjgw9y3p5/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;AFPSLAI declares an Expected Distribution Advance (EDA) rate of 13.5% per annum or 3.375% for the 1st Quarter 2026. EDA payout and release of checks representing excess CCA/EDA starts on April 27, 2026 (Monday).&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Sad news for AFPSLAI investors, dividend decreased from the previous 17% to 13.5% per annum.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<blockquote>
-<p>AFPSLAI declares an Expected Distribution Advance (EDA) rate of 13.5% per annum or 3.375% for the 1st Quarter 2026. EDA payout and release of checks representing excess CCA/EDA starts on April 27, 2026 (Monday).</p></blockquote>
-<p>Sad news for AFPSLAI investors, dividend decreased from the previous 17% to 13.5% per annum.</p>
 ]]></content:encoded>
     </item>
   </channel>
