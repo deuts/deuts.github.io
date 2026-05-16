@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 15 May 2026 17:03:18 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 14:21:18 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KRQQ4HMG1EH0G6PXRC5DYGV2</title>
+      <link>https://deuts.org/x/2026-05-16-14-21-18-01krqq4hmg1eh0g6pxrc5dygv2/</link>
+      <pubDate>Sat, 16 May 2026 14:21:18 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-16-14-21-18-01krqq4hmg1eh0g6pxrc5dygv2/</guid>
+      <description>&lt;p&gt;Aside from consuming too many resources, especially memory, my other gripe with &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;, at least for its community edition, which a lot of members of the &lt;a href=&#34;https://fediwall.social/?tags=selfhosted&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23selfhosted&#34;&gt;#selfhosted&lt;/a&gt; community love, quite a number of its features are getting put behind their paywall. Time for the community to step up and offer a better solution.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Aside from consuming too many resources, especially memory, my other gripe with <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>, at least for its community edition, which a lot of members of the <a href="https://fediwall.social/?tags=selfhosted&amp;accounts=&amp;lang=en&amp;title=%23selfhosted">#selfhosted</a> community love, quite a number of its features are getting put behind their paywall. Time for the community to step up and offer a better solution.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KRNE0ESDA0HF6Z8GFS6YXBKB</title>
       <link>https://deuts.org/x/2026-05-15-17-03-18-01krne0esda0hf6z8gfs6yxbkb/</link>
@@ -193,15 +202,6 @@
     Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQQCAJ35R3VQQFH7M8FB5Z5V</title>
-      <link>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</link>
-      <pubDate>Mon, 04 May 2026 00:56:39 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-04-00-56-39-01kqqcaj35r3vqqfh7m8fb5z5v/</guid>
-      <description>&lt;p&gt;I hate it that almost all links in the Pangolin dashboard are behind the Enterprise paywall. Can&amp;rsquo;t we just use an app without these prompts to upgrade our accounts? I hate it!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I hate it that almost all links in the Pangolin dashboard are behind the Enterprise paywall. Can&rsquo;t we just use an app without these prompts to upgrade our accounts? I hate it!</p>
 ]]></content:encoded>
     </item>
   </channel>
