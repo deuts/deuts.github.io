@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation | Deuts Log</title>
-<meta name="keywords" content="wiki, documentation">
+<meta name="keywords" content="wiki, documentation, selfhosting">
 <meta name="description" content="Compare Docmost and Outline across key features like authentication, API access, diagram support, and document sharing to decide which fits your workflow better.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/docmost-vs-outline-comparison/">
@@ -40,6 +40,7 @@
     <meta property="article:modified_time" content="2026-04-25T14:50:21+08:00">
     <meta property="article:tag" content="Wiki">
     <meta property="article:tag" content="Documentation">
+    <meta property="article:tag" content="Selfhosting">
     <meta property="og:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://deuts.org/p/docmost-vs-outline-comparison/cover.jpg">
@@ -56,7 +57,7 @@
   "name": "Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation",
   "description": "Compare Docmost and Outline across key features like authentication, API access, diagram support, and document sharing to decide which fits your workflow better.",
   "keywords": [
-    "wiki", "documentation"
+    "wiki", "documentation", "selfhosting"
   ],
   "articleBody": "If you’re choosing a self-hosted knowledge base, two strong options are Outline and Docmost. Both are modern, clean, and Markdown-friendly—but they differ in ways that matter depending on how you work.\nHere’s a practical comparison based on actual usage.\nOutline vs. Docmost Authentication This is one of the biggest operational differences.\nOutline requires an external identity provider (Slack, Google, OIDC, etc.). This is flexible and production-ready, but adds setup overhead.\nDocmost includes built-in authentication, allowing you to get started without external services. However, SSO/OIDC support is only available on paid licenses.\nIf you’re running a homelab or small team setup, Docmost is simpler. For environments that require SSO or centralized identity management, Outline is more accessible since it supports OIDC even on free self-hosted installs.\nAPI and automation Outline provides a well-documented API (GraphQL) and supports webhooks, even on free self-hosted installs. It’s suitable for automation, integrations, and event-driven workflows.\nDocmost provides API access with documentation, but this is limited to paid licenses and does not currently include webhook support.\nIf automation and event-driven integrations are a priority, Outline is clearly ahead.\nPublic sharing and access control Both tools support public sharing, but with limitations and differences in granularity.\nFeature Outline Docmost Public sharing scope Collection level down to individual pages Page/document level (no workspace-level public sharing) Password protection for public links Not supported Not supported Internal sharing (same instance) Collection, page, and subpage level Workspace level only Public links can be generated in both tools, but neither supports adding a password layer, which would be useful for client-facing documents.\nFor internal collaboration, Outline offers more granular control by allowing sharing at the collection, page, and subpage level. In contrast, Docmost limits sharing to the workspace level, with no page-level permission control.\nDiagram support (Draw.io / diagrams.net / Excalidraw) Feature Outline Docmost diagrams.net (Draw.io) Supported via / command, opens external editor and syncs back Supported with similar workflow Excalidraw Not supported natively Built-in, can create and edit inline If you rely heavily on lightweight, embedded diagrams (especially Excalidraw), Docmost has an edge.\nDate insertion Using /date in both tools inserts a formatted date, but the output differs:\nOutline: 28 June 2025 Docmost: June 28, 2025 Neither tool currently allows customizing this format. This comes down to preference, but Docmost’s format may feel more natural if you’re used to US-style dates.\nFinal thoughts Choose Outline if you need:\nStrong API and automation (including webhooks) More granular access control and sharing Integration with existing identity providers (OIDC, Slack, etc.) without licensing restrictions A more mature and extensible ecosystem Choose Docmost if you want:\nFaster setup with built-in authentication Native Excalidraw support A simpler, more self-contained stack If you’re willing to spend time setting up OIDC or an external identity provider, Outline is the more capable long-term solution, especially for automation, structured collaboration, and SSO without additional licensing.\nDocmost is a solid option for simpler setups, but trades off flexibility and advanced features (like SSO and webhooks) behind paid tiers.\nDisclaimer\rThis post was drafted with the help of AI, based on my own notes and verification. All comparisons and conclusions reflect my actual usage and assessment. ",
   "wordCount" : "524",
@@ -326,6 +327,7 @@ This post was drafted with the help of AI, based on my own notes and verificatio
       <li><a href="https://deuts.org/a/outline/">Outline</a></li>
       <li><a href="https://deuts.org/t/wiki/">Wiki</a></li>
       <li><a href="https://deuts.org/t/documentation/">Documentation</a></li>
+      <li><a href="https://deuts.org/t/selfhosting/">Selfhosting</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://deuts.org/p/pushover-api-limit/">
@@ -344,7 +346,7 @@ This post was drafted with the help of AI, based on my own notes and verificatio
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Docmost vs Outline: A Practical Comparison for Self-Hosted Documentation on x"
-            href="https://x.com/intent/tweet/?text=Docmost%20vs%20Outline%3a%20A%20Practical%20Comparison%20for%20Self-Hosted%20Documentation&amp;url=https%3a%2f%2fdeuts.org%2fp%2fdocmost-vs-outline-comparison%2f&amp;hashtags=wiki%2cdocumentation">
+            href="https://x.com/intent/tweet/?text=Docmost%20vs%20Outline%3a%20A%20Practical%20Comparison%20for%20Self-Hosted%20Documentation&amp;url=https%3a%2f%2fdeuts.org%2fp%2fdocmost-vs-outline-comparison%2f&amp;hashtags=wiki%2cdocumentation%2cselfhosting">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
