@@ -40,7 +40,7 @@
     <loc>https://deuts.org/a/pangolin/</loc>
     <lastmod>2026-05-19T13:06:48+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/t/selfhosted/</loc>
+    <loc>https://deuts.org/t/selfhosting/</loc>
     <lastmod>2026-05-19T13:06:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/t/sso/</loc>
@@ -812,9 +812,6 @@
     <lastmod>2026-01-13T19:14:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/a/kopia/</loc>
-    <lastmod>2026-01-13T19:14:57+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/t/selfhosting/</loc>
     <lastmod>2026-01-13T19:14:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/p/trigger-webhook-kopia-backup/</loc>

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Using Dex as an OIDC Provider for Pangolin | Deuts Log</title>
-<meta name="keywords" content="oidc, authentication, selfhosted, docker, sso">
+<meta name="keywords" content="oidc, authentication, selfhosting, docker, sso">
 <meta name="description" content="Configure Dex as an OIDC provider for Pangolin with Traefik, including working OIDC mappings and internal DNS configuration.">
 <meta name="author" content="">
 <link rel="canonical" href="https://deuts.org/p/dex-oidc-pangolin/">
@@ -40,7 +40,7 @@
     <meta property="article:modified_time" content="2026-05-19T13:06:48+08:00">
     <meta property="article:tag" content="Oidc">
     <meta property="article:tag" content="Authentication">
-    <meta property="article:tag" content="Selfhosted">
+    <meta property="article:tag" content="Selfhosting">
     <meta property="article:tag" content="Docker">
     <meta property="article:tag" content="Sso">
     <meta property="og:image" content="https://deuts.org/p/dex-oidc-pangolin/dex-pangolin.jpg">
@@ -59,7 +59,7 @@
   "name": "Using Dex as an OIDC Provider for Pangolin",
   "description": "Configure Dex as an OIDC provider for Pangolin with Traefik, including working OIDC mappings and internal DNS configuration.",
   "keywords": [
-    "oidc", "authentication", "selfhosted", "docker", "sso"
+    "oidc", "authentication", "selfhosting", "docker", "sso"
   ],
   "articleBody": "Dex is a lightweight and minimal OpenID Connect (OIDC) provider designed for simple and self-hosted authentication setups. It is easy to deploy, integrates well with reverse proxies such as Traefik, and provides centralized authentication for applications like Pangolin without the complexity and resource overhead of larger identity platforms.\nThis guide shows a working setup for integrating Dex as the OIDC provider for Pangolin behind Traefik.\nArchitecture Example setup:\nInternet ↓ Traefik ├── Pangolin └── Dex Example domains:\nDex: https://dex.example.com Pangolin: https://pangolin.example.com Dex Configuration Example config.yaml:\nissuer: https://dex.example.com storage: type: memory web: http: 0.0.0.0:5556 staticClients: - id: pangolin name: Pangolin secret: CHANGE_ME redirectURIs: - https://pangolin.example.com/auth/idp/5/oidc/callback staticPasswords: - email: admin@example.com hash: \"$2y$10$aQKUyEGDvtFl2SiAlKdpIevZlh90nI/0Hq0W1GuqiXIeTstk/O/8m\" Traefik dynamic_config.yml Dex needs to be exposed directly through Traefik and should not be routed through Pangolin’s protected authentication flow. Add the following to Pangolin’s config/traefik/dynamic_config.yml:\nhttp: routers: dex: entryPoints: - websecure rule: \"Host(`dex.example.com`)\" service: dex-service tls: certResolver: letsencrypt services: dex-service: loadBalancer: servers: - url: \"http://dex:5556\" This assumes:\nDex container name is dex Dex listens on port 5556 Dex and Traefik share the same Docker network Pangolin OIDC Configuration Configure Pangolin with the following values:\nClient ID: pangolin Client Secret: CHANGE_ME Authorization URL: https://dex.example.com/auth Token URL: https://dex.example.com/token Identifier Path: email Email Path (Optional): email Name Path (Optional): name Scopes: openid profile email It is important that Identifier Path is set to email. This setup will not work using the default sub path.\nInternal DNS Resolution The Pangolin container must be able to resolve the Dex hostname internally. This helps avoid hairpin NAT or internal DNS resolution issues when Pangolin attempts to reach Dex through its public domain during the OIDC token exchange.\nAdd this to the Pangolin service in compose.yml:\nextra_hosts: - \"dex.example.com:192.168.100.10\" Replace 192.168.100.10 with the internal IP address of the Traefik host. You can use Tailscale IP address if you want.\nVerifying Dex Discovery Verify the OIDC discovery endpoint:\nhttps://dex.example.com/.well-known/openid-configuration A working configuration should return endpoints similar to:\n{ \"issuer\": \"https://dex.example.com\", \"authorization_endpoint\": \"https://dex.example.com/auth\", \"token_endpoint\": \"https://dex.example.com/token\", \"userinfo_endpoint\": \"https://dex.example.com/userinfo\", \"jwks_uri\": \"https://dex.example.com/keys\" } Security Notes It is normal for Dex to be publicly accessible.\nOIDC providers are expected to expose endpoints such as:\n/.well-known/openid-configuration /auth /token /userinfo /keys Security is enforced through:\nHTTPS client secrets redirect URI validation signed JWT tokens password hashing Final Notes Dex provides a lightweight and simple OIDC solution for self-hosted environments and works well with Pangolin once the DNS and claim mappings are configured correctly.\n",
   "wordCount" : "399",
@@ -332,7 +332,7 @@
       <li><a href="https://deuts.org/a/traefik/">Traefik</a></li>
       <li><a href="https://deuts.org/t/oidc/">Oidc</a></li>
       <li><a href="https://deuts.org/t/authentication/">Authentication</a></li>
-      <li><a href="https://deuts.org/t/selfhosted/">Selfhosted</a></li>
+      <li><a href="https://deuts.org/t/selfhosting/">Selfhosting</a></li>
       <li><a href="https://deuts.org/t/docker/">Docker</a></li>
       <li><a href="https://deuts.org/t/sso/">Sso</a></li>
     </ul>
@@ -348,7 +348,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Using Dex as an OIDC Provider for Pangolin on x"
-            href="https://x.com/intent/tweet/?text=Using%20Dex%20as%20an%20OIDC%20Provider%20for%20Pangolin&amp;url=https%3a%2f%2fdeuts.org%2fp%2fdex-oidc-pangolin%2f&amp;hashtags=oidc%2cauthentication%2cselfhosted%2cdocker%2csso">
+            href="https://x.com/intent/tweet/?text=Using%20Dex%20as%20an%20OIDC%20Provider%20for%20Pangolin&amp;url=https%3a%2f%2fdeuts.org%2fp%2fdex-oidc-pangolin%2f&amp;hashtags=oidc%2cauthentication%2cselfhosting%2cdocker%2csso">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
