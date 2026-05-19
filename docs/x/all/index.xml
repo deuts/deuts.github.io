@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 16 May 2026 14:21:18 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:32:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KRZBHC1XNEGDWP0MH8WSJQ7G</title>
+      <link>https://deuts.org/x/2026-05-19-13-32-31-01krzbhc1xnegdwp0mh8wsjq7g/</link>
+      <pubDate>Tue, 19 May 2026 13:32:31 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-19-13-32-31-01krzbhc1xnegdwp0mh8wsjq7g/</guid>
+      <description>&lt;p&gt;When setting &lt;a href=&#34;https://fediwall.social/?tags=Dex&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Dex&#34;&gt;#Dex&lt;/a&gt; as OIDC provider for &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;, it is important to use &lt;code&gt;email&lt;/code&gt; as the Identifier Path. The default &lt;code&gt;sub&lt;/code&gt; will not work. Try it! &lt;a href=&#34;https://deuts.org/p/dex-oidc-pangolin/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When setting <a href="https://fediwall.social/?tags=Dex&amp;accounts=&amp;lang=en&amp;title=%23Dex">#Dex</a> as OIDC provider for <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>, it is important to use <code>email</code> as the Identifier Path. The default <code>sub</code> will not work. Try it! <a href="https://deuts.org/p/dex-oidc-pangolin/">deuts.org/∞</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KRQQ4HMG1EH0G6PXRC5DYGV2</title>
       <link>https://deuts.org/x/2026-05-16-14-21-18-01krqq4hmg1eh0g6pxrc5dygv2/</link>
@@ -170,36 +179,6 @@
 
 <blockquote class="linkding-description">
     A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Faved</title>
-      <link>https://deuts.org/x/855-faved/</link>
-      <pubDate>Mon, 04 May 2026 01:16:01 +0800</pubDate>
-      <guid>https://deuts.org/x/855-faved/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-855&#34;&gt;&lt;a href=&#34;https://github.com/denho/faved&#34;&gt;Faved&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-855 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-855"><a href="https://github.com/denho/faved">Faved</a></h3>
-<style>
-.favicon-855 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 </blockquote>
   
 ]]></content:encoded>
