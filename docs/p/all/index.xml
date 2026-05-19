@@ -7,8 +7,135 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 29 Apr 2026 00:32:36 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:06:48 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Dex as an OIDC Provider for Pangolin</title>
+      <link>https://deuts.org/p/dex-oidc-pangolin/</link>
+      <pubDate>Tue, 19 May 2026 13:06:48 +0800</pubDate>
+      <guid>https://deuts.org/p/dex-oidc-pangolin/</guid>
+      <description>Configure Dex as an OIDC provider for Pangolin with Traefik, including working OIDC mappings and internal DNS configuration.</description>
+      <content:encoded><![CDATA[<p>Dex is a lightweight and minimal OpenID Connect (OIDC) provider designed for simple and self-hosted authentication setups. It is easy to deploy, integrates well with reverse proxies such as Traefik, and provides centralized authentication for applications like Pangolin without the complexity and resource overhead of larger identity platforms.</p>
+<p>This guide shows a working setup for integrating Dex as the OIDC provider for Pangolin behind Traefik.</p>
+<h2 id="architecture">Architecture</h2>
+<p>Example setup:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Internet
+</span></span><span style="display:flex;"><span>   ↓
+</span></span><span style="display:flex;"><span>Traefik
+</span></span><span style="display:flex;"><span>   ├── Pangolin
+</span></span><span style="display:flex;"><span>   └── Dex
+</span></span></code></pre></div><p>Example domains:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Dex:
+</span></span><span style="display:flex;"><span>https://dex.example.com
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Pangolin:
+</span></span><span style="display:flex;"><span>https://pangolin.example.com
+</span></span></code></pre></div><h2 id="dex-configuration">Dex Configuration</h2>
+<p>Example <code>config.yaml</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">issuer</span>: <span style="color:#ae81ff">https://dex.example.com</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">storage</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">type</span>: <span style="color:#ae81ff">memory</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">web</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">http</span>: <span style="color:#ae81ff">0.0.0.0</span>:<span style="color:#ae81ff">5556</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">staticClients</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">id</span>: <span style="color:#ae81ff">pangolin</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Pangolin</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">secret</span>: <span style="color:#ae81ff">CHANGE_ME</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">redirectURIs</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">https://pangolin.example.com/auth/idp/5/oidc/callback</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">staticPasswords</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">email</span>: <span style="color:#ae81ff">admin@example.com</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">hash</span>: <span style="color:#e6db74">&#34;$2y$10$aQKUyEGDvtFl2SiAlKdpIevZlh90nI/0Hq0W1GuqiXIeTstk/O/8m&#34;</span>
+</span></span></code></pre></div><h2 id="traefik-dynamic_configyml">Traefik dynamic_config.yml</h2>
+<p>Dex needs to be exposed directly through Traefik and should not be routed through Pangolin&rsquo;s protected authentication flow. Add the following to Pangolin&rsquo;s <code>config/traefik/dynamic_config.yml</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">http</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">routers</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">dex</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">entryPoints</span>:
+</span></span><span style="display:flex;"><span>        - <span style="color:#ae81ff">websecure</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">rule</span>: <span style="color:#e6db74">&#34;Host(`dex.example.com`)&#34;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">service</span>: <span style="color:#ae81ff">dex-service</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">tls</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">certResolver</span>: <span style="color:#ae81ff">letsencrypt</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">dex-service</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">loadBalancer</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">servers</span>:
+</span></span><span style="display:flex;"><span>          - <span style="color:#f92672">url</span>: <span style="color:#e6db74">&#34;http://dex:5556&#34;</span>
+</span></span></code></pre></div><p>This assumes:</p>
+<ul>
+<li>Dex container name is <code>dex</code></li>
+<li>Dex listens on port <code>5556</code></li>
+<li>Dex and Traefik share the same Docker network</li>
+</ul>
+<h2 id="pangolin-oidc-configuration">Pangolin OIDC Configuration</h2>
+<p>Configure Pangolin with the following values:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Client ID:
+</span></span><span style="display:flex;"><span>pangolin
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Client Secret:
+</span></span><span style="display:flex;"><span>CHANGE_ME
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Authorization URL:
+</span></span><span style="display:flex;"><span>https://dex.example.com/auth
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Token URL:
+</span></span><span style="display:flex;"><span>https://dex.example.com/token
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Identifier Path:
+</span></span><span style="display:flex;"><span>email
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Email Path (Optional):
+</span></span><span style="display:flex;"><span>email
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Name Path (Optional):
+</span></span><span style="display:flex;"><span>name
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Scopes:
+</span></span><span style="display:flex;"><span>openid profile email
+</span></span></code></pre></div><p>It is important that Identifier Path is set to <code>email</code>. This setup will not work using the default <code>sub</code> path.</p>
+<h2 id="internal-dns-resolution">Internal DNS Resolution</h2>
+<p>The Pangolin container must be able to resolve the Dex hostname internally. This helps avoid hairpin NAT or internal DNS resolution issues when Pangolin attempts to reach Dex through its public domain during the OIDC token exchange.</p>
+<p>Add this to the Pangolin service in compose.yml:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">extra_hosts</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#e6db74">&#34;dex.example.com:192.168.100.10&#34;</span>
+</span></span></code></pre></div><p>Replace <code>192.168.100.10</code> with the internal IP address of the Traefik host. You can use Tailscale IP address if you want.</p>
+<h2 id="verifying-dex-discovery">Verifying Dex Discovery</h2>
+<p>Verify the OIDC discovery endpoint:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>https://dex.example.com/.well-known/openid-configuration
+</span></span></code></pre></div><p>A working configuration should return endpoints similar to:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;issuer&#34;</span>: <span style="color:#e6db74">&#34;https://dex.example.com&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;authorization_endpoint&#34;</span>: <span style="color:#e6db74">&#34;https://dex.example.com/auth&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;token_endpoint&#34;</span>: <span style="color:#e6db74">&#34;https://dex.example.com/token&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;userinfo_endpoint&#34;</span>: <span style="color:#e6db74">&#34;https://dex.example.com/userinfo&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;jwks_uri&#34;</span>: <span style="color:#e6db74">&#34;https://dex.example.com/keys&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h2 id="security-notes">Security Notes</h2>
+<p>It is normal for Dex to be publicly accessible.</p>
+<p>OIDC providers are expected to expose endpoints such as:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>/.well-known/openid-configuration
+</span></span><span style="display:flex;"><span>/auth
+</span></span><span style="display:flex;"><span>/token
+</span></span><span style="display:flex;"><span>/userinfo
+</span></span><span style="display:flex;"><span>/keys
+</span></span></code></pre></div><p>Security is enforced through:</p>
+<ul>
+<li>HTTPS</li>
+<li>client secrets</li>
+<li>redirect URI validation</li>
+<li>signed JWT tokens</li>
+<li>password hashing</li>
+</ul>
+<h2 id="final-notes">Final Notes</h2>
+<p>Dex provides a lightweight and simple OIDC solution for self-hosted environments and works well with Pangolin once the DNS and claim mappings are configured correctly.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Pushover new API usage limit</title>
       <link>https://deuts.org/p/pushover-api-limit/</link>
@@ -765,17 +892,6 @@ The features listed in the table below are the ones I find important to me perso
 <p>After comparing these three wiki platforms, I find that Wiki-Go best suits my documentation workflow. Its clean URL structure, straightforward user interface, and built-in commenting system provide everything I need without unnecessary complexity. The ability to move and rename documents directly in the UI is particularly useful for maintaining organized documentation.</p>
 <p>WikiDocs offers similar simplicity with the added benefit of automatic sitemap generation, while Otterwiki excels in advanced editing features and flexibility. Each platform has distinct advantages depending on your specific needs.</p>
 <p>The beauty of file-based wikis is that your content remains portable as Markdown files, allowing you to easily migrate between platforms as your requirements evolve.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Samsung Galaxy S24 FE</title>
-      <link>https://deuts.org/p/samsung-galaxy-s24-fe/</link>
-      <pubDate>Sat, 03 May 2025 23:25:40 +0800</pubDate>
-      <guid>https://deuts.org/p/samsung-galaxy-s24-fe/</guid>
-      <description>Still priced at Php36,990, the Samsung Galaxy S24 FE 256GB is a tempting but pricey upgrade.</description>
-      <content:encoded><![CDATA[<p>Samsung’s FE (Fan Edition) line has always offered flagship-level features at a more reasonable price point, and the Galaxy S24 FE looks no different. With an expected blend of performance, camera upgrades, and Samsung’s trademark display quality, it&rsquo;s a compelling option for anyone looking to upgrade their smartphone.</p>
-<p>However, the current price tag of Php36,990 for the 256GB variant puts it out of the “value for money” range for many, especially for those already using a previous FE model like the Galaxy S20 FE—which still holds up decently in 2025.</p>
-<p>Should the Samsung Galaxy S24 FE with the 256GB storage become available at less than Php30,000.00, I’ll probably consider getting one, to replace my aging Samsung Galaxy S20 FE.</p>
 ]]></content:encoded>
     </item>
   </channel>
