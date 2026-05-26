@@ -7,8 +7,139 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 19 May 2026 13:32:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:46:22 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KSHTV727RMXBTVPXJNCTF1X1</title>
+      <link>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</link>
+      <pubDate>Tue, 26 May 2026 17:46:22 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</guid>
+      <description>&lt;p&gt;In n8n, &amp;ldquo;Bearer Auth&amp;rdquo; and &amp;ldquo;Header Auth&amp;rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&amp;rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&amp;rsquo;s the only difference.
+&lt;a href=&#34;https://fediwall.social/?tags=n8n&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23n8n&#34;&gt;#n8n&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=selfhosted&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23selfhosted&#34;&gt;#selfhosted&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In n8n, &ldquo;Bearer Auth&rdquo; and &ldquo;Header Auth&rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&rsquo;s the only difference.
+<a href="https://fediwall.social/?tags=n8n&amp;accounts=%E2%9F%A8=en&amp;title=%23n8n">#n8n</a> <a href="https://fediwall.social/?tags=selfhosted&amp;accounts=%E2%9F%A8=en&amp;title=%23selfhosted">#selfhosted</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lumina FInance</title>
+      <link>https://deuts.org/x/864-lumina-finance/</link>
+      <pubDate>Sat, 23 May 2026 02:52:59 +0800</pubDate>
+      <guid>https://deuts.org/x/864-lumina-finance/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-864&#34;&gt;&lt;a href=&#34;https://github.com/Lumina-Finance/lumina-finance&#34;&gt;Lumina FInance&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-864 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A feature rich, self hostable alternative for managing your personal finances
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-864"><a href="https://github.com/Lumina-Finance/lumina-finance">Lumina FInance</a></h3>
+<style>
+.favicon-864 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A feature rich, self hostable alternative for managing your personal finances
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FormTo</title>
+      <link>https://deuts.org/x/863-formto/</link>
+      <pubDate>Sat, 23 May 2026 02:52:15 +0800</pubDate>
+      <guid>https://deuts.org/x/863-formto/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-863&#34;&gt;&lt;a href=&#34;https://github.com/lumizone/formto&#34;&gt;FormTo&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-863 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.  - lumizone/formto: FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-863"><a href="https://github.com/lumizone/formto">FormTo</a></h3>
+<style>
+.favicon-863 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.  - lumizone/formto: FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Condensit</title>
+      <link>https://deuts.org/x/862-condensit/</link>
+      <pubDate>Sat, 23 May 2026 02:51:02 +0800</pubDate>
+      <guid>https://deuts.org/x/862-condensit/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-862&#34;&gt;&lt;a href=&#34;https://github.com/wildlifechorus/condenseit&#34;&gt;Condensit&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-862 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama) or OpenRouter, learn your preferences from star ratings and engagement signals, and read a daily digest in the browser.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-862"><a href="https://github.com/wildlifechorus/condenseit">Condensit</a></h3>
+<style>
+.favicon-862 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama) or OpenRouter, learn your preferences from star ratings and engagement signals, and read a daily digest in the browser.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Actual MCP</title>
+      <link>https://deuts.org/x/861-actual-mcp/</link>
+      <pubDate>Sat, 23 May 2026 02:45:20 +0800</pubDate>
+      <guid>https://deuts.org/x/861-actual-mcp/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-861&#34;&gt;&lt;a href=&#34;https://github.com/s-stefanov/actual-mcp&#34;&gt;Actual MCP&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-861 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Model Context Protocol for Actual Budget API.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-861"><a href="https://github.com/s-stefanov/actual-mcp">Actual MCP</a></h3>
+<style>
+.favicon-861 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Model Context Protocol for Actual Budget API.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KRZBHC1XNEGDWP0MH8WSJQ7G</title>
       <link>https://deuts.org/x/2026-05-19-13-32-31-01krzbhc1xnegdwp0mh8wsjq7g/</link>
@@ -52,135 +183,6 @@
       <guid>https://deuts.org/x/2026-05-15-13-47-32-01krn2szcn6w6k2te5rg44avm8/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&amp;rsquo;m the oldest remote worker around.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I&rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&rsquo;m the oldest remote worker around.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KQTMMZ3QQKK61D9RPWKTGC2C</title>
-      <link>https://deuts.org/x/2026-05-05-07-19-52-01kqtmmz3qqkk61d9rpwktgc2c/</link>
-      <pubDate>Tue, 05 May 2026 07:19:52 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-05-07-19-52-01kqtmmz3qqkk61d9rpwktgc2c/</guid>
-      <description>&lt;p&gt;Obsidian Tasks plugin is getting a lot of updates, but not the update that matter. Please stop creating default properties with &lt;code&gt;TQ_*&lt;/code&gt; and stop cluttering our properties view. Hope the team work on this issue soon: &lt;a href=&#34;https://github.com/obsidian-tasks-group/obsidian-tasks/issues/3331&#34;&gt;github.com/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Obsidian Tasks plugin is getting a lot of updates, but not the update that matter. Please stop creating default properties with <code>TQ_*</code> and stop cluttering our properties view. Hope the team work on this issue soon: <a href="https://github.com/obsidian-tasks-group/obsidian-tasks/issues/3331">github.com/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Arkeep</title>
-      <link>https://deuts.org/x/859-arkeep/</link>
-      <pubDate>Mon, 04 May 2026 01:22:30 +0800</pubDate>
-      <guid>https://deuts.org/x/859-arkeep/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-859&#34;&gt;&lt;a href=&#34;https://github.com/arkeep-io/arkeep&#34;&gt;Arkeep&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-859 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Manage backups across all your servers from a single dashboard.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-859"><a href="https://github.com/arkeep-io/arkeep">Arkeep</a></h3>
-<style>
-.favicon-859 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Manage backups across all your servers from a single dashboard.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Screentinker</title>
-      <link>https://deuts.org/x/858-screentinker/</link>
-      <pubDate>Mon, 04 May 2026 01:20:06 +0800</pubDate>
-      <guid>https://deuts.org/x/858-screentinker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-858&#34;&gt;&lt;a href=&#34;https://github.com/screentinker/screentinker&#34;&gt;Screentinker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-858 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source digital signage management software. Control content on TVs, displays, and kiosks from anywhere.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-858"><a href="https://github.com/screentinker/screentinker">Screentinker</a></h3>
-<style>
-.favicon-858 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open-source digital signage management software. Control content on TVs, displays, and kiosks from anywhere.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Stashcast</title>
-      <link>https://deuts.org/x/857-stashcast/</link>
-      <pubDate>Mon, 04 May 2026 01:18:22 +0800</pubDate>
-      <guid>https://deuts.org/x/857-stashcast/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-857&#34;&gt;&lt;a href=&#34;https://github.com/jonocodes/stashcast&#34;&gt;Stashcast&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-857 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Save video and audio for later offline use and generate super-custom podcast feeds
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-857"><a href="https://github.com/jonocodes/stashcast">Stashcast</a></h3>
-<style>
-.favicon-857 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Save video and audio for later offline use and generate super-custom podcast feeds
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Borg Backup Server</title>
-      <link>https://deuts.org/x/856-borg-backup-server/</link>
-      <pubDate>Mon, 04 May 2026 01:17:16 +0800</pubDate>
-      <guid>https://deuts.org/x/856-borg-backup-server/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-856&#34;&gt;&lt;a href=&#34;https://github.com/marcpope/borgbackupserver&#34;&gt;Borg Backup Server&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-856 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-856"><a href="https://github.com/marcpope/borgbackupserver">Borg Backup Server</a></h3>
-<style>
-.favicon-856 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
