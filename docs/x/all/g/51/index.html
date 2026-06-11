@@ -93,6 +93,276 @@
   </div>
 </header>
 
+  <article class="asides-post gotosocial-post gotosocial-list asides-list">
+    <div class="asides-post-date nohapd">
+      February 14, 2025
+    </div>
+
+  <div class="gotosocial-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/2025-02-14-13-32-41-01jm1f3rhdnhsx7fyhs4jwt86k/" aria-label="Link to the post">13:32</a>
+        
+      </span>
+    </div>
+    <div class="gotosocial-content asides-content">
+      <p>My <a href="https://fediwall.social/?tags=GoToSocial&amp;accounts=&amp;lang=en&amp;title=%23GoToSocial">#GoToSocial</a> instance is now online. Pulled the image 0.18.0-rc2 and now everything seems back to normal:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">gotosocial</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">superseriousbusiness/gotosocial:0.18.0-rc2</span>
+</span></span></code></pre></div><p>Here&rsquo;s the Github issues that explained what happened: <a href="https://github.com/superseriousbusiness/gotosocial/issues/3787">github.com/∞</a></p>
+<p>I now got the status back up notification from <a href="https://fediwall.social/?tags=UptimeRobot&amp;accounts=&amp;lang=en&amp;title=%23UptimeRobot">#UptimeRobot</a>:</p>
+<blockquote>
+<p>Monitor is UP: Deuts One ( <a href="https://deuts.one">deuts.one/∞</a> ). It was down for 31 hours and 14 minutes.</p></blockquote>
+<h3 id="what-did-we-learn-from-this-experience">What did we learn from this experience?</h3>
+<ol>
+<li>Exclude GoToSocial in <a href="https://fediwall.social/?tags=Watchtower&amp;accounts=&amp;lang=en&amp;title=%23Watchtower">#Watchtower</a> automatic updates.</li>
+<li>Stick to explicit version number in your <code>compose.yml</code> file.</li>
+<li>Time to re-think self-hosting your own Fediverse instance.</li>
+</ol>
+
+      <div class="gotosocial-footer asides-footer">
+        
+          <a href="https://deuts.one/@deuts/statuses/01JM1F3RHDNHSX7FYHS4JWT86K" aria-label="Link to gotosocial">01JM1F3RHDNHSX7FYHS4JWT86K</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post linkding-post linkding-list asides-list">
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/385-reddit-discussion-on-web-scraping-options/" aria-label="Link to the post">07:23</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-385"><a href="https://www.reddit.com/r/selfhosted/s/5sERnYlZ4k">Reddit discussion on web scraping options</a></h3>
+<style>
+.favicon-385 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Scrapes URLs given as input and saves them regardless of JS and other BS
+</blockquote>
+  
+<div class="linkding-notes">
+    Checked out the alternatives. I think I&rsquo;ll settle with Wallabag as I already have one already running. This is especially useful in scraping Philippine Lotto Results.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=385" class="ld-backlink">BM385</a>
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post linkding-post linkding-list asides-list">
+    <div class="asides-post-date nohapd">
+      February 13, 2025
+    </div>
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/384-what-actually-happened-in-the-gotosocial-update-issue/" aria-label="Link to the post">23:36</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-384"><a href="https://gts.superseriousbusiness.org/@gotosocial/statuses/01JKZ56CD7K6P6SY2DVC0JPT8R">What actually happened in the GoToSocial update issue</a></h3>
+<style>
+.favicon-384 {
+    background: url('https://bm.deuts.org/static/https_gts_superseriousbusiness_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Hi all, we&rsquo;ve noticed that some people who used the docker <code>latest</code> tag were already running 0.18.0-rc1 without realizing it. The backport release of 0.17.4 yesterday overwrote the <code>latest</code> tag (because tobi is a boob), so folks pulling the Docker container again may run into issue.
+</blockquote>
+  
+<div class="linkding-notes">
+    I had to fix the tag to 0.18.0-rc2 for my Gotosocial instance to get going.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=384" class="ld-backlink">BM384</a>
+          
+            
+            
+              <a href="/k/fediverse/">Fediverse</a>,
+            
+              <a href="/k/gotosocial/">GoToSocial</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post linkding-post linkding-list asides-list">
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/383-oauth2-proxy/" aria-label="Link to the post">00:07</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-383"><a href="https://github.com/oauth2-proxy/oauth2-proxy">oauth2-proxy</a></h3>
+<style>
+.favicon-383 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+</blockquote>
+  
+<div class="linkding-notes">
+    Alternative to Authelia and Authentik.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=383" class="ld-backlink">BM383</a>
+          
+            
+            
+              <a href="/k/authentication/">Authentication</a>,
+            
+              <a href="/k/selfhosting/">Selfhosting</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post linkding-post linkding-list asides-list">
+    <div class="asides-post-date nohapd">
+      February 12, 2025
+    </div>
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/382-movary/" aria-label="Link to the post">00:08</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-382"><a href="https://github.com/leepeuker/movary">Movary</a></h3>
+<style>
+.favicon-382 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self hosted web app to track and rate your watched movies
+</blockquote>
+  
+<div class="linkding-notes">
+    I wish one of these could prove a better alternative to Trakt.
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=382" class="ld-backlink">BM382</a>
+          
+            
+            
+              <a href="/k/movies/">Movies</a>,
+            
+              <a href="/k/selfhosting/">Selfhosting</a>,
+            
+              <a href="/k/tvshows/">TVShows</a>,
+            
+              <a href="/k/trakt/">Trakt</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+  <article class="asides-post linkding-post linkding-list asides-list">
+
+  <div class="linkding-post-cont asides-post-cont">
+    <div class="post-time">
+      <span title="">
+        
+          <a href="https://deuts.org/x/381-mediatracker/" aria-label="Link to the post">00:05</a>
+        
+      </span>
+    </div>
+    <div class="linkding-content asides-content">
+      <h3 class="linkding-title favicon-381"><a href="https://github.com/bonukai/MediaTracker">MediaTracker</a></h3>
+<style>
+.favicon-381 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
+</blockquote>
+  
+<div class="linkding-notes">
+    Another Trakt alternative. Why expand to video games, books, and audiobooks, though?
+</div>
+  
+
+      <div class="linkding-footer asides-footer">
+        
+          <a href="https://bm.deuts.org/bookmarks/shared?details=381" class="ld-backlink">BM381</a>
+          
+            
+            
+              <a href="/k/movies/">Movies</a>,
+            
+              <a href="/k/selfhosting/">Selfhosting</a>,
+            
+              <a href="/k/tvshows/">TVShows</a>,
+            
+              <a href="/k/trakt/">Trakt</a>
+            
+          
+        
+      </div>
+    </div>
+  </div>
+</article>
+
   <article class="asides-post linkding-post linkding-list asides-list">
     <div class="asides-post-date nohapd">
       February 11, 2025
@@ -216,212 +486,6 @@
       <div class="gotosocial-footer asides-footer">
         
           <a href="https://deuts.one/@deuts/statuses/01JKAW6PMRHHG8VB5QA06ZAJMX" aria-label="Link to gotosocial">01JKAW6PMRHHG8VB5QA06ZAJMX</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post bluesky-post bluesky-list asides-list">
-
-  <div class="bluesky-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/2025-02-05-18-55-3lhgfuz6n3k2v/" aria-label="Link to the post">18:55</a>
-        
-      </span>
-    </div>
-    <div class="bluesky-content asides-content">
-      <p>🚀 Need to make sure your financial reports don’t land on a weekend? I just wrote about a Power Query function that finds the next banking day—because banks don’t care about your deadlines, but your spreadsheets should. 💸📊</p>
-<p>Read more: <a href="https://deuts.org/p/power-query-next-banking-day/">deuts.org/∞</a></p>
-<p><a href="https://bsky.app/hashtag/powerquery">#PowerQuery</a> <a href="https://bsky.app/hashtag/finance">#Finance</a> <a href="https://bsky.app/hashtag/datanerd">#DataNerd</a></p>
-
-      <div class="bluesky-footer asides-footer">
-        
-          <a href="https://bsky.app/profile/deuts.hamili.net/post/3lhgfuz6n3k2v" aria-label="Link to bsky">3lhgfuz6n3k2v</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post gotosocial-post gotosocial-list asides-list">
-
-  <div class="gotosocial-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/2025-02-05-10-09-04-01jk9xwewnkpqnpm322xscxjza/" aria-label="Link to the post">10:09</a>
-        
-      </span>
-    </div>
-    <div class="gotosocial-content asides-content">
-      <p>🚀 Python and Power Query both love data, but they speak <em>very</em> different dialects.<br>
-🔹 Python: Lists &amp; Dicts<br>
-🔸 Power Query: Lists &amp; Records<br>
-Mix them up, and you might end up debugging all day. 🫠<br>
-Let’s dissect the differences before they dissect your workflow! 🧵👇<br>
-<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
-
-      <div class="gotosocial-footer asides-footer">
-        
-          <a href="https://deuts.one/@deuts/statuses/01JK9XWEWNKPQNPM322XSCXJZA" aria-label="Link to gotosocial">01JK9XWEWNKPQNPM322XSCXJZA</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post bluesky-post bluesky-list asides-list">
-
-  <div class="bluesky-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/2025-02-05-10-08-3lhfigy37ak2m/" aria-label="Link to the post">10:08</a>
-        
-      </span>
-    </div>
-    <div class="bluesky-content asides-content">
-      <p>💡 Python vs. Power Query: The ultimate data duel! 🥊
-Lists vs. Lists? ✅<br>
-Dictionaries vs. Records? ✅<br>
-Same thing, right? Well&hellip; not quite. 👀<br>
-Let’s break it down so you don’t get caught mixing apples and data frames! 🍏📊<br>
-<a href="https://deuts.org/p/python-power-query-lists-dictionaries-records/">deuts.org/∞</a></p>
-
-      <div class="bluesky-footer asides-footer">
-        
-          <a href="https://bsky.app/profile/deuts.hamili.net/post/3lhfigy37ak2m" aria-label="Link to bsky">3lhfigy37ak2m</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post linkding-post linkding-list asides-list">
-    <div class="asides-post-date nohapd">
-      February 1, 2025
-    </div>
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/379-mastodon-bluesky-to-memos/" aria-label="Link to the post">17:58</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-379"><a href="https://github.com/dandelionmood/mastodon2memos">Mastodon/Bluesky to Memos</a></h3>
-<style>
-.favicon-379 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A Python script that listens to your Bluesky/Mastodon posts and captures them in your Memos instance.
-</blockquote>
-  
-<div class="linkding-notes">
-    I&rsquo;m not sure if this is something I want implemented as is, but the script could be a reference and a starting point for my future scripts.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=379" class="ld-backlink">BM379</a>
-          
-            
-            
-              <a href="/k/bluesky/">Bluesky</a>,
-            
-              <a href="/k/fediverse/">Fediverse</a>,
-            
-              <a href="/k/mastodon/">Mastodon</a>,
-            
-              <a href="/k/memos/">Memos</a>,
-            
-              <a href="/k/python/">Python</a>
-            
-          
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post gotosocial-post gotosocial-list asides-list">
-
-  <div class="gotosocial-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/" aria-label="Link to the post">15:43</a>
-        
-      </span>
-    </div>
-    <div class="gotosocial-content asides-content">
-      <p>Didn&rsquo;t know that <a href="https://fediwall.social/?tags=Memos&amp;accounts=&amp;lang=en&amp;title=%23Memos">#Memos</a> by <a href="https://fediwall.social/?tags=UseMemos&amp;accounts=&amp;lang=en&amp;title=%23UseMemos">#UseMemos</a> have a third party Android app! Now more reason for me to use it for my notes. Wish it had AI supported search, though, ala <a href="https://fediwall.social/?tags=Blinko&amp;accounts=&amp;lang=en&amp;title=%23Blinko">#Blinko</a>
-mudkipme/MoeMemosAndroid: An app to help you capture thoughts and ideas
-<a href="https://github.com/mudkipme/MoeMemosAndroid">github.com/∞</a></p>
-
-      <div class="gotosocial-footer asides-footer">
-        
-          <a href="https://deuts.one/@deuts/statuses/01JK07EJ3C68Y1R2E4CKDH43H7" aria-label="Link to gotosocial">01JK07EJ3C68Y1R2E4CKDH43H7</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-  <article class="asides-post linkding-post linkding-list asides-list">
-    <div class="asides-post-date nohapd">
-      January 31, 2025
-    </div>
-
-  <div class="linkding-post-cont asides-post-cont">
-    <div class="post-time">
-      <span title="">
-        
-          <a href="https://deuts.org/x/378-dumbwareio-dumbdrop-dumb-file-dropper/" aria-label="Link to the post">08:41</a>
-        
-      </span>
-    </div>
-    <div class="linkding-content asides-content">
-      <h3 class="linkding-title favicon-378"><a href="https://github.com/DumbWareio/DumbDrop">DumbWareio - DumbDrop: dumb file dropper</a></h3>
-<style>
-.favicon-378 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A stupid simple file upload application that provides a clean, modern interface for dragging and dropping files. Built with Node.js and vanilla JavaScript.
-</blockquote>
-  
-<div class="linkding-notes">
-    This could be useful for our Python app, to process CSV/Excel files and send out the output probably via email. I just wish there was a way to change the name <code>DumbDrop</code> right at the dead center.
-</div>
-  
-
-      <div class="linkding-footer asides-footer">
-        
-          <a href="https://bm.deuts.org/bookmarks/shared?details=378" class="ld-backlink">BM378</a>
-          
-            
-            
-              <a href="/k/fileconversion/">FileConversion</a>,
-            
-              <a href="/k/filesharing/">FileSharing</a>,
-            
-              <a href="/k/selfhosting/">Selfhosting</a>
-            
-          
         
       </div>
     </div>

@@ -7,8 +7,154 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 26 May 2026 17:46:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:25:05 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KTT12YQDD3FGFWP39YFQCENC</title>
+      <link>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</link>
+      <pubDate>Thu, 11 Jun 2026 08:25:05 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</guid>
+      <description>&lt;p&gt;I keep seeing these references to MCP server of the &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; changelog, but where is the full MCP server documentation? Where&amp;rsquo;s the official one, at least? &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I keep seeing these references to MCP server of the <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> changelog, but where is the full MCP server documentation? Where&rsquo;s the official one, at least? <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KTRJAB5SX9F5DRTSQY2J5DJ4</title>
+      <link>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</link>
+      <pubDate>Wed, 10 Jun 2026 18:47:44 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</guid>
+      <description>&lt;p&gt;Claude Fable is not “slightly more expensive” — it’s a premium tier.&lt;/p&gt;
+&lt;p&gt;API pricing per 1M tokens:&lt;/p&gt;
+&lt;p&gt;Fable: $10 input / $50 output
+Opus: $5 input / $25 output
+Sonnet: $3 input / $15 output&lt;/p&gt;
+&lt;p&gt;So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Claude Fable is not “slightly more expensive” — it’s a premium tier.</p>
+<p>API pricing per 1M tokens:</p>
+<p>Fable: $10 input / $50 output
+Opus: $5 input / $25 output
+Sonnet: $3 input / $15 output</p>
+<p>So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fireshare</title>
+      <link>https://deuts.org/x/867-fireshare/</link>
+      <pubDate>Tue, 09 Jun 2026 11:18:53 +0800</pubDate>
+      <guid>https://deuts.org/x/867-fireshare/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-867&#34;&gt;&lt;a href=&#34;https://github.com/ShaneIsrael/fireshare&#34;&gt;Fireshare&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-867 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self host your media and share with unique links.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-867"><a href="https://github.com/ShaneIsrael/fireshare">Fireshare</a></h3>
+<style>
+.favicon-867 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self host your media and share with unique links.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent</title>
+      <link>https://deuts.org/x/866-why-does-hermes-use-so-many-more-tokens-than-claude-code-r-hermesagent/</link>
+      <pubDate>Sat, 06 Jun 2026 17:39:23 +0800</pubDate>
+      <guid>https://deuts.org/x/866-why-does-hermes-use-so-many-more-tokens-than-claude-code-r-hermesagent/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-866&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/hermesagent/comments/1ty93nq/why_does_hermes_use_so_many_more_tokens_than/&#34;&gt;Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-866 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-866"><a href="https://www.reddit.com/r/hermesagent/comments/1ty93nq/why_does_hermes_use_so_many_more_tokens_than/">Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent</a></h3>
+<style>
+.favicon-866 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>LeafWiki</title>
+      <link>https://deuts.org/x/865-leafwiki/</link>
+      <pubDate>Fri, 05 Jun 2026 23:43:51 +0800</pubDate>
+      <guid>https://deuts.org/x/865-leafwiki/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-865&#34;&gt;&lt;a href=&#34;https://github.com/perber/leafwiki&#34;&gt;LeafWiki&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-865 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-865"><a href="https://github.com/perber/leafwiki">LeafWiki</a></h3>
+<style>
+.favicon-865 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KT3CE0J0J8BH1PV6JHCHKCNV</title>
+      <link>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</link>
+      <pubDate>Tue, 02 Jun 2026 13:20:49 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</guid>
+      <description>&lt;p&gt;Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&amp;rsquo;re consistent. 🍗📉&lt;/p&gt;
+&lt;p&gt;My average: ₱183. Current: ~₱134. That&amp;rsquo;s a ~27% discount I didn&amp;rsquo;t ask for.&lt;/p&gt;
+&lt;p&gt;MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&rsquo;re consistent. 🍗📉</p>
+<p>My average: ₱183. Current: ~₱134. That&rsquo;s a ~27% discount I didn&rsquo;t ask for.</p>
+<p>MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KSXXZKTE3Q7DZKK6MTR73Y13</title>
+      <link>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</link>
+      <pubDate>Sun, 31 May 2026 10:32:05 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</guid>
+      <description>&lt;p&gt;🧡 The Orange Jumpsuit Committee is now in session.&lt;/p&gt;
+&lt;p&gt;Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;🤖 AI-generated image for satire. Not a real prison photo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OrangeJumpsuitCommittee&#34;&gt;#OrangeJumpsuitCommittee&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=SenatePH&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23SenatePH&#34;&gt;#SenatePH&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>🧡 The Orange Jumpsuit Committee is now in session.</p>
+<p>Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.</p>
+<p><em>🤖 AI-generated image for satire. Not a real prison photo.</em></p>
+<p><a href="https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;accounts=&amp;lang=en&amp;title=%23OrangeJumpsuitCommittee">#OrangeJumpsuitCommittee</a> <a href="https://fediwall.social/?tags=SenatePH&amp;accounts=&amp;lang=en&amp;title=%23SenatePH">#SenatePH</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KSHTV727RMXBTVPXJNCTF1X1</title>
       <link>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</link>
@@ -78,111 +224,6 @@
     FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.  - lumizone/formto: FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Condensit</title>
-      <link>https://deuts.org/x/862-condensit/</link>
-      <pubDate>Sat, 23 May 2026 02:51:02 +0800</pubDate>
-      <guid>https://deuts.org/x/862-condensit/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-862&#34;&gt;&lt;a href=&#34;https://github.com/wildlifechorus/condenseit&#34;&gt;Condensit&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-862 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama) or OpenRouter, learn your preferences from star ratings and engagement signals, and read a daily digest in the browser.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-862"><a href="https://github.com/wildlifechorus/condenseit">Condensit</a></h3>
-<style>
-.favicon-862 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted AI news digest. Collect RSS feeds, YouTube channels, website diffs, Google News searches, Hacker News, Reddit, GitHub Releases, and podcasts, summarize with a local LLM (Ollama) or OpenRouter, learn your preferences from star ratings and engagement signals, and read a daily digest in the browser.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Actual MCP</title>
-      <link>https://deuts.org/x/861-actual-mcp/</link>
-      <pubDate>Sat, 23 May 2026 02:45:20 +0800</pubDate>
-      <guid>https://deuts.org/x/861-actual-mcp/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-861&#34;&gt;&lt;a href=&#34;https://github.com/s-stefanov/actual-mcp&#34;&gt;Actual MCP&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-861 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Model Context Protocol for Actual Budget API.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-861"><a href="https://github.com/s-stefanov/actual-mcp">Actual MCP</a></h3>
-<style>
-.favicon-861 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Model Context Protocol for Actual Budget API.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KRZBHC1XNEGDWP0MH8WSJQ7G</title>
-      <link>https://deuts.org/x/2026-05-19-13-32-31-01krzbhc1xnegdwp0mh8wsjq7g/</link>
-      <pubDate>Tue, 19 May 2026 13:32:31 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-19-13-32-31-01krzbhc1xnegdwp0mh8wsjq7g/</guid>
-      <description>&lt;p&gt;When setting &lt;a href=&#34;https://fediwall.social/?tags=Dex&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Dex&#34;&gt;#Dex&lt;/a&gt; as OIDC provider for &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;, it is important to use &lt;code&gt;email&lt;/code&gt; as the Identifier Path. The default &lt;code&gt;sub&lt;/code&gt; will not work. Try it! &lt;a href=&#34;https://deuts.org/p/dex-oidc-pangolin/&#34;&gt;deuts.org/∞&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>When setting <a href="https://fediwall.social/?tags=Dex&amp;accounts=&amp;lang=en&amp;title=%23Dex">#Dex</a> as OIDC provider for <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>, it is important to use <code>email</code> as the Identifier Path. The default <code>sub</code> will not work. Try it! <a href="https://deuts.org/p/dex-oidc-pangolin/">deuts.org/∞</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KRQQ4HMG1EH0G6PXRC5DYGV2</title>
-      <link>https://deuts.org/x/2026-05-16-14-21-18-01krqq4hmg1eh0g6pxrc5dygv2/</link>
-      <pubDate>Sat, 16 May 2026 14:21:18 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-16-14-21-18-01krqq4hmg1eh0g6pxrc5dygv2/</guid>
-      <description>&lt;p&gt;Aside from consuming too many resources, especially memory, my other gripe with &lt;a href=&#34;https://fediwall.social/?tags=PangolinTunnel&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23PangolinTunnel&#34;&gt;#PangolinTunnel&lt;/a&gt;, at least for its community edition, which a lot of members of the &lt;a href=&#34;https://fediwall.social/?tags=selfhosted&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23selfhosted&#34;&gt;#selfhosted&lt;/a&gt; community love, quite a number of its features are getting put behind their paywall. Time for the community to step up and offer a better solution.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Aside from consuming too many resources, especially memory, my other gripe with <a href="https://fediwall.social/?tags=PangolinTunnel&amp;accounts=&amp;lang=en&amp;title=%23PangolinTunnel">#PangolinTunnel</a>, at least for its community edition, which a lot of members of the <a href="https://fediwall.social/?tags=selfhosted&amp;accounts=&amp;lang=en&amp;title=%23selfhosted">#selfhosted</a> community love, quite a number of its features are getting put behind their paywall. Time for the community to step up and offer a better solution.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KRNE0ESDA0HF6Z8GFS6YXBKB</title>
-      <link>https://deuts.org/x/2026-05-15-17-03-18-01krne0esda0hf6z8gfs6yxbkb/</link>
-      <pubDate>Fri, 15 May 2026 17:03:18 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-15-17-03-18-01krne0esda0hf6z8gfs6yxbkb/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m still confused which notes app to stick to for good, &lt;a href=&#34;https://fediwall.social/?tags=Outline&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Outline&#34;&gt;#Outline&lt;/a&gt; or &lt;a href=&#34;https://fediwall.social/?tags=Obsidian&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Obsidian&#34;&gt;#Obsidian&lt;/a&gt;?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;m still confused which notes app to stick to for good, <a href="https://fediwall.social/?tags=Outline&amp;accounts=&amp;lang=en&amp;title=%23Outline">#Outline</a> or <a href="https://fediwall.social/?tags=Obsidian&amp;accounts=&amp;lang=en&amp;title=%23Obsidian">#Obsidian</a>?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KRN4RT9T6T0PMGTMYD7SWYG6</title>
-      <link>https://deuts.org/x/2026-05-15-14-21-51-01krn4rt9t6t0pmgtmyd7swyg6/</link>
-      <pubDate>Fri, 15 May 2026 14:21:51 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-15-14-21-51-01krn4rt9t6t0pmgtmyd7swyg6/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.maffulli.net/@stefano&#34;&gt;@stefano&lt;/a&gt; I&amp;rsquo;ve been a fan of Grist for a year now or so. I&amp;rsquo;ve been using it for some of my several personal projects. I hope to make it an important tool in some of my work projects, but joining Grist instead would be the ultimate dream.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://www.maffulli.net/@stefano">@stefano</a> I&rsquo;ve been a fan of Grist for a year now or so. I&rsquo;ve been using it for some of my several personal projects. I hope to make it an important tool in some of my work projects, but joining Grist instead would be the ultimate dream.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KRN2SZCN6W6K2TE5RG44AVM8</title>
-      <link>https://deuts.org/x/2026-05-15-13-47-32-01krn2szcn6w6k2te5rg44avm8/</link>
-      <pubDate>Fri, 15 May 2026 13:47:32 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-15-13-47-32-01krn2szcn6w6k2te5rg44avm8/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&amp;rsquo;m the oldest remote worker around.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I&rsquo;ve been going to coworking spaces like KMC for the last 2 weeks, and at 46 it feels like I&rsquo;m the oldest remote worker around.</p>
 ]]></content:encoded>
     </item>
   </channel>
