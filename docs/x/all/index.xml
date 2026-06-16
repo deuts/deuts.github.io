@@ -7,8 +7,128 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 08:25:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:36:31 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Guide: Running Hermes via Docker</title>
+      <link>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</link>
+      <pubDate>Tue, 16 Jun 2026 09:36:31 +0800</pubDate>
+      <guid>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-871&#34;&gt;&lt;a href=&#34;https://hermes-agent.nousresearch.com/docs/user-guide/docker&#34;&gt;User Guide: Running Hermes via Docker&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-871 {
+    background: url(&#39;https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Running Hermes Agent in Docker and using Docker as a terminal backend
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-871"><a href="https://hermes-agent.nousresearch.com/docs/user-guide/docker">User Guide: Running Hermes via Docker</a></h3>
+<style>
+.favicon-871 {
+    background: url('https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Running Hermes Agent in Docker and using Docker as a terminal backend
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>BrainDB</title>
+      <link>https://deuts.org/x/870-braindb/</link>
+      <pubDate>Mon, 15 Jun 2026 14:52:20 +0800</pubDate>
+      <guid>https://deuts.org/x/870-braindb/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-870&#34;&gt;&lt;a href=&#34;https://github.com/dimknaf/braindb&#34;&gt;BrainDB&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-870 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An &amp;ldquo;LLM wiki&amp;rdquo; upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language agent.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-870"><a href="https://github.com/dimknaf/braindb">BrainDB</a></h3>
+<style>
+.favicon-870 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An &ldquo;LLM wiki&rdquo; upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language agent.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PGWeb</title>
+      <link>https://deuts.org/x/869-pgweb/</link>
+      <pubDate>Sat, 13 Jun 2026 15:45:57 +0800</pubDate>
+      <guid>https://deuts.org/x/869-pgweb/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-869&#34;&gt;&lt;a href=&#34;https://github.com/sosedoff/pgweb&#34;&gt;PGWeb&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-869 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Cross-platform client for PostgreSQL databases.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-869"><a href="https://github.com/sosedoff/pgweb">PGWeb</a></h3>
+<style>
+.favicon-869 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Cross-platform client for PostgreSQL databases.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Looksyk</title>
+      <link>https://deuts.org/x/868-looksyk/</link>
+      <pubDate>Sat, 13 Jun 2026 15:37:51 +0800</pubDate>
+      <guid>https://deuts.org/x/868-looksyk/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-868&#34;&gt;&lt;a href=&#34;https://codeberg.org/SebastianRzk/Looksyk&#34;&gt;Looksyk&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-868 {
+    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Looksyk - A markdown centric, fast and local personal knowledge platform
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-868"><a href="https://codeberg.org/SebastianRzk/Looksyk">Looksyk</a></h3>
+<style>
+.favicon-868 {
+    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Looksyk - A markdown centric, fast and local personal knowledge platform
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KTT12YQDD3FGFWP39YFQCENC</title>
       <link>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</link>
@@ -138,92 +258,6 @@ Sonnet: $3 input / $15 output</p>
       <content:encoded><![CDATA[<p>Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&rsquo;re consistent. 🍗📉</p>
 <p>My average: ₱183. Current: ~₱134. That&rsquo;s a ~27% discount I didn&rsquo;t ask for.</p>
 <p>MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KSXXZKTE3Q7DZKK6MTR73Y13</title>
-      <link>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</link>
-      <pubDate>Sun, 31 May 2026 10:32:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</guid>
-      <description>&lt;p&gt;🧡 The Orange Jumpsuit Committee is now in session.&lt;/p&gt;
-&lt;p&gt;Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;🤖 AI-generated image for satire. Not a real prison photo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OrangeJumpsuitCommittee&#34;&gt;#OrangeJumpsuitCommittee&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=SenatePH&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23SenatePH&#34;&gt;#SenatePH&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>🧡 The Orange Jumpsuit Committee is now in session.</p>
-<p>Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.</p>
-<p><em>🤖 AI-generated image for satire. Not a real prison photo.</em></p>
-<p><a href="https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;accounts=&amp;lang=en&amp;title=%23OrangeJumpsuitCommittee">#OrangeJumpsuitCommittee</a> <a href="https://fediwall.social/?tags=SenatePH&amp;accounts=&amp;lang=en&amp;title=%23SenatePH">#SenatePH</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KSHTV727RMXBTVPXJNCTF1X1</title>
-      <link>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</link>
-      <pubDate>Tue, 26 May 2026 17:46:22 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</guid>
-      <description>&lt;p&gt;In n8n, &amp;ldquo;Bearer Auth&amp;rdquo; and &amp;ldquo;Header Auth&amp;rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&amp;rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&amp;rsquo;s the only difference.
-&lt;a href=&#34;https://fediwall.social/?tags=n8n&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23n8n&#34;&gt;#n8n&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=selfhosted&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23selfhosted&#34;&gt;#selfhosted&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>In n8n, &ldquo;Bearer Auth&rdquo; and &ldquo;Header Auth&rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&rsquo;s the only difference.
-<a href="https://fediwall.social/?tags=n8n&amp;accounts=%E2%9F%A8=en&amp;title=%23n8n">#n8n</a> <a href="https://fediwall.social/?tags=selfhosted&amp;accounts=%E2%9F%A8=en&amp;title=%23selfhosted">#selfhosted</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumina FInance</title>
-      <link>https://deuts.org/x/864-lumina-finance/</link>
-      <pubDate>Sat, 23 May 2026 02:52:59 +0800</pubDate>
-      <guid>https://deuts.org/x/864-lumina-finance/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-864&#34;&gt;&lt;a href=&#34;https://github.com/Lumina-Finance/lumina-finance&#34;&gt;Lumina FInance&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-864 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A feature rich, self hostable alternative for managing your personal finances
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-864"><a href="https://github.com/Lumina-Finance/lumina-finance">Lumina FInance</a></h3>
-<style>
-.favicon-864 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A feature rich, self hostable alternative for managing your personal finances
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>FormTo</title>
-      <link>https://deuts.org/x/863-formto/</link>
-      <pubDate>Sat, 23 May 2026 02:52:15 +0800</pubDate>
-      <guid>https://deuts.org/x/863-formto/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-863&#34;&gt;&lt;a href=&#34;https://github.com/lumizone/formto&#34;&gt;FormTo&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-863 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.  - lumizone/formto: FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-863"><a href="https://github.com/lumizone/formto">FormTo</a></h3>
-<style>
-.favicon-863 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.  - lumizone/formto: FormTo, a simple, self-hosted backend for HTML forms. Add one action attribute to your form and submissions land in your dashboard. Email, Telegram, Slack and webhook notifications.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>

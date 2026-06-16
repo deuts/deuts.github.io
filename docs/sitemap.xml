@@ -16,22 +16,52 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</loc>
-    <lastmod>2026-06-11T08:25:05+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-06-11T08:25:05+08:00</lastmod>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hermes/</loc>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</loc>
+    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/870-braindb/</loc>
+    <lastmod>2026-06-15T14:52:20+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-06-15T14:52:20+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/database/</loc>
+    <lastmod>2026-06-13T15:45:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/869-pgweb/</loc>
+    <lastmod>2026-06-13T15:45:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/postgres/</loc>
+    <lastmod>2026-06-13T15:45:57+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/868-looksyk/</loc>
+    <lastmod>2026-06-13T15:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-06-13T15:37:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</loc>
     <lastmod>2026-06-11T08:25:05+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</loc>
     <lastmod>2026-06-10T18:47:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/867-fireshare/</loc>
-    <lastmod>2026-06-09T11:18:53+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-06-09T11:18:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/videos/</loc>
@@ -44,9 +74,6 @@
     <lastmod>2026-06-06T17:39:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/865-leafwiki/</loc>
-    <lastmod>2026-06-05T23:43:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-06-05T23:43:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/wiki/</loc>
@@ -490,12 +517,6 @@
     <loc>https://deuts.org/x/814-9-advanced-postgresql-features-i-wish-i-knew-sooner/</loc>
     <lastmod>2026-03-05T22:21:43+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/database/</loc>
-    <lastmod>2026-03-05T22:21:43+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/postgres/</loc>
-    <lastmod>2026-03-05T22:21:43+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/sql/</loc>
     <lastmod>2026-03-05T22:21:32+08:00</lastmod>
   </url><url>
@@ -588,9 +609,6 @@
   </url><url>
     <loc>https://deuts.org/x/797-haven/</loc>
     <lastmod>2026-02-16T11:03:03+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2026-02-16T11:01:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/796-docktail/</loc>
     <lastmod>2026-02-16T11:01:19+08:00</lastmod>
