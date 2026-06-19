@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 09:36:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:11:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diskus</title>
+      <link>https://deuts.org/x/873-diskus/</link>
+      <pubDate>Fri, 19 Jun 2026 21:11:23 +0800</pubDate>
+      <guid>https://deuts.org/x/873-diskus/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-873&#34;&gt;&lt;a href=&#34;https://github.com/fadhilbarkah/diskus&#34;&gt;Diskus&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-873 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An ultra-lightweight, privacy-first, and self-hosted Disqus alternative.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-873"><a href="https://github.com/fadhilbarkah/diskus">Diskus</a></h3>
+<style>
+.favicon-873 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An ultra-lightweight, privacy-first, and self-hosted Disqus alternative.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>User Guide: Running Hermes via Docker</title>
       <link>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</link>
@@ -245,19 +275,6 @@ Sonnet: $3 input / $15 output</p>
     LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KT3CE0J0J8BH1PV6JHCHKCNV</title>
-      <link>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</link>
-      <pubDate>Tue, 02 Jun 2026 13:20:49 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</guid>
-      <description>&lt;p&gt;Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&amp;rsquo;re consistent. 🍗📉&lt;/p&gt;
-&lt;p&gt;My average: ₱183. Current: ~₱134. That&amp;rsquo;s a ~27% discount I didn&amp;rsquo;t ask for.&lt;/p&gt;
-&lt;p&gt;MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&rsquo;re consistent. 🍗📉</p>
-<p>My average: ₱183. Current: ~₱134. That&rsquo;s a ~27% discount I didn&rsquo;t ask for.</p>
-<p>MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.</p>
 ]]></content:encoded>
     </item>
   </channel>

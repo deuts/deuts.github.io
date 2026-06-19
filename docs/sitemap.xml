@@ -17,18 +17,24 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+    <lastmod>2026-06-19T21:11:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/commentingsystem/</loc>
+    <lastmod>2026-06-19T21:11:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
+    <lastmod>2026-06-19T21:11:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/873-diskus/</loc>
+    <lastmod>2026-06-19T21:11:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-06-19T21:11:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/docker/</loc>
     <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/hermes/</loc>
-    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</loc>
@@ -461,9 +467,6 @@
     <lastmod>2026-03-13T23:50:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/824-comentario/</loc>
-    <lastmod>2026-03-13T23:50:57+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/commentingsystem/</loc>
     <lastmod>2026-03-13T23:50:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/823-dropsync/</loc>
