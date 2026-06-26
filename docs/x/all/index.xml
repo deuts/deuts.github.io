@@ -7,8 +7,49 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 01:11:06 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 18:13:37 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grist Secrets: Popups</title>
+      <link>https://deuts.org/x/874-grist-secrets-popups/</link>
+      <pubDate>Fri, 26 Jun 2026 18:13:37 +0800</pubDate>
+      <guid>https://deuts.org/x/874-grist-secrets-popups/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-874&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/grist-secrets-popups/11267&#34;&gt;Grist Secrets: Popups&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-874 {
+    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    This example walks through how to add a Notepad popup. Any widget can be used for the popup. The steps would be the same. The example document linked above also shows an Image Viewer custom widget popup.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-874"><a href="https://community.getgrist.com/t/grist-secrets-popups/11267">Grist Secrets: Popups</a></h3>
+<style>
+.favicon-874 {
+    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    This example walks through how to add a Notepad popup. Any widget can be used for the popup. The steps would be the same. The example document linked above also shows an Image Viewer custom widget popup.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KVYAK1G52P5KCYXAA2XRKSFB</title>
+      <link>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</link>
+      <pubDate>Thu, 25 Jun 2026 10:43:48 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Mattermost&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mattermost&#34;&gt;#Mattermost&lt;/a&gt; letting slash commands work in the browser but not on mobile is ridiculous. The &lt;a href=&#34;https://fediwall.social/?tags=Hermes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Hermes&#34;&gt;#Hermes&lt;/a&gt; gateway/integration works, but the mobile app grabs anything starting with &lt;code&gt;/&lt;/code&gt; before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.&lt;/p&gt;
+&lt;p&gt;And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack &lt;code&gt;/&lt;/code&gt;, it should either support custom integrations properly everywhere or get out of the way.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Mattermost&amp;accounts=&amp;lang=en&amp;title=%23Mattermost">#Mattermost</a> letting slash commands work in the browser but not on mobile is ridiculous. The <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a> gateway/integration works, but the mobile app grabs anything starting with <code>/</code> before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.</p>
+<p>And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack <code>/</code>, it should either support custom integrations properly everywhere or get out of the way.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KVR50Y3RC89WSFXM9KWZ4SFV</title>
       <link>https://deuts.org/x/2026-06-23-01-11-06-01kvr50y3rc89wsfxm9kwz4sfv/</link>
@@ -198,66 +239,6 @@ Sonnet: $3 input / $15 output&lt;/p&gt;
 Opus: $5 input / $25 output
 Sonnet: $3 input / $15 output</p>
 <p>So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Fireshare</title>
-      <link>https://deuts.org/x/867-fireshare/</link>
-      <pubDate>Tue, 09 Jun 2026 11:18:53 +0800</pubDate>
-      <guid>https://deuts.org/x/867-fireshare/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-867&#34;&gt;&lt;a href=&#34;https://github.com/ShaneIsrael/fireshare&#34;&gt;Fireshare&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-867 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self host your media and share with unique links.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-867"><a href="https://github.com/ShaneIsrael/fireshare">Fireshare</a></h3>
-<style>
-.favicon-867 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self host your media and share with unique links.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent</title>
-      <link>https://deuts.org/x/866-why-does-hermes-use-so-many-more-tokens-than-claude-code-r-hermesagent/</link>
-      <pubDate>Sat, 06 Jun 2026 17:39:23 +0800</pubDate>
-      <guid>https://deuts.org/x/866-why-does-hermes-use-so-many-more-tokens-than-claude-code-r-hermesagent/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-866&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/hermesagent/comments/1ty93nq/why_does_hermes_use_so_many_more_tokens_than/&#34;&gt;Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-866 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-866"><a href="https://www.reddit.com/r/hermesagent/comments/1ty93nq/why_does_hermes_use_so_many_more_tokens_than/">Why Does Hermes Use So Many More Tokens Than Claude Code? : r/hermesagent</a></h3>
-<style>
-.favicon-866 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
-</blockquote>
-  
 ]]></content:encoded>
     </item>
   </channel>
