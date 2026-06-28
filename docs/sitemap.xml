@@ -17,10 +17,49 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-06-26T18:13:37+08:00</lastmod>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-06-26T18:13:37+08:00</lastmod>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/879-frontend-slides/</loc>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/powerpoint/</loc>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/slideshow/</loc>
+    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/chat/</loc>
+    <lastmod>2026-06-27T02:22:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/878-chatto/</loc>
+    <lastmod>2026-06-27T02:22:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-06-27T02:22:02+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/877-graphwrite/</loc>
+    <lastmod>2026-06-27T02:21:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-06-27T02:21:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/claude/</loc>
+    <lastmod>2026-06-27T02:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/876-claude-pulse/</loc>
+    <lastmod>2026-06-27T02:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/875-ignis/</loc>
+    <lastmod>2026-06-27T02:18:17+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/obsidian/</loc>
+    <lastmod>2026-06-27T02:18:17+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/grist/</loc>
     <lastmod>2026-06-26T18:13:37+08:00</lastmod>
@@ -32,9 +71,6 @@
     <lastmod>2026-06-26T18:13:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/gristwidgets/</loc>
-    <lastmod>2026-06-26T18:13:37+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-06-26T18:13:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</loc>
@@ -61,9 +97,6 @@
     <loc>https://deuts.org/x/870-braindb/</loc>
     <lastmod>2026-06-15T14:52:20+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
-    <lastmod>2026-06-15T14:52:20+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/database/</loc>
     <lastmod>2026-06-13T15:45:57+08:00</lastmod>
   </url><url>
@@ -74,9 +107,6 @@
     <lastmod>2026-06-13T15:45:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/868-looksyk/</loc>
-    <lastmod>2026-06-13T15:37:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-06-13T15:37:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</loc>
@@ -262,9 +292,6 @@
     <loc>https://deuts.org/k/livesync/</loc>
     <lastmod>2026-04-28T07:42:49+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/obsidian/</loc>
-    <lastmod>2026-04-28T07:42:49+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/852-obsidian-livesync-settings-to-configure/</loc>
     <lastmod>2026-04-28T07:42:49+08:00</lastmod>
   </url><url>
@@ -329,9 +356,6 @@
     <lastmod>2026-04-15T00:57:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/chatgpt/</loc>
-    <lastmod>2026-04-15T00:57:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/claude/</loc>
     <lastmod>2026-04-15T00:57:07+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/845-chibisafe/</loc>
@@ -1518,9 +1542,6 @@
   </url><url>
     <loc>https://deuts.org/x/577-beelink-auto-start-after-power-outage/</loc>
     <lastmod>2025-08-16T15:25:37+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/chat/</loc>
-    <lastmod>2025-08-16T15:13:13+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/teams/</loc>
     <lastmod>2025-08-16T15:13:13+08:00</lastmod>

@@ -7,8 +7,166 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 18:13:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:42:47 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontend Slides</title>
+      <link>https://deuts.org/x/879-frontend-slides/</link>
+      <pubDate>Sat, 27 Jun 2026 10:42:47 +0800</pubDate>
+      <guid>https://deuts.org/x/879-frontend-slides/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-879&#34;&gt;&lt;a href=&#34;https://github.com/zarazhangrui/frontend-slides&#34;&gt;Frontend Slides&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-879 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Create beautiful slides on the web using a coding agent&amp;rsquo;s frontend skills
+&lt;/blockquote&gt;
+  
+&lt;div class=&#34;linkding-notes&#34;&gt;
+    Create your presentation slides in html, instead of powerpoint.
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-879"><a href="https://github.com/zarazhangrui/frontend-slides">Frontend Slides</a></h3>
+<style>
+.favicon-879 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Create beautiful slides on the web using a coding agent&rsquo;s frontend skills
+</blockquote>
+  
+<div class="linkding-notes">
+    Create your presentation slides in html, instead of powerpoint.
+</div>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Chatto</title>
+      <link>https://deuts.org/x/878-chatto/</link>
+      <pubDate>Sat, 27 Jun 2026 02:22:02 +0800</pubDate>
+      <guid>https://deuts.org/x/878-chatto/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-878&#34;&gt;&lt;a href=&#34;https://github.com/chattocorp/chatto&#34;&gt;Chatto&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-878 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A really good chat application that you can self-host.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-878"><a href="https://github.com/chattocorp/chatto">Chatto</a></h3>
+<style>
+.favicon-878 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A really good chat application that you can self-host.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GraphWrite</title>
+      <link>https://deuts.org/x/877-graphwrite/</link>
+      <pubDate>Sat, 27 Jun 2026 02:21:03 +0800</pubDate>
+      <guid>https://deuts.org/x/877-graphwrite/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-877&#34;&gt;&lt;a href=&#34;https://github.com/seojoonlee-dev/graphwrite&#34;&gt;GraphWrite&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-877 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self hosted note taking app.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-877"><a href="https://github.com/seojoonlee-dev/graphwrite">GraphWrite</a></h3>
+<style>
+.favicon-877 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self hosted note taking app.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Pulse</title>
+      <link>https://deuts.org/x/876-claude-pulse/</link>
+      <pubDate>Sat, 27 Jun 2026 02:20:10 +0800</pubDate>
+      <guid>https://deuts.org/x/876-claude-pulse/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-876&#34;&gt;&lt;a href=&#34;https://github.com/nikitadoudikov/claude-pulse&#34;&gt;Claude Pulse&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-876 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-876"><a href="https://github.com/nikitadoudikov/claude-pulse">Claude Pulse</a></h3>
+<style>
+.favicon-876 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ignis</title>
+      <link>https://deuts.org/x/875-ignis/</link>
+      <pubDate>Sat, 27 Jun 2026 02:18:17 +0800</pubDate>
+      <guid>https://deuts.org/x/875-ignis/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-875&#34;&gt;&lt;a href=&#34;https://github.com/Nystik-gh/ignis&#34;&gt;Ignis&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-875 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-875"><a href="https://github.com/Nystik-gh/ignis">Ignis</a></h3>
+<style>
+.favicon-875 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Grist Secrets: Popups</title>
       <link>https://deuts.org/x/874-grist-secrets-popups/</link>
@@ -121,124 +279,6 @@
     Running Hermes Agent in Docker and using Docker as a terminal backend
 </blockquote>
   
-]]></content:encoded>
-    </item>
-    <item>
-      <title>BrainDB</title>
-      <link>https://deuts.org/x/870-braindb/</link>
-      <pubDate>Mon, 15 Jun 2026 14:52:20 +0800</pubDate>
-      <guid>https://deuts.org/x/870-braindb/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-870&#34;&gt;&lt;a href=&#34;https://github.com/dimknaf/braindb&#34;&gt;BrainDB&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-870 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An &amp;ldquo;LLM wiki&amp;rdquo; upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language agent.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-870"><a href="https://github.com/dimknaf/braindb">BrainDB</a></h3>
-<style>
-.favicon-870 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An &ldquo;LLM wiki&rdquo; upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language agent.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PGWeb</title>
-      <link>https://deuts.org/x/869-pgweb/</link>
-      <pubDate>Sat, 13 Jun 2026 15:45:57 +0800</pubDate>
-      <guid>https://deuts.org/x/869-pgweb/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-869&#34;&gt;&lt;a href=&#34;https://github.com/sosedoff/pgweb&#34;&gt;PGWeb&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-869 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Cross-platform client for PostgreSQL databases.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-869"><a href="https://github.com/sosedoff/pgweb">PGWeb</a></h3>
-<style>
-.favicon-869 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Cross-platform client for PostgreSQL databases.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Looksyk</title>
-      <link>https://deuts.org/x/868-looksyk/</link>
-      <pubDate>Sat, 13 Jun 2026 15:37:51 +0800</pubDate>
-      <guid>https://deuts.org/x/868-looksyk/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-868&#34;&gt;&lt;a href=&#34;https://codeberg.org/SebastianRzk/Looksyk&#34;&gt;Looksyk&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-868 {
-    background: url(&#39;https://bm.deuts.org/static/https_codeberg_org.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Looksyk - A markdown centric, fast and local personal knowledge platform
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-868"><a href="https://codeberg.org/SebastianRzk/Looksyk">Looksyk</a></h3>
-<style>
-.favicon-868 {
-    background: url('https://bm.deuts.org/static/https_codeberg_org.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Looksyk - A markdown centric, fast and local personal knowledge platform
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KTT12YQDD3FGFWP39YFQCENC</title>
-      <link>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</link>
-      <pubDate>Thu, 11 Jun 2026 08:25:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</guid>
-      <description>&lt;p&gt;I keep seeing these references to MCP server of the &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; changelog, but where is the full MCP server documentation? Where&amp;rsquo;s the official one, at least? &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I keep seeing these references to MCP server of the <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> changelog, but where is the full MCP server documentation? Where&rsquo;s the official one, at least? <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KTRJAB5SX9F5DRTSQY2J5DJ4</title>
-      <link>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</link>
-      <pubDate>Wed, 10 Jun 2026 18:47:44 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</guid>
-      <description>&lt;p&gt;Claude Fable is not “slightly more expensive” — it’s a premium tier.&lt;/p&gt;
-&lt;p&gt;API pricing per 1M tokens:&lt;/p&gt;
-&lt;p&gt;Fable: $10 input / $50 output
-Opus: $5 input / $25 output
-Sonnet: $3 input / $15 output&lt;/p&gt;
-&lt;p&gt;So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Claude Fable is not “slightly more expensive” — it’s a premium tier.</p>
-<p>API pricing per 1M tokens:</p>
-<p>Fable: $10 input / $50 output
-Opus: $5 input / $25 output
-Sonnet: $3 input / $15 output</p>
-<p>So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.</p>
 ]]></content:encoded>
     </item>
   </channel>
