@@ -7,8 +7,38 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 10:42:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:47:23 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mailflow</title>
+      <link>https://deuts.org/x/880-mailflow/</link>
+      <pubDate>Sun, 05 Jul 2026 02:47:23 +0800</pubDate>
+      <guid>https://deuts.org/x/880-mailflow/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-880&#34;&gt;&lt;a href=&#34;https://github.com/maathimself/mailflow&#34;&gt;Mailflow&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-880 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted, unified webmail client.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-880"><a href="https://github.com/maathimself/mailflow">Mailflow</a></h3>
+<style>
+.favicon-880 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted, unified webmail client.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Frontend Slides</title>
       <link>https://deuts.org/x/879-frontend-slides/</link>
@@ -247,36 +277,6 @@
 
 <blockquote class="linkding-description">
     An ultra-lightweight, privacy-first, and self-hosted Disqus alternative.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>User Guide: Running Hermes via Docker</title>
-      <link>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</link>
-      <pubDate>Tue, 16 Jun 2026 09:36:31 +0800</pubDate>
-      <guid>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-871&#34;&gt;&lt;a href=&#34;https://hermes-agent.nousresearch.com/docs/user-guide/docker&#34;&gt;User Guide: Running Hermes via Docker&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-871 {
-    background: url(&#39;https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Running Hermes Agent in Docker and using Docker as a terminal backend
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-871"><a href="https://hermes-agent.nousresearch.com/docs/user-guide/docker">User Guide: Running Hermes via Docker</a></h3>
-<style>
-.favicon-871 {
-    background: url('https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Running Hermes Agent in Docker and using Docker as a terminal backend
 </blockquote>
   
 ]]></content:encoded>
