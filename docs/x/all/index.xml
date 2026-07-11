@@ -7,8 +7,158 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 02:47:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 02:53:49 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tela</title>
+      <link>https://deuts.org/x/885-tela/</link>
+      <pubDate>Sat, 11 Jul 2026 02:53:49 +0800</pubDate>
+      <guid>https://deuts.org/x/885-tela/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-885&#34;&gt;&lt;a href=&#34;https://github.com/zcag/tela&#34;&gt;Tela&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-885 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-885"><a href="https://github.com/zcag/tela">Tela</a></h3>
+<style>
+.favicon-885 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dufs</title>
+      <link>https://deuts.org/x/884-dufs/</link>
+      <pubDate>Sat, 11 Jul 2026 02:48:32 +0800</pubDate>
+      <guid>https://deuts.org/x/884-dufs/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-884&#34;&gt;&lt;a href=&#34;https://github.com/sigoden/dufs&#34;&gt;Dufs&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-884 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A file server that supports static serving, uploading, searching, accessing control, webdav.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-884"><a href="https://github.com/sigoden/dufs">Dufs</a></h3>
+<style>
+.favicon-884 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A file server that supports static serving, uploading, searching, accessing control, webdav.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Folder Host</title>
+      <link>https://deuts.org/x/883-folder-host/</link>
+      <pubDate>Sat, 11 Jul 2026 02:44:53 +0800</pubDate>
+      <guid>https://deuts.org/x/883-folder-host/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-883&#34;&gt;&lt;a href=&#34;https://github.com/MertJSX/folderhost&#34;&gt;Folder Host&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-883 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Your own private cloud in one executable. Share files, collaborate on code, and manage users without complex setup. - MertJSX/folderhost
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-883"><a href="https://github.com/MertJSX/folderhost">Folder Host</a></h3>
+<style>
+.favicon-883 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Your own private cloud in one executable. Share files, collaborate on code, and manage users without complex setup. - MertJSX/folderhost
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Alarik Object Storage</title>
+      <link>https://deuts.org/x/882-alarik-object-storage/</link>
+      <pubDate>Sat, 11 Jul 2026 02:41:31 +0800</pubDate>
+      <guid>https://deuts.org/x/882-alarik-object-storage/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-882&#34;&gt;&lt;a href=&#34;https://github.com/achtungsoftware/alarik&#34;&gt;Alarik Object Storage&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-882 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-882"><a href="https://github.com/achtungsoftware/alarik">Alarik Object Storage</a></h3>
+<style>
+.favicon-882 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OvertChat</title>
+      <link>https://deuts.org/x/881-overtchat/</link>
+      <pubDate>Sat, 11 Jul 2026 02:38:28 +0800</pubDate>
+      <guid>https://deuts.org/x/881-overtchat/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-881&#34;&gt;&lt;a href=&#34;https://github.com/yoloyash/overtchat&#34;&gt;OvertChat&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-881 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android client in closed beta.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-881"><a href="https://github.com/yoloyash/overtchat">OvertChat</a></h3>
+<style>
+.favicon-881 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android client in closed beta.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Mailflow</title>
       <link>https://deuts.org/x/880-mailflow/</link>
@@ -163,120 +313,6 @@
 
 <blockquote class="linkding-description">
     Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Ignis</title>
-      <link>https://deuts.org/x/875-ignis/</link>
-      <pubDate>Sat, 27 Jun 2026 02:18:17 +0800</pubDate>
-      <guid>https://deuts.org/x/875-ignis/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-875&#34;&gt;&lt;a href=&#34;https://github.com/Nystik-gh/ignis&#34;&gt;Ignis&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-875 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-875"><a href="https://github.com/Nystik-gh/ignis">Ignis</a></h3>
-<style>
-.favicon-875 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Grist Secrets: Popups</title>
-      <link>https://deuts.org/x/874-grist-secrets-popups/</link>
-      <pubDate>Fri, 26 Jun 2026 18:13:37 +0800</pubDate>
-      <guid>https://deuts.org/x/874-grist-secrets-popups/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-874&#34;&gt;&lt;a href=&#34;https://community.getgrist.com/t/grist-secrets-popups/11267&#34;&gt;Grist Secrets: Popups&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-874 {
-    background: url(&#39;https://bm.deuts.org/static/https_community_getgrist_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    This example walks through how to add a Notepad popup. Any widget can be used for the popup. The steps would be the same. The example document linked above also shows an Image Viewer custom widget popup.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-874"><a href="https://community.getgrist.com/t/grist-secrets-popups/11267">Grist Secrets: Popups</a></h3>
-<style>
-.favicon-874 {
-    background: url('https://bm.deuts.org/static/https_community_getgrist_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    This example walks through how to add a Notepad popup. Any widget can be used for the popup. The steps would be the same. The example document linked above also shows an Image Viewer custom widget popup.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KVYAK1G52P5KCYXAA2XRKSFB</title>
-      <link>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</link>
-      <pubDate>Thu, 25 Jun 2026 10:43:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Mattermost&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mattermost&#34;&gt;#Mattermost&lt;/a&gt; letting slash commands work in the browser but not on mobile is ridiculous. The &lt;a href=&#34;https://fediwall.social/?tags=Hermes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Hermes&#34;&gt;#Hermes&lt;/a&gt; gateway/integration works, but the mobile app grabs anything starting with &lt;code&gt;/&lt;/code&gt; before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.&lt;/p&gt;
-&lt;p&gt;And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack &lt;code&gt;/&lt;/code&gt;, it should either support custom integrations properly everywhere or get out of the way.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Mattermost&amp;accounts=&amp;lang=en&amp;title=%23Mattermost">#Mattermost</a> letting slash commands work in the browser but not on mobile is ridiculous. The <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a> gateway/integration works, but the mobile app grabs anything starting with <code>/</code> before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.</p>
-<p>And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack <code>/</code>, it should either support custom integrations properly everywhere or get out of the way.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KVR50Y3RC89WSFXM9KWZ4SFV</title>
-      <link>https://deuts.org/x/2026-06-23-01-11-06-01kvr50y3rc89wsfxm9kwz4sfv/</link>
-      <pubDate>Tue, 23 Jun 2026 01:11:06 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-23-01-11-06-01kvr50y3rc89wsfxm9kwz4sfv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; shipped an official MCP server, which should be a big win.&lt;/p&gt;
-&lt;p&gt;But if you self-host, you need the full/Enterprise edition to actually use it.&lt;/p&gt;
-&lt;p&gt;So the people most likely to want MCP for private, local, agent-driven workflows are the ones gated out. What a waste of potential.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> shipped an official MCP server, which should be a big win.</p>
-<p>But if you self-host, you need the full/Enterprise edition to actually use it.</p>
-<p>So the people most likely to want MCP for private, local, agent-driven workflows are the ones gated out. What a waste of potential.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Diskus</title>
-      <link>https://deuts.org/x/873-diskus/</link>
-      <pubDate>Fri, 19 Jun 2026 21:11:23 +0800</pubDate>
-      <guid>https://deuts.org/x/873-diskus/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-873&#34;&gt;&lt;a href=&#34;https://github.com/fadhilbarkah/diskus&#34;&gt;Diskus&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-873 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An ultra-lightweight, privacy-first, and self-hosted Disqus alternative.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-873"><a href="https://github.com/fadhilbarkah/diskus">Diskus</a></h3>
-<style>
-.favicon-873 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An ultra-lightweight, privacy-first, and self-hosted Disqus alternative.
 </blockquote>
   
 ]]></content:encoded>

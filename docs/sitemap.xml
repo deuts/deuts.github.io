@@ -17,10 +17,55 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-07-05T02:47:23+08:00</lastmod>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-07-05T02:47:23+08:00</lastmod>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/885-tela/</loc>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/wiki/</loc>
+    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/884-dufs/</loc>
+    <lastmod>2026-07-11T02:48:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fileserver/</loc>
+    <lastmod>2026-07-11T02:48:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filesharing/</loc>
+    <lastmod>2026-07-11T02:48:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanager/</loc>
+    <lastmod>2026-07-11T02:44:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/883-folder-host/</loc>
+    <lastmod>2026-07-11T02:44:53+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/882-alarik-object-storage/</loc>
+    <lastmod>2026-07-11T02:41:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/minio/</loc>
+    <lastmod>2026-07-11T02:41:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/s3/</loc>
+    <lastmod>2026-07-11T02:41:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-07-11T02:38:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-07-11T02:38:28+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/881-overtchat/</loc>
+    <lastmod>2026-07-11T02:38:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/email/</loc>
     <lastmod>2026-07-05T02:47:23+08:00</lastmod>
@@ -28,13 +73,7 @@
     <loc>https://deuts.org/x/880-mailflow/</loc>
     <lastmod>2026-07-05T02:47:23+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2026-07-05T02:47:23+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/879-frontend-slides/</loc>
-    <lastmod>2026-06-27T10:42:47+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
     <lastmod>2026-06-27T10:42:47+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/powerpoint/</loc>
@@ -50,9 +89,6 @@
     <lastmod>2026-06-27T02:22:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/877-graphwrite/</loc>
-    <lastmod>2026-06-27T02:21:03+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-06-27T02:21:03+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/claude/</loc>
@@ -136,9 +172,6 @@
     <loc>https://deuts.org/x/865-leafwiki/</loc>
     <lastmod>2026-06-05T23:43:51+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/wiki/</loc>
-    <lastmod>2026-06-05T23:43:51+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</loc>
     <lastmod>2026-06-02T13:20:49+08:00</lastmod>
   </url><url>
@@ -159,9 +192,6 @@
   </url><url>
     <loc>https://deuts.org/x/863-formto/</loc>
     <lastmod>2026-05-23T02:52:15+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-05-23T02:51:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/862-condensit/</loc>
     <lastmod>2026-05-23T02:51:02+08:00</lastmod>
@@ -367,15 +397,6 @@
     <loc>https://deuts.org/x/845-chibisafe/</loc>
     <lastmod>2026-04-13T11:15:28+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fileserver/</loc>
-    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filesharing/</loc>
-    <lastmod>2026-04-13T11:15:28+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/plex/</loc>
     <lastmod>2026-04-13T11:14:54+08:00</lastmod>
   </url><url>
@@ -525,12 +546,6 @@
   </url><url>
     <loc>https://deuts.org/x/820-drivebase/</loc>
     <lastmod>2026-03-07T01:10:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/minio/</loc>
-    <lastmod>2026-03-07T01:09:00+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/s3/</loc>
-    <lastmod>2026-03-07T01:09:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/819-versitygw/</loc>
     <lastmod>2026-03-07T01:09:00+08:00</lastmod>
