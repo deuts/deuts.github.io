@@ -16,11 +16,44 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-07-14T13:01:40+08:00</lastmod>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-07-14T13:01:40+08:00</lastmod>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/paperless/</loc>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/889-paperless-starfruit-ai-powered-document-processing-for-paperless-ngx/</loc>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-07-18T00:18:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/memos/</loc>
+    <lastmod>2026-07-18T00:14:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/888-minimamemosa-lightweight-self-hosted-memo-app/</loc>
+    <lastmod>2026-07-18T00:14:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-07-18T00:14:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/budgeting/</loc>
+    <lastmod>2026-07-18T00:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/887-kosh-privacy-first-self-hosted-personal-finance-app/</loc>
+    <lastmod>2026-07-18T00:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/personalfinance/</loc>
+    <lastmod>2026-07-18T00:11:38+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/housing/</loc>
     <lastmod>2026-07-14T13:01:40+08:00</lastmod>
@@ -30,12 +63,6 @@
   </url><url>
     <loc>https://deuts.org/k/youtube/</loc>
     <lastmod>2026-07-14T13:01:40+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
-    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2026-07-11T02:53:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/885-tela/</loc>
     <lastmod>2026-07-11T02:53:49+08:00</lastmod>
@@ -67,9 +94,6 @@
     <loc>https://deuts.org/k/s3/</loc>
     <lastmod>2026-07-11T02:41:31+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-07-11T02:38:28+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/llm/</loc>
     <lastmod>2026-07-11T02:38:28+08:00</lastmod>
   </url><url>
@@ -94,7 +118,7 @@
     <loc>https://deuts.org/k/chat/</loc>
     <lastmod>2026-06-27T02:22:02+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/878-chatto/</loc>
+    <loc>https://deuts.org/x/878-chatto-self-hosted-team-chat-with-voice-video/</loc>
     <lastmod>2026-06-27T02:22:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/877-graphwrite/</loc>
@@ -148,9 +172,6 @@
     <loc>https://deuts.org/k/oidc/</loc>
     <lastmod>2026-06-18T16:49:41+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/hermes/</loc>
     <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
@@ -202,9 +223,6 @@
     <loc>https://deuts.org/x/864-lumina-finance/</loc>
     <lastmod>2026-05-23T02:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/personalfinance/</loc>
-    <lastmod>2026-05-23T02:52:59+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/forms/</loc>
     <lastmod>2026-05-23T02:52:15+08:00</lastmod>
   </url><url>
@@ -221,9 +239,6 @@
     <lastmod>2026-05-23T02:45:20+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/861-actual-mcp/</loc>
-    <lastmod>2026-05-23T02:45:20+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/budgeting/</loc>
     <lastmod>2026-05-23T02:45:20+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/api/</loc>
@@ -1141,8 +1156,20 @@
     <loc>https://deuts.org/x/720-sure-personal-finance-app/</loc>
     <lastmod>2025-12-07T09:10:36+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/719-plex-to-trakt-sync-plex-watch-history-to-trakt-tv/</loc>
+    <lastmod>2025-12-06T20:20:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/trakt/</loc>
+    <lastmod>2025-12-06T20:20:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/718-wishlist-self-hosted-gift-idea-sharing-app/</loc>
+    <lastmod>2025-12-06T20:19:57+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/717-support-portal/</loc>
     <lastmod>2025-12-06T20:18:12+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/715-hyvor-relay-open-source-email-api/</loc>
+    <lastmod>2025-12-06T20:12:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/github/</loc>
     <lastmod>2025-12-06T20:08:49+08:00</lastmod>
@@ -1150,8 +1177,47 @@
     <loc>https://deuts.org/x/714-gitmal/</loc>
     <lastmod>2025-12-06T20:08:49+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/713-bettershift-modern-shift-management-app/</loc>
+    <lastmod>2025-12-06T20:03:41+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/712-pocket-id-grist-oidc-integration/</loc>
+    <lastmod>2025-12-06T19:38:27+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/711-maxun/</loc>
     <lastmod>2025-12-06T19:32:47+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hugotheme/</loc>
+    <lastmod>2025-12-05T13:49:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/710-sans-clean-minimal-hugo-theme/</loc>
+    <lastmod>2025-12-05T13:49:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/709-penpot-open-source-design-platform-figma-alternative/</loc>
+    <lastmod>2025-12-05T12:41:14+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/708-obsidian-tables-interactive-json-table-plugin/</loc>
+    <lastmod>2025-12-05T07:39:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/table/</loc>
+    <lastmod>2025-12-05T07:39:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/707-yaml-resume-resumes-as-code/</loc>
+    <lastmod>2025-12-03T12:38:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/cms/</loc>
+    <lastmod>2025-12-03T07:29:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/lowcode/</loc>
+    <lastmod>2025-12-03T07:29:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/705-strapi-open-source-headless-cms-backend-framework/</loc>
+    <lastmod>2025-12-03T07:29:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/704-directus-collaborative-backend-headless-cms/</loc>
+    <lastmod>2025-12-03T07:28:30+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/703-nyno-ai-workflow-builder-engine-n8n-alternative/</loc>
+    <lastmod>2025-12-02T14:41:23+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/702-who-did-what-and-when-full-audit-trail-in-grist/</loc>
     <lastmod>2025-12-02T00:00:28+08:00</lastmod>
@@ -1161,6 +1227,15 @@
   </url><url>
     <loc>https://deuts.org/x/699-how-to-deploy-a-complete-n8n-ai-stack-in-15-minutes-instead-of-a-whole-day/</loc>
     <lastmod>2025-12-01T08:35:48+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/698-opnform-beautiful-open-source-form-builder/</loc>
+    <lastmod>2025-11-28T21:43:05+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/697-single-file-php-ai-chat-interface-for-ollama-openai/</loc>
+    <lastmod>2025-11-28T21:38:11+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/696-scatola-magica-self-hosted-file-management-system/</loc>
+    <lastmod>2025-11-28T21:35:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/693-borg-ui/</loc>
     <lastmod>2025-11-28T21:23:39+08:00</lastmod>
@@ -1750,9 +1825,6 @@
     <loc>https://deuts.org/x/551-simple-datatables/</loc>
     <lastmod>2025-07-18T14:38:39+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/table/</loc>
-    <lastmod>2025-07-18T14:38:39+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/550-doonfrs-rsync-backup/</loc>
     <lastmod>2025-07-17T13:05:10+08:00</lastmod>
   </url><url>
@@ -2161,9 +2233,6 @@
     <loc>https://deuts.org/x/2025-05-09-09-20-18-01jtsa20sfzpjjtre5paez8gcg/</loc>
     <lastmod>2025-05-09T09:20:18+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/hugotheme/</loc>
-    <lastmod>2025-05-08T13:34:43+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/papermod/</loc>
     <lastmod>2025-05-08T13:34:43+08:00</lastmod>
   </url><url>
@@ -2512,9 +2581,6 @@
     <loc>https://deuts.org/x/397-guide-obsidian-with-free-self-hosted-instant-sync/</loc>
     <lastmod>2025-03-02T13:50:07+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/cms/</loc>
-    <lastmod>2025-03-02T07:17:00+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/396-gitcms/</loc>
     <lastmod>2025-03-02T07:17:00+08:00</lastmod>
   </url><url>
@@ -2674,9 +2740,6 @@
     <loc>https://deuts.org/x/382-movary/</loc>
     <lastmod>2025-02-12T00:08:51+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/trakt/</loc>
-    <lastmod>2025-02-12T00:08:51+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/381-mediatracker/</loc>
     <lastmod>2025-02-12T00:05:14+08:00</lastmod>
   </url><url>
@@ -2732,9 +2795,6 @@
     <lastmod>2025-02-01T17:58:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/379-mastodon-bluesky-to-memos/</loc>
-    <lastmod>2025-02-01T17:58:19+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/memos/</loc>
     <lastmod>2025-02-01T17:58:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-02-01-15-43-50-01jk07ej3c68y1r2e4ckdh43h7/</loc>
@@ -3084,9 +3144,6 @@
   </url><url>
     <loc>https://deuts.org/x/317-keepassxc-to-easily-and-securely-manage-your-ssh-keys/</loc>
     <lastmod>2025-01-06T10:28:26+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/paperless/</loc>
-    <lastmod>2025-01-06T10:14:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/316-paperless-ai/</loc>
     <lastmod>2025-01-06T10:14:35+08:00</lastmod>
@@ -4379,9 +4436,6 @@
     <lastmod>2024-07-13T00:44:38+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/131-joget-open-source-low-code-application-platform-business-automation-and-workflow-software-for-faster-simpler-digital-transformation/</loc>
-    <lastmod>2024-07-12T07:06:35+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/lowcode/</loc>
     <lastmod>2024-07-12T07:06:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/130-github-qemus-qemu-docker-qemu-in-a-docker-container/</loc>
