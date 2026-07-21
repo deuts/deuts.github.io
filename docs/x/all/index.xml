@@ -7,8 +7,54 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:18:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:44:10 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KY2B90S19ZYZJSQYNQV84X6C</title>
+      <link>https://deuts.org/x/2026-07-21-20-44-10-01ky2b90s19zyzjsqynqv84x6c/</link>
+      <pubDate>Tue, 21 Jul 2026 20:44:10 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-07-21-20-44-10-01ky2b90s19zyzjsqynqv84x6c/</guid>
+      <description>&lt;p&gt;Dream came true today. 🎉&lt;/p&gt;
+&lt;p&gt;Anthropic gave Pro subscribers a &lt;strong&gt;$100 usage credit&lt;/strong&gt; — an apology for moving Claude Fable 5 fully behind usage credits. I don&amp;rsquo;t even use Fable 5, but here&amp;rsquo;s the thing: I run Claude in &lt;strong&gt;Hermes&lt;/strong&gt; (my personal AI agent setup) via Pro&amp;rsquo;s OAuth, and it draws from a topped-up usage credit balance — not the regular Pro pool.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d been holding back on using it much because topping up out of pocket felt like an added expense on top of Pro. This $100 just removed that friction entirely — I finally get to use Claude in Hermes the way I actually wanted to.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Dream came true today. 🎉</p>
+<p>Anthropic gave Pro subscribers a <strong>$100 usage credit</strong> — an apology for moving Claude Fable 5 fully behind usage credits. I don&rsquo;t even use Fable 5, but here&rsquo;s the thing: I run Claude in <strong>Hermes</strong> (my personal AI agent setup) via Pro&rsquo;s OAuth, and it draws from a topped-up usage credit balance — not the regular Pro pool.</p>
+<p>I&rsquo;d been holding back on using it much because topping up out of pocket felt like an added expense on top of Pro. This $100 just removed that friction entirely — I finally get to use Claude in Hermes the way I actually wanted to.</p>
+<p>Only wish: this were a <strong>monthly</strong> allowance instead of a one-time thing. If it were recurring, this would legitimately change how I use Pro long-term.</p>
+<p>For now though — genuinely happy about this one. 🙂</p>
+<p><a href="https://fediwall.social/?tags=Claude&amp;accounts=&amp;lang=en&amp;title=%23Claude">#Claude</a> <a href="https://fediwall.social/?tags=Anthropic&amp;accounts=&amp;lang=en&amp;title=%23Anthropic">#Anthropic</a> <a href="https://fediwall.social/?tags=AI&amp;accounts=&amp;lang=en&amp;title=%23AI">#AI</a> <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>n8n Simple Memory Node — Beginner&#39;s Guide</title>
+      <link>https://deuts.org/x/890-n8n-simple-memory-node-beginner-s-guide/</link>
+      <pubDate>Sat, 18 Jul 2026 15:19:16 +0800</pubDate>
+      <guid>https://deuts.org/x/890-n8n-simple-memory-node-beginner-s-guide/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-890&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/n8n/s/b4SPX2IQRJ&#34;&gt;n8n Simple Memory Node — Beginner&amp;#39;s Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-890 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Practical guide to the Simple Memory node in n8n AI Agent. Covers context window (exchanges vs messages), sessionId configuration, queue mode incompatibility with Redis, and Postgres Chat Memory for production.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-890"><a href="https://www.reddit.com/r/n8n/s/b4SPX2IQRJ">n8n Simple Memory Node — Beginner&#39;s Guide</a></h3>
+<style>
+.favicon-890 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Practical guide to the Simple Memory node in n8n AI Agent. Covers context window (exchanges vs messages), sessionId configuration, queue mode incompatibility with Redis, and Postgres Chat Memory for production.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Paperless Starfruit — AI-Powered Document Processing for Paperless-ngx</title>
       <link>https://deuts.org/x/889-paperless-starfruit-ai-powered-document-processing-for-paperless-ngx/</link>
@@ -245,66 +291,6 @@
 
 <blockquote class="linkding-description">
     High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>OvertChat</title>
-      <link>https://deuts.org/x/881-overtchat/</link>
-      <pubDate>Sat, 11 Jul 2026 02:38:28 +0800</pubDate>
-      <guid>https://deuts.org/x/881-overtchat/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-881&#34;&gt;&lt;a href=&#34;https://github.com/yoloyash/overtchat&#34;&gt;OvertChat&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-881 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android client in closed beta.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-881"><a href="https://github.com/yoloyash/overtchat">OvertChat</a></h3>
-<style>
-.favicon-881 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android client in closed beta.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Mailflow</title>
-      <link>https://deuts.org/x/880-mailflow/</link>
-      <pubDate>Sun, 05 Jul 2026 02:47:23 +0800</pubDate>
-      <guid>https://deuts.org/x/880-mailflow/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-880&#34;&gt;&lt;a href=&#34;https://github.com/maathimself/mailflow&#34;&gt;Mailflow&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-880 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A self-hosted, unified webmail client.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-880"><a href="https://github.com/maathimself/mailflow">Mailflow</a></h3>
-<style>
-.favicon-880 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A self-hosted, unified webmail client.
 </blockquote>
   
 ]]></content:encoded>
