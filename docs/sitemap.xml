@@ -58,9 +58,6 @@
     <loc>https://deuts.org/k/rust/</loc>
     <lastmod>2026-07-25T01:27:52+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/tauri/</loc>
-    <lastmod>2026-07-25T01:27:52+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/guide/</loc>
     <lastmod>2026-07-25T01:27:28+08:00</lastmod>
   </url><url>
@@ -94,9 +91,6 @@
     <loc>https://deuts.org/k/homelab/</loc>
     <lastmod>2026-07-25T01:24:34+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/startpage/</loc>
-    <lastmod>2026-07-25T01:24:34+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/yaml/</loc>
     <lastmod>2026-07-25T01:24:34+08:00</lastmod>
   </url><url>
@@ -119,9 +113,6 @@
     <lastmod>2026-07-25T01:15:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/finance/</loc>
-    <lastmod>2026-07-25T01:15:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/homeassistant/</loc>
     <lastmod>2026-07-25T01:15:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2026-07-23-00-00-03-01ky58wcz6hffzd034qqw6qbqt/</loc>
@@ -1562,9 +1553,6 @@
     <lastmod>2025-10-30T08:03:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/kometa/</loc>
-    <lastmod>2025-10-30T08:03:48+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/posterizarr/</loc>
     <lastmod>2025-10-30T08:03:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/659-posterizarr-automated-poster-asset-maker-for-plex-jellyfin-emby/</loc>
