@@ -7,8 +7,227 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 20:44:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 01:28:32 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crumbs — Self-Hosted, Privacy-First Google Keep Alternative (SvelteKit)</title>
+      <link>https://deuts.org/x/897-crumbs-self-hosted-privacy-first-google-keep-alternative-sveltekit/</link>
+      <pubDate>Sat, 25 Jul 2026 01:28:32 +0800</pubDate>
+      <guid>https://deuts.org/x/897-crumbs-self-hosted-privacy-first-google-keep-alternative-sveltekit/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-897&#34;&gt;&lt;a href=&#34;https://github.com/bretzel-app/crumbs&#34;&gt;Crumbs — Self-Hosted, Privacy-First Google Keep Alternative (SvelteKit)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-897 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight self-hosted notes app with a clean card-based UI similar to Google Keep. Features local-first sync (LWW CRDTs), offline support via IndexedDB, dark mode, note sharing with email notifications, OAuth/SSO auth (Authentik, Keycloak), and note search. Built with SvelteKit 2 (Svelte 5 runes), TypeScript, Tailwind CSS 4, SQLite + Drizzle ORM. Docker-ready, 51 stars, MIT.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-897"><a href="https://github.com/bretzel-app/crumbs">Crumbs — Self-Hosted, Privacy-First Google Keep Alternative (SvelteKit)</a></h3>
+<style>
+.favicon-897 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight self-hosted notes app with a clean card-based UI similar to Google Keep. Features local-first sync (LWW CRDTs), offline support via IndexedDB, dark mode, note sharing with email notifications, OAuth/SSO auth (Authentik, Keycloak), and note search. Built with SvelteKit 2 (Svelte 5 runes), TypeScript, Tailwind CSS 4, SQLite + Drizzle ORM. Docker-ready, 51 stars, MIT.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Nightingale — ML-Powered Karaoke App with Real-Time Scoring</title>
+      <link>https://deuts.org/x/896-nightingale-ml-powered-karaoke-app-with-real-time-scoring/</link>
+      <pubDate>Sat, 25 Jul 2026 01:27:52 +0800</pubDate>
+      <guid>https://deuts.org/x/896-nightingale-ml-powered-karaoke-app-with-real-time-scoring/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-896&#34;&gt;&lt;a href=&#34;https://github.com/rzru/nightingale&#34;&gt;Nightingale — ML-Powered Karaoke App with Real-Time Scoring&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-896 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted karaoke app that uses neural networks (Demucs for vocal isolation, Whisper for lyrics alignment) to create karaoke tracks from any song in your music library. Real-time pitch scoring and a polished UI. Built with Rust (Tauri desktop app), React/TypeScript web client, Python ML pipeline. Self-hosted web version available, Docker support. 1.3k stars, GPL-3.0.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-896"><a href="https://github.com/rzru/nightingale">Nightingale — ML-Powered Karaoke App with Real-Time Scoring</a></h3>
+<style>
+.favicon-896 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted karaoke app that uses neural networks (Demucs for vocal isolation, Whisper for lyrics alignment) to create karaoke tracks from any song in your music library. Real-time pitch scoring and a polished UI. Built with Rust (Tauri desktop app), React/TypeScript web client, Python ML pipeline. Self-hosted web version available, Docker support. 1.3k stars, GPL-3.0.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide</title>
+      <link>https://deuts.org/x/895-optimal-plex-settings-for-privacy-conscious-users-opt-out-guide/</link>
+      <pubDate>Sat, 25 Jul 2026 01:27:28 +0800</pubDate>
+      <guid>https://deuts.org/x/895-optimal-plex-settings-for-privacy-conscious-users-opt-out-guide/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-895&#34;&gt;&lt;a href=&#34;https://selfh.st/post/plex-privacy-settings/&#34;&gt;Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-895 {
+    background: url(&#39;https://bm.deuts.org/static/https_selfh_st.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Step-by-step guide to hardening Plex privacy: opt out of marketing emails, disable sale of personal data to ad partners, stop targeted advertising, turn off playback data collection, hide watch state/ratings sync, disable online media sources, and manage friend visibility. Covers every privacy-related toggle in Plex&amp;rsquo;s account settings with direct links. By Ethan Sholly on selfh.st, updated March 2025.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-895"><a href="https://selfh.st/post/plex-privacy-settings/">Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide</a></h3>
+<style>
+.favicon-895 {
+    background: url('https://bm.deuts.org/static/https_selfh_st.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Step-by-step guide to hardening Plex privacy: opt out of marketing emails, disable sale of personal data to ad partners, stop targeted advertising, turn off playback data collection, hide watch state/ratings sync, disable online media sources, and manage friend visibility. Covers every privacy-related toggle in Plex&rsquo;s account settings with direct links. By Ethan Sholly on selfh.st, updated March 2025.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ourSchool — Self-Hosted Homeschool Tracking &amp; Management App</title>
+      <link>https://deuts.org/x/894-ourschool-self-hosted-homeschool-tracking-management-app/</link>
+      <pubDate>Sat, 25 Jul 2026 01:26:07 +0800</pubDate>
+      <guid>https://deuts.org/x/894-ourschool-self-hosted-homeschool-tracking-management-app/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-894&#34;&gt;&lt;a href=&#34;https://github.com/DGAzr/ourschool&#34;&gt;ourSchool — Self-Hosted Homeschool Tracking &amp;amp; Management App&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-894 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source app for managing a homeschooling program — track assignments, journal entries, attendance, and student progress. Features role-based access (admin, teacher, student), JWT auth, PostgreSQL backend with Alembic migrations, React 19 + TypeScript + Tailwind CSS 4 + TanStack Query frontend, FastAPI backend. Docker Compose with pre-built GHCR images. 64 stars, AGPL-3.0.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-894"><a href="https://github.com/DGAzr/ourschool">ourSchool — Self-Hosted Homeschool Tracking &amp; Management App</a></h3>
+<style>
+.favicon-894 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source app for managing a homeschooling program — track assignments, journal entries, attendance, and student progress. Features role-based access (admin, teacher, student), JWT auth, PostgreSQL backend with Alembic migrations, React 19 + TypeScript + Tailwind CSS 4 + TanStack Query frontend, FastAPI backend. Docker Compose with pre-built GHCR images. 64 stars, AGPL-3.0.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>foyer — Config-Driven Homelab Dashboard, No Build Step</title>
+      <link>https://deuts.org/x/893-foyer-config-driven-homelab-dashboard-no-build-step/</link>
+      <pubDate>Sat, 25 Jul 2026 01:24:34 +0800</pubDate>
+      <guid>https://deuts.org/x/893-foyer-config-driven-homelab-dashboard-no-build-step/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-893&#34;&gt;&lt;a href=&#34;https://github.com/shuricksumy/foyer&#34;&gt;foyer — Config-Driven Homelab Dashboard, No Build Step&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-893 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight self-hosted start page with a sidebar of services that load into an in-page iframe pane. Fully configurable via YAML: services, icons, grouping, URL rules, dashboard grid, clock widget. Supports multi-profile switching, folded/expanded sidebar, collapsible groups, dark/light theme, and bookmarklet quick-add. No build step — plain HTML/JS/CSS. MIT, 9 stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-893"><a href="https://github.com/shuricksumy/foyer">foyer — Config-Driven Homelab Dashboard, No Build Step</a></h3>
+<style>
+.favicon-893 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight self-hosted start page with a sidebar of services that load into an in-page iframe pane. Fully configurable via YAML: services, icons, grouping, URL rules, dashboard grid, clock widget. Supports multi-profile switching, folded/expanded sidebar, collapsible groups, dark/light theme, and bookmarklet quick-add. No build step — plain HTML/JS/CSS. MIT, 9 stars.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption</title>
+      <link>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</link>
+      <pubDate>Sat, 25 Jul 2026 01:17:17 +0800</pubDate>
+      <guid>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-892&#34;&gt;&lt;a href=&#34;https://github.com/Ciphranova-LLC/ExoServe&#34;&gt;ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-892 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted end-to-end encrypted file storage designed for local hardware. All encryption (AES-256-GCM) is client-side — file contents, names, and directory topology are encrypted before upload. Uses a Merkle tree for obfuscated directory structure, hash sharding for blob storage, and concurrent multi-device sync with race condition handling. Vanilla JS WebUI, Python/FastAPI backend, Docker Compose ready. BSL license, 2 stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-892"><a href="https://github.com/Ciphranova-LLC/ExoServe">ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption</a></h3>
+<style>
+.favicon-892 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted end-to-end encrypted file storage designed for local hardware. All encryption (AES-256-GCM) is client-side — file contents, names, and directory topology are encrypted before upload. Uses a Merkle tree for obfuscated directory structure, hash sharding for blob storage, and concurrent multi-device sync with race condition handling. Vanilla JS WebUI, Python/FastAPI backend, Docker Compose ready. BSL license, 2 stars.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration</title>
+      <link>https://deuts.org/x/891-car-costs-self-hosted-vehicle-running-costs-tracker-with-home-assistant-integration/</link>
+      <pubDate>Sat, 25 Jul 2026 01:15:51 +0800</pubDate>
+      <guid>https://deuts.org/x/891-car-costs-self-hosted-vehicle-running-costs-tracker-with-home-assistant-integration/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-891&#34;&gt;&lt;a href=&#34;https://github.com/colfin22/car-costs&#34;&gt;Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-891 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Lightweight self-hosted app to track fuel, tax, insurance, servicing, and vehicle lifecycle costs. PWA for quick logging at the pump, with REST API and ready-to-use Home Assistant package (templates + reminders). Single FastAPI + SQLite app, Docker Compose ready with pre-built multi-arch images. 5 stars, MIT.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-891"><a href="https://github.com/colfin22/car-costs">Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration</a></h3>
+<style>
+.favicon-891 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Lightweight self-hosted app to track fuel, tax, insurance, servicing, and vehicle lifecycle costs. PWA for quick logging at the pump, with REST API and ready-to-use Home Assistant package (templates + reminders). Single FastAPI + SQLite app, Docker Compose ready with pre-built multi-arch images. 5 stars, MIT.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01KY58WCZ6HFFZD034QQW6QBQT</title>
+      <link>https://deuts.org/x/2026-07-23-00-00-03-01ky58wcz6hffzd034qqw6qbqt/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:03 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-07-23-00-00-03-01ky58wcz6hffzd034qqw6qbqt/</guid>
+      <description>&lt;p&gt;Manus vs. HyperAgent vs. Tasklet?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Manus vs. HyperAgent vs. Tasklet?</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KY2B90S19ZYZJSQYNQV84X6C</title>
       <link>https://deuts.org/x/2026-07-21-20-44-10-01ky2b90s19zyzjsqynqv84x6c/</link>
@@ -51,246 +270,6 @@
 
 <blockquote class="linkding-description">
     Practical guide to the Simple Memory node in n8n AI Agent. Covers context window (exchanges vs messages), sessionId configuration, queue mode incompatibility with Redis, and Postgres Chat Memory for production.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Paperless Starfruit — AI-Powered Document Processing for Paperless-ngx</title>
-      <link>https://deuts.org/x/889-paperless-starfruit-ai-powered-document-processing-for-paperless-ngx/</link>
-      <pubDate>Sat, 18 Jul 2026 00:18:25 +0800</pubDate>
-      <guid>https://deuts.org/x/889-paperless-starfruit-ai-powered-document-processing-for-paperless-ngx/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-889&#34;&gt;&lt;a href=&#34;https://github.com/sabbaken/paperless-starfruit&#34;&gt;Paperless Starfruit — AI-Powered Document Processing for Paperless-ngx&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-889 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    AI-powered document processing companion for Paperless-ngx. Adds LLM-powered summarization, tagging, and categorization with configurable LLM and OCR providers. Docker-ready, TypeScript, 26 stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-889"><a href="https://github.com/sabbaken/paperless-starfruit">Paperless Starfruit — AI-Powered Document Processing for Paperless-ngx</a></h3>
-<style>
-.favicon-889 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    AI-powered document processing companion for Paperless-ngx. Adds LLM-powered summarization, tagging, and categorization with configurable LLM and OCR providers. Docker-ready, TypeScript, 26 stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Minimamemosa — Lightweight Self-Hosted Memo App</title>
-      <link>https://deuts.org/x/888-minimamemosa-lightweight-self-hosted-memo-app/</link>
-      <pubDate>Sat, 18 Jul 2026 00:14:04 +0800</pubDate>
-      <guid>https://deuts.org/x/888-minimamemosa-lightweight-self-hosted-memo-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-888&#34;&gt;&lt;a href=&#34;https://github.com/niteenautade/minimamemosa&#34;&gt;Minimamemosa — Lightweight Self-Hosted Memo App&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-888 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A lightweight, self-hosted memo/notes app built in Rust. Minimal resource usage (5–10MB idle RAM, max 100MB). Uses SQLite, HTMX, Docker-ready. MIT licensed, 4 stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-888"><a href="https://github.com/niteenautade/minimamemosa">Minimamemosa — Lightweight Self-Hosted Memo App</a></h3>
-<style>
-.favicon-888 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A lightweight, self-hosted memo/notes app built in Rust. Minimal resource usage (5–10MB idle RAM, max 100MB). Uses SQLite, HTMX, Docker-ready. MIT licensed, 4 stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Kosh — Privacy-First Self-Hosted Personal Finance App</title>
-      <link>https://deuts.org/x/887-kosh-privacy-first-self-hosted-personal-finance-app/</link>
-      <pubDate>Sat, 18 Jul 2026 00:11:38 +0800</pubDate>
-      <guid>https://deuts.org/x/887-kosh-privacy-first-self-hosted-personal-finance-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-887&#34;&gt;&lt;a href=&#34;https://github.com/kzekiue/kosh&#34;&gt;Kosh — Privacy-First Self-Hosted Personal Finance App&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-887 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted personal finance app for accounts, transactions, budgets, bills, recurring commitments, goals, and CSV imports. Built with Next.js + PostgreSQL + Drizzle ORM. Exact integer money math, optional AI via Gemini, read-only MCP access. AGPL-3.0, 12 stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-887"><a href="https://github.com/kzekiue/kosh">Kosh — Privacy-First Self-Hosted Personal Finance App</a></h3>
-<style>
-.favicon-887 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted personal finance app for accounts, transactions, budgets, bills, recurring commitments, goals, and CSV imports. Built with Next.js + PostgreSQL + Drizzle ORM. Exact integer money math, optional AI via Gemini, read-only MCP access. AGPL-3.0, 12 stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Prefab Foldable Houses Philippines — Smarthouse Philippines Tour &amp; Pricing</title>
-      <link>https://deuts.org/x/886-prefab-foldable-houses-philippines-smarthouse-philippines-tour-pricing/</link>
-      <pubDate>Tue, 14 Jul 2026 13:01:40 +0800</pubDate>
-      <guid>https://deuts.org/x/886-prefab-foldable-houses-philippines-smarthouse-philippines-tour-pricing/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-886&#34;&gt;&lt;a href=&#34;https://youtube.com/watch?v=HhejXA56IGE&amp;amp;si=-MZYP0xaVHIa87Ce&#34;&gt;Prefab Foldable Houses Philippines — Smarthouse Philippines Tour &amp;amp; Pricing&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-886 {
-    background: url(&#39;https://bm.deuts.org/static/https_youtube_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Best Finds Tv tours Smart House Philippines (Quezon City) showcasing foldable prefab houses. One-day installation, up to 3 floors, prices start at ₱1.3M for a fully furnished foldable unit. Also covers low-cost and luxury prefab options with 50-year durability, soundproofing, and 7.2 magnitude earthquake resistance.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-886"><a href="https://youtube.com/watch?v=HhejXA56IGE&amp;si=-MZYP0xaVHIa87Ce">Prefab Foldable Houses Philippines — Smarthouse Philippines Tour &amp; Pricing</a></h3>
-<style>
-.favicon-886 {
-    background: url('https://bm.deuts.org/static/https_youtube_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Best Finds Tv tours Smart House Philippines (Quezon City) showcasing foldable prefab houses. One-day installation, up to 3 floors, prices start at ₱1.3M for a fully furnished foldable unit. Also covers low-cost and luxury prefab options with 50-year durability, soundproofing, and 7.2 magnitude earthquake resistance.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tela</title>
-      <link>https://deuts.org/x/885-tela/</link>
-      <pubDate>Sat, 11 Jul 2026 02:53:49 +0800</pubDate>
-      <guid>https://deuts.org/x/885-tela/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-885&#34;&gt;&lt;a href=&#34;https://github.com/zcag/tela&#34;&gt;Tela&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-885 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-885"><a href="https://github.com/zcag/tela">Tela</a></h3>
-<style>
-.favicon-885 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Dufs</title>
-      <link>https://deuts.org/x/884-dufs/</link>
-      <pubDate>Sat, 11 Jul 2026 02:48:32 +0800</pubDate>
-      <guid>https://deuts.org/x/884-dufs/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-884&#34;&gt;&lt;a href=&#34;https://github.com/sigoden/dufs&#34;&gt;Dufs&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-884 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A file server that supports static serving, uploading, searching, accessing control, webdav.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-884"><a href="https://github.com/sigoden/dufs">Dufs</a></h3>
-<style>
-.favicon-884 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A file server that supports static serving, uploading, searching, accessing control, webdav.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Folder Host</title>
-      <link>https://deuts.org/x/883-folder-host/</link>
-      <pubDate>Sat, 11 Jul 2026 02:44:53 +0800</pubDate>
-      <guid>https://deuts.org/x/883-folder-host/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-883&#34;&gt;&lt;a href=&#34;https://github.com/MertJSX/folderhost&#34;&gt;Folder Host&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-883 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Your own private cloud in one executable. Share files, collaborate on code, and manage users without complex setup. - MertJSX/folderhost
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-883"><a href="https://github.com/MertJSX/folderhost">Folder Host</a></h3>
-<style>
-.favicon-883 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Your own private cloud in one executable. Share files, collaborate on code, and manage users without complex setup. - MertJSX/folderhost
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Alarik Object Storage</title>
-      <link>https://deuts.org/x/882-alarik-object-storage/</link>
-      <pubDate>Sat, 11 Jul 2026 02:41:31 +0800</pubDate>
-      <guid>https://deuts.org/x/882-alarik-object-storage/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-882&#34;&gt;&lt;a href=&#34;https://github.com/achtungsoftware/alarik&#34;&gt;Alarik Object Storage&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-882 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-882"><a href="https://github.com/achtungsoftware/alarik">Alarik Object Storage</a></h3>
-<style>
-.favicon-882 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
 </blockquote>
   
 ]]></content:encoded>
