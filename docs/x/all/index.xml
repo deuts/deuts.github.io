@@ -7,8 +7,98 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 07:08:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:31:33 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open-terminal — A computer you can curl (sandboxed Linux terminal API)</title>
+      <link>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</link>
+      <pubDate>Wed, 29 Jul 2026 23:31:33 +0800</pubDate>
+      <guid>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-903&#34;&gt;&lt;a href=&#34;https://github.com/open-webui/open-terminal&#34;&gt;open-terminal — A computer you can curl (sandboxed Linux terminal API)&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-903 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    HTTP-accessible sandboxed Linux terminal by the Open WebUI team. Curl commands to execute them, built-in multi-user isolation, Docker-ready. MIT license, 2.9k stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-903"><a href="https://github.com/open-webui/open-terminal">open-terminal — A computer you can curl (sandboxed Linux terminal API)</a></h3>
+<style>
+.favicon-903 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    HTTP-accessible sandboxed Linux terminal by the Open WebUI team. Curl commands to execute them, built-in multi-user isolation, Docker-ready. MIT license, 2.9k stars.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OmniRoute — Free AI Gateway for Multi-Provider LLMs</title>
+      <link>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</link>
+      <pubDate>Wed, 29 Jul 2026 18:01:03 +0800</pubDate>
+      <guid>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-902&#34;&gt;&lt;a href=&#34;https://omniroute.online/&#34;&gt;OmniRoute — Free AI Gateway for Multi-Provider LLMs&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-902 {
+    background: url(&#39;https://bm.deuts.org/static/https_omniroute_online.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted AI gateway routing across 268 providers with auto-fallback, token compression (RTK+Caveman), built-in MCP server, and cloud agent support. 33k+ stars, MIT license.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-902"><a href="https://omniroute.online/">OmniRoute — Free AI Gateway for Multi-Provider LLMs</a></h3>
+<style>
+.favicon-902 {
+    background: url('https://bm.deuts.org/static/https_omniroute_online.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted AI gateway routing across 268 providers with auto-fallback, token compression (RTK+Caveman), built-in MCP server, and cloud agent support. 33k+ stars, MIT license.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>9Router — Free AI Router with Smart Fallback for Claude, Codex &amp; More</title>
+      <link>https://deuts.org/x/901-9router-free-ai-router-with-smart-fallback-for-claude-codex-more/</link>
+      <pubDate>Wed, 29 Jul 2026 17:59:24 +0800</pubDate>
+      <guid>https://deuts.org/x/901-9router-free-ai-router-with-smart-fallback-for-claude-codex-more/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-901&#34;&gt;&lt;a href=&#34;https://9router.com/&#34;&gt;9Router — Free AI Router with Smart Fallback for Claude, Codex &amp;amp; More&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-901 {
+    background: url(&#39;https://bm.deuts.org/static/https_9router_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted AI router with 3-tier auto-fallback (subscription → cheap → free) across 60+ providers. RTK+Caveman token compression saves 20-65%. One OpenAI-compatible endpoint for all CLI tools. MIT license.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-901"><a href="https://9router.com/">9Router — Free AI Router with Smart Fallback for Claude, Codex &amp; More</a></h3>
+<style>
+.favicon-901 {
+    background: url('https://bm.deuts.org/static/https_9router_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted AI router with 3-tier auto-fallback (subscription → cheap → free) across 60+ providers. RTK+Caveman token compression saves 20-65%. One OpenAI-compatible endpoint for all CLI tools. MIT license.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>superfile: Pretty fancy and modern terminal file manager</title>
       <link>https://deuts.org/x/900-superfile-pretty-fancy-and-modern-terminal-file-manager/</link>
@@ -215,96 +305,6 @@
 
 <blockquote class="linkding-description">
     Open-source app for managing a homeschooling program — track assignments, journal entries, attendance, and student progress. Features role-based access (admin, teacher, student), JWT auth, PostgreSQL backend with Alembic migrations, React 19 + TypeScript + Tailwind CSS 4 + TanStack Query frontend, FastAPI backend. Docker Compose with pre-built GHCR images. 64 stars, AGPL-3.0.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>foyer — Config-Driven Homelab Dashboard, No Build Step</title>
-      <link>https://deuts.org/x/893-foyer-config-driven-homelab-dashboard-no-build-step/</link>
-      <pubDate>Sat, 25 Jul 2026 01:24:34 +0800</pubDate>
-      <guid>https://deuts.org/x/893-foyer-config-driven-homelab-dashboard-no-build-step/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-893&#34;&gt;&lt;a href=&#34;https://github.com/shuricksumy/foyer&#34;&gt;foyer — Config-Driven Homelab Dashboard, No Build Step&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-893 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Lightweight self-hosted start page with a sidebar of services that load into an in-page iframe pane. Fully configurable via YAML: services, icons, grouping, URL rules, dashboard grid, clock widget. Supports multi-profile switching, folded/expanded sidebar, collapsible groups, dark/light theme, and bookmarklet quick-add. No build step — plain HTML/JS/CSS. MIT, 9 stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-893"><a href="https://github.com/shuricksumy/foyer">foyer — Config-Driven Homelab Dashboard, No Build Step</a></h3>
-<style>
-.favicon-893 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Lightweight self-hosted start page with a sidebar of services that load into an in-page iframe pane. Fully configurable via YAML: services, icons, grouping, URL rules, dashboard grid, clock widget. Supports multi-profile switching, folded/expanded sidebar, collapsible groups, dark/light theme, and bookmarklet quick-add. No build step — plain HTML/JS/CSS. MIT, 9 stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption</title>
-      <link>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</link>
-      <pubDate>Sat, 25 Jul 2026 01:17:17 +0800</pubDate>
-      <guid>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-892&#34;&gt;&lt;a href=&#34;https://github.com/Ciphranova-LLC/ExoServe&#34;&gt;ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-892 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted end-to-end encrypted file storage designed for local hardware. All encryption (AES-256-GCM) is client-side — file contents, names, and directory topology are encrypted before upload. Uses a Merkle tree for obfuscated directory structure, hash sharding for blob storage, and concurrent multi-device sync with race condition handling. Vanilla JS WebUI, Python/FastAPI backend, Docker Compose ready. BSL license, 2 stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-892"><a href="https://github.com/Ciphranova-LLC/ExoServe">ExoServe — E2EE Self-Hosted File Storage with Client-Side Encryption</a></h3>
-<style>
-.favicon-892 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted end-to-end encrypted file storage designed for local hardware. All encryption (AES-256-GCM) is client-side — file contents, names, and directory topology are encrypted before upload. Uses a Merkle tree for obfuscated directory structure, hash sharding for blob storage, and concurrent multi-device sync with race condition handling. Vanilla JS WebUI, Python/FastAPI backend, Docker Compose ready. BSL license, 2 stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration</title>
-      <link>https://deuts.org/x/891-car-costs-self-hosted-vehicle-running-costs-tracker-with-home-assistant-integration/</link>
-      <pubDate>Sat, 25 Jul 2026 01:15:51 +0800</pubDate>
-      <guid>https://deuts.org/x/891-car-costs-self-hosted-vehicle-running-costs-tracker-with-home-assistant-integration/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-891&#34;&gt;&lt;a href=&#34;https://github.com/colfin22/car-costs&#34;&gt;Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-891 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Lightweight self-hosted app to track fuel, tax, insurance, servicing, and vehicle lifecycle costs. PWA for quick logging at the pump, with REST API and ready-to-use Home Assistant package (templates + reminders). Single FastAPI + SQLite app, Docker Compose ready with pre-built multi-arch images. 5 stars, MIT.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-891"><a href="https://github.com/colfin22/car-costs">Car Costs — Self-Hosted Vehicle Running-Costs Tracker with Home Assistant Integration</a></h3>
-<style>
-.favicon-891 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Lightweight self-hosted app to track fuel, tax, insurance, servicing, and vehicle lifecycle costs. PWA for quick logging at the pump, with REST API and ready-to-use Home Assistant package (templates + reminders). Single FastAPI + SQLite app, Docker Compose ready with pre-built multi-arch images. 5 stars, MIT.
 </blockquote>
   
 ]]></content:encoded>

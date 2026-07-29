@@ -17,10 +17,37 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-07-28T07:08:11+08:00</lastmod>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-07-28T07:08:11+08:00</lastmod>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/docker/</loc>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</loc>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/openwebui/</loc>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/api/</loc>
+    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</loc>
+    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/901-9router-free-ai-router-with-smart-fallback-for-claude-codex-more/</loc>
+    <lastmod>2026-07-29T17:59:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/filemanager/</loc>
     <lastmod>2026-07-28T07:08:11+08:00</lastmod>
@@ -33,12 +60,6 @@
   </url><url>
     <loc>https://deuts.org/k/terminal/</loc>
     <lastmod>2026-07-28T07:08:11+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-07-27T07:15:06+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
-    <lastmod>2026-07-27T07:15:06+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/music/</loc>
     <lastmod>2026-07-27T07:15:06+08:00</lastmod>
@@ -61,13 +82,7 @@
     <loc>https://deuts.org/k/rust/</loc>
     <lastmod>2026-07-25T02:06:37+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2026-07-25T02:06:37+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/897-crumbs-self-hosted-privacy-first-google-keep-alternative-sveltekit/</loc>
-    <lastmod>2026-07-25T01:28:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/docker/</loc>
     <lastmod>2026-07-25T01:28:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/notetakingapp/</loc>
@@ -354,9 +369,6 @@
   </url><url>
     <loc>https://deuts.org/x/861-actual-mcp/</loc>
     <lastmod>2026-05-23T02:45:20+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/api/</loc>
-    <lastmod>2026-05-20T07:57:55+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/restapi/</loc>
     <lastmod>2026-05-20T07:57:55+08:00</lastmod>
@@ -1789,6 +1801,9 @@
     <loc>https://deuts.org/x/604-deploy-a-static-wordpress-site-on-cloudflare-pages/</loc>
     <lastmod>2025-09-04T13:05:48+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/603-welovegrist-custom-widgets-for-grist-pdf-signing-pivot-grid-mermaid-rendering/</loc>
+    <lastmod>2025-09-03T21:57:26+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/602-intellidollar-budget-tracker/</loc>
     <lastmod>2025-08-30T02:01:39+08:00</lastmod>
   </url><url>
@@ -1816,8 +1831,14 @@
     <loc>https://deuts.org/x/597-immich-drop/</loc>
     <lastmod>2025-08-30T01:25:43+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/596-cactoide-federated-mobile-first-rsvp-platform-meetup-com-alternative/</loc>
+    <lastmod>2025-08-30T01:09:10+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/595-authelia-admin/</loc>
     <lastmod>2025-08-30T01:02:42+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/594-agregarr-plex-collections-manager-that-keeps-home-recommended-fresh/</loc>
+    <lastmod>2025-08-30T01:01:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/593-pangolin-rule-updater/</loc>
     <lastmod>2025-08-29T07:42:24+08:00</lastmod>
@@ -2846,9 +2867,6 @@
     <lastmod>2025-02-26T15:01:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/394-anthropic-function-open-webui-community/</loc>
-    <lastmod>2025-02-26T15:01:51+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/openwebui/</loc>
     <lastmod>2025-02-26T15:01:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/393-track-changes-online-with-changedetection-a-self-hosted-docker-container-techno-tim/</loc>
