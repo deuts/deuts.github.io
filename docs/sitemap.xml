@@ -17,21 +17,60 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/docker/</loc>
-    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/privacy/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/proxmox/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/rss/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/videos/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/youtube/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/905-yt-zero-self-hosted-youtube-subscription-inbox/</loc>
+    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanagement/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filemanager/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fileserver/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filesharing/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/filestorage/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/904-nextexplorer-self-hosted-web-file-explorer/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/oidc/</loc>
+    <lastmod>2026-08-01T15:26:21+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</loc>
     <lastmod>2026-07-29T23:31:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/openwebui/</loc>
-    <lastmod>2026-07-29T23:31:33+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-07-29T23:31:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/ai/</loc>
@@ -48,9 +87,6 @@
   </url><url>
     <loc>https://deuts.org/x/901-9router-free-ai-router-with-smart-fallback-for-claude-codex-more/</loc>
     <lastmod>2026-07-29T17:59:24+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filemanager/</loc>
-    <lastmod>2026-07-28T07:08:11+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/go/</loc>
     <lastmod>2026-07-28T07:08:11+08:00</lastmod>
@@ -86,9 +122,6 @@
     <lastmod>2026-07-25T01:28:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/notetakingapp/</loc>
-    <lastmod>2026-07-25T01:28:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/privacy/</loc>
     <lastmod>2026-07-25T01:28:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/svelte/</loc>
@@ -145,9 +178,6 @@
     <loc>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</loc>
     <lastmod>2026-07-25T01:17:17+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/filestorage/</loc>
-    <lastmod>2026-07-25T01:17:17+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/automation/</loc>
     <lastmod>2026-07-25T01:15:51+08:00</lastmod>
   </url><url>
@@ -199,9 +229,6 @@
     <loc>https://deuts.org/x/886-prefab-foldable-houses-philippines-smarthouse-philippines-tour-pricing/</loc>
     <lastmod>2026-07-14T13:01:40+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/youtube/</loc>
-    <lastmod>2026-07-14T13:01:40+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/885-tela/</loc>
     <lastmod>2026-07-11T02:53:49+08:00</lastmod>
   </url><url>
@@ -209,12 +236,6 @@
     <lastmod>2026-07-11T02:53:49+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/884-dufs/</loc>
-    <lastmod>2026-07-11T02:48:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/fileserver/</loc>
-    <lastmod>2026-07-11T02:48:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filesharing/</loc>
     <lastmod>2026-07-11T02:48:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/883-folder-host/</loc>
@@ -298,9 +319,6 @@
     <loc>https://deuts.org/k/authentication/</loc>
     <lastmod>2026-06-18T16:49:41+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/oidc/</loc>
-    <lastmod>2026-06-18T16:49:41+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/hermes/</loc>
     <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
@@ -329,9 +347,6 @@
     <lastmod>2026-06-10T18:47:44+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/867-fireshare/</loc>
-    <lastmod>2026-06-09T11:18:53+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/videos/</loc>
     <lastmod>2026-06-09T11:18:53+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/866-why-does-hermes-use-so-many-more-tokens-than-claude-code-r-hermesagent/</loc>
@@ -1966,9 +1981,6 @@
     <loc>https://deuts.org/x/569-gotosocial-ready-for-prime-time/</loc>
     <lastmod>2025-08-08T23:46:12+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/proxmox/</loc>
-    <lastmod>2025-08-08T21:34:23+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/568-r-proxmox-what-do-you-do-first-after-a-fresh-pve-install/</loc>
     <lastmod>2025-08-08T21:34:23+08:00</lastmod>
   </url><url>
@@ -2040,6 +2052,9 @@
   </url><url>
     <loc>https://deuts.org/x/559-n8n-how-to-migrate-from-sqlite-to-postgres/</loc>
     <lastmod>2025-07-29T18:34:03+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/558-n8n-local-run-n8n-postgres-pgadmin-via-docker-compose/</loc>
+    <lastmod>2025-07-29T17:47:24+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/code/</loc>
     <lastmod>2025-07-26T01:47:35+08:00</lastmod>
@@ -2134,6 +2149,12 @@
     <loc>https://deuts.org/x/544-signal-cli-rest-api/</loc>
     <lastmod>2025-07-11T07:12:35+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/tvshows/</loc>
+    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/543-yamtrack-self-hosted-media-tracker-movies-tv-books/</loc>
+    <lastmod>2025-07-08T12:25:06+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/2025-07-06-22-14-55-01jzg1e1te6gk8e403gsp2z04s/</loc>
     <lastmod>2025-07-06T22:14:55+08:00</lastmod>
   </url><url>
@@ -2206,6 +2227,12 @@
     <loc>https://deuts.org/x/530-close-deals-grow-your-business-twenty-crm/</loc>
     <lastmod>2025-07-03T20:43:55+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/mcp/</loc>
+    <lastmod>2025-07-02T12:40:29+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/528-tailscale-mcp-server-cli-rest-api-integration/</loc>
+    <lastmod>2025-07-02T12:40:29+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/x/527-fen-to-image-api/</loc>
     <lastmod>2025-07-01T18:09:59+08:00</lastmod>
   </url><url>
@@ -2221,6 +2248,15 @@
     <loc>https://deuts.org/x/2025-06-28-19-22-30-01jyv4ckn5qeaftwxcm40whs65/</loc>
     <lastmod>2025-06-28T19:22:30+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/x/524-self-hosted-url-shortener-go-gin-postgres-redis/</loc>
+    <lastmod>2025-06-28T10:10:04+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/523-subtrackr-self-hosted-subscription-tracker-go/</loc>
+    <lastmod>2025-06-28T10:07:43+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/522-rustical-caldav-carddav-server-in-rust/</loc>
+    <lastmod>2025-06-28T10:04:33+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/k/certificates/</loc>
     <lastmod>2025-06-26T22:51:36+08:00</lastmod>
   </url><url>
@@ -2232,6 +2268,9 @@
   </url><url>
     <loc>https://deuts.org/k/tls/</loc>
     <lastmod>2025-06-26T22:51:36+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/520-outline-wiki-docker-compose-install-guide/</loc>
+    <lastmod>2025-06-26T20:02:16+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-06-26-10-01-25-01jymzfsj6m2e7w2spj36t5d8a/</loc>
     <lastmod>2025-06-26T10:01:25+08:00</lastmod>
@@ -2333,9 +2372,6 @@
     <lastmod>2025-06-05T14:27:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/498-make-your-own-streaming-tv-channel-with-plex-and-ersatztv/</loc>
-    <lastmod>2025-06-05T14:27:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/tvshows/</loc>
     <lastmod>2025-06-05T14:27:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/497-switch-to-windows-10-ltsc-heres-how-i-set-it-up/</loc>
@@ -2446,9 +2482,6 @@
     <loc>https://deuts.org/x/470-webhook-tester-debug-and-replay-webhooks-go/</loc>
     <lastmod>2025-05-17T21:39:29+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/rss/</loc>
-    <lastmod>2025-05-17T21:38:14+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/469-rss-to-telegram-bot-monitor-feeds-send-notifications/</loc>
     <lastmod>2025-05-17T21:38:14+08:00</lastmod>
   </url><url>
@@ -2492,9 +2525,6 @@
     <lastmod>2025-05-10T16:27:02+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/462-filebrowser-web-based-file-manager-go-vue/</loc>
-    <lastmod>2025-05-10T16:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/filemanagement/</loc>
     <lastmod>2025-05-10T16:22:22+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/461-glimpse-multi-server-media-viewer-for-plex-jellyfin-emby/</loc>

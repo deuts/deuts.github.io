@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 23:31:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:59:56 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YT Zero — Self-Hosted YouTube Subscription Inbox</title>
+      <link>https://deuts.org/x/905-yt-zero-self-hosted-youtube-subscription-inbox/</link>
+      <pubDate>Sat, 01 Aug 2026 15:59:56 +0800</pubDate>
+      <guid>https://deuts.org/x/905-yt-zero-self-hosted-youtube-subscription-inbox/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-905&#34;&gt;&lt;a href=&#34;https://github.com/Pelski/ytzero&#34;&gt;YT Zero — Self-Hosted YouTube Subscription Inbox&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-905 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Self-hosted YouTube reader that shows only videos from channels you follow — no algorithm, no Google account, no API key. Reads public RSS feeds, stores state in SQLite/Postgres, supports tags/rules, optional yt-dlp downloads, SponsorBlock, and multi-profile households.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-905"><a href="https://github.com/Pelski/ytzero">YT Zero — Self-Hosted YouTube Subscription Inbox</a></h3>
+<style>
+.favicon-905 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Self-hosted YouTube reader that shows only videos from channels you follow — no algorithm, no Google account, no API key. Reads public RSS feeds, stores state in SQLite/Postgres, supports tags/rules, optional yt-dlp downloads, SponsorBlock, and multi-profile households.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>NextExplorer — Self-Hosted Web File Explorer</title>
+      <link>https://deuts.org/x/904-nextexplorer-self-hosted-web-file-explorer/</link>
+      <pubDate>Sat, 01 Aug 2026 15:26:21 +0800</pubDate>
+      <guid>https://deuts.org/x/904-nextexplorer-self-hosted-web-file-explorer/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-904&#34;&gt;&lt;a href=&#34;https://github.com/nxzai/NextExplorer&#34;&gt;NextExplorer — Self-Hosted Web File Explorer&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-904 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Docker-deployable web file explorer with OIDC/Authelia auth, ONLYOFFICE integration, thumbnails, and RAW/video preview support. 1k+ GitHub stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-904"><a href="https://github.com/nxzai/NextExplorer">NextExplorer — Self-Hosted Web File Explorer</a></h3>
+<style>
+.favicon-904 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Docker-deployable web file explorer with OIDC/Authelia auth, ONLYOFFICE integration, thumbnails, and RAW/video preview support. 1k+ GitHub stars.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>open-terminal — A computer you can curl (sandboxed Linux terminal API)</title>
       <link>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</link>
@@ -245,66 +305,6 @@
 
 <blockquote class="linkding-description">
     Self-hosted karaoke app that uses neural networks (Demucs for vocal isolation, Whisper for lyrics alignment) to create karaoke tracks from any song in your music library. Real-time pitch scoring and a polished UI. Built with Rust (Tauri desktop app), React/TypeScript web client, Python ML pipeline. Self-hosted web version available, Docker support. 1.3k stars, GPL-3.0.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide</title>
-      <link>https://deuts.org/x/895-optimal-plex-settings-for-privacy-conscious-users-opt-out-guide/</link>
-      <pubDate>Sat, 25 Jul 2026 01:27:28 +0800</pubDate>
-      <guid>https://deuts.org/x/895-optimal-plex-settings-for-privacy-conscious-users-opt-out-guide/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-895&#34;&gt;&lt;a href=&#34;https://selfh.st/post/plex-privacy-settings/&#34;&gt;Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-895 {
-    background: url(&#39;https://bm.deuts.org/static/https_selfh_st.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Step-by-step guide to hardening Plex privacy: opt out of marketing emails, disable sale of personal data to ad partners, stop targeted advertising, turn off playback data collection, hide watch state/ratings sync, disable online media sources, and manage friend visibility. Covers every privacy-related toggle in Plex&amp;rsquo;s account settings with direct links. By Ethan Sholly on selfh.st, updated March 2025.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-895"><a href="https://selfh.st/post/plex-privacy-settings/">Optimal Plex Settings for Privacy-Conscious Users — Opt-Out Guide</a></h3>
-<style>
-.favicon-895 {
-    background: url('https://bm.deuts.org/static/https_selfh_st.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Step-by-step guide to hardening Plex privacy: opt out of marketing emails, disable sale of personal data to ad partners, stop targeted advertising, turn off playback data collection, hide watch state/ratings sync, disable online media sources, and manage friend visibility. Covers every privacy-related toggle in Plex&rsquo;s account settings with direct links. By Ethan Sholly on selfh.st, updated March 2025.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ourSchool — Self-Hosted Homeschool Tracking &amp; Management App</title>
-      <link>https://deuts.org/x/894-ourschool-self-hosted-homeschool-tracking-management-app/</link>
-      <pubDate>Sat, 25 Jul 2026 01:26:07 +0800</pubDate>
-      <guid>https://deuts.org/x/894-ourschool-self-hosted-homeschool-tracking-management-app/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-894&#34;&gt;&lt;a href=&#34;https://github.com/DGAzr/ourschool&#34;&gt;ourSchool — Self-Hosted Homeschool Tracking &amp;amp; Management App&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-894 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source app for managing a homeschooling program — track assignments, journal entries, attendance, and student progress. Features role-based access (admin, teacher, student), JWT auth, PostgreSQL backend with Alembic migrations, React 19 + TypeScript + Tailwind CSS 4 + TanStack Query frontend, FastAPI backend. Docker Compose with pre-built GHCR images. 64 stars, AGPL-3.0.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-894"><a href="https://github.com/DGAzr/ourschool">ourSchool — Self-Hosted Homeschool Tracking &amp; Management App</a></h3>
-<style>
-.favicon-894 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Open-source app for managing a homeschooling program — track assignments, journal entries, attendance, and student progress. Features role-based access (admin, teacher, student), JWT auth, PostgreSQL backend with Alembic migrations, React 19 + TypeScript + Tailwind CSS 4 + TanStack Query frontend, FastAPI backend. Docker Compose with pre-built GHCR images. 64 stars, AGPL-3.0.
 </blockquote>
   
 ]]></content:encoded>
