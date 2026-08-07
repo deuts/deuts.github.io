@@ -17,10 +17,82 @@
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</loc>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/monitoring/</loc>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notification/</loc>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-08-07T22:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/appointments/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/crm/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/pos/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/912-pronto-self-hosted-booking-crm-pos/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/telegram/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/whatsapp/</loc>
+    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/bookmarks/</loc>
+    <lastmod>2026-08-07T22:11:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/dashboard/</loc>
+    <lastmod>2026-08-07T22:11:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/911-nextdash-self-hosted-bookmark-dashboard/</loc>
+    <lastmod>2026-08-07T22:11:34+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/fastapi/</loc>
+    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/910-forage-self-hosted-web-search-extraction-for-hermes/</loc>
+    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/hermes/</loc>
+    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/search/</loc>
+    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/webscraper/</loc>
+    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/909-ai-agent-harnesses-performance-cost-speed-benchmark/</loc>
+    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/automation/</loc>
+    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/harness/</loc>
+    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/908-kimi-k3-agent-harness-benchmark-8-harnesses-25-tasks/</loc>
+    <lastmod>2026-08-07T00:15:15+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/docker/</loc>
     <lastmod>2026-08-01T15:59:56+08:00</lastmod>
@@ -32,9 +104,6 @@
     <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/rss/</loc>
-    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
     <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/videos/</loc>
@@ -73,13 +142,7 @@
     <loc>https://deuts.org/k/openwebui/</loc>
     <lastmod>2026-07-29T23:31:33+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/api/</loc>
-    <lastmod>2026-07-29T18:01:03+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
     <lastmod>2026-07-29T18:01:03+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</loc>
@@ -148,9 +211,6 @@
     <loc>https://deuts.org/k/education/</loc>
     <lastmod>2026-07-25T01:26:07+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/fastapi/</loc>
-    <lastmod>2026-07-25T01:26:07+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/894-ourschool-self-hosted-homeschool-tracking-management-app/</loc>
     <lastmod>2026-07-25T01:26:07+08:00</lastmod>
   </url><url>
@@ -159,9 +219,6 @@
   </url><url>
     <loc>https://deuts.org/k/react/</loc>
     <lastmod>2026-07-25T01:26:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/dashboard/</loc>
-    <lastmod>2026-07-25T01:24:34+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/893-foyer-config-driven-homelab-dashboard-no-build-step/</loc>
     <lastmod>2026-07-25T01:24:34+08:00</lastmod>
@@ -177,9 +234,6 @@
   </url><url>
     <loc>https://deuts.org/x/892-exoserve-e2ee-self-hosted-file-storage-with-client-side-encryption/</loc>
     <lastmod>2026-07-25T01:17:17+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2026-07-25T01:15:51+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/automotive/</loc>
     <lastmod>2026-07-25T01:15:51+08:00</lastmod>
@@ -318,9 +372,6 @@
   </url><url>
     <loc>https://deuts.org/k/authentication/</loc>
     <lastmod>2026-06-18T16:49:41+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/hermes/</loc>
-    <lastmod>2026-06-16T09:36:31+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/871-user-guide-running-hermes-via-docker/</loc>
     <lastmod>2026-06-16T09:36:31+08:00</lastmod>
@@ -474,9 +525,6 @@
   </url><url>
     <loc>https://deuts.org/x/856-borg-backup-server/</loc>
     <lastmod>2026-05-04T01:17:16+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/bookmarks/</loc>
-    <lastmod>2026-05-04T01:16:01+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/855-faved/</loc>
     <lastmod>2026-05-04T01:16:01+08:00</lastmod>
@@ -859,9 +907,6 @@
     <loc>https://deuts.org/x/794-openwa-whatsapp-api-gateway/</loc>
     <lastmod>2026-02-07T00:06:35+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/whatsapp/</loc>
-    <lastmod>2026-02-07T00:06:35+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/fuellogs/</loc>
     <lastmod>2026-02-06T23:59:58+08:00</lastmod>
   </url><url>
@@ -1132,9 +1177,6 @@
     <loc>https://deuts.org/x/748-linkdinger/</loc>
     <lastmod>2026-01-09T23:13:40+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/telegram/</loc>
-    <lastmod>2026-01-09T23:13:40+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/747-audit8n-n8n-workflow-security-performance-analyzer/</loc>
     <lastmod>2026-01-09T14:54:26+08:00</lastmod>
   </url><url>
@@ -1183,9 +1225,6 @@
     <loc>https://deuts.org/x/735-doppelganger-browser-automation/</loc>
     <lastmod>2025-12-29T07:46:35+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/webscraper/</loc>
-    <lastmod>2025-12-29T07:46:35+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/kvm/</loc>
     <lastmod>2025-12-28T23:53:48+08:00</lastmod>
   </url><url>
@@ -1200,9 +1239,6 @@
   </url><url>
     <loc>https://deuts.org/x/733-actual-http-api/</loc>
     <lastmod>2025-12-27T23:52:27+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/crm/</loc>
-    <lastmod>2025-12-27T01:36:04+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/732-pivor/</loc>
     <lastmod>2025-12-27T01:36:04+08:00</lastmod>
@@ -1604,9 +1640,6 @@
     <lastmod>2025-10-30T08:03:48+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/analytics/</loc>
-    <lastmod>2025-10-25T14:35:35+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/monitoring/</loc>
     <lastmod>2025-10-25T14:35:35+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/658-traefik-log-dashboard-real-time-analytics-geo-ip-status-codes-service-metrics/</loc>
@@ -2356,9 +2389,6 @@
     <loc>https://deuts.org/x/2025-06-07-17-07-00-01jx4t9cx52r7k90q3ceg72pmx/</loc>
     <lastmod>2025-06-07T17:07:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/appointments/</loc>
-    <lastmod>2025-06-07T12:50:34+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/502-github-alextselegidis-easyappointments-date-easy-appointments-self-hosted-appointment-scheduler/</loc>
     <lastmod>2025-06-07T12:50:34+08:00</lastmod>
   </url><url>
@@ -2800,16 +2830,10 @@
     <loc>https://deuts.org/x/414-uci-linkding-bookmarks/</loc>
     <lastmod>2025-03-15T14:48:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/pos/</loc>
-    <lastmod>2025-03-15T14:39:56+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/413-resto-pos/</loc>
     <lastmod>2025-03-15T14:39:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/412-libresail/</loc>
-    <lastmod>2025-03-15T14:29:08+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/search/</loc>
     <lastmod>2025-03-15T14:29:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/2025-03-15-14-05-22-01jpc6ge9nx0xzt2qbfdm9fxfa/</loc>
@@ -4407,9 +4431,6 @@
   </url><url>
     <loc>https://deuts.org/x/239-bytestash-snippets/</loc>
     <lastmod>2024-10-26T19:59:11+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notification/</loc>
-    <lastmod>2024-10-26T19:52:26+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/238-what-s-up-docker/</loc>
     <lastmod>2024-10-26T19:52:26+08:00</lastmod>
