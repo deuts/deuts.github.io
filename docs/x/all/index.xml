@@ -7,8 +7,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 22:25:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:00:59 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@deuts@deuts.one 01KZGD352VHM7YM853HC1EZHRZ</title>
+      <link>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</link>
+      <pubDate>Sat, 08 Aug 2026 18:00:59 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</guid>
+      <description>&lt;p&gt;I use &lt;a href=&#34;https://fediwall.social/?tags=Hermes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Hermes&#34;&gt;#Hermes&lt;/a&gt; as a personal AI chief of staff and automation layer. It manages my Todoist tasks, priorities, reminders, and follow-ups; researches current news, products, apps, sports, and investments; helps monitor and run my self-hosted servers, Docker apps, backups, and media stack; organizes my bookmarks, notes, and documents; and builds workflows across APIs, webhooks, MCP servers, and scheduled jobs. It can also process things like lottery tickets, track personal data in my systems, draft messages, and handle technical troubleshooting—so I can manage a lot of personal operations through a single chat.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I use <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a> as a personal AI chief of staff and automation layer. It manages my Todoist tasks, priorities, reminders, and follow-ups; researches current news, products, apps, sports, and investments; helps monitor and run my self-hosted servers, Docker apps, backups, and media stack; organizes my bookmarks, notes, and documents; and builds workflows across APIs, webhooks, MCP servers, and scheduled jobs. It can also process things like lottery tickets, track personal data in my systems, draft messages, and handle technical troubleshooting—so I can manage a lot of personal operations through a single chat.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>GitHub Release Monitor - Self-Hosted Release Notifications</title>
       <link>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</link>
@@ -275,36 +284,6 @@
 
 <blockquote class="linkding-description">
     HTTP-accessible sandboxed Linux terminal by the Open WebUI team. Curl commands to execute them, built-in multi-user isolation, Docker-ready. MIT license, 2.9k stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>OmniRoute — Free AI Gateway for Multi-Provider LLMs</title>
-      <link>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</link>
-      <pubDate>Wed, 29 Jul 2026 18:01:03 +0800</pubDate>
-      <guid>https://deuts.org/x/902-omniroute-free-ai-gateway-for-multi-provider-llms/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-902&#34;&gt;&lt;a href=&#34;https://omniroute.online/&#34;&gt;OmniRoute — Free AI Gateway for Multi-Provider LLMs&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-902 {
-    background: url(&#39;https://bm.deuts.org/static/https_omniroute_online.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Self-hosted AI gateway routing across 268 providers with auto-fallback, token compression (RTK+Caveman), built-in MCP server, and cloud agent support. 33k+ stars, MIT license.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-902"><a href="https://omniroute.online/">OmniRoute — Free AI Gateway for Multi-Provider LLMs</a></h3>
-<style>
-.favicon-902 {
-    background: url('https://bm.deuts.org/static/https_omniroute_online.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Self-hosted AI gateway routing across 268 providers with auto-fallback, token compression (RTK+Caveman), built-in MCP server, and cloud agent support. 33k+ stars, MIT license.
 </blockquote>
   
 ]]></content:encoded>
