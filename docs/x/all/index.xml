@@ -7,8 +7,68 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 18:00:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:46:33 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MindsHub - AI Agent Workspace</title>
+      <link>https://deuts.org/x/916-mindshub-ai-agent-workspace/</link>
+      <pubDate>Thu, 13 Aug 2026 15:46:33 +0800</pubDate>
+      <guid>https://deuts.org/x/916-mindshub-ai-agent-workspace/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-916&#34;&gt;&lt;a href=&#34;https://mindshub.ai/&#34;&gt;MindsHub - AI Agent Workspace&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-916 {
+    background: url(&#39;https://bm.deuts.org/static/https_mindshub_ai.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-916"><a href="https://mindshub.ai/">MindsHub - AI Agent Workspace</a></h3>
+<style>
+.favicon-916 {
+    background: url('https://bm.deuts.org/static/https_mindshub_ai.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenMessage - Local-First Messaging Workspace</title>
+      <link>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</link>
+      <pubDate>Thu, 13 Aug 2026 13:58:37 +0800</pubDate>
+      <guid>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-915&#34;&gt;&lt;a href=&#34;https://github.com/maxghenis/openmessage&#34;&gt;OpenMessage - Local-First Messaging Workspace&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-915 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-915"><a href="https://github.com/maxghenis/openmessage">OpenMessage - Local-First Messaging Workspace</a></h3>
+<style>
+.favicon-915 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KZGD352VHM7YM853HC1EZHRZ</title>
       <link>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</link>
@@ -224,66 +284,6 @@
 
 <blockquote class="linkding-description">
     Self-hosted YouTube reader that shows only videos from channels you follow — no algorithm, no Google account, no API key. Reads public RSS feeds, stores state in SQLite/Postgres, supports tags/rules, optional yt-dlp downloads, SponsorBlock, and multi-profile households.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>NextExplorer — Self-Hosted Web File Explorer</title>
-      <link>https://deuts.org/x/904-nextexplorer-self-hosted-web-file-explorer/</link>
-      <pubDate>Sat, 01 Aug 2026 15:26:21 +0800</pubDate>
-      <guid>https://deuts.org/x/904-nextexplorer-self-hosted-web-file-explorer/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-904&#34;&gt;&lt;a href=&#34;https://github.com/nxzai/NextExplorer&#34;&gt;NextExplorer — Self-Hosted Web File Explorer&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-904 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Docker-deployable web file explorer with OIDC/Authelia auth, ONLYOFFICE integration, thumbnails, and RAW/video preview support. 1k+ GitHub stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-904"><a href="https://github.com/nxzai/NextExplorer">NextExplorer — Self-Hosted Web File Explorer</a></h3>
-<style>
-.favicon-904 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Docker-deployable web file explorer with OIDC/Authelia auth, ONLYOFFICE integration, thumbnails, and RAW/video preview support. 1k+ GitHub stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>open-terminal — A computer you can curl (sandboxed Linux terminal API)</title>
-      <link>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</link>
-      <pubDate>Wed, 29 Jul 2026 23:31:33 +0800</pubDate>
-      <guid>https://deuts.org/x/903-open-terminal-a-computer-you-can-curl-sandboxed-linux-terminal-api/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-903&#34;&gt;&lt;a href=&#34;https://github.com/open-webui/open-terminal&#34;&gt;open-terminal — A computer you can curl (sandboxed Linux terminal API)&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-903 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    HTTP-accessible sandboxed Linux terminal by the Open WebUI team. Curl commands to execute them, built-in multi-user isolation, Docker-ready. MIT license, 2.9k stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-903"><a href="https://github.com/open-webui/open-terminal">open-terminal — A computer you can curl (sandboxed Linux terminal API)</a></h3>
-<style>
-.favicon-903 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    HTTP-accessible sandboxed Linux terminal by the Open WebUI team. Curl commands to execute them, built-in multi-user isolation, Docker-ready. MIT license, 2.9k stars.
 </blockquote>
   
 ]]></content:encoded>

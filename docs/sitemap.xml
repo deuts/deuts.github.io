@@ -16,13 +16,43 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</loc>
-    <lastmod>2026-08-08T18:00:59+08:00</lastmod>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/app/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-08-08T18:00:59+08:00</lastmod>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/harness/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/916-mindshub-ai-agent-workspace/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/productivity/</loc>
+    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/mcp/</loc>
+    <lastmod>2026-08-13T13:58:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/messaging/</loc>
+    <lastmod>2026-08-13T13:58:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</loc>
+    <lastmod>2026-08-13T13:58:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/signal/</loc>
+    <lastmod>2026-08-13T13:58:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/whatsapp/</loc>
+    <lastmod>2026-08-13T13:58:37+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</loc>
     <lastmod>2026-08-08T18:00:59+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</loc>
@@ -52,9 +82,6 @@
     <loc>https://deuts.org/k/telegram/</loc>
     <lastmod>2026-08-07T22:21:23+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/whatsapp/</loc>
-    <lastmod>2026-08-07T22:21:23+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/bookmarks/</loc>
     <lastmod>2026-08-07T22:11:34+08:00</lastmod>
   </url><url>
@@ -79,16 +106,10 @@
     <loc>https://deuts.org/k/webscraper/</loc>
     <lastmod>2026-08-07T08:04:58+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/909-ai-agent-harnesses-performance-cost-speed-benchmark/</loc>
     <lastmod>2026-08-07T00:15:22+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/automation/</loc>
-    <lastmod>2026-08-07T00:15:22+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/harness/</loc>
     <lastmod>2026-08-07T00:15:22+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/llm/</loc>
@@ -716,9 +737,6 @@
     <lastmod>2026-03-24T12:06:17+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/828-7-must-have-apps-for-every-windows-11-install-2026/</loc>
-    <lastmod>2026-03-23T22:15:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/app/</loc>
     <lastmod>2026-03-23T22:15:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/windows/</loc>
@@ -1867,9 +1885,6 @@
     <loc>https://deuts.org/x/600-stencilbox/</loc>
     <lastmod>2025-08-30T01:58:21+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/productivity/</loc>
-    <lastmod>2025-08-30T01:47:01+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/599-time-tracker/</loc>
     <lastmod>2025-08-30T01:47:01+08:00</lastmod>
   </url><url>
@@ -2176,12 +2191,6 @@
     <loc>https://deuts.org/x/545-phylum/</loc>
     <lastmod>2025-07-12T01:45:02+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/messaging/</loc>
-    <lastmod>2025-07-11T07:12:35+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/signal/</loc>
-    <lastmod>2025-07-11T07:12:35+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/544-signal-cli-rest-api/</loc>
     <lastmod>2025-07-11T07:12:35+08:00</lastmod>
   </url><url>
@@ -2262,9 +2271,6 @@
   </url><url>
     <loc>https://deuts.org/x/530-close-deals-grow-your-business-twenty-crm/</loc>
     <lastmod>2025-07-03T20:43:55+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/mcp/</loc>
-    <lastmod>2025-07-02T12:40:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/528-tailscale-mcp-server-cli-rest-api-integration/</loc>
     <lastmod>2025-07-02T12:40:29+08:00</lastmod>
