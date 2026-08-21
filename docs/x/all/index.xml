@@ -7,8 +7,197 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 18:00:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:17:43 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hermes Desktop - Desktop Companion</title>
+      <link>https://deuts.org/x/919-hermes-desktop-desktop-companion/</link>
+      <pubDate>Thu, 20 Aug 2026 15:17:43 +0800</pubDate>
+      <guid>https://deuts.org/x/919-hermes-desktop-desktop-companion/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-919&#34;&gt;&lt;a href=&#34;https://github.com/fathah/hermes-desktop&#34;&gt;Hermes Desktop - Desktop Companion&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-919 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A community-maintained desktop companion for Hermes Agent, with a graphical interface for agent conversations, provider configuration, and local or remote Hermes installations. It also includes an installer and support for connecting to Docker-backed Hermes deployments over SSH.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-919"><a href="https://github.com/fathah/hermes-desktop">Hermes Desktop - Desktop Companion</a></h3>
+<style>
+.favicon-919 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A community-maintained desktop companion for Hermes Agent, with a graphical interface for agent conversations, provider configuration, and local or remote Hermes installations. It also includes an installer and support for connecting to Docker-backed Hermes deployments over SSH.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>@deuts@deuts.one 01M0C2C2S2H8AAWN5YYYH3HV3Y</title>
+      <link>https://deuts.org/x/2026-08-19-11-52-21-01m0c2c2s2h8aawn5yyyh3hv3y/</link>
+      <pubDate>Wed, 19 Aug 2026 11:52:21 +0800</pubDate>
+      <guid>https://deuts.org/x/2026-08-19-11-52-21-01m0c2c2s2h8aawn5yyyh3hv3y/</guid>
+      <description>&lt;p&gt;PSEi is getting hammered today: down 2.11% to 6,132.83 as renewed US–Iran tensions push oil higher and weaken the peso. Decliners lead advancers 105–43, with every major sector in the red. Strait of Hormuz risk + foreign selling = a very ugly morning for Philippine equities.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>PSEi is getting hammered today: down 2.11% to 6,132.83 as renewed US–Iran tensions push oil higher and weaken the peso. Decliners lead advancers 105–43, with every major sector in the red. Strait of Hormuz risk + foreign selling = a very ugly morning for Philippine equities.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Securo - Self-hosted Personal Finance Manager</title>
+      <link>https://deuts.org/x/918-securo-self-hosted-personal-finance-manager/</link>
+      <pubDate>Sat, 15 Aug 2026 00:57:47 +0800</pubDate>
+      <guid>https://deuts.org/x/918-securo-self-hosted-personal-finance-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-918&#34;&gt;&lt;a href=&#34;https://github.com/securo-finance/securo&#34;&gt;Securo - Self-hosted Personal Finance Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-918 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source, privacy-first personal finance manager with multi-account tracking, running balances, transaction management, cash-flow views, and imports for OFX, QIF, CAMT, and CSV. Designed for self-hosting and licensed under AGPL-3.0.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-918"><a href="https://github.com/securo-finance/securo">Securo - Self-hosted Personal Finance Manager</a></h3>
+<style>
+.favicon-918 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source, privacy-first personal finance manager with multi-account tracking, running balances, transaction management, cash-flow views, and imports for OFX, QIF, CAMT, and CSV. Designed for self-hosting and licensed under AGPL-3.0.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>JumpKey - Keyboard-driven Service Startpage</title>
+      <link>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</link>
+      <pubDate>Fri, 14 Aug 2026 23:50:29 +0800</pubDate>
+      <guid>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-917&#34;&gt;&lt;a href=&#34;https://github.com/desirevolution/jump-key&#34;&gt;JumpKey - Keyboard-driven Service Startpage&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-917 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A minimalist, keyboard-driven local-first PWA startpage for organizing and launching services. Supports configurable service links, icons, workspaces, standalone serving, automatic backups, and integration behind Caddy or other reverse proxies.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-917"><a href="https://github.com/desirevolution/jump-key">JumpKey - Keyboard-driven Service Startpage</a></h3>
+<style>
+.favicon-917 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A minimalist, keyboard-driven local-first PWA startpage for organizing and launching services. Supports configurable service links, icons, workspaces, standalone serving, automatic backups, and integration behind Caddy or other reverse proxies.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MindsHub - AI Agent Workspace</title>
+      <link>https://deuts.org/x/916-mindshub-ai-agent-workspace/</link>
+      <pubDate>Thu, 13 Aug 2026 15:46:33 +0800</pubDate>
+      <guid>https://deuts.org/x/916-mindshub-ai-agent-workspace/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-916&#34;&gt;&lt;a href=&#34;https://mindshub.ai/&#34;&gt;MindsHub - AI Agent Workspace&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-916 {
+    background: url(&#39;https://bm.deuts.org/static/https_mindshub_ai.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-916"><a href="https://mindshub.ai/">MindsHub - AI Agent Workspace</a></h3>
+<style>
+.favicon-916 {
+    background: url('https://bm.deuts.org/static/https_mindshub_ai.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenMessage - Local-First Messaging Workspace</title>
+      <link>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</link>
+      <pubDate>Thu, 13 Aug 2026 13:58:37 +0800</pubDate>
+      <guid>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-915&#34;&gt;&lt;a href=&#34;https://github.com/maxghenis/openmessage&#34;&gt;OpenMessage - Local-First Messaging Workspace&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-915 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-915"><a href="https://github.com/maxghenis/openmessage">OpenMessage - Local-First Messaging Workspace</a></h3>
+<style>
+.favicon-915 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude CoWork vs ChatGPT Work - Early Reflections</title>
+      <link>https://deuts.org/x/914-claude-cowork-vs-chatgpt-work-early-reflections/</link>
+      <pubDate>Wed, 12 Aug 2026 12:57:28 +0800</pubDate>
+      <guid>https://deuts.org/x/914-claude-cowork-vs-chatgpt-work-early-reflections/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-914&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/ChatGPTWorkAI/s/36C0BMW6Qw&#34;&gt;Claude CoWork vs ChatGPT Work - Early Reflections&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-914 {
+    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A non-coder compares a Claude CoWork setup with ChatGPT Work after importing skills and workflows. It covers subscription and model trade-offs, project and knowledge-management workflows, desktop voice, plugins versus GPTs, shared-memory experiments, and the importance of human review.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-914"><a href="https://www.reddit.com/r/ChatGPTWorkAI/s/36C0BMW6Qw">Claude CoWork vs ChatGPT Work - Early Reflections</a></h3>
+<style>
+.favicon-914 {
+    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A non-coder compares a Claude CoWork setup with ChatGPT Work after importing skills and workflows. It covers subscription and model trade-offs, project and knowledge-management workflows, desktop voice, plugins versus GPTs, shared-memory experiments, and the importance of human review.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>@deuts@deuts.one 01KZGD352VHM7YM853HC1EZHRZ</title>
       <link>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</link>
@@ -19,119 +208,63 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01KY58WCZ6HFFZD034QQW6QBQT</title>
-      <link>https://deuts.org/x/2026-07-23-00-00-03-01ky58wcz6hffzd034qqw6qbqt/</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:03 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-07-23-00-00-03-01ky58wcz6hffzd034qqw6qbqt/</guid>
-      <description>&lt;p&gt;Manus vs. HyperAgent vs. Tasklet?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Manus vs. HyperAgent vs. Tasklet?</p>
+      <title>GitHub Release Monitor - Self-Hosted Release Notifications</title>
+      <link>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</link>
+      <pubDate>Fri, 07 Aug 2026 22:25:31 +0800</pubDate>
+      <guid>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-913&#34;&gt;&lt;a href=&#34;https://github.com/iamspido/github-release-monitor&#34;&gt;GitHub Release Monitor - Self-Hosted Release Notifications&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-913 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted application that monitors releases from GitHub, GitLab, Codeberg, and Forgejo repositories, then sends notifications through email or Apprise-supported channels such as Telegram, Discord, and Slack. Useful for tracking software updates across repositories without manually checking each project. The repository currently has 333 GitHub stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-913"><a href="https://github.com/iamspido/github-release-monitor">GitHub Release Monitor - Self-Hosted Release Notifications</a></h3>
+<style>
+.favicon-913 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted application that monitors releases from GitHub, GitLab, Codeberg, and Forgejo repositories, then sends notifications through email or Apprise-supported channels such as Telegram, Discord, and Slack. Useful for tracking software updates across repositories without manually checking each project. The repository currently has 333 GitHub stars.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01KY2B90S19ZYZJSQYNQV84X6C</title>
-      <link>https://deuts.org/x/2026-07-21-20-44-10-01ky2b90s19zyzjsqynqv84x6c/</link>
-      <pubDate>Tue, 21 Jul 2026 20:44:10 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-07-21-20-44-10-01ky2b90s19zyzjsqynqv84x6c/</guid>
-      <description>&lt;p&gt;Dream came true today. 🎉&lt;/p&gt;
-&lt;p&gt;Anthropic gave Pro subscribers a &lt;strong&gt;$100 usage credit&lt;/strong&gt; — an apology for moving Claude Fable 5 fully behind usage credits. I don&amp;rsquo;t even use Fable 5, but here&amp;rsquo;s the thing: I run Claude in &lt;strong&gt;Hermes&lt;/strong&gt; (my personal AI agent setup) via Pro&amp;rsquo;s OAuth, and it draws from a topped-up usage credit balance — not the regular Pro pool.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d been holding back on using it much because topping up out of pocket felt like an added expense on top of Pro. This $100 just removed that friction entirely — I finally get to use Claude in Hermes the way I actually wanted to.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Dream came true today. 🎉</p>
-<p>Anthropic gave Pro subscribers a <strong>$100 usage credit</strong> — an apology for moving Claude Fable 5 fully behind usage credits. I don&rsquo;t even use Fable 5, but here&rsquo;s the thing: I run Claude in <strong>Hermes</strong> (my personal AI agent setup) via Pro&rsquo;s OAuth, and it draws from a topped-up usage credit balance — not the regular Pro pool.</p>
-<p>I&rsquo;d been holding back on using it much because topping up out of pocket felt like an added expense on top of Pro. This $100 just removed that friction entirely — I finally get to use Claude in Hermes the way I actually wanted to.</p>
-<p>Only wish: this were a <strong>monthly</strong> allowance instead of a one-time thing. If it were recurring, this would legitimately change how I use Pro long-term.</p>
-<p>For now though — genuinely happy about this one. 🙂</p>
-<p><a href="https://fediwall.social/?tags=Claude&amp;accounts=&amp;lang=en&amp;title=%23Claude">#Claude</a> <a href="https://fediwall.social/?tags=Anthropic&amp;accounts=&amp;lang=en&amp;title=%23Anthropic">#Anthropic</a> <a href="https://fediwall.social/?tags=AI&amp;accounts=&amp;lang=en&amp;title=%23AI">#AI</a> <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KVYAK1G52P5KCYXAA2XRKSFB</title>
-      <link>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</link>
-      <pubDate>Thu, 25 Jun 2026 10:43:48 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-25-10-43-48-01kvyak1g52p5kcyxaa2xrksfb/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Mattermost&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Mattermost&#34;&gt;#Mattermost&lt;/a&gt; letting slash commands work in the browser but not on mobile is ridiculous. The &lt;a href=&#34;https://fediwall.social/?tags=Hermes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Hermes&#34;&gt;#Hermes&lt;/a&gt; gateway/integration works, but the mobile app grabs anything starting with &lt;code&gt;/&lt;/code&gt; before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.&lt;/p&gt;
-&lt;p&gt;And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack &lt;code&gt;/&lt;/code&gt;, it should either support custom integrations properly everywhere or get out of the way.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Mattermost&amp;accounts=&amp;lang=en&amp;title=%23Mattermost">#Mattermost</a> letting slash commands work in the browser but not on mobile is ridiculous. The <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a> gateway/integration works, but the mobile app grabs anything starting with <code>/</code> before Hermes ever sees it. So the exact same command works on web, then dies on mobile. Same bot, same chat, different rules.</p>
-<p>And the suggested workaround somehow makes it worse: add a leading space so it sends as plain text, except now you risk breaking the command for the integration on the other end. It’s a full custody battle over a single character. If Mattermost is going to hijack <code>/</code>, it should either support custom integrations properly everywhere or get out of the way.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KVR50Y3RC89WSFXM9KWZ4SFV</title>
-      <link>https://deuts.org/x/2026-06-23-01-11-06-01kvr50y3rc89wsfxm9kwz4sfv/</link>
-      <pubDate>Tue, 23 Jun 2026 01:11:06 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-23-01-11-06-01kvr50y3rc89wsfxm9kwz4sfv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; shipped an official MCP server, which should be a big win.&lt;/p&gt;
-&lt;p&gt;But if you self-host, you need the full/Enterprise edition to actually use it.&lt;/p&gt;
-&lt;p&gt;So the people most likely to want MCP for private, local, agent-driven workflows are the ones gated out. What a waste of potential.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> shipped an official MCP server, which should be a big win.</p>
-<p>But if you self-host, you need the full/Enterprise edition to actually use it.</p>
-<p>So the people most likely to want MCP for private, local, agent-driven workflows are the ones gated out. What a waste of potential.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KTT12YQDD3FGFWP39YFQCENC</title>
-      <link>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</link>
-      <pubDate>Thu, 11 Jun 2026 08:25:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-11-08-25-05-01ktt12yqdd3fgfwp39yfqcenc/</guid>
-      <description>&lt;p&gt;I keep seeing these references to MCP server of the &lt;a href=&#34;https://fediwall.social/?tags=Grist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Grist&#34;&gt;#Grist&lt;/a&gt; changelog, but where is the full MCP server documentation? Where&amp;rsquo;s the official one, at least? &lt;a href=&#34;https://fediwall.social/?tags=GetGrist&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23GetGrist&#34;&gt;#GetGrist&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I keep seeing these references to MCP server of the <a href="https://fediwall.social/?tags=Grist&amp;accounts=&amp;lang=en&amp;title=%23Grist">#Grist</a> changelog, but where is the full MCP server documentation? Where&rsquo;s the official one, at least? <a href="https://fediwall.social/?tags=GetGrist&amp;accounts=&amp;lang=en&amp;title=%23GetGrist">#GetGrist</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KTRJAB5SX9F5DRTSQY2J5DJ4</title>
-      <link>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</link>
-      <pubDate>Wed, 10 Jun 2026 18:47:44 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-10-18-47-44-01ktrjab5sx9f5drtsqy2j5dj4/</guid>
-      <description>&lt;p&gt;Claude Fable is not “slightly more expensive” — it’s a premium tier.&lt;/p&gt;
-&lt;p&gt;API pricing per 1M tokens:&lt;/p&gt;
-&lt;p&gt;Fable: $10 input / $50 output
-Opus: $5 input / $25 output
-Sonnet: $3 input / $15 output&lt;/p&gt;
-&lt;p&gt;So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Claude Fable is not “slightly more expensive” — it’s a premium tier.</p>
-<p>API pricing per 1M tokens:</p>
-<p>Fable: $10 input / $50 output
-Opus: $5 input / $25 output
-Sonnet: $3 input / $15 output</p>
-<p>So Fable is 2× Opus and about 3.33× Sonnet. For most coding/finance/reporting workflows, Sonnet still feels like the default; Opus for hard tasks; Fable only when it materially reduces turns or rework.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KT3CE0J0J8BH1PV6JHCHKCNV</title>
-      <link>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</link>
-      <pubDate>Tue, 02 Jun 2026 13:20:49 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-06-02-13-20-49-01kt3ce0j0j8bh1pv6jhchkcnv/</guid>
-      <description>&lt;p&gt;Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&amp;rsquo;re consistent. 🍗📉&lt;/p&gt;
-&lt;p&gt;My average: ₱183. Current: ~₱134. That&amp;rsquo;s a ~27% discount I didn&amp;rsquo;t ask for.&lt;/p&gt;
-&lt;p&gt;MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Jollibee just got demoted from the MSCI Standard Index to Small Cap. My portfolio got the same treatment. At least we&rsquo;re consistent. 🍗📉</p>
-<p>My average: ₱183. Current: ~₱134. That&rsquo;s a ~27% discount I didn&rsquo;t ask for.</p>
-<p>MSCI effective date: June 1. So the index exclusionary is officially behind us. Now we wait for the chicken to fly again.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KSXXZKTE3Q7DZKK6MTR73Y13</title>
-      <link>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</link>
-      <pubDate>Sun, 31 May 2026 10:32:05 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-31-10-32-05-01ksxxzkte3q7dzkk6mtr73y13/</guid>
-      <description>&lt;p&gt;🧡 The Orange Jumpsuit Committee is now in session.&lt;/p&gt;
-&lt;p&gt;Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;🤖 AI-generated image for satire. Not a real prison photo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23OrangeJumpsuitCommittee&#34;&gt;#OrangeJumpsuitCommittee&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=SenatePH&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23SenatePH&#34;&gt;#SenatePH&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>🧡 The Orange Jumpsuit Committee is now in session.</p>
-<p>Chiz, Joel, Marcoleta, Bato, Jinggoy — same energy as the Blue Ribbon hearings, just a different dress code and tighter security.</p>
-<p><em>🤖 AI-generated image for satire. Not a real prison photo.</em></p>
-<p><a href="https://fediwall.social/?tags=OrangeJumpsuitCommittee&amp;accounts=&amp;lang=en&amp;title=%23OrangeJumpsuitCommittee">#OrangeJumpsuitCommittee</a> <a href="https://fediwall.social/?tags=SenatePH&amp;accounts=&amp;lang=en&amp;title=%23SenatePH">#SenatePH</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KSHTV727RMXBTVPXJNCTF1X1</title>
-      <link>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</link>
-      <pubDate>Tue, 26 May 2026 17:46:22 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-05-26-17-46-22-01kshtv727rmxbtvpxjnctf1x1/</guid>
-      <description>&lt;p&gt;In n8n, &amp;ldquo;Bearer Auth&amp;rdquo; and &amp;ldquo;Header Auth&amp;rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&amp;rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&amp;rsquo;s the only difference.
-&lt;a href=&#34;https://fediwall.social/?tags=n8n&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23n8n&#34;&gt;#n8n&lt;/a&gt; &lt;a href=&#34;https://fediwall.social/?tags=selfhosted&amp;amp;accounts=%E2%9F%A8=en&amp;amp;title=%23selfhosted&#34;&gt;#selfhosted&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>In n8n, &ldquo;Bearer Auth&rdquo; and &ldquo;Header Auth&rdquo; are functionally identical if you set the header to Authorization: Bearer . Pick Bearer Auth when the server expects that header — it&rsquo;s self-documenting. Pick Header Auth for non-standard headers like X-API-Key. That&rsquo;s the only difference.
-<a href="https://fediwall.social/?tags=n8n&amp;accounts=%E2%9F%A8=en&amp;title=%23n8n">#n8n</a> <a href="https://fediwall.social/?tags=selfhosted&amp;accounts=%E2%9F%A8=en&amp;title=%23selfhosted">#selfhosted</a></p>
+      <title>Pronto - Self-Hosted Booking, CRM &amp; POS</title>
+      <link>https://deuts.org/x/912-pronto-self-hosted-booking-crm-pos/</link>
+      <pubDate>Fri, 07 Aug 2026 22:21:23 +0800</pubDate>
+      <guid>https://deuts.org/x/912-pronto-self-hosted-booking-crm-pos/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-912&#34;&gt;&lt;a href=&#34;https://github.com/SGrappelli/pronto&#34;&gt;Pronto - Self-Hosted Booking, CRM &amp;amp; POS&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-912 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An open-source, Docker-deployable booking, CRM, and point-of-sale system for service and retail businesses such as salons, barbershops, cafés, and shops. Includes appointment scheduling, staff commissions, inventory, and WhatsApp or Telegram reminders. The repository currently has 22 GitHub stars.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-912"><a href="https://github.com/SGrappelli/pronto">Pronto - Self-Hosted Booking, CRM &amp; POS</a></h3>
+<style>
+.favicon-912 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An open-source, Docker-deployable booking, CRM, and point-of-sale system for service and retail businesses such as salons, barbershops, cafés, and shops. Includes appointment scheduling, staff commissions, inventory, and WhatsApp or Telegram reminders. The repository currently has 22 GitHub stars.
+</blockquote>
+  
 ]]></content:encoded>
     </item>
   </channel>
