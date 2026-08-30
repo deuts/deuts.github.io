@@ -7,8 +7,128 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 15:17:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 02:32:19 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qmd - Local Knowledge Base Search</title>
+      <link>https://deuts.org/x/923-qmd-local-knowledge-base-search/</link>
+      <pubDate>Sat, 29 Aug 2026 02:32:19 +0800</pubDate>
+      <guid>https://deuts.org/x/923-qmd-local-knowledge-base-search/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-923&#34;&gt;&lt;a href=&#34;https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-qmd&#34;&gt;Qmd - Local Knowledge Base Search&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-923 {
+    background: url(&#39;https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Hermes documentation for Qmd, a local hybrid search engine for notes, documents, and transcripts. Covers installation, collection indexing, keyword and semantic search, and MCP integration.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-923"><a href="https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-qmd">Qmd - Local Knowledge Base Search</a></h3>
+<style>
+.favicon-923 {
+    background: url('https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Hermes documentation for Qmd, a local hybrid search engine for notes, documents, and transcripts. Covers installation, collection indexing, keyword and semantic search, and MCP integration.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Apache Maka - Local AI Agent Workspace</title>
+      <link>https://deuts.org/x/922-apache-maka-local-ai-agent-workspace/</link>
+      <pubDate>Sat, 29 Aug 2026 00:12:00 +0800</pubDate>
+      <guid>https://deuts.org/x/922-apache-maka-local-ai-agent-workspace/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-922&#34;&gt;&lt;a href=&#34;https://github.com/apache/maka&#34;&gt;Apache Maka - Local AI Agent Workspace&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-922 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    An Apache Incubator local-first workspace for AI agents. It records model messages, tool calls, permission decisions, and termination events in an append-only log for auditable agent runs.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-922"><a href="https://github.com/apache/maka">Apache Maka - Local AI Agent Workspace</a></h3>
+<style>
+.favicon-922 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    An Apache Incubator local-first workspace for AI agents. It records model messages, tool calls, permission decisions, and termination events in an append-only log for auditable agent runs.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>calich - Self-Hosted CalDAV Calendar</title>
+      <link>https://deuts.org/x/921-calich-self-hosted-caldav-calendar/</link>
+      <pubDate>Sat, 29 Aug 2026 00:11:51 +0800</pubDate>
+      <guid>https://deuts.org/x/921-calich-self-hosted-caldav-calendar/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-921&#34;&gt;&lt;a href=&#34;https://github.com/XiovV/calich&#34;&gt;calich - Self-Hosted CalDAV Calendar&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-921 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A self-hosted, Google Calendar alternative with CalDAV support. It provides a web calendar and stores its SQLite database and attachments locally in a Docker-deployable service.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-921"><a href="https://github.com/XiovV/calich">calich - Self-Hosted CalDAV Calendar</a></h3>
+<style>
+.favicon-921 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A self-hosted, Google Calendar alternative with CalDAV support. It provides a web calendar and stores its SQLite database and attachments locally in a Docker-deployable service.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>qmd - Local Document Search Engine</title>
+      <link>https://deuts.org/x/920-qmd-local-document-search-engine/</link>
+      <pubDate>Tue, 25 Aug 2026 14:11:50 +0800</pubDate>
+      <guid>https://deuts.org/x/920-qmd-local-document-search-engine/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-920&#34;&gt;&lt;a href=&#34;https://github.com/tobi/qmd&#34;&gt;qmd - Local Document Search Engine&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-920 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    A local command-line search engine for documents, knowledge bases, and meeting notes. It indexes personal content locally and supports current retrieval approaches.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-920"><a href="https://github.com/tobi/qmd">qmd - Local Document Search Engine</a></h3>
+<style>
+.favicon-920 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    A local command-line search engine for documents, knowledge bases, and meeting notes. It indexes personal content locally and supports current retrieval approaches.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
     <item>
       <title>Hermes Desktop - Desktop Companion</title>
       <link>https://deuts.org/x/919-hermes-desktop-desktop-companion/</link>
@@ -164,105 +284,6 @@
 
 <blockquote class="linkding-description">
     Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude CoWork vs ChatGPT Work - Early Reflections</title>
-      <link>https://deuts.org/x/914-claude-cowork-vs-chatgpt-work-early-reflections/</link>
-      <pubDate>Wed, 12 Aug 2026 12:57:28 +0800</pubDate>
-      <guid>https://deuts.org/x/914-claude-cowork-vs-chatgpt-work-early-reflections/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-914&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/ChatGPTWorkAI/s/36C0BMW6Qw&#34;&gt;Claude CoWork vs ChatGPT Work - Early Reflections&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-914 {
-    background: url(&#39;https://bm.deuts.org/static/https_www_reddit_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A non-coder compares a Claude CoWork setup with ChatGPT Work after importing skills and workflows. It covers subscription and model trade-offs, project and knowledge-management workflows, desktop voice, plugins versus GPTs, shared-memory experiments, and the importance of human review.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-914"><a href="https://www.reddit.com/r/ChatGPTWorkAI/s/36C0BMW6Qw">Claude CoWork vs ChatGPT Work - Early Reflections</a></h3>
-<style>
-.favicon-914 {
-    background: url('https://bm.deuts.org/static/https_www_reddit_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A non-coder compares a Claude CoWork setup with ChatGPT Work after importing skills and workflows. It covers subscription and model trade-offs, project and knowledge-management workflows, desktop voice, plugins versus GPTs, shared-memory experiments, and the importance of human review.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>@deuts@deuts.one 01KZGD352VHM7YM853HC1EZHRZ</title>
-      <link>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</link>
-      <pubDate>Sat, 08 Aug 2026 18:00:59 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-08-08-18-00-59-01kzgd352vhm7ym853hc1ezhrz/</guid>
-      <description>&lt;p&gt;I use &lt;a href=&#34;https://fediwall.social/?tags=Hermes&amp;amp;accounts=&amp;amp;lang=en&amp;amp;title=%23Hermes&#34;&gt;#Hermes&lt;/a&gt; as a personal AI chief of staff and automation layer. It manages my Todoist tasks, priorities, reminders, and follow-ups; researches current news, products, apps, sports, and investments; helps monitor and run my self-hosted servers, Docker apps, backups, and media stack; organizes my bookmarks, notes, and documents; and builds workflows across APIs, webhooks, MCP servers, and scheduled jobs. It can also process things like lottery tickets, track personal data in my systems, draft messages, and handle technical troubleshooting—so I can manage a lot of personal operations through a single chat.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I use <a href="https://fediwall.social/?tags=Hermes&amp;accounts=&amp;lang=en&amp;title=%23Hermes">#Hermes</a> as a personal AI chief of staff and automation layer. It manages my Todoist tasks, priorities, reminders, and follow-ups; researches current news, products, apps, sports, and investments; helps monitor and run my self-hosted servers, Docker apps, backups, and media stack; organizes my bookmarks, notes, and documents; and builds workflows across APIs, webhooks, MCP servers, and scheduled jobs. It can also process things like lottery tickets, track personal data in my systems, draft messages, and handle technical troubleshooting—so I can manage a lot of personal operations through a single chat.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>GitHub Release Monitor - Self-Hosted Release Notifications</title>
-      <link>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</link>
-      <pubDate>Fri, 07 Aug 2026 22:25:31 +0800</pubDate>
-      <guid>https://deuts.org/x/913-github-release-monitor-self-hosted-release-notifications/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-913&#34;&gt;&lt;a href=&#34;https://github.com/iamspido/github-release-monitor&#34;&gt;GitHub Release Monitor - Self-Hosted Release Notifications&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-913 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A self-hosted application that monitors releases from GitHub, GitLab, Codeberg, and Forgejo repositories, then sends notifications through email or Apprise-supported channels such as Telegram, Discord, and Slack. Useful for tracking software updates across repositories without manually checking each project. The repository currently has 333 GitHub stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-913"><a href="https://github.com/iamspido/github-release-monitor">GitHub Release Monitor - Self-Hosted Release Notifications</a></h3>
-<style>
-.favicon-913 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    A self-hosted application that monitors releases from GitHub, GitLab, Codeberg, and Forgejo repositories, then sends notifications through email or Apprise-supported channels such as Telegram, Discord, and Slack. Useful for tracking software updates across repositories without manually checking each project. The repository currently has 333 GitHub stars.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Pronto - Self-Hosted Booking, CRM &amp; POS</title>
-      <link>https://deuts.org/x/912-pronto-self-hosted-booking-crm-pos/</link>
-      <pubDate>Fri, 07 Aug 2026 22:21:23 +0800</pubDate>
-      <guid>https://deuts.org/x/912-pronto-self-hosted-booking-crm-pos/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-912&#34;&gt;&lt;a href=&#34;https://github.com/SGrappelli/pronto&#34;&gt;Pronto - Self-Hosted Booking, CRM &amp;amp; POS&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-912 {
-    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An open-source, Docker-deployable booking, CRM, and point-of-sale system for service and retail businesses such as salons, barbershops, cafés, and shops. Includes appointment scheduling, staff commissions, inventory, and WhatsApp or Telegram reminders. The repository currently has 22 GitHub stars.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-912"><a href="https://github.com/SGrappelli/pronto">Pronto - Self-Hosted Booking, CRM &amp; POS</a></h3>
-<style>
-.favicon-912 {
-    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    An open-source, Docker-deployable booking, CRM, and point-of-sale system for service and retail businesses such as salons, barbershops, cafés, and shops. Includes appointment scheduling, staff commissions, inventory, and WhatsApp or Telegram reminders. The repository currently has 22 GitHub stars.
 </blockquote>
   
 ]]></content:encoded>

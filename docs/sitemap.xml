@@ -16,16 +16,52 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/app/</loc>
-    <lastmod>2026-08-20T15:17:43+08:00</lastmod>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-08-20T15:17:43+08:00</lastmod>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/</loc>
-    <lastmod>2026-08-20T15:17:43+08:00</lastmod>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/documentation/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/hermes/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/notetakingapp/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/923-qmd-local-knowledge-base-search/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/search/</loc>
+    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/922-apache-maka-local-ai-agent-workspace/</loc>
+    <lastmod>2026-08-29T00:12:00+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/calendar/</loc>
+    <lastmod>2026-08-29T00:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/921-calich-self-hosted-caldav-calendar/</loc>
+    <lastmod>2026-08-29T00:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/productivity/</loc>
+    <lastmod>2026-08-29T00:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/selfhosting/</loc>
+    <lastmod>2026-08-29T00:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/920-qmd-local-document-search-engine/</loc>
+    <lastmod>2026-08-25T14:11:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/app/</loc>
     <lastmod>2026-08-20T15:17:43+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/919-hermes-desktop-desktop-companion/</loc>
@@ -43,25 +79,16 @@
     <loc>https://deuts.org/x/918-securo-self-hosted-personal-finance-manager/</loc>
     <lastmod>2026-08-15T00:57:47+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/selfhosting/</loc>
-    <lastmod>2026-08-15T00:57:47+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/dashboard/</loc>
     <lastmod>2026-08-14T23:50:29+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</loc>
     <lastmod>2026-08-14T23:50:29+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/harness/</loc>
     <lastmod>2026-08-13T15:46:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/916-mindshub-ai-agent-workspace/</loc>
-    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/productivity/</loc>
     <lastmod>2026-08-13T15:46:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/mcp/</loc>
@@ -86,9 +113,6 @@
     <lastmod>2026-08-12T12:57:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/914-claude-cowork-vs-chatgpt-work-early-reflections/</loc>
-    <lastmod>2026-08-12T12:57:28+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
     <lastmod>2026-08-12T12:57:28+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/openai/</loc>
@@ -131,9 +155,6 @@
     <lastmod>2026-08-07T08:04:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/910-forage-self-hosted-web-search-extraction-for-hermes/</loc>
-    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/search/</loc>
     <lastmod>2026-08-07T08:04:58+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/webscraper/</loc>
@@ -233,9 +254,6 @@
     <lastmod>2026-07-25T02:06:37+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/897-crumbs-self-hosted-privacy-first-google-keep-alternative-sveltekit/</loc>
-    <lastmod>2026-07-25T01:28:32+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/notetakingapp/</loc>
     <lastmod>2026-07-25T01:28:32+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/svelte/</loc>
@@ -1018,9 +1036,6 @@
     <loc>https://deuts.org/k/spreadsheet/</loc>
     <lastmod>2026-01-31T01:15:36+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/calendar/</loc>
-    <lastmod>2026-01-31T01:14:44+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/777-hash-calendar/</loc>
     <lastmod>2026-01-31T01:14:44+08:00</lastmod>
   </url><url>
@@ -1575,9 +1590,6 @@
   </url><url>
     <loc>https://deuts.org/k/vaultwarden/</loc>
     <lastmod>2025-11-14T22:37:23+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/documentation/</loc>
-    <lastmod>2025-11-14T22:28:16+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/mkdocs/</loc>
     <lastmod>2025-11-14T22:28:16+08:00</lastmod>
