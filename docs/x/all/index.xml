@@ -7,283 +7,304 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 02:32:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:03:08 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/x/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Qmd - Local Knowledge Base Search</title>
-      <link>https://deuts.org/x/923-qmd-local-knowledge-base-search/</link>
-      <pubDate>Sat, 29 Aug 2026 02:32:19 +0800</pubDate>
-      <guid>https://deuts.org/x/923-qmd-local-knowledge-base-search/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-923&#34;&gt;&lt;a href=&#34;https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-qmd&#34;&gt;Qmd - Local Knowledge Base Search&lt;/a&gt;&lt;/h3&gt;
+      <title>Flowy - Self-Hosted Household Finance</title>
+      <link>https://deuts.org/x/934-flowy-self-hosted-household-finance/</link>
+      <pubDate>Sat, 19 Sep 2026 00:03:08 +0800</pubDate>
+      <guid>https://deuts.org/x/934-flowy-self-hosted-household-finance/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-934&#34;&gt;&lt;a href=&#34;https://github.com/Xen0Xys/Flowy&#34;&gt;Flowy - Self-Hosted Household Finance&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-923 {
-    background: url(&#39;https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Hermes documentation for Qmd, a local hybrid search engine for notes, documents, and transcripts. Covers installation, collection indexing, keyword and semantic search, and MCP integration.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-923"><a href="https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-qmd">Qmd - Local Knowledge Base Search</a></h3>
-<style>
-.favicon-923 {
-    background: url('https://bm.deuts.org/static/https_hermes_agent_nousresearch_com.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Hermes documentation for Qmd, a local hybrid search engine for notes, documents, and transcripts. Covers installation, collection indexing, keyword and semantic search, and MCP integration.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Apache Maka - Local AI Agent Workspace</title>
-      <link>https://deuts.org/x/922-apache-maka-local-ai-agent-workspace/</link>
-      <pubDate>Sat, 29 Aug 2026 00:12:00 +0800</pubDate>
-      <guid>https://deuts.org/x/922-apache-maka-local-ai-agent-workspace/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-922&#34;&gt;&lt;a href=&#34;https://github.com/apache/maka&#34;&gt;Apache Maka - Local AI Agent Workspace&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-922 {
+.favicon-934 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    An Apache Incubator local-first workspace for AI agents. It records model messages, tool calls, permission decisions, and termination events in an append-only log for auditable agent runs.
+    Open-source, self-hosted finance platform for shared household budgeting and financial organization. It is designed to replace disconnected banking apps, spreadsheets, and shared Google Sheets with a single collaborative workspace.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-922"><a href="https://github.com/apache/maka">Apache Maka - Local AI Agent Workspace</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-934"><a href="https://github.com/Xen0Xys/Flowy">Flowy - Self-Hosted Household Finance</a></h3>
 <style>
-.favicon-922 {
+.favicon-934 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    An Apache Incubator local-first workspace for AI agents. It records model messages, tool calls, permission decisions, and termination events in an append-only log for auditable agent runs.
+    Open-source, self-hosted finance platform for shared household budgeting and financial organization. It is designed to replace disconnected banking apps, spreadsheets, and shared Google Sheets with a single collaborative workspace.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>calich - Self-Hosted CalDAV Calendar</title>
-      <link>https://deuts.org/x/921-calich-self-hosted-caldav-calendar/</link>
-      <pubDate>Sat, 29 Aug 2026 00:11:51 +0800</pubDate>
-      <guid>https://deuts.org/x/921-calich-self-hosted-caldav-calendar/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-921&#34;&gt;&lt;a href=&#34;https://github.com/XiovV/calich&#34;&gt;calich - Self-Hosted CalDAV Calendar&lt;/a&gt;&lt;/h3&gt;
+      <title>Pappice - Self-Hosted Support Desk</title>
+      <link>https://deuts.org/x/933-pappice-self-hosted-support-desk/</link>
+      <pubDate>Sat, 19 Sep 2026 00:02:46 +0800</pubDate>
+      <guid>https://deuts.org/x/933-pappice-self-hosted-support-desk/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-933&#34;&gt;&lt;a href=&#34;https://github.com/lallero-dev/pappice&#34;&gt;Pappice - Self-Hosted Support Desk&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-921 {
+.favicon-933 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A self-hosted, Google Calendar alternative with CalDAV support. It provides a web calendar and stores its SQLite database and attachments locally in a Docker-deployable service.
+    Open-source, self-hosted support desk with a chat-style ticket workflow. It can run as a single binary or through Docker Compose, and supports customer conversations, internal notes, assignments, and ticket lifecycle tracking.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-921"><a href="https://github.com/XiovV/calich">calich - Self-Hosted CalDAV Calendar</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-933"><a href="https://github.com/lallero-dev/pappice">Pappice - Self-Hosted Support Desk</a></h3>
 <style>
-.favicon-921 {
+.favicon-933 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A self-hosted, Google Calendar alternative with CalDAV support. It provides a web calendar and stores its SQLite database and attachments locally in a Docker-deployable service.
+    Open-source, self-hosted support desk with a chat-style ticket workflow. It can run as a single binary or through Docker Compose, and supports customer conversations, internal notes, assignments, and ticket lifecycle tracking.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>qmd - Local Document Search Engine</title>
-      <link>https://deuts.org/x/920-qmd-local-document-search-engine/</link>
-      <pubDate>Tue, 25 Aug 2026 14:11:50 +0800</pubDate>
-      <guid>https://deuts.org/x/920-qmd-local-document-search-engine/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-920&#34;&gt;&lt;a href=&#34;https://github.com/tobi/qmd&#34;&gt;qmd - Local Document Search Engine&lt;/a&gt;&lt;/h3&gt;
+      <title>Conatus - Self-Hosted Task Manager</title>
+      <link>https://deuts.org/x/932-conatus-self-hosted-task-manager/</link>
+      <pubDate>Sat, 19 Sep 2026 00:01:00 +0800</pubDate>
+      <guid>https://deuts.org/x/932-conatus-self-hosted-task-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-932&#34;&gt;&lt;a href=&#34;https://github.com/nojusmorkunas/conatus&#34;&gt;Conatus - Self-Hosted Task Manager&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-920 {
+.favicon-932 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A local command-line search engine for documents, knowledge bases, and meeting notes. It indexes personal content locally and supports current retrieval approaches.
+    Open-source, self-hosted task manager for projects, recurring work, reminders, collaboration, and automation. It includes Docker deployment and MCP/OpenAPI integration, and is positioned as a Todoist-inspired alternative.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-920"><a href="https://github.com/tobi/qmd">qmd - Local Document Search Engine</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-932"><a href="https://github.com/nojusmorkunas/conatus">Conatus - Self-Hosted Task Manager</a></h3>
 <style>
-.favicon-920 {
+.favicon-932 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A local command-line search engine for documents, knowledge bases, and meeting notes. It indexes personal content locally and supports current retrieval approaches.
+    Open-source, self-hosted task manager for projects, recurring work, reminders, collaboration, and automation. It includes Docker deployment and MCP/OpenAPI integration, and is positioned as a Todoist-inspired alternative.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>Hermes Desktop - Desktop Companion</title>
-      <link>https://deuts.org/x/919-hermes-desktop-desktop-companion/</link>
-      <pubDate>Thu, 20 Aug 2026 15:17:43 +0800</pubDate>
-      <guid>https://deuts.org/x/919-hermes-desktop-desktop-companion/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-919&#34;&gt;&lt;a href=&#34;https://github.com/fathah/hermes-desktop&#34;&gt;Hermes Desktop - Desktop Companion&lt;/a&gt;&lt;/h3&gt;
+      <title>BaryMusic - Live Lyrics and Setlist Manager</title>
+      <link>https://deuts.org/x/931-barymusic-live-lyrics-and-setlist-manager/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:16 +0800</pubDate>
+      <guid>https://deuts.org/x/931-barymusic-live-lyrics-and-setlist-manager/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-931&#34;&gt;&lt;a href=&#34;https://github.com/barypia/barymusic&#34;&gt;BaryMusic - Live Lyrics and Setlist Manager&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-919 {
+.favicon-931 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A community-maintained desktop companion for Hermes Agent, with a graphical interface for agent conversations, provider configuration, and local or remote Hermes installations. It also includes an installer and support for connecting to Docker-backed Hermes deployments over SSH.
+    Web app for organizing songs and setlists, then displaying live lyrics on external screens through built-in channels. It is available as a Windows portable app or Docker deployment and includes an editor for lyrics and song structure.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-919"><a href="https://github.com/fathah/hermes-desktop">Hermes Desktop - Desktop Companion</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-931"><a href="https://github.com/barypia/barymusic">BaryMusic - Live Lyrics and Setlist Manager</a></h3>
 <style>
-.favicon-919 {
+.favicon-931 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A community-maintained desktop companion for Hermes Agent, with a graphical interface for agent conversations, provider configuration, and local or remote Hermes installations. It also includes an installer and support for connecting to Docker-backed Hermes deployments over SSH.
+    Web app for organizing songs and setlists, then displaying live lyrics on external screens through built-in channels. It is available as a Windows portable app or Docker deployment and includes an editor for lyrics and song structure.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>@deuts@deuts.one 01M0C2C2S2H8AAWN5YYYH3HV3Y</title>
-      <link>https://deuts.org/x/2026-08-19-11-52-21-01m0c2c2s2h8aawn5yyyh3hv3y/</link>
-      <pubDate>Wed, 19 Aug 2026 11:52:21 +0800</pubDate>
-      <guid>https://deuts.org/x/2026-08-19-11-52-21-01m0c2c2s2h8aawn5yyyh3hv3y/</guid>
-      <description>&lt;p&gt;PSEi is getting hammered today: down 2.11% to 6,132.83 as renewed US–Iran tensions push oil higher and weaken the peso. Decliners lead advancers 105–43, with every major sector in the red. Strait of Hormuz risk + foreign selling = a very ugly morning for Philippine equities.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>PSEi is getting hammered today: down 2.11% to 6,132.83 as renewed US–Iran tensions push oil higher and weaken the peso. Decliners lead advancers 105–43, with every major sector in the red. Strait of Hormuz risk + foreign selling = a very ugly morning for Philippine equities.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Securo - Self-hosted Personal Finance Manager</title>
-      <link>https://deuts.org/x/918-securo-self-hosted-personal-finance-manager/</link>
-      <pubDate>Sat, 15 Aug 2026 00:57:47 +0800</pubDate>
-      <guid>https://deuts.org/x/918-securo-self-hosted-personal-finance-manager/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-918&#34;&gt;&lt;a href=&#34;https://github.com/securo-finance/securo&#34;&gt;Securo - Self-hosted Personal Finance Manager&lt;/a&gt;&lt;/h3&gt;
+      <title>Tracearr - Media Server Monitoring</title>
+      <link>https://deuts.org/x/930-tracearr-media-server-monitoring/</link>
+      <pubDate>Fri, 18 Sep 2026 23:34:35 +0800</pubDate>
+      <guid>https://deuts.org/x/930-tracearr-media-server-monitoring/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-930&#34;&gt;&lt;a href=&#34;https://github.com/connorgallopo/Tracearr&#34;&gt;Tracearr - Media Server Monitoring&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-918 {
+.favicon-930 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source, privacy-first personal finance manager with multi-account tracking, running balances, transaction management, cash-flow views, and imports for OFX, QIF, CAMT, and CSV. Designed for self-hosting and licensed under AGPL-3.0.
+    Open-source monitoring dashboard for Plex, Jellyfin, and Emby servers. It tracks streams and playback activity, analyzes server use, and can flag account-sharing patterns; Docker deployment is supported.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-918"><a href="https://github.com/securo-finance/securo">Securo - Self-hosted Personal Finance Manager</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-930"><a href="https://github.com/connorgallopo/Tracearr">Tracearr - Media Server Monitoring</a></h3>
 <style>
-.favicon-918 {
+.favicon-930 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    Open-source, privacy-first personal finance manager with multi-account tracking, running balances, transaction management, cash-flow views, and imports for OFX, QIF, CAMT, and CSV. Designed for self-hosting and licensed under AGPL-3.0.
+    Open-source monitoring dashboard for Plex, Jellyfin, and Emby servers. It tracks streams and playback activity, analyzes server use, and can flag account-sharing patterns; Docker deployment is supported.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>JumpKey - Keyboard-driven Service Startpage</title>
-      <link>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</link>
-      <pubDate>Fri, 14 Aug 2026 23:50:29 +0800</pubDate>
-      <guid>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-917&#34;&gt;&lt;a href=&#34;https://github.com/desirevolution/jump-key&#34;&gt;JumpKey - Keyboard-driven Service Startpage&lt;/a&gt;&lt;/h3&gt;
+      <title>SlowBooks Pro - Local Accounting Software</title>
+      <link>https://deuts.org/x/929-slowbooks-pro-local-accounting-software/</link>
+      <pubDate>Mon, 14 Sep 2026 19:09:13 +0800</pubDate>
+      <guid>https://deuts.org/x/929-slowbooks-pro-local-accounting-software/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-929&#34;&gt;&lt;a href=&#34;https://github.com/VonHoltenCodes/SlowBooks-Pro-2026&#34;&gt;SlowBooks Pro - Local Accounting Software&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-917 {
+.favicon-929 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    A minimalist, keyboard-driven local-first PWA startpage for organizing and launching services. Supports configurable service links, icons, workspaces, standalone serving, automatic backups, and integration behind Caddy or other reverse proxies.
+    Free, source-available desktop accounting software for double-entry bookkeeping, invoicing, inventory, payroll, and bank feeds. It includes an optional multi-user server edition and positions itself as a local, no-cloud alternative to QuickBooks Pro.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-917"><a href="https://github.com/desirevolution/jump-key">JumpKey - Keyboard-driven Service Startpage</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-929"><a href="https://github.com/VonHoltenCodes/SlowBooks-Pro-2026">SlowBooks Pro - Local Accounting Software</a></h3>
 <style>
-.favicon-917 {
+.favicon-929 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    A minimalist, keyboard-driven local-first PWA startpage for organizing and launching services. Supports configurable service links, icons, workspaces, standalone serving, automatic backups, and integration behind Caddy or other reverse proxies.
+    Free, source-available desktop accounting software for double-entry bookkeeping, invoicing, inventory, payroll, and bank feeds. It includes an optional multi-user server edition and positions itself as a local, no-cloud alternative to QuickBooks Pro.
 </blockquote>
   
 ]]></content:encoded>
     </item>
     <item>
-      <title>MindsHub - AI Agent Workspace</title>
-      <link>https://deuts.org/x/916-mindshub-ai-agent-workspace/</link>
-      <pubDate>Thu, 13 Aug 2026 15:46:33 +0800</pubDate>
-      <guid>https://deuts.org/x/916-mindshub-ai-agent-workspace/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-916&#34;&gt;&lt;a href=&#34;https://mindshub.ai/&#34;&gt;MindsHub - AI Agent Workspace&lt;/a&gt;&lt;/h3&gt;
+      <title>Notifuse - Self-Hosted Email Marketing</title>
+      <link>https://deuts.org/x/928-notifuse-self-hosted-email-marketing/</link>
+      <pubDate>Sat, 12 Sep 2026 02:24:54 +0800</pubDate>
+      <guid>https://deuts.org/x/928-notifuse-self-hosted-email-marketing/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-928&#34;&gt;&lt;a href=&#34;https://github.com/Notifuse/notifuse&#34;&gt;Notifuse - Self-Hosted Email Marketing&lt;/a&gt;&lt;/h3&gt;
 &lt;style&gt;
-.favicon-916 {
-    background: url(&#39;https://bm.deuts.org/static/https_mindshub_ai.png&#39;) no-repeat;
-    background-position: 0 4px;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
-&lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-916"><a href="https://mindshub.ai/">MindsHub - AI Agent Workspace</a></h3>
-<style>
-.favicon-916 {
-    background: url('https://bm.deuts.org/static/https_mindshub_ai.png') no-repeat;
-    background-position: 0 4px;
-}
-</style>
-
-<blockquote class="linkding-description">
-    Desktop workspace for delegating projects to AI models, connecting business data sources, creating shareable artifacts, and scheduling recurring agent tasks. Supports model routing and multiple agent harnesses.
-</blockquote>
-  
-]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenMessage - Local-First Messaging Workspace</title>
-      <link>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</link>
-      <pubDate>Thu, 13 Aug 2026 13:58:37 +0800</pubDate>
-      <guid>https://deuts.org/x/915-openmessage-local-first-messaging-workspace/</guid>
-      <description>&lt;h3 class=&#34;linkding-title favicon-915&#34;&gt;&lt;a href=&#34;https://github.com/maxghenis/openmessage&#34;&gt;OpenMessage - Local-First Messaging Workspace&lt;/a&gt;&lt;/h3&gt;
-&lt;style&gt;
-.favicon-915 {
+.favicon-928 {
     background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
     background-position: 0 4px;
 }
 &lt;/style&gt;
 
 &lt;blockquote class=&#34;linkding-description&#34;&gt;
-    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+    Open-source, self-hosted platform for newsletters, email marketing, and transactional email. It includes a visual MJML editor, Liquid templates, and support for multiple sending providers.
 &lt;/blockquote&gt;</description>
-      <content:encoded><![CDATA[<h3 class="linkding-title favicon-915"><a href="https://github.com/maxghenis/openmessage">OpenMessage - Local-First Messaging Workspace</a></h3>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-928"><a href="https://github.com/Notifuse/notifuse">Notifuse - Self-Hosted Email Marketing</a></h3>
 <style>
-.favicon-915 {
+.favicon-928 {
     background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
     background-position: 0 4px;
 }
 </style>
 
 <blockquote class="linkding-description">
-    Open-source, local-first inbox for Google Messages, WhatsApp, and Signal on macOS or a local web UI. Includes an MCP server so compatible agents can query and send messages through the local runtime.
+    Open-source, self-hosted platform for newsletters, email marketing, and transactional email. It includes a visual MJML editor, Liquid templates, and support for multiple sending providers.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Attic - Self-Hosted Home Inventory</title>
+      <link>https://deuts.org/x/927-attic-self-hosted-home-inventory/</link>
+      <pubDate>Sat, 12 Sep 2026 02:23:14 +0800</pubDate>
+      <guid>https://deuts.org/x/927-attic-self-hosted-home-inventory/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-927&#34;&gt;&lt;a href=&#34;https://github.com/lmmendes/attic&#34;&gt;Attic - Self-Hosted Home Inventory&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-927 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source home-inventory manager for tracking household belongings, categories, attributes, and asset history. It supports Docker deployment, local or OIDC authentication, and S3-compatible storage.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-927"><a href="https://github.com/lmmendes/attic">Attic - Self-Hosted Home Inventory</a></h3>
+<style>
+.favicon-927 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source home-inventory manager for tracking household belongings, categories, attributes, and asset history. It supports Docker deployment, local or OIDC authentication, and S3-compatible storage.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hermes Android - Client for the Hermes WebUI</title>
+      <link>https://deuts.org/x/926-hermes-android-client-for-the-hermes-webui/</link>
+      <pubDate>Sun, 06 Sep 2026 12:21:46 +0800</pubDate>
+      <guid>https://deuts.org/x/926-hermes-android-client-for-the-hermes-webui/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-926&#34;&gt;&lt;a href=&#34;https://github.com/hermes-webui/hermes-android&#34;&gt;Hermes Android - Client for the Hermes WebUI&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-926 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Official Android app for Hermes WebUI, letting you chat with Hermes from your phone or tablet. Features encrypted settings, a notification bridge, share-intent support, and updates via Play and GitHub releases.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-926"><a href="https://github.com/hermes-webui/hermes-android">Hermes Android - Client for the Hermes WebUI</a></h3>
+<style>
+.favicon-926 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Official Android app for Hermes WebUI, letting you chat with Hermes from your phone or tablet. Features encrypted settings, a notification bridge, share-intent support, and updates via Play and GitHub releases.
+</blockquote>
+  
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fottly - Self-hosted image transformation service</title>
+      <link>https://deuts.org/x/925-fottly-self-hosted-image-transformation-service/</link>
+      <pubDate>Sat, 05 Sep 2026 00:43:23 +0800</pubDate>
+      <guid>https://deuts.org/x/925-fottly-self-hosted-image-transformation-service/</guid>
+      <description>&lt;h3 class=&#34;linkding-title favicon-925&#34;&gt;&lt;a href=&#34;https://github.com/Noah-1919/Fottly&#34;&gt;Fottly - Self-hosted image transformation service&lt;/a&gt;&lt;/h3&gt;
+&lt;style&gt;
+.favicon-925 {
+    background: url(&#39;https://bm.deuts.org/static/https_github_com.png&#39;) no-repeat;
+    background-position: 0 4px;
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;linkding-description&#34;&gt;
+    Open-source, self-hosted alternative to Cloudinary for image transformation. Fastify + Sharp service offering resize, format conversion, cropping, watermarking and AI background removal (Rembg), with optional S3-compatible storage and caching.
+&lt;/blockquote&gt;</description>
+      <content:encoded><![CDATA[<h3 class="linkding-title favicon-925"><a href="https://github.com/Noah-1919/Fottly">Fottly - Self-hosted image transformation service</a></h3>
+<style>
+.favicon-925 {
+    background: url('https://bm.deuts.org/static/https_github_com.png') no-repeat;
+    background-position: 0 4px;
+}
+</style>
+
+<blockquote class="linkding-description">
+    Open-source, self-hosted alternative to Cloudinary for image transformation. Fastify + Sharp service offering resize, format conversion, cropping, watermarking and AI background removal (Rembg), with optional S3-compatible storage and caching.
 </blockquote>
   
 ]]></content:encoded>
