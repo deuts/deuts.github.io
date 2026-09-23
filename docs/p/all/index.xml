@@ -7,8 +7,135 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>2024 Deuts Log</copyright>
-    <lastBuildDate>Tue, 19 May 2026 13:06:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:49:07 +0800</lastBuildDate>
     <atom:link href="https://deuts.org/p/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Naming Is a Mess, So I Made a Cheat Sheet</title>
+      <link>https://deuts.org/p/ai-naming-cheat-sheet/</link>
+      <pubDate>Wed, 23 Sep 2026 09:49:07 +0800</pubDate>
+      <guid>https://deuts.org/p/ai-naming-cheat-sheet/</guid>
+      <description>A concise AI ecosystem cheat sheet comparing ChatGPT, Claude, Grok, Gemini, Z.ai, DeepSeek, Mistral, and OpenCode across subscriptions, agent harnesses, APIs, and cross-harness support.</description>
+      <content:encoded><![CDATA[<p>I use several AI providers and agent harnesses, and I keep running into a surprisingly basic problem: <strong>the naming is all over the place.</strong></p>
+<p>Is <em>Codex</em> a model or a harness? Is <em>SuperGrok</em> the app or the subscription? Is <em>Zen</em> OpenCode&rsquo;s API? Where does <em>ZCode</em> fit? And why does every company have a different name for essentially the same layer?</p>
+<p>So I made myself a cheat sheet.</p>
+<p>The mental model is simple:</p>
+<p><strong>App → Subscription → Harness → API Platform</strong></p>
+<p>I also included one increasingly important question: <strong>can the subscription be used from another harness such as OpenCode, Hermes, Pi, or OMP?</strong></p>
+<h2 id="ai-ecosystem-cheat-sheet--september-2026">AI Ecosystem Cheat Sheet — September 2026</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Provider</th>
+          <th>App / UI</th>
+          <th>Comparable paid plan</th>
+          <th>First-party harness</th>
+          <th>API platform</th>
+          <th>Other harnesses?</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>OpenAI</strong></td>
+          <td>ChatGPT</td>
+          <td><strong>Plus — $20/mo</strong></td>
+          <td>Codex / Work</td>
+          <td>OpenAI Platform</td>
+          <td><strong>Yes</strong> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>Anthropic</strong></td>
+          <td>Claude</td>
+          <td><strong>Pro — $20/mo</strong></td>
+          <td>Claude Code</td>
+          <td>Anthropic Console</td>
+          <td><strong>Limited</strong> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>xAI</strong></td>
+          <td>Grok</td>
+          <td><strong>SuperGrok — $30/mo</strong></td>
+          <td>Grok Build</td>
+          <td>xAI Console</td>
+          <td><strong>Yes</strong> <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>Google</strong></td>
+          <td>Gemini</td>
+          <td><strong>Google AI Pro — $19.99/mo</strong></td>
+          <td>Antigravity</td>
+          <td>AI Studio / Vertex AI</td>
+          <td><strong>No</strong> <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>Z.ai</strong></td>
+          <td>Z.ai / ZCode</td>
+          <td><strong>GLM Coding Lite — $18/mo</strong></td>
+          <td>ZCode Agent</td>
+          <td>Z.ai API</td>
+          <td><strong>Yes</strong> <sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>DeepSeek</strong></td>
+          <td>DeepSeek</td>
+          <td><strong>—</strong></td>
+          <td>DeepSeek Harness (DSH)</td>
+          <td>DeepSeek API</td>
+          <td><strong>API only</strong> <sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>Mistral</strong></td>
+          <td>Vibe</td>
+          <td><strong>Pro — $14.99/mo</strong></td>
+          <td>Vibe</td>
+          <td>Mistral Studio</td>
+          <td><strong>API credits</strong> <sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup></td>
+      </tr>
+      <tr>
+          <td><strong>OpenCode</strong></td>
+          <td>OpenCode</td>
+          <td><strong>Go — $10/mo</strong></td>
+          <td>OpenCode</td>
+          <td><strong>Zen</strong></td>
+          <td><strong>Yes</strong> <sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="why-i-needed-this">Why I Needed This</h2>
+<p>The underlying concepts aren&rsquo;t that complicated. The terminology is.</p>
+<p>One company&rsquo;s <strong>Console</strong> is another company&rsquo;s <strong>Studio</strong>. <em>Code</em> can mean a model, a CLI, or an agent. <em>Build</em> can mean a coding harness or an app-building mode. And a monthly AI subscription may be completely locked to the vendor&rsquo;s own app—or usable across several third-party harnesses.</p>
+<p>That last distinction matters to me because I increasingly use <strong>the harness independently of the model provider</strong>.</p>
+<p>So this is my current cheat sheet. Given the pace at which these companies rename and reorganize their products, I expect it will need updating again soon.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><strong>OpenAI:</strong> ChatGPT Plus/Pro can be used through supported third-party integrations such as OpenCode. This uses subscription authentication rather than ordinary OpenAI API credits; API billing remains separate.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><strong>Anthropic:</strong> Claude Pro includes Claude Code, but the included subscription allowance is generally limited to Anthropic&rsquo;s own products. Some supported third-party harnesses can authenticate with a Claude account and use separately purchased <strong>Usage Credits</strong>, which are billed on a consumption basis at standard API rates instead of being deducted from the Pro subscription allowance.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><strong>xAI:</strong> xAI supports using a SuperGrok subscription in supported third-party tools such as OpenCode through OAuth, without requiring separate xAI API billing for that usage.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><strong>Google:</strong> Google AI Pro consumer usage is primarily tied to Google&rsquo;s own tooling. Third-party harnesses generally use separately billed Gemini API or Vertex AI credentials.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p><strong>Z.ai:</strong> The GLM Coding Plan is explicitly designed to work with multiple agent tools and harnesses, including OpenCode and other compatible coding agents.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p><strong>DeepSeek:</strong> There is no comparable paid consumer subscription to reuse. Third-party harnesses normally connect through the separately billed DeepSeek API.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p><strong>Mistral:</strong> Vibe Pro includes API credits, making the plan indirectly portable to compatible third-party harnesses through the Mistral API.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8">
+<p><strong>OpenCode:</strong> OpenCode Go provides an API key that can be used with OpenCode or other compatible agents. Zen is OpenCode&rsquo;s separate PAYG model/API gateway.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
     <item>
       <title>Using Dex as an OIDC Provider for Pangolin</title>
       <link>https://deuts.org/p/dex-oidc-pangolin/</link>
@@ -741,157 +868,6 @@ This post was drafted with the help of AI, based on my own notes and verificatio
 <p>I wonder how businesses can take BAP seriously for these errors.</p>
 <hr>
 <p>These data issues show that BAP needs to improve validation and correct existing errors before publishing. Additionally, providing a proper, well-documented, and publicly available API endpoint is essential to enable reliable, automated access and support modern financial workflows. Addressing these will greatly enhance data accuracy and usability.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Comparing the Lightweight, Markdown, Selfhosted Wikis</title>
-      <link>https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/</link>
-      <pubDate>Thu, 15 May 2025 11:50:40 +0800</pubDate>
-      <guid>https://deuts.org/p/wiki-go-vs-wikidocs-vs-otterwiki/</guid>
-      <description>Side-by-side comparison of Wiki-Go, WikiDocs, and Otterwiki — three lightweight wiki engines using flat markdown files with no database required.</description>
-      <content:encoded><![CDATA[<p>When it comes to managing documentation efficiently, I&rsquo;ve found that self-hosted wikis offer the perfect balance of control and simplicity. After exploring numerous options, I&rsquo;ve developed clear criteria for what makes an ideal wiki solution for my needs:</p>
-<ul>
-<li><strong>Database-free architecture</strong>: Content stored as markdown files for simplicity and portability</li>
-<li><strong>Dynamic rendering</strong>: Pages rendered on-the-fly rather than pre-generated like static site generators like Hugo, Jekyll, or MkDocs</li>
-<li><strong>Wiki-first design</strong>: Purpose-built for documentation rather than adapted from note-taking apps</li>
-<li><strong>Containerized deployment</strong>: Easy installation via Docker compose</li>
-</ul>
-<p>These requirements have led me to focus on three promising solutions: Wiki-Go, WikiDocs, and Otterwiki. Each offers a different approach while meeting my core criteria.</p>
-<div class="callout info">
-  <div class="callout-content">
-    <strong>These are features important to me!</strong>
-    <p>
-The features listed in the table below are the ones I find important to me personally. Your requirements might differ, so take those into consideration.
-</p>
-  </div>
-</div>
-<p>Here&rsquo;s how they compare:</p>
-<table>
-  <thead>
-      <tr>
-          <th>Feature</th>
-          <th>Wiki-Go</th>
-          <th>WikiDocs</th>
-          <th>Otterwiki</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Programming Language</td>
-          <td>Go</td>
-          <td>PHP</td>
-          <td>Python</td>
-      </tr>
-      <tr>
-          <td>Advanced Table Editing</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Pretty URLs</td>
-          <td>✅</td>
-          <td>✅</td>
-          <td>❌ (uses <code>%20</code> for spaces)</td>
-      </tr>
-      <tr>
-          <td>Sidebar Page Ordering</td>
-          <td>Number prefixing</td>
-          <td>Number prefixing</td>
-          <td>Alphabetical by title</td>
-      </tr>
-      <tr>
-          <td>User Management</td>
-          <td>Admin, Editor, Viewer roles</td>
-          <td>Editor and Viewer passwords</td>
-          <td>Semi-advanced + email registration</td>
-      </tr>
-      <tr>
-          <td>Custom Sidebar Menu</td>
-          <td>❌ (internal docs only)</td>
-          <td>❌ (internal docs only)</td>
-          <td>✅ (including external links)</td>
-      </tr>
-      <tr>
-          <td>Sitemap Auto-generation</td>
-          <td>✅ (XML and HTML)</td>
-          <td>✅ (XML)</td>
-          <td>❌</td>
-      </tr>
-      <tr>
-          <td>Built-in Commenting</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>❌</td>
-      </tr>
-      <tr>
-          <td>Table of Contents</td>
-          <td>✅ (<code>[toc]</code> shortcode)</td>
-          <td>✅ (via shortcode)</td>
-          <td>✅ (automatic)</td>
-      </tr>
-      <tr>
-          <td>Move/Rename Documents in UI</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Callout/Admonition Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Ability to Remove Credits</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Paste from Clipboard as Attachment</td>
-          <td>✅</td>
-          <td>✅</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Wikilink Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Insert Link to Another Page in Editor</td>
-          <td>✅ (editor button)</td>
-          <td>❌</td>
-          <td>✅ (as Wikilink)</td>
-      </tr>
-      <tr>
-          <td>Git Web Server Support</td>
-          <td>❌</td>
-          <td>❌</td>
-          <td>✅</td>
-      </tr>
-      <tr>
-          <td>Login Rate Limiting</td>
-          <td>✅</td>
-          <td>❌</td>
-          <td>❌</td>
-      </tr>
-  </tbody>
-</table>
-<p><strong>Notes:</strong></p>
-<ul>
-<li>Wiki-Go and WikiDocs display the first H1 header of each document in the sidebar.</li>
-<li>Otterwiki&rsquo;s table editing includes buttons to add/format tables, add/remove rows and columns, and move rows up/down and columns left/right.</li>
-<li>For sidebar organization, Wiki-Go and WikiDocs require renaming pages with number prefixes, while Otterwiki uses alphabetical ordering (a custom menu can be managed manually).</li>
-<li>Otterwiki supports user self-registration and password recovery when email settings are configured.</li>
-<li>All three platforms automatically upload and embed images when pasting from clipboard.</li>
-</ul>
-<h2 id="final-thoughts">Final Thoughts</h2>
-<p>After comparing these three wiki platforms, I find that Wiki-Go best suits my documentation workflow. Its clean URL structure, straightforward user interface, and built-in commenting system provide everything I need without unnecessary complexity. The ability to move and rename documents directly in the UI is particularly useful for maintaining organized documentation.</p>
-<p>WikiDocs offers similar simplicity with the added benefit of automatic sitemap generation, while Otterwiki excels in advanced editing features and flexibility. Each platform has distinct advantages depending on your specific needs.</p>
-<p>The beauty of file-based wikis is that your content remains portable as Markdown files, allowing you to easily migrate between platforms as your requirements evolve.</p>
 ]]></content:encoded>
     </item>
   </channel>
