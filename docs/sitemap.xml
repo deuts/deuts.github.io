@@ -16,6 +16,54 @@
     <loc>https://deuts.org/i/contact/</loc>
     <lastmod>2024-11-10T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://deuts.org/k/ai/</loc>
+    <lastmod>2026-10-08T20:07:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/all/</loc>
+    <lastmod>2026-10-08T20:07:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/</loc>
+    <lastmod>2026-10-08T20:07:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/940-vibe-coded-adobe-app-clones-youtube/</loc>
+    <lastmod>2026-10-08T20:07:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/youtube/</loc>
+    <lastmod>2026-10-08T20:07:33+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/database/</loc>
+    <lastmod>2026-10-01T01:33:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/938-hindsight-agent-memory-framework/</loc>
+    <lastmod>2026-10-01T01:33:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/llm/</loc>
+    <lastmod>2026-10-01T01:33:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/python/</loc>
+    <lastmod>2026-10-01T01:33:32+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/937-dataimpulse-proxy-services/</loc>
+    <lastmod>2026-09-30T20:12:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/webscraper/</loc>
+    <lastmod>2026-09-30T20:12:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/936-glm-5-3-flash-fireworks-ai-model/</loc>
+    <lastmod>2026-09-29T22:12:50+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/2026-09-29-16-59-17-01m3p67jev4h97kpctkfc72tbk/</loc>
+    <lastmod>2026-09-29T16:59:17+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/x/935-deepseek-harness-plugin-collection/</loc>
+    <lastmod>2026-09-24T01:55:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/harness/</loc>
+    <lastmod>2026-09-24T01:55:25+08:00</lastmod>
+  </url><url>
+    <loc>https://deuts.org/k/plugins/</loc>
+    <lastmod>2026-09-24T01:55:25+08:00</lastmod>
+  </url><url>
     <loc>https://deuts.org/t/agent-harnesses/</loc>
     <lastmod>2026-09-23T09:49:07+08:00</lastmod>
   </url><url>
@@ -37,9 +85,6 @@
     <loc>https://deuts.org/t/deepseek/</loc>
     <lastmod>2026-09-23T09:49:07+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/</loc>
-    <lastmod>2026-09-23T09:49:07+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/t/gemini/</loc>
     <lastmod>2026-09-23T09:49:07+08:00</lastmod>
   </url><url>
@@ -57,9 +102,6 @@
   </url><url>
     <loc>https://deuts.org/t/z.ai/</loc>
     <lastmod>2026-09-23T09:49:07+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/x/all/</loc>
-    <lastmod>2026-09-19T00:03:08+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/budgeting/</loc>
     <lastmod>2026-09-19T00:03:08+08:00</lastmod>
@@ -178,13 +220,7 @@
     <loc>https://deuts.org/x/924-two-years-syncing-obsidian-with-git-setup-retrospective/</loc>
     <lastmod>2026-09-03T22:23:36+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/ai/</loc>
-    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/k/documentation/</loc>
-    <lastmod>2026-08-29T02:32:19+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/llm/</loc>
     <lastmod>2026-08-29T02:32:19+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/notetakingapp/</loc>
@@ -228,9 +264,6 @@
   </url><url>
     <loc>https://deuts.org/x/917-jumpkey-keyboard-driven-service-startpage/</loc>
     <lastmod>2026-08-14T23:50:29+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/harness/</loc>
-    <lastmod>2026-08-13T15:46:33+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/916-mindshub-ai-agent-workspace/</loc>
     <lastmod>2026-08-13T15:46:33+08:00</lastmod>
@@ -298,9 +331,6 @@
     <loc>https://deuts.org/x/910-forage-self-hosted-web-search-extraction-for-hermes/</loc>
     <lastmod>2026-08-07T08:04:58+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/webscraper/</loc>
-    <lastmod>2026-08-07T08:04:58+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/909-ai-agent-harnesses-performance-cost-speed-benchmark/</loc>
     <lastmod>2026-08-07T00:15:22+08:00</lastmod>
   </url><url>
@@ -314,9 +344,6 @@
     <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/k/videos/</loc>
-    <lastmod>2026-08-01T15:59:56+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/youtube/</loc>
     <lastmod>2026-08-01T15:59:56+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/905-yt-zero-self-hosted-youtube-subscription-inbox/</loc>
@@ -555,9 +582,6 @@
   </url><url>
     <loc>https://deuts.org/x/870-braindb/</loc>
     <lastmod>2026-06-15T14:52:20+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/database/</loc>
-    <lastmod>2026-06-13T15:45:57+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/869-pgweb/</loc>
     <lastmod>2026-06-13T15:45:57+08:00</lastmod>
@@ -979,9 +1003,6 @@
     <loc>https://deuts.org/x/811-power-query-vs-python-for-excel-automation-r-excel-discussion/</loc>
     <lastmod>2026-03-03T07:53:07+08:00</lastmod>
   </url><url>
-    <loc>https://deuts.org/k/python/</loc>
-    <lastmod>2026-03-03T07:53:07+08:00</lastmod>
-  </url><url>
     <loc>https://deuts.org/x/810-copyparty/</loc>
     <lastmod>2026-03-03T00:28:40+08:00</lastmod>
   </url><url>
@@ -1391,9 +1412,6 @@
     <lastmod>2025-12-27T01:33:42+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/730-obsidian-plugins-you-discovered-in-2025/</loc>
-    <lastmod>2025-12-24T14:31:36+08:00</lastmod>
-  </url><url>
-    <loc>https://deuts.org/k/plugins/</loc>
     <lastmod>2025-12-24T14:31:36+08:00</lastmod>
   </url><url>
     <loc>https://deuts.org/x/729-waha-whatsapp-http-api/</loc>
